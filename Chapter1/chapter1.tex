@@ -88,7 +88,57 @@ III-nitride materials in wurtzite structure are termed 'polar' materials, due to
 \end{figure}
 \FloatBarrier
 
+This non-zero dipole moment is particularly strong for III-nitrides relative to other III-V semiconductors due to the strong electronegativity and small size of nitrogen compared to other group V elements, resulting in a metal-nitrogen bond with greater ionicity than other III-V bonds \cite{wood2007polarization}. Fig.\ref{1.4} shows a GaN unit cell with lattice parameters {\textbf {\it c}} and \textbf{\it a} denoted.
 
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.5\textwidth]{Figs/Ch1/2unit.png}
+	\caption {GaN unit cell with lattice parameters \textbf{\it c} and \textbf{\it a} \cite{Miguel2014}}
+	\label{1.4}
+\end{figure}
+\FloatBarrier 
+
+If all nearest neighbour bond lengths are equal, an ideal hexagonal closed packed crystal exhibiting zero spontaneous polarisation would have a ratio of lattice parameters denoted by:
+
+\begin{equation}
+\frac{c}{a}= (\frac{8}{3})^{0.5} = 1.63299
+\end{equation} 
+
+The degree of spontaneous polarisation observed in III-nitride materials is thus determined by the amount their lattice parameter ratio deviates from this ideal value. The values for bulk III-nitride materials are given in Table.\ref{tab1.2}. 
+
+\begin{table}[!htb]
+	\centering
+	\label{tab1.1}
+	\begin{tabular}{cc}
+		\textbf{Alloy} &  $\mathbf{\frac{c}{a}}$ \\
+		%heading
+		\hline\hline\\
+		GaN   & 1.6259      \\
+		InN   & 1.6116     \\
+		AlN   & 1.6010   \\ 
+		\hline
+	\end{tabular}
+	\caption{Bulk $\frac{c}{a}$ ratios for GaN, InN and AlN \cite{Ren2015}.}
+	\label{tab1.2}
+\end{table}
+
+A lower $\mathbf{\frac{c}{a}}$ ratio indicates a higher angle between the three bonds at the base of the tetrahedral bonding structure, resulting in a lower compensation polarisation along the (0001) axis and a higher spontaneous polarisation. Thus according to Table.\ref{tab1.2} the strongest spontaneous polarisation is observed in AlN and the weakest in GaN.\\
+It is important to note that materials which exhibit spontaneous polarisation also exhibit piezoelectric polarisation \cite{Ambacher2002}. Strain experienced by the material results in the distortion in of the crystal lattice, which can either alleviate or exacerbate the deviation from the ideal tetrahedral structure resulting in an additional polarisation. This piezoelectric polarization is a crucial consideration in III-nitride devices which often consist of QW heterostructures: lattice mismatches with underlying layers result in the expansion or contraction of III-nitride films. Interestingly two different polarisation configurations are obtained for AlGaN and InGaN coherently strained to GaN. In the case of InGaN the piezoelectric field acts against the spontaneous field, whilst the opposite is true for AlGaN strained to GaN. Within the context of visible light LEDs, InGaN containing QWs are dominated by the piezoelectric contribution to the polarization fields \cite{Fiorentini1999} due to the sizeable lattice mismatch between GaN and InN ($~11\%$) \cite{Chichibu2006}.
+
+\subsubsection{The Quantum Confined Stark Effect}
+
+As previously discussed, III-nitride photonic devices often make use of heterostructures known as quantum wells, which enhance radiative efficiency by confining carrier wavefunctions over a range of several nanometres. Given the presence of built-in fields in III-nitride materials, it is important to consider the effect polarisation fields will have on the band structure and thus optical properties of quantum wells as shown in Fig.\ref{1.5}
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.5\textwidth]{Figs/Ch1/QCSE.png}
+	\caption {Unbiased and biased quantum well energy levels with associated carrier wavefunctions. Under an applied field the overlap between the electron and hole carrier wavefunctions is reduced \cite{Ryou2009}.}
+	\label{1.5}
+\end{figure}
+\FloatBarrier 
+
+The transition from a rectangular to a 'sawtooth'-shaped potential well results in the reduction in energy of the optical transition, meaning the photons emitted from the QW are red-shifted. However, as the carrier density within the QW is increased, by either optical or electrical injection, the polarization fields are effectively screened resulting in a carrier density-dependent optical transition energy.\\
+A further effect of the polarization fields is to spatially separate the carrier wave functions, thus reducing their overlap as shown in Fig.\ref{1.5}. This results in a reduced probability for the radiative recombination carriers thus reducing the efficiency of III-nitride QW emitters.
 \subsection{Defects in III-nitrides}  %Section - 1.4 
 \label{section1.1.4}
 
