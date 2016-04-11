@@ -1,17 +1,38 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{Humphreys2008}
-C.~J. Humphreys, ``{USE Solid-State Lighting},'' vol.~33, no.~April,
-  pp.~459--471, 2008.
+C.~J. Humphreys, ``{USE Solid-State Lighting},'' {\em MRS Bulletin}, vol.~33,
+  no.~April, pp.~459--471, 2008.
 
 \bibitem{Nakamura1991}
 S.~Nakamura, T.~Mukai, and M.~Senoh, ``{High-Power GaN P-N Junction
   Blue-Light-Emitting Diodes},'' {\em Japanese Journal of Applied Physics},
   vol.~30, no.~12A, pp.~1998--2001, 1991.
 
+\bibitem{Najda2015}
+S.~Najda, P.~Perlin, L.~Marona, M.~Leszczy, R.~Czernecki, S.~Watson, A.~E.
+  Kelly, A.~Malcolm, P.~Blanchard, and H.~White, ``{Novel laser diode
+  technology for free-space communications},'' {\em SPIE}, pp.~10--12, 2015.
+
+\bibitem{BerlienBreuerMuellerEtAl2012}
+H.~Berlien, H.~Breuer, G.~M{\"u}ller, N.~Krasner, T.~Okunata, and D.~Sliney,
+  {\em Applied Laser Medicine}.
+\newblock Springer Berlin Heidelberg, 2012.
+
+\bibitem{Kako2006}
+S.~Kako, C.~Santori, K.~Hoshino, S.~G{\"{o}}tzinger, Y.~Yamamoto, and
+  Y.~Arakawa, ``{A gallium nitride single-photon source operating at 200 K.},''
+  {\em Nature materials}, vol.~5, pp.~887--92, nov 2006.
+
 \bibitem{Bennett2010b}
 S.~E. Bennett, ``{Dislocations and their reduction in GaN},'' {\em Materials
   Science and Technology}, vol.~26, no.~9, pp.~1017--1028, 2010.
+
+\bibitem{Yu1999}
+E.~T. Yu, X.~Z. Dang, P.~M. Asbeck, S.~S. Lau, and G.~J. Sullivan,
+  ``{Spontaneous and piezoelectric polarization effects in III–V nitride
+  heterostructures},'' {\em Journal of Vacuum Science {\&} Technology B:
+  Microelectronics and Nanometer Structures}, vol.~17, p.~1742, 1999.
 
 \bibitem{Vurgaftman2003}
 I.~Vurgaftman and J.~R. Meyer, ``{Band parameters for nitrogen-containing
@@ -37,6 +58,37 @@ C.~X. Ren, ``{Polarisation fields in III-nitrides: effects and control},'' {\em
 M.~Sumiya and S.~Fuke, ``{Review of polarity determination and control of
   GaN},'' {\em MRS Internet Journal of Nitride Semiconductor Research}, vol.~9,
   no.~1, pp.~1--32, 2004.
+
+\bibitem{wood2007polarization}
+C.~Wood and D.~Jena, {\em {Polarization Effects in Semiconductors: From Ab
+  Initio Theory to Device Applications}}.
+\newblock Springer, 2007.
+
+\bibitem{Miguel2014}
+J.~E.~R. Miguel, C.~J. Gladys, and O.~L. C{\'{e}}sar, ``{Computational
+  calculation of the electronic and magnetic properties of 1x1-MN / GaN ( M = V
+  , Cr and Mn ) multilayers},'' {\em International Journal of Physical
+  Sciences}, vol.~9, no.~24, pp.~538--544, 2014.
+
+\bibitem{Fiorentini1999}
+V.~Fiorentini, F.~Bernardini, F.~D. Sala, A.~D. Carlo, P.~Lugli, and
+  T.~Vergata, ``{Effects of macroscopic polarization in III-V nitride multiple
+  quantum wells},'' {\em Physical Review B}, vol.~60, no.~12, pp.~8849--8858,
+  1999.
+
+\bibitem{Chichibu2006}
+S.~F. Chichibu, A.~Uedono, T.~Onuma, B.~a. Haskell, A.~Chakraborty, T.~Koyama,
+  P.~T. Fini, S.~Keller, S.~P. Denbaars, J.~S. Speck, U.~K. Mishra,
+  S.~Nakamura, S.~Yamaguchi, S.~Kamiyama, H.~Amano, I.~Akasaki, J.~Han, and
+  T.~Sota, ``{Origin of defect-insensitive emission probability in
+  In-containing (Al,In,Ga)N alloy semiconductors.},'' {\em Nature materials},
+  vol.~5, pp.~810--6, oct 2006.
+
+\bibitem{Ryou2009}
+J.~H. Ryou, P.~D. Yoder, J.~Liu, Z.~Lochner, H.~S. Kim, S.~Choi, H.~J. Kim, and
+  R.~D. Dupuis, ``{Control of quantum-confined stark effect in InGaN-based
+  quantum wells},'' {\em IEEE Journal on Selected Topics in Quantum
+  Electronics}, vol.~15, no.~4, pp.~1080--1091, 2009.
 
 \bibitem{Albrecht2008}
 M.~Albrecht, J.~L. Weyher, B.~Lucznik, I.~Grzegory, and S.~Porowski,
