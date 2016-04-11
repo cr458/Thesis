@@ -1,0 +1,29 @@
+\thispagestyle {empty}
+\contentsline {chapter}{List of figures}{xiii}{chapter*.5}
+\contentsline {chapter}{List of tables}{xv}{chapter*.6}
+\contentsline {chapter}{Nomenclature}{xvii}{chapter*.7}
+\contentsline {chapter}{Nomenclature}{xix}{chapter*.8}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}III-Nitride Material Properties }{2}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Crystal Structure}{2}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Band Structure}{4}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Built-in Fields}{4}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}Defects in III-nitrides}{4}{subsection.1.1.4}
+\contentsline {section}{\numberline {1.2}III-nitride Cavities }{4}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Cavity characteristics}{4}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Cavity Designs}{4}{subsection.1.2.2}
+\contentsline {chapter}{\numberline {2}Experimental Methods}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Atomic Force Microscopy}{6}{section.2.1}
+\contentsline {section}{\numberline {2.2}Hyperspectral Electroluminescence Mapping}{6}{section.2.2}
+\contentsline {section}{\numberline {2.3}Scanning Electron Microscopy and Cathodoluminescence}{6}{section.2.3}
+\contentsline {section}{\numberline {2.4}Photoluminescence}{6}{section.2.4}
+\contentsline {section}{\numberline {2.5}Dual Beam Scanning Electron microscopy with a Focussed Ion Beam}{6}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Fabrication}{6}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Tomography}{6}{subsection.2.5.2}
+\contentsline {section}{\numberline {2.6}Transmisson Electron Microscopy}{6}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Tomography}{6}{subsection.2.6.1}
+\contentsline {chapter}{\numberline {3}Inhomogeneous Electroluminescence in InGaN QW LEDs}{11}{chapter.3}
+\contentsline {section}{\numberline {3.1}Short title}{11}{section.3.1}
+\contentsline {chapter}{References}{17}{chapter*.19}
+\contentsline {chapter}{Appendix \numberline {A}How to install \LaTeX }{19}{Appendix.a.A}
+\contentsline {chapter}{Appendix \numberline {B}Installing the CUED class file}{23}{Appendix.a.B}
