@@ -1426,6 +1426,21 @@
   url =             {http://scitation.aip.org/content/aip/journal/apl/92/14/10.1063/1.2908034}
 }
 
+@Article{Lyons2010,
+  author =          {Lyons, J. L. and Janotti, A. and {Van De Walle}, C. G.},
+  title =           {{Carbon impurities and the yellow luminescence in GaN}},
+  journal =         {Applied Physics Letters},
+  year =            {2010},
+  volume =          {97},
+  number =          {15},
+  pages =           {10--13},
+  abstract =        {Using hybrid functional calculations we investigate the effects of carbon on the electrical and optical properties of GaN. In contrast to the currently accepted view that C substituting for N is a shallow acceptor, we find that has an ionization energy of 0.90 eV. Our calculated absorption and emission lines also indicate that is a likely source for the yellow luminescence that is frequently observed in GaN, solving the longstanding puzzle of the nature of the C-related defect involved in yellow emission. Our results suggest that previous experimental data, analyzed under the assumption that acts as a shallow acceptor, should be re-examined.},
+  doi =             {10.1063/1.3492841},
+  file =            {:C$\backslash$:/Users/cr458/Documents/GitHub/Thesis/Ch1Refs/1.3492841.pdf:pdf},
+  issn =            {00036951},
+  mendeley-groups = {thesis}
+}
+
 @Article{M.E.VickersM.J.KappersT.M.SmeetonE.J.ThrushJ.S.BarnardandC.J.Humphreys2003,
   author =          {{M. E. Vickers, M. J. Kappers, T. M. Smeeton, E. J. Thrush, J. S. Barnard, and C. J. Humphreys}, J.},
   title =           {{No Titl}},
@@ -1546,6 +1561,22 @@
   url =             {http://scitation.aip.org/content/aip/journal/apl/60/3/10.1063/1.106688}
 }
 
+@Article{McCluskey2003,
+  author =          {McCluskey, M. D. and {Van de Walle}, C. G. and Romano, L. T. and Krusor, B. S. and Johnson, N. M.},
+  title =           {{Effect of composition on the band gap of strained InxGa1-xN alloys}},
+  journal =         {Journal of Applied Physics},
+  year =            {2003},
+  volume =          {93},
+  number =          {7},
+  pages =           {4340--4342},
+  abstract =        {The band gap of pseudomorphically strained InxGa1-xN alloys has been measured using optical absorption spectroscopy. X-ray diffraction measurements indicated that the in-plane lattice parameter of the InxGa1-xN film equaled that of the underlying GaN layer. For strained InxGa1-xN, it was determined that the band gap shift versus composition is given by dE(g)/dx=-4.1 eV for x{\textless}0.12. Our results contradict some recent reports that InxGa1-xN has a relatively small bowing parameter. Possible reasons for the discrepancies are discussed. (C) 2003 American Institute of Physics.},
+  doi =             {10.1063/1.1560563},
+  file =            {:C$\backslash$:/Users/cr458/Documents/GitHub/Thesis/Ch1Refs/1.1560563.pdf:pdf},
+  isbn =            {0021-8979},
+  issn =            {00218979},
+  mendeley-groups = {thesis}
+}
+
 @Article{McKinzie,
   author =          {McKinzie},
   title =           {{Lighting the way: Perspectives on the global lighting market}},
@@ -1571,6 +1602,21 @@
   issn =            {0146-9592},
   mendeley-groups = {JAP special topic,thesis},
   pmid =            {21685967}
+}
+
+@Article{Miceli2015,
+  author =          {Miceli, Giacomo and Pasquarello, Alfredo},
+  title =           {{Energetics of native point defects in GaN: A density-functional study}},
+  journal =         {Microelectronic Engineering},
+  year =            {2015},
+  volume =          {147},
+  pages =           {51--54},
+  doi =             {10.1016/j.mee.2015.04.015},
+  file =            {:C$\backslash$:/Users/cr458/Documents/GitHub/Thesis/Ch1Refs/1-s2.0-S016793171500221X-main.pdf:pdf},
+  issn =            {01679317},
+  mendeley-groups = {thesis},
+  publisher =       {Elsevier B.V.},
+  url =             {http://linkinghub.elsevier.com/retrieve/pii/S016793171500221X}
 }
 
 @Article{Midgley2009,
@@ -2144,6 +2190,21 @@
   url =             {http://www.maneyonline.com/doi/10.1179/1743284715Y.0000000103}
 }
 
+@Article{Reshchikov2005,
+  author =          {Reshchikov, Michael A. and Morko, Hadis},
+  title =           {{Luminescence properties of defects in GaN}},
+  journal =         {Journal of Applied Physics},
+  year =            {2005},
+  volume =          {97},
+  number =          {6},
+  abstract =        {Gallium nitride (GaN) and its allied binaries InN and AIN as well as their ternary compounds have gained an unprecedented attention due to their wide-ranging applications encompassing green, blue, violet, and ultraviolet (UV) emitters and detectors (in photon ranges inaccessible by other semiconductors) and high-power amplifiers. However, even the best of the three binaries, GaN, contains many structural and point defects caused to a large extent by lattice and stacking mismatch with substrates. These defects notably affect the electrical and optical properties of the host material and can seriously degrade the performance and reliability of devices made based on these nitride semiconductors. Even though GaN broke the long-standing paradigm that high density of dislocations precludes acceptable device performance, point defects have taken the center stage as they exacerbate efforts to increase the efficiency of emitters, increase laser operation lifetime, and lead to anomalies in electronic devices. The point defects include native isolated defects (vacancies, interstitial, and antisites), intentional or unintentional impurities, as well as complexes involving different combinations of the isolated defects. Further improvements in device performance and longevity hinge on an in-depth understanding of point defects and their reduction. In this review a comprehensive and critical analysis of point defects in GaN, particularly their manifestation in luminescence, is presented. In addition to a comprehensive analysis of native point defects, the signatures of intentionally and unintentionally introduced impurities are addressed. The review discusses in detail the characteristics and the origin of the major luminescence bands including the ultraviolet, blue, green, yellow, and red bands in undoped GaN. The effects of important group-II impurities, such as Zn and Mg on the photoluminescence of GaN, are treated in detail. Similarly, but to a lesser extent, the effects of other impurities, such as C, Si, H, O, Be, Mn, Cd, etc., on the luminescence properties of GaN are also reviewed. Further, atypical luminescence lines which are tentatively attributed to the surface and structural defects are discussed. The effect of surfaces and surface preparation, particularly wet and dry etching, exposure to UV light in vacuum or controlled gas ambient, annealing, and ion implantation on the characteristics of the defect-related emissions is described. (C) 2005 American Institute of Physics.},
+  doi =             {10.1063/1.1868059},
+  file =            {:C$\backslash$:/Users/cr458/Documents/GitHub/Thesis/Ch1Refs/1.1868059.pdf:pdf},
+  isbn =            {0021-8979},
+  issn =            {00218979},
+  mendeley-groups = {thesis}
+}
+
 @Article{Rhode2013,
   author =          {Rhode, S. K. and Horton, M. K. and Kappers, M. J. and Zhang, S. and Humphreys, C. J. and Dusane, R. O. and Sahonta, S. L. and Moram, M. a.},
   title =           {{Mg doping affects dislocation core structures in GaN}},
@@ -2327,6 +2388,22 @@
   issn =            {0028-0836},
   mendeley-groups = {JAP special topic/Cavities,thesis},
   url =             {http://www.nature.com/doifinder/10.1038/nature12036}
+}
+
+@Article{Scholz2012,
+  author =          {Scholz, F},
+  title =           {{Semipolar GaN grown on foreign substrates: a review}},
+  journal =         {Semiconductor Science and Technology},
+  year =            {2012},
+  volume =          {27},
+  number =          {2},
+  pages =           {024002},
+  month =           {feb},
+  doi =             {10.1088/0268-1242/27/2/024002},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Scholz - 2012 - Semipolar GaN grown on foreign substrates a review.pdf:pdf},
+  issn =            {0268-1242},
+  mendeley-groups = {IOM3 Lit Review/Non-polar,GaN,IOM3 Lit Review/LED,GaN/CPGS/Challenges,GaN/AFM Lit Review,thesis},
+  url =             {http://stacks.iop.org/0268-1242/27/i=2/a=024002?key=crossref.78eeb9aae8392f2e8fdbf7a6bb66c634}
 }
 
 @Article{Schomig2004,
@@ -2985,22 +3062,6 @@
   mendeley-groups = {thesis}
 }
 
-@Article{Vurgaftman2003,
-  author =          {Vurgaftman, I. and Meyer, J. R.},
-  title =           {{Band parameters for nitrogen-containing semiconductors}},
-  journal =         {Journal of Applied Physics},
-  year =            {2003},
-  volume =          {94},
-  number =          {6},
-  pages =           {3675--3696},
-  abstract =        {We present a comprehensive and up-to-date compilation of band parameters for all of the nitrogen-containing III–V semiconductors that have been investigated to date. The two main classes are: (1) “conventional” nitrides (wurtzite and zinc-blende GaN, InN, and AlN, along with their alloys) and (2) “dilute” nitrides (zinc-blende ternaries and quaternaries in which a relatively small fraction of N is added to a host III–V material, e.g., GaAsN and GaInAsN). As in our more general review of III–V semiconductor band parameters [I. Vurgaftman et al., J. Appl. Phys. 89, 5815 (2001)], complete and consistent parameter sets are recommended on the basis of a thorough and critical review of the existing literature. We tabulate the direct and indirect energy gaps, spin-orbit and crystal-field splittings, alloy bowing parameters, electron and hole effective masses, deformation potentials, elastic constants, piezoelectric and spontaneous polarization coefficients, as well as heterostructure band offsets. Temperature and alloy-composition dependences are also recommended wherever they are available. The “band anticrossing” model is employed to parameterize the fundamental band gap and conduction band properties of the dilute nitride materials.},
-  doi =             {10.1063/1.1600519},
-  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Vurgaftman, Meyer - 2003 - Band parameters for nitrogen-containing semiconductors.pdf:pdf},
-  isbn =            {00218979},
-  issn =            {00218979},
-  mendeley-groups = {thesis}
-}
-
 @Article{Wallace2014,
   author =          {Wallace, M. J. and Edwards, P. R. and Kappers, M. J. and Hopkins, M. a. and Oehler, F. and Sivaraya, S. and Allsopp, D. W E and Oliver, R. a. and Humphreys, C. J. and Martin, R. W.},
   title =           {{Bias dependence and correlation of the cathodoluminescence and electron beam induced current from an InGaN/GaN light emitting diode}},
@@ -3202,6 +3263,22 @@
   mendeley-groups = {thesis}
 }
 
+@Article{Wu2002,
+  author =          {Wu, J. and Walukiewicz, W. and Yu, K. M. and Ager, J. W. and Haller, E. E. and Lu, Hai and Schaff, William J.},
+  title =           {{Small band gap bowing in In1-xGaxN alloys}},
+  journal =         {Applied Physics Letters},
+  year =            {2002},
+  volume =          {80},
+  number =          {25},
+  pages =           {4741--4743},
+  abstract =        {High-quality wurtzite-structured In-rich In1-xGaxN films (0less than or equal toxless than or equal to0.5) have been grown on sapphire substrates by molecular beam epitaxy. Their optical properties were characterized by optical absorption and photoluminescence spectroscopy. The investigation reveals that the narrow fundamental band gap for InN is near 0.8 eV and that the band gap increases with increasing Ga content. Combined with previously reported results on the Ga-rich side, the band gap versus composition plot for In1-xGaxN alloys is well fit with a bowing parameter of similar to1.4 eV. The direct band gap of the In1-xGaxN system covers a very broad spectral region ranging from near-infrared to near-ultraviolet. (C) 2002 American Institute of Physics.},
+  doi =             {10.1063/1.1489481},
+  file =            {:C$\backslash$:/Users/cr458/Documents/GitHub/Thesis/Ch1Refs/1.1489481.pdf:pdf},
+  isbn =            {0003-6951},
+  issn =            {00036951},
+  mendeley-groups = {thesis}
+}
+
 @Article{Wu2014,
   author =          {Wu, Xiaoming and Liu, Junlin and Quan, Zhijue and Xiong, Chuanbing and Zheng, Changda and Zhang, Jianli and Mao, Qinghua and Jiang, Fengyi},
   title =           {{Electroluminescence from the sidewall quantum wells in the V-shaped pits of InGaN light emitting diodes}},
@@ -3264,6 +3341,21 @@
   issn =            {07496036},
   keywords =        {Bowing parameter,Emission mechanisms,Growth kinetics,InGaN,Physical properties},
   mendeley-groups = {DRIP Paper,thesis}
+}
+
+@Article{Yan2012,
+  author =          {Yan, Qimin and Janotti, Anderson and Scheffler, Matthias and {Van De Walle}, Chris G.},
+  title =           {{Role of nitrogen vacancies in the luminescence of Mg-doped GaN}},
+  journal =         {Applied Physics Letters},
+  year =            {2012},
+  volume =          {100},
+  number =          {14},
+  pages =           {12--16},
+  abstract =        {Defects may cause compensation or act as recombination centers in Mg-doped GaN. Using hybrid functional calculations, we investigate the effects of nitrogen vacancies (V N) and Mg-vacancy complexes (MgGa-V N) on the electrical and optical properties of GaN. We find that MgGa-V N are compensating centers in p-type but electrically inactive in n-type GaN. They give rise to a broad emission at 1.8 eV, explaining the red luminescence that is frequently observed in Mg-doped GaN, regardless of the Fermi level. Nitrogen vacancies are also compensating centers in p-type GaN and likely contribute to the yellow luminescence that has been observed in Mg-doped GaN.},
+  doi =             {10.1063/1.3699009},
+  file =            {:C$\backslash$:/Users/cr458/Documents/GitHub/Thesis/Ch1Refs/1.3699009.pdf:pdf},
+  issn =            {00036951},
+  mendeley-groups = {thesis}
 }
 
 @Article{Youtsey1997,
