@@ -45,7 +45,7 @@ Other members of the III-nitride materials such as indium nitride \nomenclature[
 
 \begin{table}[!htb]
 	\centering
-	\label{tab1.1}
+	
 	\begin{tabular}{ccc}
 		Alloy & \textbf{a} (\si{\angstrom}) at T = 300K & \textbf{c} (\si{\angstrom}) at T = 300K \\
 		%heading
@@ -56,6 +56,7 @@ Other members of the III-nitride materials such as indium nitride \nomenclature[
 		\hline
 	\end{tabular}
 	\caption{Room temperature lattice parameters for GaN, InN and AlN \cite{Vurgaftman2003}.}
+	\label{tab1.1}
 \end{table}
 
 III-nitride photonic devices are often heterostructures consisting of ternary alloys the materials shown in Table~\ref{tab1.1}. Lattice parameters of a relaxed ternary alloy $A_{x}B_{1-x}N$ can be estimated using Vegard's law \cite{Vickers2003}:
@@ -73,7 +74,70 @@ Typical indium compositions for blue LEDs range between 15-20 $\%$, which leads 
 \subsection{Band Structure} 
 \label{section1.1.2}
 
-One of the principal driving factors behind the interest in III-nitrides for photonic devices is their direct bandgap which collectively spans the visible spectrum and beyond.
+One of the principal driving factors behind the interest in III-nitrides for photonic devices is their direct bandgap which collectively spans the visible spectrum and beyond. The bandgap of III-nitride binary alloys is given below in Table.\ref{tab1.2}.
+
+\begin{table}[!htb]
+	\centering
+	\begin{tabular}{cc}
+		Alloy & Bandgap (eV) \\
+		%heading
+		\hline\hline
+		GaN   & 3.51 \\
+		InN   & 0.78 \\
+		AlN   & 6.25  \\ 
+		\hline
+	\end{tabular}
+	\caption{Direct bandgaps of GaN, InN and AlN \cite{Vurgaftman2003}.}
+	\label{tab1.2}
+\end{table}
+
+Ternary alloying modifies the bandgap as shown in Fig.\ref{bgap}. In theory the entire range of 0.78-6.25 eV is accessible through alloying, though material limitations reduce the full effective range for III-nitride devices \cite{Scholz2012}.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.7\textwidth]{Figs/Ch1/III-N-Ternaries-update.jpg}
+	\caption {Bandgap at room temperature for III-nitride materials with the visible spectrum shown on the left. Courtesy of K. Montgomery.}
+	\label{bgap}
+\end{figure}
+\FloatBarrier
+
+The bandgap of a ternary alloy $A_{x}B_{1-x}N$ is given by a modified Vegard's Law:
+
+\begin{equation}
+E_{g} = x E_{g}^{AN} + (1-x)E_{g}^{BN}-x(1-x)C
+\end{equation}
+
+Where C is a bowing parameter which accounts for deviation from a linear relation between ternary alloy composition and bandgap energy. The value of the InGaN bowing parameter has been widely debated in the literature due to the lack of a reliable value for the bandgap energy for InN \cite{Vurgaftman2003}. Although the current value of 1.4 eV is reported, there are also suggestions the bowing parameter may be composition dependent \cite{Wu2002,McCluskey2003,Moses2010}.\\
+In considering the optical properties of III-nitride materials it is also important to consider the effects of impurities and defects. Crystal disorder introduces further energy states which would be 'forbidden' in an ideal crystal lattice leading to an effective 'smearing' of the bandgap. Sub-bandgap absorption can occur due to the introduction of these defective states. The smearing out of the absorption edge of the material is known as the 'Urbach tail', and can be a highly deleterious source of loss in III-nitride cavity structures \cite{Puchtler2015}. 
+
+\subsubsection{Quantum Confinement Effects}
+
+The first prototype high-brightness blue III-nitride LED consisted of a GaN {\it p-n} junction, or a 'homojunction' \cite{Nakamura1991}, however modern LED structures consist of heterostructures known as quantum wells. QWs consist of a thin layer of low bandgap material between two quantum barriers with a higher bandgap. Carriers in the low bandgap material are effectively confined in one direction, hence the term 'quantum well'. This confinement leads to the discretisation of the carrier wavefunctions within the well, as shown schematically in Fig.\ref{QW}.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.5\textwidth, trim = 4 4 4 4 , clip]{Figs/Ch1/BandstructureQW.png}
+	\caption {Band diagram of a quantum well. The bandgap of the well material is denoted $E_{g}$, the energy of the ground state transition is denoted $E_{1}$ and the conduction and valence bands are denoted $E_{c},E_{v}$ respectively \cite{Ren2015}.}
+	\label{QW}
+\end{figure}
+\FloatBarrier
+
+Thus the energy of the transition in the QW is given by the following relation:
+
+\begin{equation}
+h\nu = E_{1}-E_{ex}
+\end{equation}
+
+where $E_{1}$ is the energy of the ground state transition and $E_{ex}$ is the exciton binding energy. For an infinite potential well of thickness L, the ground state $E_{1}$ is given by:
+
+\begin{equation}
+E_{1}=\frac{\hbar^{2}\pi_{2}}{2m^{*}L^{2}}
+\end{equation}
+
+where $\hbar$ is the reduced Plank constant, $m^{*}$ is the carrier effective mass. As such, the energy of the optical transition can be related to the thickness of the well.
+
+
+
 
 
 \subsection{Built-in Fields} 
@@ -104,7 +168,7 @@ If all nearest neighbour bond lengths are equal, an ideal hexagonal closed packe
 \frac{c}{a}= (\frac{8}{3})^{0.5} = 1.63299
 \end{equation} 
 
-The degree of spontaneous polarisation observed in III-nitride materials is thus determined by the amount their lattice parameter ratio deviates from this ideal value. The values for bulk III-nitride materials are given in Table.\ref{tab1.2}. 
+The degree of spontaneous polarisation observed in III-nitride materials is thus determined by the amount their lattice parameter ratio deviates from this ideal value. The values for bulk III-nitride materials are given in Table.\ref{tab1.3}. 
 
 \begin{table}[!htb]
 	\centering
@@ -119,7 +183,7 @@ The degree of spontaneous polarisation observed in III-nitride materials is thus
 		\hline
 	\end{tabular}
 	\caption{Bulk $\frac{c}{a}$ ratios for GaN, InN and AlN \cite{Ren2015}.}
-	\label{tab1.2}
+	\label{tab1.3}
 \end{table}
 
 A lower $\mathbf{\frac{c}{a}}$ ratio indicates a higher angle between the three bonds at the base of the tetrahedral bonding structure, resulting in a lower compensation polarisation along the (0001) axis and a higher spontaneous polarisation. Thus according to Table.\ref{tab1.2} the strongest spontaneous polarisation is observed in AlN and the weakest in GaN.\\
@@ -141,11 +205,167 @@ The transition from a rectangular to a 'sawtooth'-shaped potential well results 
 A further effect of the polarization fields is to spatially separate the carrier wave functions, thus reducing their overlap as shown in Fig.\ref{1.5}. This results in a reduced probability for the radiative recombination carriers thus reducing the efficiency of III-nitride QW emitters.
 \subsection{Defects in III-nitrides}  %Section - 1.4 
 \label{section1.1.4}
+Many issues with III-nitride based optoelectronic devices arise from the high defect densities present. Dislocation densities tend to be several orders of magnitude higher for nitride devices relative to other III-V materials due to the lack of a low cost, widely-available lattice matched substrate \cite{Bennett2010b}. Lattice mismatch and alloy-dependent growth temperatures results in the presence of imperfections in the crystal structure of the epitaxial film known as defects. These defects can result in perturbations to the electrical and optical properties of an 'ideal' crystal, and are often classified based on their spatial dimensions. 0-D defects are often referred to as point defects, 1-D defects are commonly termed linear defects or dislocations, 2-D defects are known as planar defects or stacking faults, and there are a variety of 3-D defects known as volume defects.
 
+\subsubsection{0-D Defects}
+Point defects exist in four main forms, shown in Fig.\ref{1.6}. Vacancies, where an atom is missing from the lattice, and self-interstitial point defects are termed 'native defects': there is no inclusion of foreign atoms. These two types of intrinsic point defects are shown in Fig.\ref{1.6} a) and b) respectively.\\ 
+In the case of GaN, three types of vacancies can exist: gallium vacancies, nitrogen vacancies and divacancies. The gallium vacancy ($V_{Ga}$) which has a low formation energy in {\it n}-type GaN and is acceptor-like, this vacancy has a low migration barrier. Due to this low migration energy, it is expected that gallium vacancies form complexes with more stable defects. Gallium vacancies and associated complexes are thought to be the cause of yellow luminescence observed in {\it n}-type GaN. Nitrogen vacancies initially attracted a large amount of interest due to the common belief that their energy levels were close to or within the conduction band. Due to this, the {\it n}-type conductivity of undoped GaN was attributed to nitrogen vacancies.  However, calculations have shown the thermal equilibrium of nitrogen vacancies to be too low to account for the observed conductivity. Nitrogen vacancies are also expected to have relatively low migration barriers, indicating complexes involving more stable defects may occur during high-temperature growth or annealing, especially in {\it p}-type GaN \cite{Reshchikov2005}. Divacancies have high formation energy in GaN and are not expected to form in large concentrations \cite{Reshchikov2005}.
+\\The inclusion of foreign atoms can result in a foreign interstitial point defect, or a substitional impurity, both are shown in Fig.\ref{1.6} c) and d) respectively. The formation of self-interstitial or antisite (swapping of Ga and N lattice positions in the lattice) have a low occurence due to the small lattice constant of GaN and large size mismatch between Ga and N atoms \cite{Reshchikov2005}.
+\begin{figure}[t!]
+	\centering
+	\begin{subfigure}[t]{0.3\textwidth}
+		\centering
+		\includegraphics[height=1.2in]{Figs/Ch1/vacancy.png}
+		\caption{Vacancy}
+		\vspace*{1cm}
+	\end{subfigure}%
+	~ 
+	\begin{subfigure}[t]{0.3\textwidth}
+		\centering
+		\includegraphics[height=1.2in]{Figs/Ch1/self-inter.png}
+		\caption{Self-Interstitial}
+	\end{subfigure}
+	
+	\begin{subfigure}[b]{0.3\textwidth}
+		\centering
+		\includegraphics[height=1.2in]{Figs/Ch1/sub-impure.png}
+		\caption{Substitutional Impurity}
+	\end{subfigure}%
+	~ 
+	\begin{subfigure}[b]{0.3\textwidth}
+		\centering
+		\includegraphics[height=1.2in]{Figs/Ch1/foreign.png}
+		\caption{Foreign Interstitial}
+	\end{subfigure}
+	\caption{Point Defects:vacancy, self-interdtitial, substitutional impurity and foreign interstitial.}
+	\label{1.6}
+\end{figure}
+\FloatBarrier
+ Point defects are responsible for a plethora of deleterious effects at the device level in III-nitrides: they can reduce radiative efficiency, produce undesired luminescence act and as parasitic current paths \cite{Reshchikov2005}.
+\subsubsection{1-D Defects}
+Dislocations in GaN epilayers are categorised in two main forms: misfit dislocations (MDs) and threading dislocations (TDs). The origins of misfit dislocations are quite well understood: they occur through the release of misfit strain at interfaces between two crystals of differing lattice constants. The process is shown in Fig.\ref{1.7}: a film with a lattice parameter greater than the substrate is grown as is typical for III-nitride epilayers (GaN on sapphire or InGaN on GaN) and as a result the grown layer experiences compressive stress and forms pseudomorphic layer. The top layer is strained and matched to the lower layer due to its smaller lattice parameter. Strain relaxation occurs as the pseudomorphic relationship is broken when the top film reaches a critical thickness and results in the formation of misfit dislocations.
+
+\begin{figure}
+	\begin{subfigure}[b]{0.3\textwidth}
+		\centering
+		\includegraphics[width=.85\linewidth]{Figs/Ch1/MDa}
+		\caption{}
+	
+	\end{subfigure}%
+	\hspace*{0.5cm}
+	\begin{subfigure}[b]{0.3\textwidth}
+		\centering
+		\includegraphics[width=.85\linewidth]{Figs/Ch1/MDb}
+		\caption{}
+		
+	\end{subfigure}%
+	\hspace*{0.5cm}
+	\begin{subfigure}[b]{0.3\textwidth}
+		\centering
+		\includegraphics[width=.85\linewidth]{Figs/Ch1/MDc}
+		\caption{}
+	\end{subfigure}%
+
+	\caption{Misfit dislocation formation through strain relaxation for heteroepitaxial growth: a) the film is grown on a substrate of smaller lattice size b) film maintains a pseudomorphic relationship with the substrate c) the film relaxes through the formation of a dislocation.}
+\end{figure}
+\FloatBarrier
+
+The origins of TDs are far less well understood. TDs are not believed to relieve mismatch stress, and typically propagate perpendicular to the planar surface. TDs are classified into three categories based on their Burgers vector, as shown in Table.\ref{tab1.4}.
+
+\begin{table}[h]
+	\centering
+	\begin{tabular}{p{4cm} p{4cm}   }
+		\centering
+		\textbf{Dislocation type}& \textbf{Burgers vector} \\
+		\hline
+		$\mathbf{a}$ type & $\frac{1}{3}<11\bar{2}0>$ \\
+		$\mathbf{c}$ type& $<0001>$ \\
+		$\mathbf{a+c}$ type & $\frac{1}{3}<11\bar{2}3>$ \\
+		\hline
+		
+	\end{tabular}
+	\caption{Burgers vectors for pure edge ($\mathbf{a}$), pure screw ($\mathbf{c}$) and mixed ($\mathbf{a+c}$)  TDs}
+	\label{tab1.4}
+\end{table}
+\FloatBarrier
+
+It was initially reported that GaN islands on sapphire during the initial stages of growth may be misorientated with respect to one another and that during the coalescence of these misorientated islands \cite{Ning1996}. This was seemingly disproven by a transmission electron microscopy data from a study on partially coalesced GaN on sapphire layers at various growth stages, which indicated the large majority of TDs seemed to initiate from within the nucleation layers at the GaN/sapphire interface rather than at coalescence boundaries. Oliver {\it et al}. used silane treatment to enlarge dislocation pits and observe them using atomic force microscopy, finding no significant relationship between boundary regions and the locations of dislocations \cite{Oliver2008a}. It was however suggested that dislocations may arise from the overgrowth of smaller islands by larger ones. Thus, while there is convincing evidence that TDs do not originate due to island coalescence, the actual mechanism behind their generation remains poorly understood.
+
+\subsubsection{2-D Defects}
+
+Stacking faults are defects which disrupt the regular stacking sequence of the crystal structure, in non-polar heterostructures they can intersect the QW layers. As a result of this, stacking faults are a more pressing concern than dislocations in epitaxial films grown along alternative directions to the {\it c}
+-plane, as in polar materials stacking faults tend to remain in the nucleation layers \cite{Scholz2012}. Fig.\ref{1.7} shows different forms of stacking faults in $(11\bar{2}0)$ GaN ({\it a}-plane) on {\it r}-plane sapphire.  Basal-plane stacking faults \nomenclature[z-BSF]{BSF}{Basal-plane Stacking Fault} (BSFs) are atomic layers with a modified stacking sequence in the wurtzite crystal matrix. These BSFs can transfer to another stacking plane through prismatic stacking faults \nomenclature[z-PSF]{PSF}{Prismatic Stacking Fault} (PSFs). BSFs can also be bound by partial dislocations \nomenclature[z-PD]{PD}{Partial Dislocation} (PDs).
+
+
+\begin{figure}[h]
+	\begin{subfigure}[t]{0.4\textwidth}
+	\centering
+	\includegraphics[width = 1\textwidth]{Figs/Ch1/bsf.png}
+	\caption{}
+	\end{subfigure}%
+		\hspace*{1cm}
+	~	
+	\begin{subfigure}[t]{0.4\textwidth}
+		\centering
+		\includegraphics[width=1\textwidth]{Figs/Ch1/bsfTEM.png}
+		\caption{}
+	\end{subfigure}
+	\caption {a) {\it a}-plane GaN showing basal plane stacking faults (BSFs), prismatic stacking faults (PSFs) and stacking faults bounded partial dislocations (PDs) shown schematically b) and in TEM. Adapted from \cite{Liu2011}.}
+	\label{1.7}
+\end{figure}
+\FloatBarrier
+
+Three types of BSFs exist in wurtzite crystals, they are classified based on their displacement vector $\mathbf{\vv{R}}$ as shown in Table.\ref{tab1.5}.
+
+\begin{table}[h]
+	\centering
+	\begin{tabular}{cc}
+		\centering
+		\textbf{BSF type}& \textbf{Displacement vector $\mathbf{\vv{R}}$ } \\
+		\hline
+		$I_{1}$  & $\frac{1}{6}<20\bar{2}3>$ \\
+		$I_{2}$ & $\frac{1}{3}<10\bar{1}0>$ \\
+		$E$  & $\frac{1}{2}<0001>$ \\
+		\hline
+		
+	\end{tabular}
+	\caption{BSF types in wurtzite materials.}
+	\label{tab1.5}
+\end{table}
+\FloatBarrier
+
+Whilst TDs are considered completely undesirable due to the adverse effects they may have on radiative processes and carrier transport, it has been suggested the presence of BSFs on the optical properties may be beneficial in some cases. Indeed, BSFs have been shown to enable radiative recombination through confinement and thus act as QWs with an exciton binding energy of 45 meV \cite{Rebane1997}.
+
+\subsubsection{3-D Defects}
+
+There are many forms of 3-D defects in III-nitrides such as voids, nanopipes and cracks. In this particlar section we will focus on those relevant to the work featured in later chapters of this work.\\
+Inverted hexagonal pyramid defects, also known as V-pits, are defects commonly found at the surface of InGaN/GaN QW structures. They form as a result of a TD intersecting the QW layers. It is believed that the low temperatures required for the growth of the InGaN layers allow even minute perturbations of the surface to persist into inclined facets with low growth rates, such as the $(1\bar{1}01)$ facets. The apex of TDs thus provide optimal conditions for the formation of V-pits during the growth of InGaN layers \cite{Hangleiter2005}. Interestingly, TEM studies have shown that the QW layers disrupted by the defect grow along the semi-polar facets at a lower thickness \cite{Hangleiter2005,Han2013,Tsai2007}. Fig.\ref{1.8} shows a TEM image of a V-pit in an InGaN/GaN multiple QW structure with a schematic describing this defect and how it affects the growth of the QWs.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.7\textwidth]{Figs/Ch1/vpit.png}
+	\caption {a) TEM image of a hexagonal inverted pyramid defect b) Schematic  of a V-pit with its associated TD \cite{Hangleiter2005}.}
+	\label{1.8}
+\end{figure}
+\FloatBarrier 
+
+The existence of TDs as non-radiative recombination centres has been well documented \cite{Bennett2010b}, however it is believed that V-pits suppress this non-radiative recombination and provide an increase in light emission efficiency in III-nitride devices by providing an energy barrier surround TDs \cite{Hangleiter2005}. Hangleiter {\it et al}. suggested the thinner wells grown along the semi-polar facets of the V-pit provided an energy barrier of several hundred meV relative to the normal {\it c}-plane QWs \cite{Hangleiter2005}, thus providing a potential landscape shielding carriers from TDs, as shown in Fig.\ref{1.9}.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.5\textwidth]{Figs/Ch1/landscape.png}
+	\caption {Potential landscape due to V-pits decorating the apex of TDs: carriers (blue) need to overcome the energy barriers to recombine non-radiatively at the TDs \cite{Hangleiter2005}.}
+	\label{1.9}
+\end{figure}
+\FloatBarrier 
+
+ 
 %********************************** %Second Section  **************************************
-\section{III-nitride Cavities } %Section - 1.1 
+\section{III-nitride Devices } %Section - 1.1 
+\subsection{Light Emitting Diodes}
 
-\subsection{Cavity characteristics}
+\subsection{Cavities}
 
-\subsection{Cavity Designs}
+
+\subsection{Nanowire Devices}
 
