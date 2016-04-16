@@ -34,6 +34,39 @@
   mendeley-groups = {DRIP Paper,thesis}
 }
 
+@Article{Akasaka2003,
+  author =          {Akasaka, Tetsuya and Ando, Seigo and Nishida, Toshio and Saitoh, Tadashi and Kobayashi, Naoki},
+  title =           {{Current-confining structure of InGaN hexagonal microfacet lasers by selective incorporation of Mg during selective-area MOVPE}},
+  journal =         {Journal of Crystal Growth},
+  year =            {2003},
+  volume =          {248},
+  number =          {SUPPL.},
+  pages =           {537--541},
+  abstract =        {The combination of patterned dry etching and selective-area regrowth by MOVPE enables us to fabricate the group III-nitride-based lasers of various shapes and sizes and to integrate these lasers on substrates. The vertical cavity mirrors are formed by selective-area regrowth of the dry-etched inclined facets. No growth occurs on the substrate surface exposed by dry etching. In this method, current-confining structures are self-organizing because of the change in Mg incorporation during the vertical facet formation. The selectively regrown Mg-doped GaN consisted of three regions by the regrowth of top, inclined, and vertical facet surfaces, respectively. These regions exhibited different contrast in scanning electron microscope observation and different cathodeluminescence spectra due to the difference in probability of Mg incorporation into them. This phenomenon was successfully applied to form current-confining structures of the lasers. These lasers lased at room temperature by pulsed current injection. ?? 2002 Elsevier Science B.V. All rights reserved.},
+  doi =             {10.1016/S0022-0248(02)01919-X},
+  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/LED Spot/DRIP Paper/References/1-s2.0-S002202480201919X-main.pdf:pdf},
+  isbn =            {0022-0248},
+  issn =            {00220248},
+  keywords =        {A1. Doping,A3. Metalorganic vapor phase epitaxy,A3. Selective epitaxy,B1. Nitrides,B2. Semiconducting gallium compounds,B3. Laser diodes},
+  mendeley-groups = {DRIP Paper,thesis}
+}
+
+@Article{Albrecht2008,
+  author =          {Albrecht, M. and Weyher, J. L. and Lucznik, B. and Grzegory, I. and Porowski, S.},
+  title =           {{Nonradiative recombination at threading dislocations in n-type GaN: Studied by cathodoluminescence and defect selective etching}},
+  journal =         {Applied Physics Letters},
+  year =            {2008},
+  volume =          {92},
+  number =          {23},
+  pages =           {0--3},
+  abstract =        {Dislocations in GaN single crystal were studied by means of spectral cathodoluminescence (CL) mapping and defect selective etching. We show that the c-type screw dislocations are not recombination active. The recombination strength of the a- and (a+c)-type dislocations is influenced by impurity gettering. While fresh dislocations exhibit a CL contrast of 0.01-0.05 in accordance with intrinsic dislocation states, grown in dislocations show a contrast of 0.25. From the analysis of spectral CL maps, we find that impurities such as oxygen and silicon are depleted in the surrounding of the dislocations. We explain the increased contrast by a reduced screening of the electrical field of the dislocation. (C) 2008 American Institute of Physics.},
+  doi =             {10.1063/1.2928226},
+  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/LED Spot/DRIP Paper/References/1.2928226.pdf:pdf},
+  isbn =            {0003-6951},
+  issn =            {00036951},
+  mendeley-groups = {DRIP Paper,thesis}
+}
+
 @Article{Albrecht2008,
   author =          {Albrecht, M. and Weyher, J. L. and Lucznik, B. and Grzegory, I. and Porowski, S.},
   title =           {{Nonradiative recombination at threading dislocations in n-type GaN: Studied by cathodoluminescence and defect selective etching}},
@@ -313,6 +346,37 @@
   mendeley-groups = {DRIP Paper,thesis}
 }
 
+@Article{Bottcher2001,
+  author =          {B{\"{o}}ttcher, T. and Einfeldt, S. and Figge, S. and Chierchia, R. and Heinke, H. and Hommel, D. and Speck, J. S.},
+  title =           {{The role of high-temperature island coalescence in the development of stresses in GaN films}},
+  journal =         {Applied Physics Letters},
+  year =            {2001},
+  volume =          {78},
+  number =          {14},
+  pages =           {1976--1978},
+  abstract =        {The formation of dislocations and stress in GaN layers grown by metalorganic vapor phase epitaxy on sapphire is investigated with regard to the average grain diameter. The grain diameter was determined by monitoring the high-temperature GaN island coalescence process during growth using reflectometry. It is found that the density of edge threading dislocations decreases and the compressive stress measured after cooling to room temperature increases when the coalescence thickness and the grain diameter increase. The data are consistent with models of development of tensile stress due to island coalescence during growth.},
+  doi =             {10.1063/1.1359780},
+  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/LED Spot/DRIP Paper/References/1.1359780.pdf:pdf},
+  isbn =            {0003-6951},
+  issn =            {00036951},
+  mendeley-groups = {DRIP Paper,thesis}
+}
+
+@Article{Bruckbauer2014,
+  author =          {Bruckbauer, Jochen and Edwards, Paul R and Sahonta, Suman-Lata and Massabuau, Fabien C-P and Kappers, Menno J and Humphreys, Colin J and Oliver, Rachel a and Martin, Robert W},
+  title =           {{Cathodoluminescence hyperspectral imaging of trench-like defects in InGaN/GaN quantum well structures}},
+  journal =         {Journal of Physics D: Applied Physics},
+  year =            {2014},
+  volume =          {47},
+  number =          {13},
+  pages =           {135107},
+  doi =             {10.1088/0022-3727/47/13/135107},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Bruckbauer et al. - 2014 - Cathodoluminescence hyperspectral imaging of trench-like defects in InGaNGaN quantum well structures.pdf:pdf},
+  issn =            {0022-3727},
+  mendeley-groups = {DRIP Paper,thesis},
+  url =             {http://stacks.iop.org/0022-3727/47/i=13/a=135107?key=crossref.042ff2f4ddfc438cb2cec7401e95a201}
+}
+
 @Article{Bruckbauer2014,
   author =          {Bruckbauer, Jochen and Edwards, Paul R and Sahonta, Suman-Lata and Massabuau, Fabien C-P and Kappers, Menno J and Humphreys, Colin J and Oliver, Rachel a and Martin, Robert W},
   title =           {{Cathodoluminescence hyperspectral imaging of trench-like defects in InGaN/GaN quantum well structures}},
@@ -384,6 +448,33 @@
   mendeley-groups = {DRIP Paper,thesis}
 }
 
+@Article{Cherns2000,
+  author =          {Cherns, D.},
+  title =           {{The structure and optoelectronic properties of dislocations in GaN The structure and optoelectronic properties of dislocations in}},
+  journal =         {J. Phys. Condens. Matter.},
+  year =            {2000},
+  volume =          {12},
+  pages =           {10205},
+  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/LED Spot/DRIP Paper/References/0953-8984{\_}12{\_}49{\_}320.pdf:pdf},
+  mendeley-groups = {DRIP Paper,thesis}
+}
+
+@Article{Cherns2001,
+  author =          {Cherns, D. and Henley, S. J. and Ponce, F. a.},
+  title =           {{Edge and screw dislocations as nonradiative centers in InGaN/GaN quantum well luminescence}},
+  journal =         {Applied Physics Letters},
+  year =            {2001},
+  volume =          {78},
+  number =          {18},
+  pages =           {2691--2693},
+  abstract =        {Transmission electron microscopy (TEM) and scanning electron microscope cathodoluminescence (CL) have been used to determine the influence of edge and screw dislocations on the light emitting properties of InxGa1-xN quantum wells. TEM is used to locate and identify the nature of dislocations. CL on the same samples is used to determine the spatial variation of the luminescence. A direct correlation of CL maps with TEM has been established, showing that threading edge dislocations act as nonradiative recombination centers with an associated minority carrier diffusion length of 200 nm. Threading dislocations of screw and mixed type were found to be associated with surface pits which were also nonradiative in the quantum well (QW) emission, but owing to the absence of QW growth on the pit facets. The contributions of edge and screw/mixed dislocations to the reduction of the QW emission are quantified, and the wider significance of these results is discussed. (C) 2001 American Institute of Physics.},
+  doi =             {10.1063/1.1369610},
+  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/LED Spot/DRIP Paper/References/1.1369610.pdf:pdf},
+  isbn =            {0003-6951},
+  issn =            {00036951},
+  mendeley-groups = {DRIP Paper,thesis}
+}
+
 @Article{Cherns2001,
   author =          {Cherns, D. and Henley, S. J. and Ponce, F. a.},
   title =           {{Edge and screw dislocations as nonradiative centers in InGaN/GaN quantum well luminescence}},
@@ -432,6 +523,22 @@
   isbn =            {0003-6951},
   issn =            {00036951},
   mendeley-groups = {JAP special topic/Response,thesis}
+}
+
+@Article{Cho2001,
+  author =          {Cho, H. K. and Lee, J. Y. and Yang, G. M. and Kim, C. S.},
+  title =           {{Formation mechanism of V defects in the InGaN/GaN multiple quantum wells grown on GaN layers with low threading dislocation density}},
+  journal =         {Applied Physics Letters},
+  year =            {2001},
+  volume =          {79},
+  number =          {2},
+  pages =           {215--217},
+  abstract =        {V-defect formation of the InxGa1xN/GaN multiple quantum wells MQWs grown on GaN layers with different threading dislocation (TD) densities was investigated. From cross-sectional transmission electron microscopy, we found that all V defects are not always connected with TDs at their bottom. By increasing the indium composition in the InxGa1-xN well layer or decreasing the TD density of the thick GaN layer, many V defects are generated from the stacking mismatch boundaries induced by stacking faults which are formed within the MQW due to the strain relaxation. Also, TD density in the thick GaN layer affects not only the origin of V-defect formation but also the critical indium composition of the InxGa1-xN well on the formation of V defects.},
+  doi =             {10.1063/1.1384906},
+  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/LED Spot/DRIP Paper/References/1.1384906.pdf:pdf},
+  isbn =            {0003-6951},
+  issn =            {00036951},
+  mendeley-groups = {DRIP Paper,thesis}
 }
 
 @Article{Cho2001,
@@ -512,6 +619,22 @@
   mendeley-groups = {DRIP Paper,thesis}
 }
 
+@Article{Consonni2011,
+  author =          {Consonni, V. and Knelangen, M. and Trampert, a. and Geelhaar, L. and Riechert, H.},
+  title =           {{Nucleation and coalescence effects on the density of self-induced GaN nanowires grown by molecular beam epitaxy}},
+  journal =         {Applied Physics Letters},
+  year =            {2011},
+  volume =          {98},
+  number =          {7},
+  pages =           {2--4},
+  abstract =        {The evolution of the density of self-induced GaN nanowires as a function of the growth time, gallium rate, and growth temperature has been investigated by scanning and transmission electron microscopy. Nucleation and coalescence effects have been disentangled and quantified by distinguishing between single nanowires and nanowire clusters. Owing to the very specific nanowire nucleation mechanism involving a shape transition from spherical-cap-shaped islands, the nanowire density does not follow the standard island nucleation theory. Furthermore, the detrimental nanowire coalescence process can be significantly reduced by raising the growth temperature. (C) 2011 American Institute of Physics. {\{}[{\}}doi:10.1063/1.3555450]},
+  doi =             {10.1063/1.3555450},
+  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/LED Spot/DRIP Paper/References/apl98vc.pdf:pdf},
+  isbn =            {0003-6951},
+  issn =            {00036951},
+  mendeley-groups = {DRIP Paper,thesis}
+}
+
 @Article{Damilano1999,
   author =          {Damilano, B and Grandjean, N and Dalmasso, S and Massies, J},
   title =           {{Room-temperature blue-green emission from InGaN/GaN quantum dots made by strain-induced islanding growth}},
@@ -562,6 +685,22 @@
   url =             {http://linkinghub.elsevier.com/retrieve/pii/S0022024808012360}
 }
 
+@Article{DasBakshi2009,
+  author =          {{Das Bakshi}, S. and Sumner, J. and Kappers, M.J. and Oliver, R.a.},
+  title =           {{The influence of coalescence time on unintentional doping in GaN/sapphire}},
+  journal =         {Journal of Crystal Growth},
+  year =            {2009},
+  volume =          {311},
+  number =          {2},
+  pages =           {232--237},
+  month =           {jan},
+  doi =             {10.1016/j.jcrysgro.2008.11.015},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Das Bakshi et al. - 2009 - The influence of coalescence time on unintentional doping in GaNsapphire.pdf:pdf},
+  issn =            {00220248},
+  mendeley-groups = {GaN/CPGS/Challenges,GaN/AFM Lit Review,DRIP Paper,thesis},
+  url =             {http://linkinghub.elsevier.com/retrieve/pii/S0022024808012360}
+}
+
 @Article{Daskalakis2013,
   author =          {Daskalakis, K. S. and Eldridge, P. S. and Christmann, G. and Trichas, E. and Murray, R. and Iliopoulos, E. and Monroy, E. and Pelekanos, N. T. and Baumberg, J. J. and Savvidis, P. G.},
   title =           {{All-dielectric GaN microcavity: Strong coupling and lasing at room temperature}},
@@ -575,6 +714,22 @@
   issn =            {00036951},
   mendeley-groups = {JAP special topic,JAP special topic/Cavities,thesis},
   url =             {http://scitation.aip.org/content/aip/journal/apl/102/10/10.1063/1.4795019}
+}
+
+@Article{Datta2004,
+  author =          {Datta, R. and Kappers, M.J. and Vickers, M.E. and Barnard, J.S. and Humphreys, C.J.},
+  title =           {{Growth and characterisation of GaN with reduced dislocation density}},
+  journal =         {Superlattices and Microstructures},
+  year =            {2004},
+  volume =          {36},
+  number =          {4-6},
+  pages =           {393--401},
+  month =           {oct},
+  doi =             {10.1016/j.spmi.2004.09.003},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Datta et al. - 2004 - Growth and characterisation of GaN with reduced dislocation density.pdf:pdf},
+  issn =            {07496036},
+  mendeley-groups = {GaN/CPGS/Challenges,DRIP Paper,thesis},
+  url =             {http://linkinghub.elsevier.com/retrieve/pii/S0749603604002733}
 }
 
 @Article{Datta2004,
@@ -886,6 +1041,37 @@
   mendeley-groups = {DRIP Paper,thesis}
 }
 
+@Article{Han2013,
+  author =          {Han, Sang Heon and Lee, Dong Yul and Shim, Hyun Wook and {Wook Lee}, Jeong and Kim, Dong Joon and Yoon, Sukho and {Sun Kim}, Young and Kim, Sung Tae},
+  title =           {{Improvement of efficiency and electrical properties using intentionally formed V-shaped pits in InGaN/GaN multiple quantum well light-emitting diodes}},
+  journal =         {Applied Physics Letters},
+  year =            {2013},
+  volume =          {102},
+  number =          {25},
+  abstract =        {We demonstrate a high efficiency and an improvement of the electrical properties in InGaN/GaN multiple quantum well light-emitting diodes (LEDs) using intentionally formed V-shaped pits. Efficiency droop behaviors are measured and LEDs with V-shaped pits act like LEDs with a low dislocation density. The reverse voltage at −10 $\mu$A of LEDs with V-shaped pits shows −120 V, which is comparable to p-i-n rectifiers grown on a free-standing GaN, and reverse leakage current is decreased indicating electrical passivation of dislocation. A calculated diode ideality factor shows that electron tunneling at low forward voltage is suppressed in LEDs with V-shaped pits.},
+  doi =             {10.1063/1.4812810},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Han et al. - 2013 - Improvement of efficiency and electrical properties using intentionally formed V-shaped pits in InGaNGaN multiple qu.pdf:pdf},
+  issn =            {00036951},
+  mendeley-groups = {DRIP Paper,thesis}
+}
+
+@Article{Hangleiter2005,
+  author =          {Hangleiter, a. and Hitzel, F. and Netzel, C. and Fuhrmann, D. and Rossow, U. and Ade, G. and Hinze, P.},
+  title =           {{Suppression of nonradiative recombination by V-shaped pits in GaInN/GaN quantum wells produces a large increase in the light emission efficiency}},
+  journal =         {Physical Review Letters},
+  year =            {2005},
+  volume =          {95},
+  number =          {12},
+  pages =           {1--4},
+  abstract =        {Despite the high density of threading dislocations generally found in (AlGaIn)N heterostructures, the light emission efficiency of such structures is exceptionally high. It has become common to attribute the high efficiency to compositional fluctuations or even phase separation in the active GaInN quantum well region. The resulting localization of charge carriers is thought to keep them from recombining nonradiatively at the defects. Here, we show that random disorder is not the key but that under suitable growth conditions hexagonal V-shaped pits decorating the defects exhibit narrow sidewall quantum wells with an effective band gap significantly larger than that of the regular c-plane quantum wells. Thereby nature provides a unique, hitherto unrecognized mechanism generating a potential landscape which effectively screens the defects themselves by providing an energy barrier around every defect.},
+  doi =             {10.1103/PhysRevLett.95.127402},
+  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/Papers for Eleni/14-Suppression of Nonradiative Recombination by V-Shaped Pits (PRL).pdf:pdf},
+  isbn =            {0031-9007},
+  issn =            {00319007},
+  mendeley-groups = {DRIP Paper,thesis},
+  pmid =            {16197109}
+}
+
 @Article{Hangleiter2005,
   author =          {Hangleiter, a. and Hitzel, F. and Netzel, C. and Fuhrmann, D. and Rossow, U. and Ade, G. and Hinze, P.},
   title =           {{Suppression of nonradiative recombination by V-shaped pits in GaInN/GaN quantum wells produces a large increase in the light emission efficiency}},
@@ -1166,6 +1352,24 @@
   url =             {http://link.aip.org/link/?APPLAB/71/1204/1}
 }
 
+@Article{Kapolnek1997,
+  author =          {Kapolnek, D. and Keller, S. and Vetury, R. and Underwood, R. D. and Kozodoy, P. and {Den Baars}, S. P. and Mishra, U. K.},
+  title =           {{Anisotropic epitaxial lateral growth in GaN selective area epitaxy}},
+  journal =         {Applied Physics Letters},
+  year =            {1997},
+  volume =          {71},
+  number =          {9},
+  pages =           {1204},
+  abstract =        {Epitaxial lateral mask overgrowth which occurs during GaN selective epitaxy has been studied using linear mask features. The lateral growth varies between its maximum and minimum over a 30° angular span and exhibits hexagonal symmetry. Vertical growth follows an opposite trend, with lateral growth maxima, and vertical growth minima occurring for lines parallel to the GaN 〈10•0〉. Large variations in the lateral growth are also obtained through variations in the growth temperature and NH3 flow. Under proper growth conditions, lateral to vertical growth rate ratios of up to 4.1 can be achieved, resulting in significant lateral mask overgrowth and coalescence of features without excessive growth times. {\textcopyright} 1997 American Institute of Physics. {\textcopyright} 1997 American Institute of Physics},
+  doi =             {10.1063/1.119626},
+  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/LED Spot/DRIP Paper/References/1.119626.pdf:pdf},
+  isbn =            {0003-6951},
+  issn =            {00036951},
+  keywords =        {III-V semiconductors,gallium compounds,masks,semiconductor epitaxial layers,semiconductor growth,vapour phase epitaxial growth,wide band gap semiconductors},
+  mendeley-groups = {DRIP Paper,thesis},
+  url =             {http://link.aip.org/link/?APPLAB/71/1204/1}
+}
+
 @Article{Kavokin1998,
   author =          {Kavokin, Alexey and Gil, Bernard},
   title =           {{GaN microcavities: Giant Rabi splitting and optical anisotropy}},
@@ -1264,6 +1468,20 @@
   mendeley-groups = {DRIP Paper,thesis}
 }
 
+@Article{Kusch2014,
+  author =          {Kusch, Gunnar and Li, Haoning and Edwards, Paul R. and Bruckbauer, Jochen and Sadler, Thomas C. and Parbrook, Peter J. and Martin, Robert W.},
+  title =           {{Influence of substrate miscut angle on surface morphology and luminescence properties of AlGaN}},
+  journal =         {Applied Physics Letters},
+  year =            {2014},
+  volume =          {104},
+  number =          {9},
+  abstract =        {The influence of substrate miscut on Al0.5Ga0.5N layers was investigated using cathodoluminescence (CL) hyperspectral imaging and secondary electron imaging in an environmental scanning electron microscope. The samples were also characterized using atomic force microscopy and high resolution X-ray diffraction. It was found that small changes in substrate miscut have a strong influence on the morphology and luminescence properties of the AlGaN layers. Two different types are resolved. For low miscut angle, a crack-free morphology consisting of randomly sized domains is observed, between which there are notable shifts in the AlGaN near band edge emission energy. For high miscut angle, a morphology with step bunches and compositional inhomogeneities along the step bunches, evidenced by an additional CL peak along the step bunches, are observed. (C) 2014 Author(s).},
+  doi =             {10.1063/1.4867165},
+  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/LED Spot/DRIP Paper/References/1.4867165.pdf:pdf},
+  issn =            {00036951},
+  mendeley-groups = {DRIP Paper,thesis}
+}
+
 @Article{Lachab2000,
   author =          {Lachab, M and Nozaki, M and Wang, J and Ishikawa, Y and Fareed, Q and Wang, T and Nishikawa, T and Nishino, K and Sakai, S},
   title =           {{Selective fabrication of InGaN nanostructures by the focused ion beam/metalorganic chemical vapor deposition process}},
@@ -1326,6 +1544,20 @@
   mendeley-groups = {DRIP Paper,thesis}
 }
 
+@Article{Le2013,
+  author =          {Le, L. C. and Zhao, D. G. and Jiang, D. S. and Li, L. and Wu, L. L. and Chen, P. and Liu, Z. S. and Yang, J. and Li, X. J. and He, X. G. and Zhu, J. J. and Wang, H. and Zhang, S. M. and Yang, H.},
+  title =           {{Effect of V-defects on the performance deterioration of InGaN/GaN multiple-quantum-well light-emitting diodes with varying barrier layer thickness}},
+  journal =         {Journal of Applied Physics},
+  year =            {2013},
+  volume =          {114},
+  number =          {14},
+  abstract =        {The effect of quantum barrier (QB) thickness on performances of InGaN/GaN multiple-quantum-well light-emitting diodes (MQW LEDs) with relatively large barrier layer thicknesses has been investigated. It is found that the density and averaged size of V-defects increases with QB thickness, resulting in larger reverse- and forward-bias current in LEDs. Electroluminescence measurement shows that LED with thinner QB has higher internal quantum efficiency but lower efficiency droop-onset current density, which should be ascribed to the faster saturation of carrier leakage into V-defects. Correspondingly, above the droop-onset current density, severer Auger recombination and carrier overflow are induced by higher carrier density due to the less V-defect related carrier leakage, leading to the more serious droop phenomenon in LEDs with thinner QB.},
+  doi =             {10.1063/1.4824801},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Le et al. - 2013 - Effect of V-defects on the performance deterioration of InGaNGaN multiple-quantum-well light-emitting diodes with var.pdf:pdf},
+  issn =            {00218979},
+  mendeley-groups = {DRIP Paper,thesis}
+}
+
 @Article{Lee2011,
   author =          {Lee, L. K. and Zhang, Lei and Deng, Hui and Ku, P. C.},
   title =           {{Room-temperature quantum-dot-like luminescence from site-controlled InGaN quantum disks}},
@@ -1365,6 +1597,36 @@
   mendeley-groups = {DRIP Paper,thesis}
 }
 
+@Article{Li2013,
+  author =          {Li, Hongjian and Li, Panpan and Kang, Junjie and Li, Zhi and Zhang, Yiyun and Liang, Meng and Li, Zhicong and Li, Jing and Yi, Xiaoyan and Wang, Guohong},
+  title =           {{Analysis model for efficiency droop of InGaN light-emitting diodes based on reduced effective volume of active region by carrier localization}},
+  journal =         {Applied Physics Express},
+  year =            {2013},
+  volume =          {6},
+  number =          {9},
+  pages =           {1--4},
+  abstract =        {Carrier localization can be modeled as a parameter of reduced effective volumes of the active region within the efficiency equation to describe efficiency droop of InGaN light-emitting diodes (LEDs). Reduced effective volume due to carrier localized in the potential minima of In-rich areas results in an increase of carrier density, which accelerates the saturation of radiative recombination as well as the loss of Auger recombination and carrier overflow. Wavelength-dependent droop can be well modeled with different reduced effective volumes of the active region.},
+  doi =             {10.7567/APEX.6.092101},
+  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/LED Spot/DRIP Paper/References/Analysis Model for Efficiency Droop of InGaN Light-Emitting Diodes Based on Reduced Effective Volume of Active Region by Carrier Localization .pdf:pdf},
+  issn =            {18820778},
+  mendeley-groups = {DRIP Paper,thesis}
+}
+
+@Article{Li2014,
+  author =          {Li, Yufeng and Yun, Feng and Su, Xilin and Liu, Shuo and Ding, Wen and Hou, Xun},
+  title =           {{Deep hole injection assisted by large V-shape pits in InGaN/GaN multiple-quantum-wells blue light-emitting diodes}},
+  journal =         {Journal of Applied Physics},
+  year =            {2014},
+  volume =          {116},
+  number =          {12},
+  pages =           {123101},
+  doi =             {10.1063/1.4896362},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Li et al. - 2014 - Deep hole injection assisted by large V-shape pits in InGaNGaN multiple-quantum-wells blue light-emitting diodes.pdf:pdf},
+  issn =            {0021-8979},
+  mendeley-groups = {DRIP Paper,thesis},
+  url =             {http://scitation.aip.org/content/aip/journal/jap/116/12/10.1063/1.4896362}
+}
+
 @Article{Li2014,
   author =          {Li, Yufeng and Yun, Feng and Su, Xilin and Liu, Shuo and Ding, Wen and Hou, Xun},
   title =           {{Deep hole injection assisted by large V-shape pits in InGaN/GaN multiple-quantum-wells blue light-emitting diodes}},
@@ -1393,6 +1655,13 @@
   issn =            {0957-4484},
   mendeley-groups = {JAP special topic,thesis},
   url =             {http://stacks.iop.org/0957-4484/22/i=2/a=025201?key=crossref.8dc8450259ead265830f75100ee7b8f6}
+}
+
+@PhdThesis{Liu2011,
+  author = {Lewis Zhen-Yu Liu},
+  title =  {Advanced Transmission Electron Microscopy of GaN-based Materials and Devices},
+  school = {University of Cambridge},
+  year =   {2011}
 }
 
 @Article{Liu2014,
@@ -1439,6 +1708,16 @@
   file =            {:C$\backslash$:/Users/cr458/Documents/GitHub/Thesis/Ch1Refs/1.3492841.pdf:pdf},
   issn =            {00036951},
   mendeley-groups = {thesis}
+}
+
+@Article{M.E.VickersM.J.KappersT.M.SmeetonE.J.ThrushJ.S.BarnardandC.J.Humphreys2003,
+  author =          {{M. E. Vickers, M. J. Kappers, T. M. Smeeton, E. J. Thrush, J. S. Barnard, and C. J. Humphreys}, J.},
+  title =           {{No Titl}},
+  journal =         {Applied Physics},
+  year =            {2003},
+  volume =          {94},
+  pages =           {1565},
+  mendeley-groups = {DRIP Paper,thesis}
 }
 
 @Article{M.E.VickersM.J.KappersT.M.SmeetonE.J.ThrushJ.S.BarnardandC.J.Humphreys2003,
@@ -1514,6 +1793,21 @@
   url =             {http://scitation.aip.org/content/aip/journal/apl/101/21/10.1063/1.4768291}
 }
 
+@Article{Massabuau2012,
+  author =          {Massabuau, F. C.-P. and Sahonta, S.-L. and Trinh-Xuan, L. and Rhode, S. and Puchtler, T. J. and Kappers, M. J. and Humphreys, C. J. and Oliver, R. a.},
+  title =           {{Morphological, structural, and emission characterization of trench defects in InGaN/GaN quantum well structures}},
+  journal =         {Applied Physics Letters},
+  year =            {2012},
+  volume =          {101},
+  number =          {21},
+  pages =           {212107},
+  doi =             {10.1063/1.4768291},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Massabuau et al. - 2012 - Morphological, structural, and emission characterization of trench defects in InGaNGaN quantum well structures.pdf:pdf},
+  issn =            {00036951},
+  mendeley-groups = {GaN/CPGS/Challenges,DRIP Paper,thesis},
+  url =             {http://scitation.aip.org/content/aip/journal/apl/101/21/10.1063/1.4768291}
+}
+
 @Article{Massabuau2013,
   author =          {Massabuau, F. C.-P. and Trinh-Xuan, L. and Lodié, D. and Thrush, E. J. and Zhu, D. and Oehler, F. and Zhu, T. and Kappers, M. J. and Humphreys, C. J. and Oliver, R. a.},
   title =           {{Correlations between the morphology and emission properties of trench defects in InGaN/GaN quantum wells}},
@@ -1527,6 +1821,38 @@
   issn =            {00218979},
   mendeley-groups = {GaN/CPGS/Challenges,DRIP Paper,thesis},
   url =             {http://scitation.aip.org/content/aip/journal/jap/113/7/10.1063/1.4792505}
+}
+
+@Article{Massabuau2013,
+  author =          {Massabuau, F. C.-P. and Trinh-Xuan, L. and Lodié, D. and Thrush, E. J. and Zhu, D. and Oehler, F. and Zhu, T. and Kappers, M. J. and Humphreys, C. J. and Oliver, R. a.},
+  title =           {{Correlations between the morphology and emission properties of trench defects in InGaN/GaN quantum wells}},
+  journal =         {Journal of Applied Physics},
+  year =            {2013},
+  volume =          {113},
+  number =          {7},
+  pages =           {073505},
+  doi =             {10.1063/1.4792505},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Massabuau et al. - 2013 - Correlations between the morphology and emission properties of trench defects in InGaNGaN quantum wells.pdf:pdf},
+  issn =            {00218979},
+  mendeley-groups = {GaN/CPGS/Challenges,DRIP Paper,thesis},
+  url =             {http://scitation.aip.org/content/aip/journal/jap/113/7/10.1063/1.4792505}
+}
+
+@Article{Massabuau2014,
+  author =          {Massabuau, F. C.-P. and {Le Fol}, a. and Pamenter, S. K. and Oehler, F. and Kappers, M. J. and Humphreys, C. J. and Oliver, R. a.},
+  title =           {{The impact of growth parameters on trench defects in InGaN/GaN quantum wells}},
+  journal =         {Physica Status Solidi (a)},
+  year =            {2014},
+  volume =          {211},
+  number =          {4},
+  pages =           {740--743},
+  month =           {apr},
+  doi =             {10.1002/pssa.201300485},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Massabuau et al. - 2014 - The impact of growth parameters on trench defects in InGaNGaN quantum wells.pdf:pdf},
+  issn =            {18626300},
+  keywords =        {atomic force microscopy,cathodoluminescence,defect,nitrides},
+  mendeley-groups = {GaN/CPGS/Challenges,DRIP Paper,thesis},
+  url =             {http://doi.wiley.com/10.1002/pssa.201300485}
 }
 
 @Article{Massabuau2014,
@@ -1682,6 +2008,21 @@
   mendeley-groups = {JAP special topic/Response,thesis}
 }
 
+@Article{Moram2009,
+  author =          {Moram, M. a. and Ghedia, C. S. and Rao, D. V. S. and Barnard, J. S. and Zhang, Y. and Kappers, M. J. and Humphreys, C. J.},
+  title =           {{On the origin of threading dislocations in GaN films}},
+  journal =         {Journal of Applied Physics},
+  year =            {2009},
+  volume =          {106},
+  number =          {7},
+  pages =           {073513},
+  doi =             {10.1063/1.3225920},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Moram et al. - 2009 - On the origin of threading dislocations in GaN films.pdf:pdf},
+  issn =            {00218979},
+  mendeley-groups = {GaN/CPGS/Challenges,thesis},
+  url =             {http://scitation.aip.org/content/aip/journal/jap/106/7/10.1063/1.3225920}
+}
+
 @Article{Moriwaki2000,
   author =          {Moriwaki, Osamu and Someya, Takao and Tachibana, Koichi and Ishida, Satomi and Arakawa, Yasuhiko},
   title =           {{Narrow photoluminescence peaks from localized states in InGaN quantum dot structures}},
@@ -1697,27 +2038,6 @@
   issn =            {00036951},
   mendeley-groups = {JAP special topic/Response,thesis},
   url =             {http://link.aip.org/link/APPLAB/v76/i17/p2361/s1{\&}Agg=doi}
-}
-
-@Article{Moses2010,
-  author =          {Moses, Poul Georg and {Van De Walle}, Chris G.},
-  title =           {{Band bowing and band alignment in InGaN alloys}},
-  journal =         {Applied Physics Letters},
-  year =            {2010},
-  volume =          {96},
-  number =          {2},
-  pages =           {2--5},
-  abstract =        {We use density functional theory calculations with the HSE06 hybrid exchange-correlation functional to investigate InGaN alloys and accurately determine band gaps and band alignments.We find a strong band-gap bowing at low In content. Band positions on an absolute energy scale are determined from surface calculations. The resulting GaN/InN valence-band offset is 0.62 eV. The dependence of InGaN valence-band alignment on In content is found to be almost linear. Based on the values of band gaps and band alignments, we conclude that InGaN fulfills the requirements for a photoelectrochemical electrode for In contents up to 50{\%}},
-  archiveprefix =   {arXiv},
-  arxivid =         {http://dx.doi.org/10.1063/1.3291055},
-  doi =             {10.1063/1.3291055},
-  eprint =          {/dx.doi.org/10.1063/1.3291055},
-  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Moses, Van De Walle - 2010 - Band bowing and band alignment in InGaN alloys.pdf:pdf},
-  isbn =            {0003-6951},
-  issn =            {00036951},
-  mendeley-groups = {thesis},
-  pmid =            {10653792},
-  primaryclass =    {http:}
 }
 
 @Article{Moses2010,
@@ -1796,6 +2116,17 @@
   mendeley-groups = {JAP special topic/Response,thesis}
 }
 
+@Article{Ning1996,
+  author =          {Ning, XJ and Chien, FR},
+  title =           {{Growth defects in GaN films on sapphire: The probable origin of threading dislocations}},
+  journal =         {Journal of materials {\ldots}},
+  year =            {1996},
+  number =          {0001},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Ning, Chien - 1996 - Growth defects in GaN films on sapphire The probable origin of threading dislocations.pdf:pdf},
+  mendeley-groups = {GaN/CPGS/Intro,thesis},
+  url =             {http://journals.cambridge.org/abstract{\_}S0884291400022664}
+}
+
 @Article{Niu2015,
   author =          {Niu, Nan and Woolf, Alexander and Wang, Danqing and Zhu, Tongtong and Quan, Qimin and Oliver, Rachel a. and Hu, Evelyn L.},
   title =           {{Ultra-low threshold gallium nitride photonic crystal nanobeam laser}},
@@ -1809,6 +2140,21 @@
   issn =            {0003-6951},
   mendeley-groups = {JAP special topic,thesis},
   url =             {http://scitation.aip.org/content/aip/journal/apl/106/23/10.1063/1.4922211}
+}
+
+@Article{Okada2015,
+  author =          {Okada, Narihito and Kashihara, Hiroyuki and Sugimoto, Kohei and Yamada, Yoichi and Tadatomo, Kazuyuki},
+  title =           {{Controlling potential barrier height by changing V-shaped pit size and the effect on optical and electrical properties for InGaN/GaN based light-emitting diodes}},
+  journal =         {Journal of Applied Physics},
+  year =            {2015},
+  volume =          {117},
+  number =          {2},
+  pages =           {025708},
+  doi =             {10.1063/1.4905914},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Okada et al. - 2015 - Controlling potential barrier height by changing V-shaped pit size and the effect on optical and electrical proper.pdf:pdf},
+  issn =            {0021-8979},
+  mendeley-groups = {DRIP Paper,thesis},
+  url =             {http://scitation.aip.org/content/aip/journal/jap/117/2/10.1063/1.4905914}
 }
 
 @Article{Okada2015,
@@ -1840,6 +2186,23 @@
   isbn =            {00036951},
   issn =            {00036951},
   mendeley-groups = {JAP special topic/Response,thesis}
+}
+
+@Article{Oliver2006a,
+  author =          {Oliver, R.a. and Kappers, M.J. and Sumner, J. and Datta, R. and Humphreys, C.J.},
+  title =           {{Highlighting threading dislocations in MOVPE-grown GaN using an in situ treatment with SiH4 and NH3}},
+  journal =         {Journal of Crystal Growth},
+  year =            {2006},
+  volume =          {289},
+  number =          {2},
+  pages =           {506--514},
+  month =           {apr},
+  doi =             {10.1016/j.jcrysgro.2005.12.075},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Oliver et al. - 2006 - Highlighting threading dislocations in MOVPE-grown GaN using an in situ treatment with SiH4 and NH3.pdf:pdf},
+  issn =            {00220248},
+  keywords =        {a1,atomic force microscopy,b1,line defects,nitrides},
+  mendeley-groups = {GaN/CPGS/Challenges,DRIP Paper,thesis},
+  url =             {http://linkinghub.elsevier.com/retrieve/pii/S0022024805015769}
 }
 
 @Article{Oliver2006a,
@@ -1893,6 +2256,37 @@
   url =             {http://www.sciencedirect.com/science/article/pii/S0921510707004679}
 }
 
+@Article{Oliver2008a,
+  author =          {Oliver, R. A. and Kappers, M. J. and McAleese, C. and Datta, R. and Sumner, J. and Humphreys, C. J.},
+  title =           {{The origin and reduction of dislocations in Gallium Nitride}},
+  journal =         {Journal of Materials Science: Materials in Electronics},
+  year =            {2008},
+  volume =          {19},
+  number =          {S1},
+  pages =           {208--214},
+  month =           {mar},
+  doi =             {10.1007/s10854-008-9648-7},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Oliver et al. - 2008 - The origin and reduction of dislocations in Gallium Nitride.pdf:pdf},
+  issn =            {0957-4522},
+  mendeley-groups = {GaN/AFM Lit Review,thesis},
+  url =             {http://link.springer.com/10.1007/s10854-008-9648-7}
+}
+
+@Article{Oliver2013,
+  author =          {Oliver, R. a. and Massabuau, F. C.-P. and Kappers, M. J. and Phillips, W. a. and Thrush, E. J. and Tartan, C. C. and Blenkhorn, W. E. and Badcock, T. J. and Dawson, P. and Hopkins, M. a. and Allsopp, D. W. E. and Humphreys, C. J.},
+  title =           {{The impact of gross well width fluctuations on the efficiency of GaN-based light emitting diodes}},
+  journal =         {Applied Physics Letters},
+  year =            {2013},
+  volume =          {103},
+  number =          {14},
+  pages =           {141114},
+  doi =             {10.1063/1.4824193},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Oliver et al. - 2013 - The impact of gross well width fluctuations on the efficiency of GaN-based light emitting diodes.pdf:pdf},
+  issn =            {00036951},
+  mendeley-groups = {GaN/LED Spot/Droop,GaN/LED Spot/Droop/CDL,DRIP Paper,thesis},
+  url =             {http://scitation.aip.org/content/aip/journal/apl/103/14/10.1063/1.4824193}
+}
+
 @Article{Oliver2013,
   author =          {Oliver, R. a. and Massabuau, F. C.-P. and Kappers, M. J. and Phillips, W. a. and Thrush, E. J. and Tartan, C. C. and Blenkhorn, W. E. and Badcock, T. J. and Dawson, P. and Hopkins, M. a. and Allsopp, D. W. E. and Humphreys, C. J.},
   title =           {{The impact of gross well width fluctuations on the efficiency of GaN-based light emitting diodes}},
@@ -1939,21 +2333,6 @@
   mendeley-groups = {thesis}
 }
 
-@Article{Osamura1975,
-  author =          {Osamura, Kozo and Naka, Shigehisa and Murakami, Yotaro},
-  title =           {{Preparation and optical properties of Ga1-xInxN thin films}},
-  journal =         {Journal of Applied Physics},
-  year =            {1975},
-  volume =          {46},
-  number =          {8},
-  pages =           {3432--3437},
-  abstract =        {By the use of the electron beam plasma technique, it has been found that the solid solutions of Ga1−x In x N can be synthesized over the entire composition region. From the optical measurements, the direct energy gap at 78 °K was determined to be 3.46 eV for GaN and 2.11 eV for InN. Also its composition dependence was found to deviate downward from linearity. From the infrared reflectivity measurement and the resultant K‐K dispersion analysis, the transverse optical frequencies for long‐wavelength phonons of GaN and InN were 563 and 478 cm−1, respectively. The optical phonons in this quasibinary system were concluded to exhibit a one‐mode–type behavior. The Brout sum rule was discussed for a large number of the diatomic crystals of A N B 8−N type and its relation with respect to the reduced mass was derived as $\Sigma$ i $\omega$2 i (k=0) =A $\mu$−1.5. According to this relation, the longitudinal optical frequency of InN was deduced to be 694 cm−1. On the other hand, from the result of the annealing treatment for the solid‐solution alloys and the theoretical consideration, it was pointed out that this quasibinary system has a solid‐phase misibility gap in chemical equilibrium.},
-  doi =             {10.1063/1.322064},
-  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Osamura, Naka, Murakami - 1975 - Preparation and optical properties of Ga1-xInxN thin films.pdf:pdf},
-  issn =            {00218979},
-  mendeley-groups = {thesis}
-}
-
 @Article{Ostapenko2010,
   author =          {Ostapenko, Irina A. and Hönig, Gerald and Kindel, Christian and Rodt, Sven and Strittmatter, André and Hoffmann, Axel and Bimberg, Dieter},
   title =           {{Large internal dipole moment in InGaN/GaN quantum dots}},
@@ -1977,6 +2356,33 @@
   editor =          {Piprek, Joachim},
   edition =         {January 20},
   isbn =            {978-3-527-40667-8},
+  mendeley-groups = {DRIP Paper,thesis}
+}
+
+@Book{Piprek2007,
+  title =           {{Nitride Semiconductor Devices: Principles and Simulation}},
+  publisher =       {Wiley-VCH},
+  year =            {2007},
+  author =          {Piprek, Joachim},
+  editor =          {Piprek, Joachim},
+  edition =         {January 20},
+  isbn =            {978-3-527-40667-8},
+  mendeley-groups = {DRIP Paper,thesis}
+}
+
+@Article{Piprek2014,
+  author =          {Piprek, Joachim},
+  title =           {{Origin of InGaN/GaN light-emitting diode efficiency improvements using tunnel-junction-cascaded active regions}},
+  journal =         {Applied Physics Letters},
+  year =            {2014},
+  volume =          {104},
+  number =          {5},
+  pages =           {2--6},
+  abstract =        {This Letter investigates the efficiency enhancement achieved by tunnel junction insertion into the InGaN/GaN multi-quantum well (MQW) active region of blue light emitting diodes (LEDs). The peak quantum efficiency of such LED exceeds 100{\%}, but the maximum wall-plug efficiency (WPE) hardly changes. However, due to the increased bias, the WPE peaks at much higher input power, i.e., the WPE droop is significantly delayed, and the output power is strongly enhanced. The main physical reason for this improvement lies in the non-uniform vertical carrier distribution typically observed within InGaN MQWs.},
+  doi =             {10.1063/1.4864311},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Piprek - 2014 - Origin of InGaNGaN light-emitting diode efficiency improvements using tunnel-junction-cascaded active regions.pdf:pdf},
+  isbn =            {doi:10.1063/1.4864311},
+  issn =            {00036951},
   mendeley-groups = {DRIP Paper,thesis}
 }
 
@@ -2009,6 +2415,21 @@
   keywords =        {an microcavities with embedded,as visible light sources,as well as,cathodoluminescence,cqed,electrodynamics,gan,long been sought after,microcavities,optical emitters have,platforms for cavity quantum,quality factor,threading dislocations},
   mendeley-groups = {Microdisks,JAP special topic,thesis},
   url =             {http://pubs.acs.org/doi/abs/10.1021/ph500426g}
+}
+
+@Article{Quan2014,
+  author =          {Quan, Zhijue and Wang, Li and Zheng, Changda and Liu, Junlin and Jiang, Fengyi},
+  title =           {{Roles of V-shaped pits on the improvement of quantum efficiency in InGaN/GaN multiple quantum well light-emitting diodes}},
+  journal =         {Journal of Applied Physics},
+  year =            {2014},
+  volume =          {116},
+  number =          {18},
+  pages =           {183107},
+  doi =             {10.1063/1.4901828},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Quan et al. - 2014 - Roles of V-shaped pits on the improvement of quantum efficiency in InGaNGaN multiple quantum well light-emitting di.pdf:pdf},
+  issn =            {0021-8979},
+  mendeley-groups = {DRIP Paper,thesis},
+  url =             {http://scitation.aip.org/content/aip/journal/jap/116/18/10.1063/1.4901828}
 }
 
 @Article{Quan2014,
@@ -2088,6 +2509,17 @@
   issn =            {00218979},
   keywords =        {Conduction Band,Dielectric Function,Emission,Exciton Binding Energy,Laser,Low Threshold,Molecular Beam Epitaxy,Resonance Raman,Semiconductor Microcrystallites,Temperature Dependence},
   mendeley-groups = {JAP special topic/Response,thesis}
+}
+
+@Article{Rebane1997,
+  author =          {Rebane, Y.T. and Shreter, Y.C. and Albrecht, M.},
+  title =           {{Stacking Faults as Quantum Wells for Excitons in Wurtzite GaN}},
+  journal =         {Physica Status Solidi (a)},
+  year =            {1997},
+  volume =          {164},
+  number =          {141},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Rebane, Shreter, Albrecht - 1997 - Stacking Faults as Quantum Wells for Excitons in Wurtzite GaN.pdf:pdf},
+  mendeley-groups = {GaN/CPGS/Challenges,thesis}
 }
 
 @Article{Reid2013,
@@ -2173,6 +2605,37 @@
   isbn =            {0003-6951},
   issn =            {00036951},
   mendeley-groups = {DRIP Paper,thesis}
+}
+
+@Article{Ren2005,
+  author =          {Ren, Dawei and Dapkus, P. Daniel},
+  title =           {{Anisotropic Mg incorporation in GaN growth on nonplanar templates}},
+  journal =         {Applied Physics Letters},
+  year =            {2005},
+  volume =          {86},
+  number =          {12},
+  pages =           {1--3},
+  abstract =        {Anisotropic Mg incorporation has been observed in the growth of p-type GaN on nonplanar GaN templates. As shown by cross-sectional scanning electron microscopy and cathodoluminescence spectroscopy, Mg-doped GaN grown on (0001) mesa tops is observed to have higher Mg concentration than the counterpart layers grown on 11 (2) over bar2 sidewalls. The origin of this anisotropic Mg incorporation is believed to be associated with local surface structure on the different surface facets. More importantly, this unique structure of Mg-doped GaN provides a natural lateral current confinement that paves a promising path to fabrication of InGaN/GaN buried heterostructure lasers on these nonplanar templates. (C) 2005 American Institute of Physics.},
+  doi =             {10.1063/1.1870121},
+  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/LED Spot/DRIP Paper/References/1.1870121.pdf:pdf},
+  isbn =            {0003-6951},
+  issn =            {00036951},
+  mendeley-groups = {DRIP Paper,thesis}
+}
+
+@Article{Ren2015,
+  author =          {Ren, C. X.},
+  title =           {{Polarisation fields in III-nitrides: effects and control}},
+  journal =         {Materials Science and Technology},
+  year =            {2015},
+  volume =          {00},
+  number =          {0},
+  pages =           {1743284715Y.000},
+  doi =             {10.1179/1743284715Y.0000000103},
+  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/LED Spot/DRIP Paper/References/1743284715Y{\%}2E0000000103.pdf:pdf},
+  issn =            {0267-0836},
+  mendeley-groups = {DRIP Paper,thesis},
+  url =             {http://www.maneyonline.com/doi/10.1179/1743284715Y.0000000103}
 }
 
 @Article{Ren2015,
@@ -2344,6 +2807,23 @@
   url =             {http://link.aip.org/link/APPLAB/v76/i4/p442/s1{\&}Agg=doi}
 }
 
+@Article{Sakai2000,
+  author =          {Sakai, Akira and Sunakawa, Haruo and Kimura, Akitaka and Usui, Akira},
+  title =           {{Self-organized propagation of dislocations in GaN films during epitaxial lateral overgrowth}},
+  journal =         {Applied Physics Letters},
+  year =            {2000},
+  volume =          {76},
+  number =          {4},
+  pages =           {442},
+  abstract =        {Dislocation propagation and defect evolution in GaN films formed by epitaxial lateral overgrowth (ELO) are examined by transmission electron microscopy. A novel effect that induces self-organized propagation of preexisting dislocations in ELO films is evaluated. This propagation forms dislocations into bundle structures along the stripes of masks used for ELO. The dislocation bundling gives rise to crystallographic tilting in the overgrown region on the mask and leads to a total reduction of threading dislocation density in the film.},
+  doi =             {10.1063/1.125781},
+  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/LED Spot/DRIP Paper/References/1.125781.pdf:pdf},
+  isbn =            {0003-6951},
+  issn =            {00036951},
+  mendeley-groups = {DRIP Paper,thesis},
+  url =             {http://link.aip.org/link/APPLAB/v76/i4/p442/s1{\&}Agg=doi}
+}
+
 @Article{Salzer2009,
   author =          {Salzer, R and Graff, A and Simon, M and Altmann, F},
   title =           {{Standard Free Thickness Determination of Thin TEM Samples via Backscatter Electron Image Correlation}},
@@ -2474,6 +2954,22 @@
   mendeley-groups = {DRIP Paper,thesis}
 }
 
+@Article{Selvaraj2011,
+  author =          {Selvaraj, S. Lawrence and Watanabe, Arata and Egawa, Takashi},
+  title =           {{Influence of deep-pits on the device characteristics of metal-organic chemical vapor deposition grown AlGaN/GaN high-electron mobility transistors on silicon substrate}},
+  journal =         {Applied Physics Letters},
+  year =            {2011},
+  volume =          {98},
+  number =          {25},
+  pages =           {2009--2012},
+  abstract =        {We have investigated the regions around deep-pits and their limitations on the performance of metal-organic chemical vapor depositiongrown AlGaN/GaN high-electron-mobility transistors(HEMTs) on Si. The device characteristics such as maximum drain current density ( I DSmax ) , threshold voltage ( V th ) , and three terminal-OFF breakdown ( B V OFF ) of a HEMT were affected based on the distance of deep-pits from a device active region. The deterioration of HEMTcharacteristics are significant if the active region is present within 50   $\mu$ m radius of a deep-pit and becomes insignificant for distance beyond 50   $\mu$ m . These device characteristics were compared with optical measurements and it was found the region around 50   $\mu$ m radius of a pit have large dislocations and defects as confirmed by cathodoluminescence. Further, the E 2 Raman shift measurements reveal additional stress in the 50   $\mu$ m region around a pit.},
+  doi =             {10.1063/1.3602919},
+  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/LED Spot/DRIP Paper/References/1.3602919.pdf:pdf},
+  isbn =            {0003-6951},
+  issn =            {00036951},
+  mendeley-groups = {DRIP Paper,thesis}
+}
+
 @Article{Senellart2000,
   author =          {Senellart, P. and Bloch, J. and Sermage, B. and Marzin, J. Y.},
   title =           {{Microcavity polariton depopulation as evidence for stimulated scattering}},
@@ -2550,6 +3046,38 @@
   issn =            {00036951},
   mendeley-groups = {DRIP Paper,thesis},
   url =             {http://scitation.aip.org/content/aip/journal/apl/99/25/10.1063/1.3668104}
+}
+
+@Article{Shan2011,
+  author =          {Shan, Qifeng and Meyaard, David S. and Dai, Qi and Cho, Jaehee and {Fred Schubert}, E. and {Kon Son}, Joong and Sone, Cheolsoo},
+  title =           {{Transport-mechanism analysis of the reverse leakage current in GaInN light-emitting diodes}},
+  journal =         {Applied Physics Letters},
+  year =            {2011},
+  volume =          {99},
+  number =          {25},
+  pages =           {253506},
+  doi =             {10.1063/1.3668104},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Shan et al. - 2011 - Transport-mechanism analysis of the reverse leakage current in GaInN light-emitting diodes.pdf:pdf},
+  issn =            {00036951},
+  mendeley-groups = {DRIP Paper,thesis},
+  url =             {http://scitation.aip.org/content/aip/journal/apl/99/25/10.1063/1.3668104}
+}
+
+@Article{Sharma2000,
+  author =          {Sharma, Nikhil and Thomas, Paul and Tricker, David and Humphreys, Colin},
+  title =           {{Chemical mapping and formation of V-defects in InGaN multiple quantum wells}},
+  journal =         {Applied Physics Letters},
+  year =            {2000},
+  volume =          {77},
+  number =          {9},
+  pages =           {1274},
+  abstract =        {InGaN multiple-quantum-well structures grown by metal organic chemical-vapor$\backslash$ndeposition on GaN and capped by p-type GaN are found to contain inverted$\backslash$npyramids of indium-free GaN. High-resolution structural and chemical$\backslash$nanalyses of these "V-defects" by a number of complementary transmission$\backslash$nelectron microscopy techniques show that the InGaN quantum wells$\backslash$nend abruptly at the V-defect interfaces, which lie on {\{}10 11{\}} planes.$\backslash$nEach V-defect has at its center a threading edge dislocation, indicating$\backslash$nthat the defects are initiated at edge dislocation cores in the presence$\backslash$nof indium. The lower temperatures of InGaN/GaN quantum-well growth$\backslash$n(790°C/950°C) assist the formation of V-pits, which are subsequently$\backslash$nfilled in during the growth at higher temperature (1045°C) of the$\backslash$np-type capping layer.},
+  doi =             {10.1063/1.1289904},
+  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/LED Spot/DRIP Paper/References/02e7e51823b15e2600000000.pdf:pdf},
+  isbn =            {0003-6951},
+  issn =            {00036951},
+  mendeley-groups = {DRIP Paper,thesis},
+  url =             {http://link.aip.org/link/APPLAB/v77/i9/p1274/s1{\&}Agg=doi}
 }
 
 @Article{Sharma2000,
@@ -2650,6 +3178,22 @@
   issn =            {00368075},
   mendeley-groups = {JAP special topic,thesis},
   pmid =            {10489367}
+}
+
+@Article{Song2005,
+  author =          {Song, T. L.},
+  title =           {{Strain relaxation due to V-pit formation in In[sub x]Ga[sub 1−x]N∕GaN epilayers grown on sapphire}},
+  journal =         {Journal of Applied Physics},
+  year =            {2005},
+  volume =          {98},
+  number =          {8},
+  pages =           {084906},
+  doi =             {10.1063/1.2108148},
+  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/LED Spot/DRIP Paper/References/1.2108148.pdf:pdf},
+  isbn =            {0021-8979},
+  issn =            {00218979},
+  mendeley-groups = {DRIP Paper,thesis},
+  url =             {http://link.aip.org/link/JAPIAU/v98/i8/p084906/s1{\&}Agg=doi}
 }
 
 @Article{Song2005,
@@ -2825,21 +3369,6 @@
   mendeley-groups = {thesis}
 }
 
-@Article{Tansley1986,
-  author =          {Tansley, T. L. and Foley, C. P.},
-  title =           {{Optical band gap of indium nitride}},
-  journal =         {Journal of Applied Physics},
-  year =            {1986},
-  volume =          {59},
-  number =          {9},
-  pages =           {3241--3244},
-  abstract =        {Room-temperature optical absorption data in the 1.5-2.5-eV range are reported for indium nitride thin films prepared by reactive radio-frequency sputtering. The fundamental absorption edge in high-purity material is located at 1.89 ± 0.01 eV and corresponds to a direct transition at k = 0, in agreement with band-structure calculations. A significant Moss-Burstein shift is noted for carrier concentrations in excess of 1019 cm -3 and obeys the empirical relationship Eo = 1.89 + 2.1 X 10-8 n l/3 eV.},
-  doi =             {10.1063/1.336906},
-  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Tansley, Foley - 1986 - Optical band gap of indium nitride.pdf:pdf},
-  issn =            {00218979},
-  mendeley-groups = {thesis}
-}
-
 @Article{Tawara2004,
   author =          {Tawara, T. and Gotoh, H. and Akasaka, T. and Kobayashi, N. and Saitoh, T.},
   title =           {{Cavity Polaritons in InGaN Microcavities at Room Temperature}},
@@ -2916,6 +3445,23 @@
   mendeley-groups = {DRIP Paper,thesis}
 }
 
+@Article{Tsai2007,
+  author =          {Tsai, Hung-Ling and Wang, Ting-Yu and Yang, Jer-Ren and Chuo, Chang-Cheng and Hsu, Jung-Tsung and Feng, Zhe-Chuan and Shiojiri, Makoto},
+  title =           {{Observation of V Defects in Multiple InGaN/GaN Quantum Well Layers}},
+  journal =         {Materials Transactions},
+  year =            {2007},
+  volume =          {48},
+  number =          {5},
+  pages =           {894--898},
+  abstract =        {/    . Hung-Ling TSAI, Ting-Yu WANG, Jer-Ren YANG, Chang-Cheng CHUO, Jung },
+  doi =             {10.2320/matertrans.48.894},
+  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/Papers for Eleni/894.pdf:pdf},
+  isbn =            {1345-9678},
+  issn =            {1345-9678},
+  keywords =        {gallium nitride quantum wells,green laser diode,high-angle annular dark-field scanning,inverted hexagonal pyramid defect,multiple indium gallium nitride,transmission electron microscopy,v defect},
+  mendeley-groups = {DRIP Paper,thesis}
+}
+
 @Article{Vahala2003,
   author =          {Vahala, Kerry J},
   title =           {{Optical microcavities.}},
@@ -2965,6 +3511,21 @@
   mendeley-groups = {DRIP Paper,thesis}
 }
 
+@Article{Vickers2003,
+  author =          {Vickers, M. E. and Kappers, M. J. and Smeeton, T. M. and Thrush, E. J. and Barnard, J. S. and Humphreys, C. J.},
+  title =           {{Determination of the indium content and layer thicknesses in InGaN/GaN quantum wells by x-ray scattering}},
+  journal =         {Journal of Applied Physics},
+  year =            {2003},
+  volume =          {94},
+  number =          {3},
+  pages =           {1565--1574},
+  abstract =        {We have determined the indium content and the layer thicknesses in an InGaN epilayer and InGaN/GaN quantum wellstructures by high-resolution x-ray diffraction(XRD) using the (002) reflection. The thickness of the total repeat (an InGaN well plus a GaN barrier) in the superlattice is easily determined from the spacing between the satellite peaks in an omega/2theta scan. Measurement of the individual thickness of InGaN and GaN layers and the indium content is less straightforward, since for multilayerstructures the peak positions are influenced by both the indium content and the thickness ratio of the GaN to the InGaN layer. Thus, several different models may give reasonable fits to data collected over a limited range (about 1° omega/2theta either side of the (002)) showing only lower-order (−3 to +3) satellite peaks. Whenever possible, we have collected data over a wide range (about 4° omega/2theta) and determined the thickness ratio by examination of the relative intensities of weak higher-order satellite peaks (−7 to +5). An alternative but less sensitive method is to use relative intensities from x-rayreflectivity measurements to give the thickness ratio. Once the thickness of both the InGaN and GaN layers has been established, the InGaN composition can be determined from the peak positions. If the quality of the samples is poor, because of inhomogeneities or wide diffuse interfaces, there are insufficient data to characterize the structures. There is good agreement between the composition of the epilayer as determined by XRD and secondary ion mass spectroscopy and good agreement between x-ray and electron microscopy results for the quantum wellstructures. We find no variation from Vegard's rule for In contents less than 0.20. This article shows that structural parameters of high-quality InGaN/GaN superlattices with 10 and 5 repeats can be determined reliably by x-ray techniques: The InGaN and GaN thicknesses to ±1 {\AA} and the In content to ±0.01.},
+  doi =             {10.1063/1.1587251},
+  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/LED Spot/DRIP Paper/References/1.1587251.pdf:pdf},
+  issn =            {00218979},
+  mendeley-groups = {DRIP Paper,thesis}
+}
+
 @Article{VicoTrivino2012,
   author =          {{Vico Triviño}, N. and Rossbach, G. and Dharanipathy, U. and Levrat, J. and Castiglia, a. and Carlin, J.-F. and Atlasov, K. a. and Butté, R. and Houdré, R. and Grandjean, N.},
   title =           {{High quality factor two dimensional GaN photonic crystal cavity membranes grown on silicon substrate}},
@@ -2993,21 +3554,6 @@
   file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Visconti et al. - 2000 - Dislocation density in GaN determined by photoelectrochemical and hot-wet etching(2).pdf:pdf},
   issn =            {00036951},
   mendeley-groups = {JAP special topic/PEC,thesis},
-  url =             {http://scitation.aip.org/content/aip/journal/apl/77/22/10.1063/1.1329330}
-}
-
-@Article{Visconti2000a,
-  author =          {Visconti, P. and Jones, K. M. and Reshchikov, M. a. and Cingolani, R. and Morkoç, H. and Molnar, R. J.},
-  title =           {{Dislocation density in GaN determined by photoelectrochemical and hot-wet etching}},
-  journal =         {Applied Physics Letters},
-  year =            {2000},
-  volume =          {77},
-  number =          {22},
-  pages =           {3532},
-  doi =             {10.1063/1.1329330},
-  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Visconti et al. - 2000 - Dislocation density in GaN determined by photoelectrochemical and hot-wet etching.pdf:pdf},
-  issn =            {00036951},
-  mendeley-groups = {Microdisks,JAP special topic,thesis},
   url =             {http://scitation.aip.org/content/aip/journal/apl/77/22/10.1063/1.1329330}
 }
 
@@ -3073,6 +3619,34 @@
   file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/LED Spot/DRIP Paper/References/1.4890497.pdf:pdf},
   issn =            {10897550},
   mendeley-groups = {DRIP Paper,thesis}
+}
+
+@Article{Wallace2014,
+  author =          {Wallace, M. J. and Edwards, P. R. and Kappers, M. J. and Hopkins, M. a. and Oehler, F. and Sivaraya, S. and Allsopp, D. W E and Oliver, R. a. and Humphreys, C. J. and Martin, R. W.},
+  title =           {{Bias dependence and correlation of the cathodoluminescence and electron beam induced current from an InGaN/GaN light emitting diode}},
+  journal =         {Journal of Applied Physics},
+  year =            {2014},
+  volume =          {116},
+  number =          {3},
+  doi =             {10.1063/1.4890497},
+  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/LED Spot/DRIP Paper/References/1.4890497.pdf:pdf},
+  issn =            {10897550},
+  mendeley-groups = {DRIP Paper,thesis}
+}
+
+@Article{Wallace2015,
+  author =          {Wallace, M. J. and Edwards, P. R. and Kappers, M. J. and Hopkins, M. a. and Oehler, F. and Sivaraya, S. and Oliver, R. a. and Humphreys, C. J. and Allsopp, D. W. E. and Martin, R. W.},
+  title =           {{Effect of the barrier growth mode on the luminescence and conductivity micron scale uniformity of InGaN light emitting diodes}},
+  journal =         {Journal of Applied Physics},
+  year =            {2015},
+  volume =          {117},
+  number =          {11},
+  pages =           {115705},
+  doi =             {10.1063/1.4915628},
+  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/LED Spot/DRIP Paper/References/1.4915628.pdf:pdf},
+  issn =            {0021-8979},
+  mendeley-groups = {DRIP Paper,thesis},
+  url =             {http://scitation.aip.org/content/aip/journal/jap/117/11/10.1063/1.4915628}
 }
 
 @Article{Wallace2015,
@@ -3157,6 +3731,23 @@
   pmid =            {22418149}
 }
 
+@Article{Wang2012,
+  author =          {Wang, Huining and Ji, Ziwu and Qu, Shuang and Wang, Gang and Jiang, Yongzhi and Liu, Baoli and Xu, Xiangang and Mino, Hirofumi},
+  title =           {{Influence of excitation power and temperature on photoluminescence in InGaN/GaN multiple quantum wells}},
+  journal =         {Optics Express},
+  year =            {2012},
+  volume =          {20},
+  number =          {4},
+  pages =           {3932},
+  abstract =        {Excitation power and temperature dependences of the photoluminescence (PL) spectra are studied in InGaN/GaN multiple quantum wells (MQWs). The excitation power dependences of the PL peak energy and linewidth indicate that the emission process of the MQWs is dominated first by the Coulomb screening effect and then by the localized states filling at low temperature, and that the nonradiative centers are thermally activated in low excitation range at room temperature. The anomalous temperature dependences of the peak energy and linewidth are well explained by the localized carrier hopping and thermalization process, and by the exponentially increased density of states with energy in the band tail. Moreover, it is also found that internal quantum efficiency is related to the mechanism conversion from nonradiative to radiative mechanism, and up to the carriers escaping from localized states.},
+  doi =             {10.1364/OE.20.003932},
+  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/LED Spot/DRIP Paper/References/oe-20-4-3932.pdf:pdf},
+  isbn =            {1094-4087 (Electronic) 1094-4087 (Linking)},
+  issn =            {1094-4087},
+  mendeley-groups = {DRIP Paper,JAP special topic/Response,thesis},
+  pmid =            {22418149}
+}
+
 @Article{Weimann1998,
   author =          {Weimann, Nils G. and Eastman, Lester F. and Doppalapudi, Dharanipal and Ng, Hock M. and Moustakas, Theodore D.},
   title =           {{Scattering of electrons at threading dislocations in GaN}},
@@ -3188,6 +3779,21 @@
   isbn =            {0163-1829},
   issn =            {10980121},
   mendeley-groups = {JAP special topic/Response,thesis}
+}
+
+@Article{Won2010,
+  author =          {Won, Dongjin and Weng, Xiaojun and Redwing, Joan M.},
+  title =           {{Effect of indium surfactant on stress relaxation by V-defect formation in GaN epilayers grown by metalorganic chemical vapor deposition}},
+  journal =         {Journal of Applied Physics},
+  year =            {2010},
+  volume =          {108},
+  number =          {9},
+  abstract =        {The effect of indium surfactant on the stress in GaN films grown on SiC at 950 degrees C by metalorganic chemical vapor deposition was investigated using a combination of in situ wafer curvature measurements and ex situ high resolution x-ray diffraction (HRXRD). As the molar flow rate of trimethylindium was varied from 0 to 4.5 mu mol/min during growth, the real-time stress measurements showed that the mean compressive stress of the GaN films decreased from -0.60 to -0.30 GPa. The lattice constants of the GaN epilayers determined by HRXRD confirmed the stress relaxation promoted by the presence of indium while the rocking curve measurements showed that the threading dislocation (TD) density of GaN films remains nearly unchanged. Atomic force microscopy measurements showed that the indium improved step-flow growth, but simultaneously it drove V-defect formation on the GaN surface, which plays a critical role in stress relaxation of GaN films. Cross-sectional transmission electron microscopy revealed the minor contribution of plastic dislocation motion to stress relaxation by localized TD bending toward V-defects. A nucleation and growth model for the V-defect formation was developed to explain that V-defects are energetically favorable to form at TDs under indium-rich conditions. This model shows that the energy barrier for V-defect formation is significantly reduced when indium is present, which leads to the relaxation of misfit strain energy by increasing the size and density of V-defects. Initiation of V-defects and the role of TDs in V-defect formation are discussed based on the presented model. (C) 2010 American Institute of Physics. [doi:10.1063/1.3487955]},
+  doi =             {10.1063/1.3487955},
+  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/LED Spot/DRIP Paper/References/1.3487955.pdf:pdf},
+  isbn =            {0021-8979},
+  issn =            {00218979},
+  mendeley-groups = {DRIP Paper,thesis}
 }
 
 @Article{Won2010,
@@ -3247,36 +3853,18 @@
   mendeley-groups = {thesis}
 }
 
-@Article{Wu2002,
-  author =          {Wu, J. and Walukiewicz, W. and Yu, K. M. and Ager, J. W. and Haller, E. E. and Lu, Hai and Schaff, William J.},
-  title =           {{Small band gap bowing in In1-xGaxN alloys}},
+@Article{Wu2014,
+  author =          {Wu, Xiaoming and Liu, Junlin and Quan, Zhijue and Xiong, Chuanbing and Zheng, Changda and Zhang, Jianli and Mao, Qinghua and Jiang, Fengyi},
+  title =           {{Electroluminescence from the sidewall quantum wells in the V-shaped pits of InGaN light emitting diodes}},
   journal =         {Applied Physics Letters},
-  year =            {2002},
-  volume =          {80},
-  number =          {25},
-  pages =           {4741--4743},
-  abstract =        {High-quality wurtzite-structured In-rich In1-xGaxN films (0less than or equal toxless than or equal to0.5) have been grown on sapphire substrates by molecular beam epitaxy. Their optical properties were characterized by optical absorption and photoluminescence spectroscopy. The investigation reveals that the narrow fundamental band gap for InN is near 0.8 eV and that the band gap increases with increasing Ga content. Combined with previously reported results on the Ga-rich side, the band gap versus composition plot for In1-xGaxN alloys is well fit with a bowing parameter of similar to1.4 eV. The direct band gap of the In1-xGaxN system covers a very broad spectral region ranging from near-infrared to near-ultraviolet. (C) 2002 American Institute of Physics.},
-  doi =             {10.1063/1.1489481},
-  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Wu et al. - 2002 - Small band gap bowing in In1-xGaxN alloys.pdf:pdf},
-  isbn =            {0003-6951},
+  year =            {2014},
+  volume =          {104},
+  number =          {22},
+  abstract =        {InGaN/GaN multi-quantum well (MQW) light emitting diodes with heavily Mg doped and unintentionally doped (UID) low-temperature Al0.2Ga0.8N electron blocking layer (EBL) were investigated. Broad short-wavelength electroluminescence peak, which has strong relative intensity to the main emission, was found in the UID-EBL sample at cryogenic temperatures. Study suggests that the broad peak is emitted by the sidewall MQWs. This result indicates that the electroluminescence of sidewall MQWs, in which the carrier density is high enough, can be detected at cryogenic temperatures. The lineshape variation with current density reveals detailed information on the process of carrier injection into the sidewall MQWs.},
+  doi =             {10.1063/1.4880731},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Wu et al. - 2014 - Electroluminescence from the sidewall quantum wells in the V-shaped pits of InGaN light emitting diodes.pdf:pdf},
   issn =            {00036951},
-  mendeley-groups = {thesis}
-}
-
-@Article{Wu2002,
-  author =          {Wu, J. and Walukiewicz, W. and Yu, K. M. and Ager, J. W. and Haller, E. E. and Lu, Hai and Schaff, William J.},
-  title =           {{Small band gap bowing in In1-xGaxN alloys}},
-  journal =         {Applied Physics Letters},
-  year =            {2002},
-  volume =          {80},
-  number =          {25},
-  pages =           {4741--4743},
-  abstract =        {High-quality wurtzite-structured In-rich In1-xGaxN films (0less than or equal toxless than or equal to0.5) have been grown on sapphire substrates by molecular beam epitaxy. Their optical properties were characterized by optical absorption and photoluminescence spectroscopy. The investigation reveals that the narrow fundamental band gap for InN is near 0.8 eV and that the band gap increases with increasing Ga content. Combined with previously reported results on the Ga-rich side, the band gap versus composition plot for In1-xGaxN alloys is well fit with a bowing parameter of similar to1.4 eV. The direct band gap of the In1-xGaxN system covers a very broad spectral region ranging from near-infrared to near-ultraviolet. (C) 2002 American Institute of Physics.},
-  doi =             {10.1063/1.1489481},
-  file =            {:C$\backslash$:/Users/cr458/Documents/GitHub/Thesis/Ch1Refs/1.1489481.pdf:pdf},
-  isbn =            {0003-6951},
-  issn =            {00036951},
-  mendeley-groups = {thesis}
+  mendeley-groups = {DRIP Paper,thesis}
 }
 
 @Article{Wu2014,
@@ -3324,6 +3912,23 @@
   isbn =            {0003-6951},
   issn =            {00036951},
   mendeley-groups = {JAP special topic/Response,thesis}
+}
+
+@Article{Yam2008,
+  author =          {Yam, F. K. and Hassan, Z.},
+  title =           {{InGaN: An overview of the growth kinetics, physical properties and emission mechanisms}},
+  journal =         {Superlattices and Microstructures},
+  year =            {2008},
+  volume =          {43},
+  number =          {1},
+  pages =           {1--23},
+  abstract =        {This article reviews the fundamental properties of InGaN materials. The growth kinetics associated with the growth parameters, such as growth temperatures, V/III ratios, and growth rates which influence the quality of the InGaN epilayers, are briefly described. An overview of the properties of the InGaN alloys, such as the optical, structural and electrical characteristics, is presented. The design and fabrication of novel optoelectronic device structures require an accurate knowledge of the band gap as a function of alloy composition; therefore, attention is paid to Vegard's law and the bowing parameter; in addition, the major factors leading to the uncertainties of the bowing parameter of InGaN are addressed. Apart from that, the determination of indium composition by X-ray diffraction (XRD) using different assumptions and various equations are summarized. The erroneous measurements of the indium composition by using this technique are also described. Finally, different emission mechanisms of the strained InGaN quantum wells proposed by different groups of researchers are also discussed. ?? 2007 Elsevier Ltd. All rights reserved.},
+  doi =             {10.1016/j.spmi.2007.05.001},
+  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/LED Spot/DRIP Paper/References/1-s2.0-S0749603607001450-main.pdf:pdf},
+  isbn =            {0749-6036},
+  issn =            {07496036},
+  keywords =        {Bowing parameter,Emission mechanisms,Growth kinetics,InGaN,Physical properties},
+  mendeley-groups = {DRIP Paper,thesis}
 }
 
 @Article{Yam2008,
@@ -3438,23 +4043,11 @@
   mendeley-groups = {IOM3 Lit Review/LED,GaN/CPGS/Challenges,thesis}
 }
 
-@Article{Zhang2010,
-  author =          {Zhang, Shuai and Shi, Jun Jie and Zhu, Shang Guo and Wang, Fei and Yang, Mao and Bao, Zhi Qiang},
-  title =           {{Indium distribution and light emission in wurtzite InGaN alloys: Several-atom In-N clusters}},
-  journal =         {Physics Letters, Section A: General, Atomic and Solid State Physics},
-  year =            {2010},
-  volume =          {374},
-  number =          {47},
-  pages =           {4767--4773},
-  abstract =        {Considering various In distributions, we investigate electronic structures and light emission of wurtzite InxGa1 - xN (0???x???1) alloys. We find InxGa1 - xN forms a random alloy, in which many several-atom In-N clusters and short In-N- chains can exist. Small In-N clusters, especially in-plane ones, strongly localize valence electrons and dominate light emission in Ga-rich InxGa1 - xN alloys, which is consistent with experiments. ?? 2010 Elsevier B.V.},
-  doi =             {10.1016/j.physleta.2010.09.058},
-  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Zhang et al. - 2010 - Indium distribution and light emission in wurtzite InGaN alloys Several-atom In-N clusters.pdf:pdf},
-  isbn =            {0375-9601},
-  issn =            {03759601},
-  keywords =        {Electronic structure,InGaN alloy,Luminescence mechanism,Several-atom In-N cluster},
-  mendeley-groups = {thesis},
-  publisher =       {Elsevier B.V.},
-  url =             {http://dx.doi.org/10.1016/j.physleta.2010.09.058}
+@PhdThesis{Zhang2008,
+  author = {Yucheng Zhang},
+  title =  {Characterisation of GaN using Transmission Electron Microscopy},
+  school = {University of Cambridge},
+  year =   {2008}
 }
 
 @Article{Zhang2010,

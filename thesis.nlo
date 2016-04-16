@@ -8,3 +8,7 @@
 \nomenclatureentry{z-FIBTFIBT@[{FIBT}]\begingroup Focussed Ion Beam Tomography\nomeqref {1.0}|nompageref}{2}
 \nomenclatureentry{z-InNInN@[{InN}]\begingroup Indium Nitride\nomeqref {1.1}|nompageref}{3}
 \nomenclatureentry{z-AlNAlN@[{AlN}]\begingroup Aluminium Nitride\nomeqref {1.1}|nompageref}{3}
+\nomenclatureentry{z-BSFBSF@[{BSF}]\begingroup Basal-plane Stacking Fault\nomeqref {1.7}|nompageref}{13}
+\nomenclatureentry{z-PSFPSF@[{PSF}]\begingroup Prismatic Stacking Fault\nomeqref {1.7}|nompageref}{13}
+\nomenclatureentry{z-PDPD@[{PD}]\begingroup Partial Dislocation\nomeqref {1.7}|nompageref}{13}
+\nomenclatureentry{z-EBLEBL@[{EBL}]\begingroup Electron Blocking Layer\nomeqref {1.7}|nompageref}{16}
