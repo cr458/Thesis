@@ -2,32 +2,34 @@
 \contentsline {chapter}{List of figures}{xiii}{chapter*.5}
 \contentsline {chapter}{List of tables}{xv}{chapter*.6}
 \contentsline {chapter}{Nomenclature}{xvii}{chapter*.7}
-\contentsline {chapter}{Nomenclature}{xix}{chapter*.8}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}III-Nitride Material Properties }{2}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Crystal Structure}{2}{subsection.1.1.1}
 \contentsline {subsection}{\numberline {1.1.2}Band Structure}{4}{subsection.1.1.2}
-\contentsline {subsubsection}{Quantum Confinement Effects}{5}{section*.13}
+\contentsline {subsubsection}{Quantum Confinement Effects}{5}{section*.12}
 \contentsline {subsection}{\numberline {1.1.3}Built-in Fields}{6}{subsection.1.1.3}
-\contentsline {subsubsection}{The Quantum Confined Stark Effect}{8}{section*.18}
+\contentsline {subsubsection}{The Quantum Confined Stark Effect}{8}{section*.17}
 \contentsline {subsection}{\numberline {1.1.4}Defects in III-nitrides}{9}{subsection.1.1.4}
-\contentsline {subsubsection}{0-D Defects}{10}{section*.20}
-\contentsline {subsubsection}{1-D Defects}{11}{section*.22}
-\contentsline {section}{\numberline {1.2}III-nitride Cavities }{12}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Cavity characteristics}{12}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Cavity Designs}{12}{subsection.1.2.2}
-\contentsline {chapter}{\numberline {2}Experimental Methods}{13}{chapter.2}
-\contentsline {section}{\numberline {2.1}Atomic Force Microscopy}{14}{section.2.1}
-\contentsline {section}{\numberline {2.2}Hyperspectral Electroluminescence Mapping}{14}{section.2.2}
-\contentsline {section}{\numberline {2.3}Scanning Electron Microscopy and Cathodoluminescence}{14}{section.2.3}
-\contentsline {section}{\numberline {2.4}Photoluminescence}{14}{section.2.4}
-\contentsline {section}{\numberline {2.5}Dual Beam Scanning Electron microscopy with a Focussed Ion Beam}{14}{section.2.5}
-\contentsline {subsection}{\numberline {2.5.1}Fabrication}{14}{subsection.2.5.1}
-\contentsline {subsection}{\numberline {2.5.2}Tomography}{14}{subsection.2.5.2}
-\contentsline {section}{\numberline {2.6}Transmisson Electron Microscopy}{14}{section.2.6}
-\contentsline {subsection}{\numberline {2.6.1}Tomography}{14}{subsection.2.6.1}
-\contentsline {chapter}{\numberline {3}Inhomogeneous Electroluminescence in InGaN QW LEDs}{19}{chapter.3}
-\contentsline {section}{\numberline {3.1}Short title}{19}{section.3.1}
-\contentsline {chapter}{References}{25}{chapter*.30}
-\contentsline {chapter}{Appendix \numberline {A}How to install \LaTeX }{27}{Appendix.a.A}
-\contentsline {chapter}{Appendix \numberline {B}Installing the CUED class file}{31}{Appendix.a.B}
+\contentsline {subsubsection}{0-D Defects}{10}{section*.19}
+\contentsline {subsubsection}{1-D Defects}{11}{section*.21}
+\contentsline {subsubsection}{2-D Defects}{13}{section*.24}
+\contentsline {subsubsection}{3-D Defects}{14}{section*.27}
+\contentsline {section}{\numberline {1.2}III-nitride Devices }{15}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Light Emitting Diodes}{15}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Microcavities}{16}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Nanowire Devices}{17}{subsection.1.2.3}
+\contentsline {chapter}{\numberline {2}Experimental Methods}{19}{chapter.2}
+\contentsline {section}{\numberline {2.1}Atomic Force Microscopy}{20}{section.2.1}
+\contentsline {section}{\numberline {2.2}Hyperspectral Electroluminescence Mapping}{20}{section.2.2}
+\contentsline {section}{\numberline {2.3}Scanning Electron Microscopy and Cathodoluminescence}{20}{section.2.3}
+\contentsline {section}{\numberline {2.4}Photoluminescence}{20}{section.2.4}
+\contentsline {section}{\numberline {2.5}Dual Beam Scanning Electron microscopy with a Focussed Ion Beam}{20}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Fabrication}{20}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Tomography}{20}{subsection.2.5.2}
+\contentsline {section}{\numberline {2.6}Transmisson Electron Microscopy}{20}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Tomography}{20}{subsection.2.6.1}
+\contentsline {chapter}{\numberline {3}Inhomogeneous Electroluminescence in InGaN QW LEDs}{25}{chapter.3}
+\contentsline {section}{\numberline {3.1}Short title}{25}{section.3.1}
+\contentsline {chapter}{References}{31}{chapter*.39}
+\contentsline {chapter}{Appendix \numberline {A}How to install \LaTeX }{35}{Appendix.a.A}
+\contentsline {chapter}{Appendix \numberline {B}Installing the CUED class file}{39}{Appendix.a.B}

@@ -70,14 +70,14 @@ T.~J. Puchtler, A.~Woolf, T.~Zhu, D.~Gachet, E.~L. Hu, and R.~a. Oliver,
   ``{Effect of Threading Dislocations on the Quality Factor of InGaN/GaN
   Microdisk Cavities},'' {\em ACS Photonics}, vol.~2, pp.~137--143, 2015.
 
+\bibitem{Ren2015}
+C.~X. Ren, ``{Polarisation fields in III-nitrides: effects and control},'' {\em
+  Materials Science and Technology}, vol.~00, no.~0, p.~1743284715Y.000, 2015.
+
 \bibitem{Ambacher2002}
 O.~Ambacher and J.~Majewski, ``{Pyroelectric properties of Al (In) GaN/GaN
   hetero-and quantum well structures},'' {\em Journal of physics: {\ldots}},
   vol.~3399, 2002.
-
-\bibitem{Ren2015}
-C.~X. Ren, ``{Polarisation fields in III-nitrides: effects and control},'' {\em
-  Materials Science and Technology}, vol.~00, no.~0, p.~1743284715Y.000, 2015.
 
 \bibitem{Sumiya2004}
 M.~Sumiya and S.~Fuke, ``{Review of polarity determination and control of
@@ -118,6 +118,53 @@ J.~H. Ryou, P.~D. Yoder, J.~Liu, Z.~Lochner, H.~S. Kim, S.~Choi, H.~J. Kim, and
 \bibitem{Reshchikov2005}
 M.~A. Reshchikov and H.~Morko, ``{Luminescence properties of defects in GaN},''
   {\em Journal of Applied Physics}, vol.~97, no.~6, 2005.
+
+\bibitem{Ning1996}
+X.~Ning and F.~Chien, ``{Growth defects in GaN films on sapphire: The probable
+  origin of threading dislocations},'' {\em Journal of materials {\ldots}},
+  no.~0001, 1996.
+
+\bibitem{Oliver2008a}
+R.~A. Oliver, M.~J. Kappers, C.~McAleese, R.~Datta, J.~Sumner, and C.~J.
+  Humphreys, ``{The origin and reduction of dislocations in Gallium Nitride},''
+  {\em Journal of Materials Science: Materials in Electronics}, vol.~19,
+  pp.~208--214, mar 2008.
+
+\bibitem{Liu2011}
+L.~Z.-Y. Liu, {\em Advanced Transmission Electron Microscopy of GaN-based
+  Materials and Devices}.
+\newblock PhD thesis, University of Cambridge, 2011.
+
+\bibitem{Rebane1997}
+Y.~Rebane, Y.~Shreter, and M.~Albrecht, ``{Stacking Faults as Quantum Wells for
+  Excitons in Wurtzite GaN},'' {\em Physica Status Solidi (a)}, vol.~164,
+  no.~141, 1997.
+
+\bibitem{Hangleiter2005}
+A.~Hangleiter, F.~Hitzel, C.~Netzel, D.~Fuhrmann, U.~Rossow, G.~Ade, and
+  P.~Hinze, ``{Suppression of nonradiative recombination by V-shaped pits in
+  GaInN/GaN quantum wells produces a large increase in the light emission
+  efficiency},'' {\em Physical Review Letters}, vol.~95, no.~12, pp.~1--4,
+  2005.
+
+\bibitem{Han2013}
+S.~H. Han, D.~Y. Lee, H.~W. Shim, J.~{Wook Lee}, D.~J. Kim, S.~Yoon, Y.~{Sun
+  Kim}, and S.~T. Kim, ``{Improvement of efficiency and electrical properties
+  using intentionally formed V-shaped pits in InGaN/GaN multiple quantum well
+  light-emitting diodes},'' {\em Applied Physics Letters}, vol.~102, no.~25,
+  2013.
+
+\bibitem{Tsai2007}
+H.-L. Tsai, T.-Y. Wang, J.-R. Yang, C.-C. Chuo, J.-T. Hsu, Z.-C. Feng, and
+  M.~Shiojiri, ``{Observation of V Defects in Multiple InGaN/GaN Quantum Well
+  Layers},'' {\em Materials Transactions}, vol.~48, no.~5, pp.~894--898, 2007.
+
+\bibitem{Christopoulos2007}
+S.~Christopoulos, G.~B.~H. von H{\"{o}}gersthal, a.~J.~D. Grundy, P.~G.
+  Lagoudakis, a.~V. Kavokin, J.~J. Baumberg, G.~Christmann, R.~Butt{\'{e}},
+  E.~Feltin, J.-F. Carlin, and N.~Grandjean, ``{Room-Temperature Polariton
+  Lasing in Semiconductor Microcavities},'' {\em Physical Review Letters},
+  vol.~98, no.~12, p.~126405, 2007.
 
 \bibitem{Albrecht2008}
 M.~Albrecht, J.~L. Weyher, B.~Lucznik, I.~Grzegory, and S.~Porowski,
