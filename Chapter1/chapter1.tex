@@ -363,9 +363,96 @@ The existence of TDs as non-radiative recombination centres has been well docume
 %********************************** %Second Section  **************************************
 \section{III-nitride Devices } %Section - 1.1 
 \subsection{Light Emitting Diodes}
+Light emitting diodes (LEDs) are the most common application of III-nitride materials. These devices typically consist of a {p-n} junction. This consists of material containing excess acceptor ({\it p}-doped) and another containing excess donor impurities ({\it n}-doped) which are brought into contact. This allows holes from the {\it p}-type material and electrons from the {\it n}-type material to diffuse across the junction until an equilibrium state is reached, a region where the electric field from the charged dopants on either side prevents diffusion is formed known as the depletion region. The application of forward bias reduces the built-in potential across the depletion region and allows for the flow of electrons and holes across the junction, as shown schematically in Fig.\ref{1.10}.
+\begin{figure}[h]
+		\hspace*{1cm}
+	\begin{subfigure}[t]{0.4\textwidth}
+		\centering
+		\includegraphics[width = 1\textwidth]{Figs/Ch1/pn1.png}
+		\caption{}
+	\end{subfigure}%
+	\hspace*{1cm}
+	~	
+	\begin{subfigure}[t]{0.4\textwidth}
+		\centering
+		\includegraphics[width=1\textwidth]{Figs/Ch1/pn2.png}
+		\caption{}
+	\end{subfigure}
+	\caption {a) {\it p-n} junction at equilibrium, with the conduction band, Fermi level and valence band denoted $E_{c},E_{F}$ and $E_{v}$ respectively, the built in potential across the junction is denoted as $V_{bi}$ b) under forward bias of V.}
+	\label{1.10}
+\end{figure}
+\FloatBarrier
 
-\subsection{Cavities}
+A schematic of a general LED structure is shown in Fig.\ref{1.11}. Visible light LED structures typically contain a magnesium doped {\it p}-region and a silicon doped {\it n}-region. An electron blocking layer \nomenclature[z-EBL]{EBL}{Electron Blocking Layer} (EBL) consisting of a material with a higher bandgap than GaN ( in this case AlGaN) is used to prevent the leakage of electrons into the {\it p}-doped region and confine them in the InGaN QW active region.
 
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.3\textwidth]{Figs/Ch1/led.png}
+	\caption {Typical visible light LED structure grown on a sapphire substrate \cite{Ren2015}.}
+	\label{1.11}
+\end{figure}
+\FloatBarrier 
+
+\subsection{Microcavities}
+
+Microcavity integrated emitters possess extraordinary optical properties: matching the dimensions of the cavity to the order of the wavelength of the confined light produces various effects in III-nitride devices such as low-threshold lasing, enhanced non-linear conversion and directional luminescence \cite{Christopoulos2007}. Confining a dipole within a microcavity modifies its emissive properties by altering the photon density of states. This is accomplished by effectively creating standing optical waves within the cavity through constructive interference. The resonant field is thus enhanced through spatially localised interference peaks, which can be generated either by single interfaces (total internal reflection), or periodic regions giving interference-based reflection. \\ The ability of a microcavity to confine light is thus a crucial parameter in producing the required effects, known as the cavity 'quality factor', as described by Eq.~\ref{Q-fac}.
+
+\begin{equation}\label{Q-fac}
+Q = \frac{\nu_{0}}{\delta\nu_{0}}
+\end{equation}
+
+Where $\nu_{0}$ is the resonant frequency of the cavity mode and $\delta\nu_{0}$ is the mode bandwidth. Cavity quality factor can be understood as a parameter describing the rate of energy decay the resonant mode undergoes within the cavity and thus may be alternatively described using an exponential characteristic decay constant $\tau_{cav}$ as shown in Eq.\ref{exp}, where $Q^{-1}$ is the proportion of energy lost during a single cavity round-trip.
+
+\begin{equation}\label{exp}
+Q = \pi\tau_{cav} \nu_{0}
+\end{equation}
+
+The manner in which the resonant mode fields interact with the cavity geometry is also determined by the effective modal volume of the cavity, which is described by Eq.\ref{mode}.
+
+\begin{equation}\label{mode}
+V_{eff}= \int_{V}\frac{\epsilon_{0}(\mathbf{r})|\mathbf{E}(\mathbf{r})|^{2}}{max[\epsilon_{0}(\mathbf{r})|\mathbf{E}(\mathbf{r})|^{2}]}dV
+\end{equation}
+
+where $|\mathbf{E}(\mathbf{r})|^{2}$ is the normalised electric field amplitude, $\epsilon_{0}$ is the dielectric constant and V is the quantization volume. $V_{eff}$ describes the manner in which cavity supports the distribution of the resonant mode, thus in some cases a large evanescent field component must be included in the calculation of the modal volume.
+\\ Cavities often support more than one optical mode, which gives rise to another parameter, known as the free spectral range \nomenclature[z-FSR]{FSR}{Free Spectral Range} (FSR), which is defined as the frequency spacing between successive resonant modes. This parameter is crucial to lasing cavities as the probability of photon into a lasing mode is affected by the number of modes supported by the cavity. The FSR as well as parameters needed to define cavity quality factor are shown schematically in Fig.\ref{1.12}. 
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.9\textwidth]{Figs/Ch1/modes.png}
+	\caption {Illustration of the some key parameters such as FSR and resonant cavity mode FWHM. }
+	\label{1.12}
+\end{figure}
+\FloatBarrier 
+
+\subsubsection{Microcavity Designs}
+
+Cavities modify the optical density of states of an emitter through the generation of standing electromagnetic waves as previously discussed. There are several manners through which to achieve this: at the most basic level an optical cavity is a set of single reflective interfaces, spaced at a specific distance designed to enhance a particular optical mode. However, many cavity designs which employ the use of refractive index mismatches for total internal reflection or an array of boundaries leading to interference enhanced optical modes also exist, as shown in Fig.\ref{1.13}.
+\begin{figure}
+	\begin{subfigure}[b]{0.3\textwidth}
+		\centering
+		\includegraphics[width=.75\linewidth]{Figs/Ch1/mdisk}
+		\caption{Total internal reflection}
+		
+	\end{subfigure}%
+	\hspace*{0.5cm}
+	\begin{subfigure}[b]{0.3\textwidth}
+		\centering
+		\includegraphics[width=.85\linewidth]{Figs/Ch1/dbr}
+		\caption{1-D interference}
+		
+	\end{subfigure}%
+	\hspace*{0.5cm}
+	\begin{subfigure}[b]{0.3\textwidth}
+		\centering
+		\includegraphics[width=.85\linewidth]{Figs/Ch1/pcc}
+		\caption{2-D interference}
+	\end{subfigure}%
+	
+	\caption{Optical resonators.}
+	\label{1.13}
+\end{figure}
+
+\FloatBarrier
 
 \subsection{Nanowire Devices}
 
