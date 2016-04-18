@@ -10,23 +10,23 @@ The style file: ieeetr.bst
 A level-1 auxiliary file: Appendix1/appendix1.aux
 A level-1 auxiliary file: Appendix2/appendix2.aux
 Database file #1: thesis.bib
-Repeated entry---line 70 of file thesis.bib
+Repeated entry---line 85 of file thesis.bib
  : @article{Albrecht2008
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1044 of file thesis.bib
+Repeated entry---line 1059 of file thesis.bib
  : @article{Han2013
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2624 of file thesis.bib
+Repeated entry---line 2639 of file thesis.bib
  : @article{Ren2015
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3431 of file thesis.bib
+Repeated entry---line 3446 of file thesis.bib
  : @article{Tsai2007
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3497 of file thesis.bib
+Repeated entry---line 3512 of file thesis.bib
  : @article{Vickers2003
  :                     ,
 I'm skipping whatever remains of this entry
