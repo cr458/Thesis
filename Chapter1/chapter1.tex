@@ -459,7 +459,28 @@ Cavities modify the optical density of states of an emitter through the generati
 \subsubsection{Microdisk Cavities}
 
 Total internal reflection can be exploited in circular geometries such as microdisk/ring/sphere devices, in which whispering gallery modes \nomenclature[z-WGM]{WGM}{Whispering Gallery Mode} (FSR) (WGMs) propagate around the periphery of the disk.\\
-Microdisks can be described as a cylinder of with a low height:radius ratio
+Microdisks can be described as a cylinder of with a low height:radius ratio supported by a pillar of a small radius ( less than half of the cylinder). The position of the WGMs is described by Snell's law: only light satisfying the condition described by Eq.\ref{eq1} is contained within the microdisk due to internal reflection.
+
+\begin{equation} \label{eq1}
+\theta_{c}=sin^{-1}(\frac{n_{2}}{n_{1}})
+\end{equation}
+
+Assuming the microdisk thickness is small enough to act as a waveguide in the vertical direction, we can consider the propagation of a ray of light in 2-D as in Fig.\ref{1.14}. The forbidden position of the WGMs as defined by Eq.\ref{eq1} is given by $R_{min}$.
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.5\textwidth]{Figs/Ch1/mdiskray.png}
+	\caption {Illustration of the minimum radius $R_{min}$ for WGM propagation. Rays traversing the region $r<R_{min}$ (denoted in red) exceed the critical angle $\theta_{c}$ and thus escape the cavity. Rays travelling outside this region $r>R_{min}$ (denoted in violet) are confined.  }
+	\label{1.14}
+\end{figure}
+\FloatBarrier 
+Thus the fabrication of microdisks relies heavily on the ability to 'undercut' the microdisk material whilst still leaving a pedestal, as shown in Fig.\ref{1.15}. This is a particularly difficult problem to address in terms of III-nitride materials due to the excellent thermal ande chemical stability of GaN.  Early efforts in microdisk nitride fabrication involved dry-etching processes, utilising the refractive index mismatch between the light emitting GaN layers and the sapphire substrate to confine light \cite{Tamboli2007}. Although stimulated emission and lasing was observed by Chang {\it et al}. in dry-etched GaN microdisk cavities \cite{Chang1999}, Haberer {\it et al}. \cite{Haberer2004} reduced the required excitation power densities for lasing by an order of magnitude by employing photoelectrochemical (PEC) etching to undercut GaN microdisks, thus providing superior optical confinement due to the index contrast of the GaN/air interface  relative to the GaN/sapphire interface used by Chang {\it et al}. \cite{Chang1999}. Further improvements in fabrication were achieved by Tamboli et al. with room temperature lasing achieved in GaN/InGaN microdisks through enhancements in microdisk circularity and sidewall smoothness \cite{Tamboli2007}. 
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.5\textwidth]{Figs/Ch1/mdisksem.png}
+	\caption {Scanning electron microscope image of a GaN microdisk produced by selective etching of sacrificial AlInN layers \cite{Simeonov2008}.}
+	\label{1.15}
+\end{figure}
+\FloatBarrier 
 
 
 \subsubsection{Photonic Crystal Cavities}
