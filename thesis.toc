@@ -17,19 +17,20 @@
 \contentsline {section}{\numberline {1.2}III-nitride Devices }{15}{section.1.2}
 \contentsline {subsection}{\numberline {1.2.1}Light Emitting Diodes}{15}{subsection.1.2.1}
 \contentsline {subsection}{\numberline {1.2.2}Microcavities}{16}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {1.2.3}Nanowire Devices}{17}{subsection.1.2.3}
-\contentsline {chapter}{\numberline {2}Experimental Methods}{19}{chapter.2}
-\contentsline {section}{\numberline {2.1}Atomic Force Microscopy}{20}{section.2.1}
-\contentsline {section}{\numberline {2.2}Hyperspectral Electroluminescence Mapping}{20}{section.2.2}
-\contentsline {section}{\numberline {2.3}Scanning Electron Microscopy and Cathodoluminescence}{20}{section.2.3}
-\contentsline {section}{\numberline {2.4}Photoluminescence}{20}{section.2.4}
-\contentsline {section}{\numberline {2.5}Dual Beam Scanning Electron microscopy with a Focussed Ion Beam}{20}{section.2.5}
-\contentsline {subsection}{\numberline {2.5.1}Fabrication}{20}{subsection.2.5.1}
-\contentsline {subsection}{\numberline {2.5.2}Tomography}{20}{subsection.2.5.2}
-\contentsline {section}{\numberline {2.6}Transmisson Electron Microscopy}{20}{section.2.6}
-\contentsline {subsection}{\numberline {2.6.1}Tomography}{20}{subsection.2.6.1}
-\contentsline {chapter}{\numberline {3}Inhomogeneous Electroluminescence in InGaN QW LEDs}{25}{chapter.3}
-\contentsline {section}{\numberline {3.1}Short title}{25}{section.3.1}
-\contentsline {chapter}{References}{31}{chapter*.39}
-\contentsline {chapter}{Appendix \numberline {A}How to install \LaTeX }{35}{Appendix.a.A}
-\contentsline {chapter}{Appendix \numberline {B}Installing the CUED class file}{39}{Appendix.a.B}
+\contentsline {subsubsection}{Microcavity Designs}{18}{section*.33}
+\contentsline {subsection}{\numberline {1.2.3}Nanowire Devices}{19}{subsection.1.2.3}
+\contentsline {chapter}{\numberline {2}Experimental Methods}{21}{chapter.2}
+\contentsline {section}{\numberline {2.1}Atomic Force Microscopy}{22}{section.2.1}
+\contentsline {section}{\numberline {2.2}Hyperspectral Electroluminescence Mapping}{22}{section.2.2}
+\contentsline {section}{\numberline {2.3}Scanning Electron Microscopy and Cathodoluminescence}{22}{section.2.3}
+\contentsline {section}{\numberline {2.4}Photoluminescence}{22}{section.2.4}
+\contentsline {section}{\numberline {2.5}Dual Beam Scanning Electron microscopy with a Focussed Ion Beam}{22}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Fabrication}{22}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Tomography}{22}{subsection.2.5.2}
+\contentsline {section}{\numberline {2.6}Transmisson Electron Microscopy}{22}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Tomography}{22}{subsection.2.6.1}
+\contentsline {chapter}{\numberline {3}Inhomogeneous Electroluminescence in InGaN QW LEDs}{27}{chapter.3}
+\contentsline {section}{\numberline {3.1}Short title}{27}{section.3.1}
+\contentsline {chapter}{References}{33}{chapter*.42}
+\contentsline {chapter}{Appendix \numberline {A}How to install \LaTeX }{37}{Appendix.a.A}
+\contentsline {chapter}{Appendix \numberline {B}Installing the CUED class file}{41}{Appendix.a.B}
