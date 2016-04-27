@@ -65,7 +65,7 @@ Conductive atomic force microscopy \nomenclature[z-C-AFM]{C-AFM}{Conductive Atom
 %The SI Units for dynamic viscosity is \si{\newton\second\per\metre\squared}.
 
 
-\section{Scanning Electron Microscopy and Cathodoluminescence}
+\section{Scanning Electron Microscopy Techniques}
 
 A scanning electron microscope  \nomenclature[z-SEM]{SEM}{Scanning Electron Microscope} (SEM) employs the use of electrons to characterise material morphology and composition. A schematic of a typical SEM design is shown in Fig.\ref{2.4}.
 
@@ -78,7 +78,7 @@ A scanning electron microscope  \nomenclature[z-SEM]{SEM}{Scanning Electron Micr
 \FloatBarrier
 
 The electron gun generates a beam of electrons, typically of energy up to 30 keV. The condenser lenses situated below the gun serve to determine the probe size by adjusting the demagnification of the beam. The objective lens serves to further adjust this demagnification, and is situated directly above the specimen. The scanning coils serve to raster the electron probe across the sample, and the detector thus builds an image of the specimen by collecting various signals which occur due to the electron-specimen interactions.\\
-As the beam of electrons interacts with the specimen, various processes occur which generate characteristic signals, as shown in Fig.\ref{2.5}. The volume within the sample which contains the energy deposited by the electron beam is known as the interaction volume, the shape and size of which is determined by both the beam energy and sample composition. Inelastic scattering of the electrons results in the production of signals such as secondary electrons \nomenclature[z-SE]{SE}{Secondary Electron} (SEs), Auger electrons and characteristic X-rays. Elastic scattering can generate back scattered electrons \nomenclature[z-BSE]{BSE}{ Back Scattered Electron} (BSEs), which are collected through the surface on which the beam is incident. Due to the nature of elastic scattering, BSEs have a strong dependence on atomic, and are can thus be used to produce composition-dependent image contrast.
+As the beam of electrons interacts with the specimen, various processes occur which generate characteristic signals, as shown in Fig.\ref{2.5}. The volume within the sample which contains the energy deposited by the electron beam is known as the interaction volume, the shape and size of which is determined by both the beam energy and sample composition. Inelastic scattering of the electrons results in the production of signals such as secondary electrons \nomenclature[z-SE]{SE}{Secondary Electron} (SEs), Auger electrons and characteristic X-rays. Typically, it is the SEs which are used for imaging in SEMs. Elastic scattering can generate back scattered electrons \nomenclature[z-BSE]{BSE}{ Back Scattered Electron} (BSEs), which are collected through the surface on which the beam is incident. Due to the nature of elastic scattering, BSEs have a strong dependence on atomic, and are can thus be used to produce composition-dependent image contrast.
 
 \begin{figure}[h]
 	\centering
@@ -88,7 +88,44 @@ As the beam of electrons interacts with the specimen, various processes occur wh
 \end{figure}
 \FloatBarrier
 
+
+
 \subsubsection{Cathodoluminescence}
+
+The absorption of primary electrons in a semiconductor can generate electronic excitations, or electron-hole pairs, with light emission occurring as a consequence of their recombination. This process is known as cathodoluminescence \nomenclature[z-CL]{CL}{Cathodoluminescence}(CL). The electronic transitions which are associated with CL emission require lower energies than those needed to excite X-rays.\\
+\indent One of the principal advantages of CL in comparison with photo-excitation spectroscopy techniques used on semiconductors such as photoluminescence \nomenclature[z-PL]{PL}{Photoluminescence} (PL) is the limitation of the spatial resolution of the technique by the interaction volume of the elecctron beam in the material rather than diffraction which can be considered an intrinsic limitation of most optical far-field techniques \cite{Edwards2011}. As a result, nanometre-scale characterization of materials can be achieved.\\
+\indent Due to the large number of electron-hole pairs generated within the interaction volume of the impinging electron beam on a bulk semiconductor material,all possible transitions within the material tend to be excited, resulting in the crucial limitation of being unable to selectively excite transitions below a certain energy \cite{Edwards2011}. Nonetheless, the versatility of CL as a technique has been amply demonstrated in its ability to shed light on the composition of compound materials such as InGaN/GaN structures \cite{Martin2004}, carrier diffusion length and surface recombination rates \cite{Sercel1989} and even minority carrier lifetimes \cite{YacobiHolt1990}.\\
+\indent A schematic view of a set-up for CL imaging is show in Fig.\ref{2.6}:
+
+\begin{figure}[!ht]
+	\centering
+	\includegraphics[width=0.5\textwidth]{Figs/Ch2/CL.png}
+	\caption[h] {Schematic layout of a CL imaging system.}
+	\label{2.6}
+\end{figure}
+\FloatBarrier
+
+The electron beam is incident on the sample in the SEM chamber and results in the generation of photons which are collected by a parabolic mirror through a high vacuum feedthrough and coupled into a monochromator. Photomultiplier tubes (PMTs) are the most commonly used detector for this set-up. \\
+The most basic form of CL imaging is known as panchromatic imaging. In this case, the collected light in its entirety is directed to a single detector and the resulting greyscale image intensity is the product of the spectral response of the system and the emission spectrum \cite{Edwards2011}. An extension of this is the monochromatic imaging mode, in which case only a single band of wavelengths is imaged using a band-pass filter or spectrometer \cite{Edwards2011}.\\
+CL hyperspectral imaging, or CL wavelength imaging (CLWI) is an extension of the aforementioned technique whereby a full luminescence spectrum is recorded at each point during a beam scan, enabling the construction of a spatially and spectrally resolved data set.\\
+ In the set-up shown in Fig \ref{2.6}, a semiparaboloidal mirror allows emitted photons to be collected over close to the entire hemisphere. In this case, the beam is scanned across the sample in order to achieve CL hyperspectral imaging, however a number of drawbacks are inherent to this collection geometry:\\
+\\\indent - The position of the mirror requires a large working distance and can obscure the optical element thus compromising the imaging capabilities of the microscope.\\
+\\\indent - The small distance between the sample and mirror imposes a restriction on the extent to which the sample can be tilted, which can be an issue in the examination of three-dimensional structures.\\
+\\\indent - The {\it\'{e}tendue} of the system imposes a strict compromise between the field of view of the microscope and the collection efficiency at the spectrometer \cite{Edwards2011}.\\
+\\\indent In an effort to overcome these limitations, CL hyperspectral imaging systems have been developed, whereby light collection is achieved using an objective placed perpendicular to the electron beam as shown below in Fig \ref{2.7}. By allowing the optics to be placed further away from the sample, a far shorter working distance can be used, allowing the electron spot to remain small at low accelerating voltages \cite{Edwards2011}. 
+
+\begin{figure}[!ht]
+	\centering
+	\includegraphics[width=0.5\textwidth]{Figs/Ch2/hyper.png}
+	\caption[h] {Schematic layout of a CL hyperspectral imaging system \cite{Edwards2012}.}
+	\label{2.7}
+\end{figure}
+\FloatBarrier
+
+\subsubsection{Electron-Beam Induced Current}
+
+Electron beam induced current \nomenclature[z-EBIC]{EBIC}{Electron-Beam Induced Current} (EBIC) imaging is a technique complementary to scanning electron microscopy. The premise of the measurement is that minority carriers which arise from the incident electron beam of an SEM on a semiconductor junction can diffuse to the junction where they are separated by the built-in field and collected as current by an external circuit (the EBIC amplifier).\\
+Due to the small interaction volumes achievable, EBIC can provide detailed spatial information on minority carrier dynamics. Regions of high signal indicate high collection efficiency and low recombination, for example: the depletion region of a p-n junction appears bright in EBIC imaging. As such EBIC imaging has proven extremely useful in characterising the recombination properties of individual defects across a wide range of semiconductors \cite{Yakimov2002}.  
 
 
 \section{Hyperspectral Electroluminescence Mapping}

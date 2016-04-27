@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.7.15)  26 APR 2016 11:48
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.7.15)  27 APR 2016 15:08
 entering extended mode
 **thesis.tex
 (C:\Users\cr458\Documents\GitHub\Thesis\thesis.tex
@@ -1807,35 +1807,39 @@ Package pdftex.def Info: Figs/Ch1/mdisksem.png used on input line 479.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[20 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch1/mdiskray.png>]) [21 <C:/Us
-ers/cr458/Documents/GitHub/Thesis/Figs/Ch1/mdisksem.png>]
+[20 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch1/mdiskray.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 488--489
+
+ []
+
+) [21 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch1/mdisksem.png>]
 (C:\Users\cr458\Documents\GitHub\Thesis\Chapter2/chapter2.tex [22
 
 
 
 ]
 Chapter 2.
-<Figs/Ch2/AFM.png, id=627, 644.1666pt x 409.53pt>
+<Figs/Ch2/AFM.png, id=628, 644.1666pt x 409.53pt>
 File: Figs/Ch2/AFM.png Graphic file (type png)
  <use Figs/Ch2/AFM.png>
 Package pdftex.def Info: Figs/Ch2/AFM.png used on input line 12.
 (pdftex.def)             Requested size: 306.22144pt x 194.67874pt.
 
 [23 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch2/AFM.png>]
-<Figs/Ch2/AFMint.png, id=634, 1200.73593pt x 637.63219pt>
+<Figs/Ch2/AFMint.png, id=635, 1200.73593pt x 637.63219pt>
 File: Figs/Ch2/AFMint.png Graphic file (type png)
 
 <use Figs/Ch2/AFMint.png>
 Package pdftex.def Info: Figs/Ch2/AFMint.png used on input line 24.
 (pdftex.def)             Requested size: 306.22144pt x 162.60864pt.
 
-<Figs/Ch2/afm1.png, id=639, 292.09125pt x 234.8775pt>
+<Figs/Ch2/afm1.png, id=640, 292.09125pt x 234.8775pt>
 File: Figs/Ch2/afm1.png Graphic file (type png)
  <use Figs/Ch2/afm1.png>
 Package pdftex.def Info: Figs/Ch2/afm1.png used on input line 35.
 (pdftex.def)             Requested size: 174.98177pt x 140.71254pt.
 
-<Figs/Ch2/afm2.png, id=640, 286.82156pt x 234.8775pt>
+<Figs/Ch2/afm2.png, id=641, 286.82156pt x 234.8775pt>
 File: Figs/Ch2/afm2.png Graphic file (type png)
  <use Figs/Ch2/afm2.png>
 Package pdftex.def Info: Figs/Ch2/afm2.png used on input line 42.
@@ -1845,13 +1849,13 @@ Package pdftex.def Info: Figs/Ch2/afm2.png used on input line 42.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [24 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch2/AFMint.png>]
-<Figs/Ch2/afm3.png, id=648, 819.8128pt x 526.21594pt>
+<Figs/Ch2/afm3.png, id=649, 819.8128pt x 526.21594pt>
 File: Figs/Ch2/afm3.png Graphic file (type png)
  <use Figs/Ch2/afm3.png>
 Package pdftex.def Info: Figs/Ch2/afm3.png used on input line 54.
 (pdftex.def)             Requested size: 174.98177pt x 112.31522pt.
 
-<Figs/Ch2/SEM.png, id=650, 340.27126pt x 283.81032pt>
+<Figs/Ch2/SEM.png, id=651, 340.27126pt x 283.81032pt>
 File: Figs/Ch2/SEM.png Graphic file (type png)
  <use Figs/Ch2/SEM.png>
 Package pdftex.def Info: Figs/Ch2/SEM.png used on input line 74.
@@ -1859,7 +1863,7 @@ Package pdftex.def Info: Figs/Ch2/SEM.png used on input line 74.
 
 [25 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch2/afm1.png> <C:/Users/cr458/
 Documents/GitHub/Thesis/Figs/Ch2/afm2.png> <C:/Users/cr458/Documents/GitHub/The
-sis/Figs/Ch2/afm3.png>] <Figs/Ch2/int.png, id=663, 359.3425pt x 353.82187pt>
+sis/Figs/Ch2/afm3.png>] <Figs/Ch2/int.png, id=664, 359.3425pt x 353.82187pt>
 File: Figs/Ch2/int.png Graphic file (type png)
 
 <use Figs/Ch2/int.png>
@@ -1891,7 +1895,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 
 [31
 
-] <Chapter2/Figs/Raster/TomandJerry.png, id=710, 324.33366pt x 216.81pt>
+] <Chapter2/Figs/Raster/TomandJerry.png, id=711, 324.33366pt x 216.81pt>
 File: Chapter2/Figs/Raster/TomandJerry.png Graphic file (type png)
 
 <use Chapter2/Figs/Raster/TomandJerry.png>
@@ -1899,14 +1903,14 @@ Package pdftex.def Info: Chapter2/Figs/Raster/TomandJerry.png used on input lin
 e 76.
 (pdftex.def)             Requested size: 131.23967pt x 87.73148pt.
 
-<Chapter2/Figs/Raster/WallE.png, id=711, 341.9605pt x 515.58476pt>
+<Chapter2/Figs/Raster/WallE.png, id=712, 341.9605pt x 515.58476pt>
 File: Chapter2/Figs/Raster/WallE.png Graphic file (type png)
 
 <use Chapter2/Figs/Raster/WallE.png>
 Package pdftex.def Info: Chapter2/Figs/Raster/WallE.png used on input line 81.
 (pdftex.def)             Requested size: 131.23967pt x 197.8753pt.
 
-<Chapter2/Figs/Raster/minion.png, id=712, 636.6987pt x 582.4962pt>
+<Chapter2/Figs/Raster/minion.png, id=713, 636.6987pt x 582.4962pt>
 File: Chapter2/Figs/Raster/minion.png Graphic file (type png)
 
 <use Chapter2/Figs/Raster/minion.png>
@@ -1998,9 +2002,9 @@ iles (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/
 MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/
 fonts/type1/urw/times/utmri8a.pfb><C:/Users/cr458/AppData/Roaming/MiKTeX/2.9/fo
 nts/type1/public/esvect/vect10.pfb>
-Output written on thesis.pdf (62 pages, 3418334 bytes).
+Output written on thesis.pdf (62 pages, 3419712 bytes).
 PDF statistics:
- 971 PDF objects out of 1000 (max. 8388607)
+ 972 PDF objects out of 1000 (max. 8388607)
  243 named destinations out of 1000 (max. 500000)
  62376 words of extra memory for PDF output out of 74296 (max. 10000000)
 
