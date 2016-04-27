@@ -5,19 +5,31 @@
   \item [{1-D}]\begingroup One-Dimensional\nomeqref {1.0}\nompageref{2}
   \item [{AlN}]\begingroup Aluminium Nitride\nomeqref {1.1}
 		\nompageref{3}
+  \item [{BSF}]\begingroup Basal-plane Stacking Fault\nomeqref {1.7}
+		\nompageref{13}
+  \item [{EBL}]\begingroup Electron Blocking Layer\nomeqref {1.7}
+		\nompageref{16}
   \item [{EL}]\begingroup Electroluminescence\nomeqref {1.0}
 		\nompageref{1}
   \item [{ET}]\begingroup Electron Tomography\nomeqref {1.0}
 		\nompageref{2}
   \item [{FIBT}]\begingroup Focussed Ion Beam Tomography\nomeqref {1.0}
 		\nompageref{2}
+  \item [{FSR}]\begingroup Free Spectral Range\nomeqref {1.10}
+		\nompageref{17}
   \item [{GaAs}]\begingroup Gallium Arsenide\nomeqref {1.0}
 		\nompageref{1}
   \item [{GaN}]\begingroup Gallium Nitride\nomeqref {1.0}\nompageref{1}
   \item [{InN}]\begingroup Indium Nitride\nomeqref {1.1}\nompageref{3}
   \item [{LED}]\begingroup Light-Emitting Diode\nomeqref {1.0}
 		\nompageref{1}
+  \item [{PD}]\begingroup Partial Dislocation\nomeqref {1.7}
+		\nompageref{13}
+  \item [{PSF}]\begingroup Prismatic Stacking Fault\nomeqref {1.7}
+		\nompageref{13}
   \item [{SPS}]\begingroup Single Photon Source\nomeqref {1.0}
 		\nompageref{1}
+  \item [{WGM}]\begingroup Whispering Gallery Mode\nomeqref {1.10}
+		\nompageref{19}
 
 \end{thenomenclature}

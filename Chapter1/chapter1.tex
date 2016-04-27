@@ -395,7 +395,10 @@ A schematic of a general LED structure is shown in Fig.\ref{1.11}. Visible light
 
 \subsection{Microcavities}
 
-Microcavity integrated emitters possess extraordinary optical properties: matching the dimensions of the cavity to the order of the wavelength of the confined light produces various effects in III-nitride devices such as low-threshold lasing, enhanced non-linear conversion and directional luminescence \cite{Christopoulos2007}. Confining a dipole within a microcavity modifies its emissive properties by altering the photon density of states. This is accomplished by effectively creating standing optical waves within the cavity through constructive interference. The resonant field is thus enhanced through spatially localised interference peaks, which can be generated either by single interfaces (total internal reflection), or periodic regions giving interference-based reflection. \\ The ability of a microcavity to confine light is thus a crucial parameter in producing the required effects, known as the cavity 'quality factor', as described by Eq.~\ref{Q-fac}.
+Microcavity emitters possess rather singular optical properties due to their dimensions. By matching one or more dimensions of the cavity to the order of the wavelength of confined light a plethora of effects can be produced such as low-threshold lasing, directional luminescence and enhanced nonlinear conversion \cite{Christopoulos2007}. By confining a dipole within a microcavity, one can modify its emissive properties by altering the photon density of states. The interaction rate between the confined dipole and a cavity photon relative to the average rate of dissipation of a cavity determines whether the microcavity operates in the weak-coupling or strong-coupling regime.\\Weak coupling occurs when dissipation overwhelms the dipole-cavity photon interaction: in essence, the effect of the microcavity in this case is to alter the vacuum description of the dipole lifetime, resulting in an increase in spontaneous emission for on-resonance cavity modes, known as the Purcell effect \cite{Vahala2003}. Weakly-coupled microcavity systems have applications across a wide range of optoelectronic devices due to this effect: from enhancing the recombination rate and extraction efficiency of embedded single photon emitters \cite{Jarjour2007a} to the development of high efficiency, low threshold lasers \cite{Aharonovich2013}.\\An interaction occurring on shorter timescales than the average dissipation rate of the cavity photon is defined as being in the strong coupling regime, and results in the formation of admixed eigenstates populated by quasiparticles known as polaritons, which are hybrid particles combining a photon and an electric dipole. The bosonic nature of these quasiparticles has led to the observation of spontaneously emitted coherent light from condensates of exciton-polaritons,  a phenomenon also known as polariton lasing \cite{Malpuech2002}. The expected threshold energy for coherent emission from a polariton laser is expected to be much smaller than that of a conventional laser due to the lack of the requirement of population inversion , thus rendering polariton lasers extremely attractive as low-threshold lasing applications \cite{Christopoulos2007}. Beyond polariton lasing, strong coupling in microcavities is also required for key quantum information processing tasks such as the entanglement of distinguishable quantum systems and controlled coherent coupling \cite{Imamoglu1999,Hennessy2007}.
+
+\subsubsection{Cavity Parameters and Design}
+The ability of a microcavity to confine light is thus a crucial parameter in producing the required effects and is known as the cavity 'quality factor' which is described by Eq.~\ref{Q-fac}.
 
 \begin{equation}\label{Q-fac}
 Q = \frac{\nu_{0}}{\delta\nu_{0}}
@@ -424,9 +427,8 @@ where $|\mathbf{E}(\mathbf{r})|^{2}$ is the normalised electric field amplitude,
 \end{figure}
 \FloatBarrier 
 
-\subsubsection{Microcavity Designs}
 
-Cavities modify the optical density of states of an emitter through the generation of standing electromagnetic waves as previously discussed. There are several manners through which to achieve this: at the most basic level an optical cavity is a set of single reflective interfaces, spaced at a specific distance designed to enhance a particular optical mode. However, many cavity designs which employ the use of refractive index mismatches for total internal reflection or an array of boundaries leading to interference enhanced optical modes also exist, as shown in Fig.\ref{1.13}.
+Cavities modify the optical density of states of an emitter through the generation of standing electromagnetic waves. There are several manners through which to achieve this: at the most basic level an optical cavity is a set of single reflective interfaces, spaced at a specific distance designed to enhance a particular optical mode. However, many cavity designs which employ the use of refractive index mismatches for total internal reflection or an array of boundaries leading to interference enhanced optical modes also exist, as shown in Fig.\ref{1.13}.
 \begin{figure}
 	\begin{subfigure}[b]{0.3\textwidth}
 		\centering
@@ -453,6 +455,37 @@ Cavities modify the optical density of states of an emitter through the generati
 \end{figure}
 
 \FloatBarrier
+
+\subsubsection{Microdisk Cavities}
+
+Total internal reflection can be exploited in circular geometries such as microdisk/ring/sphere devices, in which whispering gallery modes \nomenclature[z-WGM]{WGM}{Whispering Gallery Mode} (FSR) (WGMs) propagate around the periphery of the disk.\\
+Microdisks can be described as a cylinder of with a low height:radius ratio supported by a pillar of a small radius ( less than half of the cylinder). The position of the WGMs is described by Snell's law: only light satisfying the condition described by Eq.\ref{eq1} is contained within the microdisk due to internal reflection.
+
+\begin{equation} \label{eq1}
+\theta_{c}=sin^{-1}(\frac{n_{2}}{n_{1}})
+\end{equation}
+
+Assuming the microdisk thickness is small enough to act as a waveguide in the vertical direction, we can consider the propagation of a ray of light in 2-D as in Fig.\ref{1.14}. The forbidden position of the WGMs as defined by Eq.\ref{eq1} is given by $R_{min}$.
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.5\textwidth]{Figs/Ch1/mdiskray.png}
+	\caption {Illustration of the minimum radius $R_{min}$ for WGM propagation. Rays traversing the region $r<R_{min}$ (denoted in red) exceed the critical angle $\theta_{c}$ and thus escape the cavity. Rays travelling outside this region $r>R_{min}$ (denoted in violet) are confined.  }
+	\label{1.14}
+\end{figure}
+\FloatBarrier 
+Thus the fabrication of microdisks relies heavily on the ability to 'undercut' the microdisk material whilst still leaving a pedestal, as shown in Fig.\ref{1.15}. This is a particularly difficult problem to address in terms of III-nitride materials due to the excellent thermal ande chemical stability of GaN.  Early efforts in microdisk nitride fabrication involved dry-etching processes, utilising the refractive index mismatch between the light emitting GaN layers and the sapphire substrate to confine light \cite{Tamboli2007}. Although stimulated emission and lasing was observed by Chang {\it et al}. in dry-etched GaN microdisk cavities \cite{Chang1999}, Haberer {\it et al}. \cite{Haberer2004} reduced the required excitation power densities for lasing by an order of magnitude by employing photoelectrochemical (PEC) etching to undercut GaN microdisks, thus providing superior optical confinement due to the index contrast of the GaN/air interface  relative to the GaN/sapphire interface used by Chang {\it et al}. \cite{Chang1999}. Further improvements in fabrication were achieved by Tamboli et al. with room temperature lasing achieved in GaN/InGaN microdisks through enhancements in microdisk circularity and sidewall smoothness \cite{Tamboli2007}. 
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.5\textwidth]{Figs/Ch1/mdisksem.png}
+	\caption {Scanning electron microscope image of a GaN microdisk produced by selective etching of sacrificial AlInN layers \cite{Simeonov2008}.}
+	\label{1.15}
+\end{figure}
+\FloatBarrier 
+
+
+\subsubsection{Nanobeam Cavities}
+
+Photonic crystals are periodic structures which affect photons in an manner analogous to the way atomic lattices affect electrons in solids. They can be considered as artificial materials exhibiting a dielectric function which varies periodicially in either one, two or three dimensions. The principal mechanism of light confinement in this case is known as distributed bragg reflection as is shown in Fig.\ref{1.13}b). In this section we will specifically be considering 1-D photonic crystal cavities in the nanobeam geometry.\\
 
 \subsection{Nanowire Devices}
 
