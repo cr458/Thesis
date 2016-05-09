@@ -4,3 +4,9 @@ thesis.synctex.gz
 thesis.synctex.gz
 thesis.lof
 *.log
+*.log
+thesis.log
+*.nlo
+*.pdf
+thesis.pdf
+*.gz

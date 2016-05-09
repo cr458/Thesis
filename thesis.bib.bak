@@ -817,6 +817,22 @@
   mendeley-groups = {JAP special topic,thesis}
 }
 
+@Article{Edwards2011,
+  author =          {Edwards, Paul R and Martin, Robert W},
+  title =           {{Cathodoluminescence nano-characterization of semiconductors}},
+  journal =         {Semiconductor Science and Technology},
+  year =            {2011},
+  volume =          {26},
+  number =          {6},
+  pages =           {064005},
+  month =           {jun},
+  doi =             {10.1088/0268-1242/26/6/064005},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Edwards, Martin - 2011 - Cathodoluminescence nano-characterization of semiconductors.pdf:pdf},
+  issn =            {0268-1242},
+  mendeley-groups = {GaN/CPGS/SEM,thesis},
+  url =             {http://stacks.iop.org/0268-1242/26/i=6/a=064005?key=crossref.9d63ac2dd08123d499f11489d9738399}
+}
+
 @Article{El-Ella2011,
   author =          {El-Ella, H. a. R. and Rol, F. and Kappers, M. J. and Russell, K. J. and Hu, E. L. and Oliver, R. a.},
   title =           {{Dislocation density-dependent quality factors in InGaN quantum dot containing microdisks}},
@@ -1776,6 +1792,22 @@
   pmid =            {176599600008}
 }
 
+@Article{Martin2004,
+  author =          {Martin, R. W. and Edwards, P. R. and O'Donnell, K. P. and Dawson, M. D. and Jeon, C.-W. and Liu, C. and Rice, G. R. and Watson, I. M.},
+  title =           {{Cathodoluminescence spectral mapping of III-nitride structures}},
+  journal =         {Physica Status Solidi (a)},
+  year =            {2004},
+  volume =          {201},
+  number =          {4},
+  pages =           {665--672},
+  month =           {mar},
+  doi =             {10.1002/pssa.200304089},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Martin et al. - 2004 - Cathodoluminescence spectral mapping of III-nitride structures.pdf:pdf},
+  issn =            {0031-8965},
+  mendeley-groups = {GaN/CPGS/SEM,thesis},
+  url =             {http://doi.wiley.com/10.1002/pssa.200304089}
+}
+
 @Article{Massabuau2012,
   author =          {Massabuau, F. C.-P. and Sahonta, S.-L. and Trinh-Xuan, L. and Rhode, S. and Puchtler, T. J. and Kappers, M. J. and Humphreys, C. J. and Oliver, R. a.},
   title =           {{Morphological, structural, and emission characterization of trench defects in InGaN/GaN quantum well structures}},
@@ -2416,6 +2448,13 @@
   mendeley-groups = {DRIP Paper,thesis}
 }
 
+@PhdThesis{Puchtler2014,
+  author = {Puchtler, T.},
+  title =  {DEVELOPMENT OF STRUCTURES AND MATERIALS FOR INGAN/GAN CAVITY-QUANTUMELECTRODYNAMICS},
+  school = {University of Cambridge},
+  year =   {2014}
+}
+
 @Article{Puchtler2015,
   author =          {Puchtler, Tim J. and Woolf, Alexander and Zhu, Tongtong and Gachet, David and Hu, Evelyn L. and Oliver, Rachel a.},
   title =           {{Effect of Threading Dislocations on the Quality Factor of InGaN/GaN Microdisk Cavities}},
@@ -2997,6 +3036,17 @@
   file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Senellart et al. - 2000 - Microcavity polariton depopulation as evidence for stimulated scattering.pdf:pdf},
   issn =            {01631829},
   mendeley-groups = {JAP special topic/Cavities,thesis}
+}
+
+@Article{Sercel1989,
+  author =          {Sercel, PC and Zarem, HA and Lebens, JA and Eng, LE},
+  title =           {{A novel technique for the direct determination of carrier diffusion lengths in GaAs/AlGaAs heterostructures using cathodoluminescence}},
+  journal =         {International Electron Devices Meeting},
+  year =            {1989},
+  pages =           {285--288},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Sercel et al. - 1989 - A novel technique for the direct determination of carrier diffusion lengths in GaAsAlGaAs heterostructures using.pdf:pdf},
+  mendeley-groups = {GaN/CPGS/SEM,thesis},
+  url =             {http://authors.library.caltech.edu/31634/}
 }
 
 @Article{Sergent2012,
@@ -3935,6 +3985,17 @@
   author =    {Yacobi, B.G and Holt, D.B}
 }
 
+@Article{Yakimov2002,
+  author =          {Yakimov, EB},
+  title =           {{Electron-beam-induced-current study of defects in GaN; experiments and simulation}},
+  journal =         {Journal of Physics: Condensed Matter},
+  year =            {2002},
+  volume =          {13069},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Yakimov - 2002 - Electron-beam-induced-current study of defects in GaN experiments and simulation.pdf:pdf},
+  mendeley-groups = {GaN/CPGS/EBIC},
+  url =             {http://iopscience.iop.org/0953-8984/14/48/352}
+}
+
 @Article{Yam2008,
   author =          {Yam, F. K. and Hassan, Z.},
   title =           {{InGaN: An overview of the growth kinetics, physical properties and emission mechanisms}},
@@ -4139,12 +4200,5 @@
   mendeley-groups = {JAP special topic,thesis},
   publisher =       {Elsevier Ltd},
   url =             {http://dx.doi.org/10.1016/j.spmi.2015.10.001}
-}
-
-@PhdThesis{,
-  author = {Puchtler, T.},
-  title =  {DEVELOPMENT OF STRUCTURES AND MATERIALS FOR INGAN/GAN CAVITY-QUANTUMELECTRODYNAMICS},
-  school = {University of Cambridge},
-  year =   {2014}
 }
 

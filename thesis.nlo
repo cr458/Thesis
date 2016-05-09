@@ -15,8 +15,17 @@
 \nomenclatureentry{z-FSRFSR@[{FSR}]\begingroup Free Spectral Range\nomeqref {1.10}|nompageref}{18}
 \nomenclatureentry{z-WGMWGM@[{WGM}]\begingroup Whispering Gallery Mode\nomeqref {1.10}|nompageref}{19}
 \nomenclatureentry{z-PCPC@[{PC}]\begingroup Photonic Crystal\nomeqref {1.11}|nompageref}{21}
-\nomenclatureentry{z-AFMAFM@[{AFM}]\begingroup Atomic Force Microscopy\nomeqref {2.0}|nompageref}{23}
-\nomenclatureentry{z-C-AFMC-AFM@[{C-AFM}]\begingroup Conductive Atomic Force Microscopy\nomeqref {2.0}|nompageref}{25}
-\nomenclatureentry{z-SEMSEM@[{SEM}]\begingroup Scanning Electron Microscope\nomeqref {2.0}|nompageref}{26}
-\nomenclatureentry{z-SESE@[{SE}]\begingroup Secondary Electron\nomeqref {2.0}|nompageref}{26}
-\nomenclatureentry{z-BSEBSE@[{BSE}]\begingroup  Back Scattered Electron\nomeqref {2.0}|nompageref}{26}
+\nomenclatureentry{z-TEMTEM@[{TEM}]\begingroup Transmission Electron Microscope\nomeqref {2.0}|nompageref}{23}
+\nomenclatureentry{z-AFMAFM@[{AFM}]\begingroup Atomic Force Microscopy\nomeqref {2.5}|nompageref}{30}
+\nomenclatureentry{z-C-AFMC-AFM@[{C-AFM}]\begingroup Conductive Atomic Force Microscopy\nomeqref {2.5}|nompageref}{32}
+\nomenclatureentry{z-SEMSEM@[{SEM}]\begingroup Scanning Electron Microscope\nomeqref {2.5}|nompageref}{32}
+\nomenclatureentry{z-SESE@[{SE}]\begingroup Secondary Electron\nomeqref {2.5}|nompageref}{33}
+\nomenclatureentry{z-BSEBSE@[{BSE}]\begingroup  Back Scattered Electron\nomeqref {2.5}|nompageref}{33}
+\nomenclatureentry{z-CLCL@[{CL}]\begingroup Cathodoluminescence\nomeqref {2.5}|nompageref}{34}
+\nomenclatureentry{z-PLPL@[{PL}]\begingroup Photoluminescence\nomeqref {2.5}|nompageref}{34}
+\nomenclatureentry{z-EBICEBIC@[{EBIC}]\begingroup Electron-Beam Induced Current\nomeqref {2.5}|nompageref}{36}
+\nomenclatureentry{z-ELEL@[{EL}]\begingroup Electroluminescence\nomeqref {2.5}|nompageref}{36}
+\nomenclatureentry{z-EPMAEPMA@[{EPMA}]\begingroup Electron Probe Micro-Analyser\nomeqref {2.5}|nompageref}{37}
+\nomenclatureentry{z-FIB/SEMFIB/SEM@[{FIB/SEM}]\begingroup Focussed Ion Beam/Scanning Electron Microscope\nomeqref {2.5}|nompageref}{37}
+\nomenclatureentry{z-GISGIS@[{GIS}]\begingroup Gas Injection System\nomeqref {2.5}|nompageref}{38}
+\nomenclatureentry{z-TEMTEM@[{TEM}]\begingroup Transmission Electron Microscopy\nomeqref {2.5}|nompageref}{38}
