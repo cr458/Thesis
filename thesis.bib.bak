@@ -3985,6 +3985,17 @@
   author =    {Yacobi, B.G and Holt, D.B}
 }
 
+@Article{Yakimov2002,
+  author =          {Yakimov, EB},
+  title =           {{Electron-beam-induced-current study of defects in GaN; experiments and simulation}},
+  journal =         {Journal of Physics: Condensed Matter},
+  year =            {2002},
+  volume =          {13069},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Yakimov - 2002 - Electron-beam-induced-current study of defects in GaN experiments and simulation.pdf:pdf},
+  mendeley-groups = {GaN/CPGS/EBIC},
+  url =             {http://iopscience.iop.org/0953-8984/14/48/352}
+}
+
 @Article{Yam2008,
   author =          {Yam, F. K. and Hassan, Z.},
   title =           {{InGaN: An overview of the growth kinetics, physical properties and emission mechanisms}},
