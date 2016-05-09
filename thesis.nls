@@ -3,10 +3,16 @@
  \nomgroup{Z}
 
   \item [{1-D}]\begingroup One-Dimensional\nomeqref {1.0}\nompageref{2}
+  \item [{AFM}]\begingroup Atomic Force Microscopy\nomeqref {2.0}
+		\nompageref{23}
   \item [{AlN}]\begingroup Aluminium Nitride\nomeqref {1.1}
 		\nompageref{3}
+  \item [{BSE}]\begingroup  Back Scattered Electron\nomeqref {2.0}
+		\nompageref{26}
   \item [{BSF}]\begingroup Basal-plane Stacking Fault\nomeqref {1.7}
 		\nompageref{13}
+  \item [{C-AFM}]\begingroup Conductive Atomic Force Microscopy\nomeqref {2.0}
+		\nompageref{25}
   \item [{EBL}]\begingroup Electron Blocking Layer\nomeqref {1.7}
 		\nompageref{16}
   \item [{EL}]\begingroup Electroluminescence\nomeqref {1.0}
@@ -16,7 +22,7 @@
   \item [{FIBT}]\begingroup Focussed Ion Beam Tomography\nomeqref {1.0}
 		\nompageref{2}
   \item [{FSR}]\begingroup Free Spectral Range\nomeqref {1.10}
-		\nompageref{17}
+		\nompageref{18}
   \item [{GaAs}]\begingroup Gallium Arsenide\nomeqref {1.0}
 		\nompageref{1}
   \item [{GaN}]\begingroup Gallium Nitride\nomeqref {1.0}\nompageref{1}
@@ -27,6 +33,10 @@
 		\nompageref{13}
   \item [{PSF}]\begingroup Prismatic Stacking Fault\nomeqref {1.7}
 		\nompageref{13}
+  \item [{SEM}]\begingroup Scanning Electron Microscope\nomeqref {2.0}
+		\nompageref{26}
+  \item [{SE}]\begingroup Secondary Electron\nomeqref {2.0}
+		\nompageref{26}
   \item [{SPS}]\begingroup Single Photon Source\nomeqref {1.0}
 		\nompageref{1}
   \item [{WGM}]\begingroup Whispering Gallery Mode\nomeqref {1.10}
