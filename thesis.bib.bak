@@ -763,6 +763,13 @@
   url =             {http://linkinghub.elsevier.com/retrieve/pii/S0749603604002733}
 }
 
+@Book{DavidB.Williams2009,
+  title =     {Transmission Electron Microscopy},
+  publisher = {Springer US},
+  year =      {2009},
+  author =    {David B. Williams, C. Barry Carter}
+}
+
 @Article{Davies2014,
   author =          {Davies, Matthew J. and Dawson, Philip and Massabuau, Fabien C.-P. and Oehler, Fabrice and Oliver, Rachel a. and Kappers, Menno J. and Badcock, Thomas J. and Humphreys, Colin J.},
   title =           {{The effects of varying threading dislocation density on the optical properties of InGaN/GaN quantum wells}},
@@ -783,6 +790,25 @@
   pmid =            {17255001},
   primaryclass =    {cs},
   url =             {http://doi.wiley.com/10.1002/pssc.201300452}
+}
+
+@Article{Deotare2009,
+  author =          {Deotare, Parag B. and McCutcheon, Murray W. and Frank, Ian W. and Khan, Mughees and Lon{\v{c}}ar, Marko},
+  title =           {{High quality factor photonic crystal nanobeam cavities}},
+  journal =         {Applied Physics Letters},
+  year =            {2009},
+  volume =          {94},
+  number =          {12},
+  pages =           {8--11},
+  abstract =        {We investigate the design, fabrication, and experimental characterization of high quality factor photonic crystal nanobeam cavities in silicon. Using a five-hole tapered one-dimensional photonic crystalmirror and precise control of the cavity length, we designed cavities with theoretical quality factors as high as 1.4 × 10 7 . By detecting the cross-polarized resonantly scattered light from a normally incident laser beam, we measure a quality factor of nearly 7.5 × 10 5 . The effect of cavity size on mode frequency and quality factor was simulated and then verified experimentally.},
+  archiveprefix =   {arXiv},
+  arxivid =         {0901.4158},
+  doi =             {10.1063/1.3107263},
+  eprint =          {0901.4158},
+  file =            {:C$\backslash$:/Users/cr458/Documents/GitHub/Thesis/Ch1Refs/1.3107263.pdf:pdf},
+  isbn =            {9781557528735},
+  issn =            {00036951},
+  mendeley-groups = {thesis}
 }
 
 @Article{Dorfman2014,
@@ -954,6 +980,24 @@
   file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Gayral et al. - 2001 - Time-resolved probing of the Purcell effect for InAs quantum boxes in GaAs microdisks.pdf:pdf},
   issn =            {00036951},
   mendeley-groups = {JAP special topic,thesis}
+}
+
+@Article{Gong2010,
+  author =          {Gong, Yiyang and Vukovic, Jelena},
+  title =           {{Photonic crystal cavities in silicon dioxide}},
+  journal =         {Applied Physics Letters},
+  year =            {2010},
+  volume =          {96},
+  number =          {3},
+  pages =           {2009--2011},
+  abstract =        {One dimensional nanobeam photonic crystalcavitiesfabricated in silicon dioxide are considered in both simulation and experiment. Quality factors of over 10 4 are found via simulation, while quality factors of over 5 × 10 3 are found in experiment, for cavities with mode volumes of 2.0 ( $\lambda$ / n ) 3 and in the visible wavelength range 600–716 nm. The dependences of the cavity quality factor and mode volume for different design parameters are also considered.},
+  archiveprefix =   {arXiv},
+  arxivid =         {arXiv:0910.0222v1},
+  doi =             {10.1063/1.3297877},
+  eprint =          {arXiv:0910.0222v1},
+  file =            {:C$\backslash$:/Users/cr458/Documents/GitHub/Thesis/Ch1Refs/yiyang{\_}oxide{\_}beams{\_}apl{\_}2010.pdf:pdf},
+  issn =            {00036951},
+  mendeley-groups = {thesis}
 }
 
 @Article{Grenko2004,
@@ -1235,6 +1279,24 @@
   url =             {http://prl.aps.org/abstract/PRL/v83/i20/p4204{\_}1}
 }
 
+@Article{Ishizaki2013,
+  author =          {Ishizaki, Kenji and Koumura, Masaki and Suzuki, Katsuyoshi and Gondaira, Kou and Noda, Susumu},
+  title =           {{Realization of three-dimensional guiding of photons in photonic crystals}},
+  journal =         {Nature Photonics},
+  year =            {2013},
+  volume =          {7},
+  number =          {2},
+  pages =           {133--137},
+  abstract =        {Three-dimensional photonic crystals are expected to provide a fundamental building block for the realization of three-dimen- sional manipulation of photons. However, because of the lack of systematic design principles to precisely control bending and guiding in three dimensions, as well as advancements in the fabrication technology necessary for the realization of large- area, defect-free three-dimensional photonic crystals, the arbi- trary three-dimensional manipulation of photons has yet to be demonstrated. Here, we develop a new design concept for three-dimensional waveguides and bends, and realize it exper- imentally in silicon three-dimensional photonic crystals. We demonstrate clear three-dimensional optical guiding phenom- ena, in which light is incident on the crystal from one side, is bent vertically and horizontally (and is even split into two or trapped by an intermediate nanocavity), and is finally emitted from the other side of the crystal. These results will open the door to the realization of three-dimensional optical chips with various functionalities.},
+  doi =             {10.1038/nphoton.2012.341},
+  file =            {:C$\backslash$:/Users/cr458/Documents/GitHub/Thesis/Ch1Refs/nphoton.2012.341.pdf:pdf},
+  isbn =            {1749-4885},
+  issn =            {1749-4885},
+  mendeley-groups = {thesis},
+  publisher =       {Nature Publishing Group},
+  url =             {http://dx.doi.org/10.1038/nphoton.2012.341$\backslash$nhttp://www.nature.com/doifinder/10.1038/nphoton.2012.341}
+}
+
 @Article{Jarjour2007,
   author =          {Jarjour, Anas and Oliver, Rachel and Tahraoui, Abbes and Kappers, Menno and Humphreys, Colin and Taylor, Robert},
   title =           {{Control of the Oscillator Strength of the Exciton in a Single InGaN-GaN Quantum Dot}},
@@ -1296,6 +1358,23 @@
   issn =            {18626300},
   mendeley-groups = {GaN/CPGS/Intro,JAP special topic/QD,thesis},
   url =             {http://doi.wiley.com/10.1002/pssa.200824455}
+}
+
+@Article{John1987,
+  author =          {John, Sajeev},
+  title =           {{Strong localization of photons in certain disordered dielectric superlattices}},
+  journal =         {Physical Review Letters},
+  year =            {1987},
+  volume =          {58},
+  number =          {23},
+  pages =           {2486--2489},
+  abstract =        {A new mechanism for strong Anderson localization of photons in carefully prepared disordered dielectric superlattices with an everywhere real positive dielectric constant is described. In three dimensions, two photon mobility edges separate high- and low-frequency extended states from an intermediate-frequency pseudogap of localized states arising from remnant geometric Bragg resonances. Experimentally observable consequences are discussed.},
+  doi =             {10.1103/PhysRevLett.58.2486},
+  file =            {:C$\backslash$:/Users/cr458/Documents/GitHub/Thesis/Ch1Refs/PhysRevLett.58.2486.pdf:pdf},
+  isbn =            {0031-9007},
+  issn =            {00319007},
+  mendeley-groups = {thesis},
+  pmid =            {10034761}
 }
 
 @Article{Kako2004,
@@ -1514,6 +1593,24 @@
   url =             {{\textless}Go to ISI{\textgreater}://000084822400055}
 }
 
+@Article{Lalanne2003,
+  author =          {Lalanne, Ph and Hugonin, Jean Paul},
+  title =           {{Bloch-Wave Engineering for High-Q, Small-V Microcavities}},
+  journal =         {IEEE Journal of Quantum Electronics},
+  year =            {2003},
+  volume =          {39},
+  number =          {11},
+  pages =           {1430--1438},
+  abstract =        {The overall decay rate of the mode in an optical microcavity formed by a defect surrounded by two Bragg mirrors in a monomode waveguide is driven by two mechanisms, the desired coupling to a guided mode and the detrimental coupling to radiation modes. We propose two approaches fully compatible with planar fabrication, which allow to increase the cavity Q's by several orders of magnitude while keeping constant the mode volume V of the cavity. The first approach consists of engineering the mirror to taper the guided mode into the mirror Bloch mode, thus decreasing losses. The second approach is less intuitive and relies on a recycling mechanism of the radiation losses. The study is supported by computational results obtained for two-dimensional silicon-on-insulator geometries, but the results apply as well to other related geometries like three-dimensional photonic-wire cavities.},
+  doi =             {10.1109/JQE.2003.818283},
+  file =            {:C$\backslash$:/Users/cr458/Documents/GitHub/Thesis/Ch1Refs/01242362.pdf:pdf},
+  isbn =            {0018-9197},
+  issn =            {00189197},
+  keywords =        {Band gap,Cavities,Confinement,Defect modes,Emission,Optical resonators,Q-factor},
+  mendeley-groups = {thesis},
+  pmid =            {11822596}
+}
+
 @Article{Lasagni2008,
   author =          {Lasagni, F. and Lasagni, A. and Engstler, M. and Degischer, H. P. and M{\"{u}}cklich, F.},
   title =           {{Nano-characterization of Cast Structures by FIB-Tomography}},
@@ -1535,13 +1632,12 @@
   journal =         {Journal of Applied Physics},
   year =            {2013},
   volume =          {114},
-  number =          {2013},
-  pages =           {1--6},
+  number =          {14},
   abstract =        {The effect of quantum barrier (QB) thickness on performances of InGaN/GaN multiple-quantum-well light-emitting diodes (MQW LEDs) with relatively large barrier layer thicknesses has been investigated. It is found that the density and averaged size of V-defects increases with QB thickness, resulting in larger reverse- and forward-bias current in LEDs. Electroluminescence measurement shows that LED with thinner QB has higher internal quantum efficiency but lower efficiency droop-onset current density, which should be ascribed to the faster saturation of carrier leakage into V-defects. Correspondingly, above the droop-onset current density, severer Auger recombination and carrier overflow are induced by higher carrier density due to the less V-defect related carrier leakage, leading to the more serious droop phenomenon in LEDs with thinner QB.},
   doi =             {10.1063/1.4824801},
-  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/Thesis/1.4824801.pdf:pdf},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Le et al. - 2013 - Effect of V-defects on the performance deterioration of InGaNGaN multiple-quantum-well light-emitting diodes with var.pdf:pdf},
   issn =            {00218979},
-  mendeley-groups = {thesis}
+  mendeley-groups = {DRIP Paper,thesis}
 }
 
 @Article{Le2013,
@@ -1550,12 +1646,13 @@
   journal =         {Journal of Applied Physics},
   year =            {2013},
   volume =          {114},
-  number =          {14},
+  number =          {2013},
+  pages =           {1--6},
   abstract =        {The effect of quantum barrier (QB) thickness on performances of InGaN/GaN multiple-quantum-well light-emitting diodes (MQW LEDs) with relatively large barrier layer thicknesses has been investigated. It is found that the density and averaged size of V-defects increases with QB thickness, resulting in larger reverse- and forward-bias current in LEDs. Electroluminescence measurement shows that LED with thinner QB has higher internal quantum efficiency but lower efficiency droop-onset current density, which should be ascribed to the faster saturation of carrier leakage into V-defects. Correspondingly, above the droop-onset current density, severer Auger recombination and carrier overflow are induced by higher carrier density due to the less V-defect related carrier leakage, leading to the more serious droop phenomenon in LEDs with thinner QB.},
   doi =             {10.1063/1.4824801},
-  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Le et al. - 2013 - Effect of V-defects on the performance deterioration of InGaNGaN multiple-quantum-well light-emitting diodes with var.pdf:pdf},
+  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/Thesis/1.4824801.pdf:pdf},
   issn =            {00218979},
-  mendeley-groups = {DRIP Paper,thesis}
+  mendeley-groups = {thesis}
 }
 
 @Article{Le2013,
@@ -2172,6 +2269,23 @@
   url =             {http://scitation.aip.org/content/aip/journal/apl/106/23/10.1063/1.4922211}
 }
 
+@Article{Notomi2008,
+  author =          {Notomi, Masaya and Kuramochi, Eiichi and Taniyama, Hideaki},
+  title =           {{Ultrahigh-Q nanocavity with 1D periodicity}},
+  journal =         {Conference Proceedings - Lasers and Electro-Optics Society Annual Meeting-LEOS},
+  year =            {2008},
+  volume =          {16},
+  number =          {15},
+  pages =           {689--690},
+  abstract =        {Recently, various wavelength-sized cavities with theoretical Q values of approximately 10(8) have been reported, however, they all employ 2D or 3D photonic band gaps to realize strong light confinement. Here we numerically demonstrate that ultrahigh-Q (2.0x10(8)) and wavelength-sized (V(eff) approximately 1.4(lambda/n)3) cavities can be achieved by employing only 1D periodicity.},
+  doi =             {10.1109/LEOS.2008.4688806},
+  file =            {:C$\backslash$:/Users/cr458/Documents/GitHub/Thesis/Ch1Refs/oe-16-15-11095.pdf:pdf},
+  isbn =            {9781424419326},
+  issn =            {10928081},
+  mendeley-groups = {thesis},
+  pmid =            {18648423}
+}
+
 @Article{Okada2015,
   author =          {Okada, Narihito and Kashihara, Hiroyuki and Sugimoto, Kohei and Yamada, Yoichi and Tadatomo, Kazuyuki},
   title =           {{Controlling potential barrier height by changing V-shaped pit size and the effect on optical and electrical properties for InGaN/GaN based light-emitting diodes}},
@@ -2779,6 +2893,24 @@
   issn =            {0031-9007},
   mendeley-groups = {JAP special topic/Cavities,thesis},
   url =             {http://link.aps.org/doi/10.1103/PhysRevLett.94.187401}
+}
+
+@Article{Richards2010,
+  author =          {Richards, B C and Hendrickson, J and Olitzky, J D and Gibson, R and Gehl, M and Kieu, K and Khankhoje, U K and Homyk, a and Scherer, a and Kim, J-Y and Lee, Y-H and Khitrova, G and Gibbs, H M},
+  title =           {{Characterization of 1D photonic crystal nanobeam cavities using curved microfiber.}},
+  journal =         {Optics express},
+  year =            {2010},
+  volume =          {18},
+  number =          {20},
+  pages =           {20558--64},
+  abstract =        {We investigate high-Q, small mode volume photonic crystal nanobeam cavities using a curved, tapered optical microfiber loop. The strength of the coupling between the cavity and the microfiber loop is shown to depend on the contact position on the nanobeam, angle between the nanobeam and the microfiber, and polarization of the light in the fiber. The results are compared to a resonant scattering measurement.},
+  doi =             {10.1364/OE.18.020558},
+  file =            {:C$\backslash$:/Users/cr458/Documents/GitHub/Thesis/Ch1Refs/oe-18-20-20558.pdf:pdf},
+  isbn =            {1094-4087},
+  issn =            {1094-4087},
+  mendeley-groups = {thesis},
+  pmid =            {20940950},
+  url =             {http://www.ncbi.nlm.nih.gov/pubmed/20940950}
 }
 
 @Article{Robinson2000,
@@ -3418,6 +3550,27 @@
   url =             {http://jes.ecsdl.org/cgi/doi/10.1149/1.3184156}
 }
 
+@Article{Tandaechanurat2011,
+  author =          {Tandaechanurat, Aniwat and Ishida, Satomi and Guimard, Denis and Nomura, Masahiro and Iwamoto, Satoshi and Arakawa, Yasuhiko},
+  title =           {{Lasing oscillation in a three-dimensional photonic crystal nanocavity with a complete bandgap}},
+  journal =         {Nature Photonics},
+  year =            {2011},
+  volume =          {5},
+  number =          {2},
+  pages =           {91--94},
+  abstract =        {We successfully demonstrated lasing oscillation in a three-dimensional photonic crystal nanocavity with quantum dots. Increasing the number of stacked layers enhanced a cavity quality factor, leading to a significant reduction in the lasing threshold.},
+  archiveprefix =   {arXiv},
+  arxivid =         {1006.1680},
+  doi =             {10.1038/nphoton.2010.286},
+  eprint =          {1006.1680},
+  file =            {:C$\backslash$:/Users/cr458/Documents/GitHub/Thesis/Ch1Refs/nphoton.2010.286.pdf:pdf},
+  isbn =            {978-1-55752-890-2},
+  issn =            {1749-4885},
+  mendeley-groups = {thesis},
+  publisher =       {Nature Publishing Group},
+  url =             {http://www.nature.com/nphoton/journal/v5/n2/abs/nphoton.2010.286.html$\backslash$npapers3://publication/doi/10.1038/nphoton.2010.286$\backslash$nhttp://www.nature.com/doifinder/10.1038/nphoton.2010.286}
+}
+
 @Article{Tansley1986,
   author =          {Tansley, T. L. and Foley, C. P.},
   title =           {{Optical band gap of indium nitride}},
@@ -3976,6 +4129,21 @@
   isbn =            {0003-6951},
   issn =            {00036951},
   mendeley-groups = {JAP special topic/Response,thesis}
+}
+
+@Article{Yablonovitch1987,
+  author =          {Yablonovitch, E.},
+  title =           {{Inhibited Spontaneous Emission in Solid-State Physics and Electronics Eli}},
+  journal =         {Physical Review Letters},
+  year =            {1987},
+  volume =          {58},
+  number =          {20},
+  pages =           {2059--2062},
+  abstract =        {It has been recognized for some time that the spontaneous emission by atoms is not necessarily a fixed and immutable property of the coupling between matter and space, but that it can be controlled by modification of the properties of the radiation field. This is equally true in the solid state, where spon- taneous emission plays a fundamental role in limiting the performance of semiconductor lasers, hetero- junction bipolar transistors, and solar cells. If a three-dimensionally periodic dielectric structure has an electromagnetic band gap which overlaps the electronic band edge, then spontaneous emission can be rigorously forbidden. PACS},
+  doi =             {10.1103/PhysRevLett.18.395},
+  file =            {:C$\backslash$:/Users/cr458/Documents/GitHub/Thesis/Ch1Refs/PhysRevLett.58.2059.pdf:pdf},
+  issn =            {00319007},
+  mendeley-groups = {thesis}
 }
 
 @Book{YacobiHolt1990,
