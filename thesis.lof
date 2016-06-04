@@ -1,42 +1,45 @@
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Unit cell (dashed line) for GaN crystal structure and lattice parameters $\mathbf {a_{0}},\mathbf {c_{0}}$. Adapted from \cite {Yu1999}\relax }}{3}{figure.caption.8}
-\contentsline {figure}{\numberline {1.2}{\ignorespaces Bandgap at room temperature for III-nitride materials with the visible spectrum shown on the left. Courtesy of K. Montgomery.\relax }}{4}{figure.caption.11}
-\contentsline {figure}{\numberline {1.3}{\ignorespaces Band diagram of a quantum well. The bandgap of the well material is denoted $E_{g}$, the energy of the ground state transition is denoted $E_{1}$ and the conduction and valence bands are denoted $E_{c},E_{v}$ respectively \cite {Ren2015}.\relax }}{6}{figure.caption.13}
-\contentsline {figure}{\numberline {1.4}{\ignorespaces Illustration of Ga-face (+ {\it c}) and N-face (-{\it c}) GaN wrutzite crystal exhibiting polarity along the {\it c}-axis \cite {Sumiya2004}.\relax }}{7}{figure.caption.14}
-\contentsline {figure}{\numberline {1.5}{\ignorespaces GaN unit cell with lattice parameters \textbf {\it c} and \textbf {\it a} \cite {Miguel2014}\relax }}{7}{figure.caption.15}
-\contentsline {figure}{\numberline {1.6}{\ignorespaces Unbiased and biased quantum well energy levels with associated carrier wavefunctions. Under an applied field the overlap between the electron and hole carrier wavefunctions is reduced \cite {Ryou2009}.\relax }}{9}{figure.caption.18}
-\contentsline {figure}{\numberline {1.7}{\ignorespaces Point Defects:vacancy, self-interdtitial, substitutional impurity and foreign interstitial.\relax }}{11}{figure.caption.20}
-\contentsline {figure}{\numberline {1.8}{\ignorespaces Misfit dislocation formation through strain relaxation for heteroepitaxial growth: a) the film is grown on a substrate of smaller lattice size b) film maintains a pseudomorphic relationship with the substrate c) the film relaxes through the formation of a dislocation.\relax }}{12}{figure.caption.22}
-\contentsline {figure}{\numberline {1.9}{\ignorespaces a) {\it a}-plane GaN showing basal plane stacking faults (BSFs), prismatic stacking faults (PSFs) and stacking faults bounded partial dislocations (PDs) shown schematically b) and in TEM. Adapted from \cite {Liu2011}.\relax }}{13}{figure.caption.25}
-\contentsline {figure}{\numberline {1.10}{\ignorespaces a) TEM image of a hexagonal inverted pyramid defect b) Schematic of a V-pit with its associated TD \cite {Hangleiter2005}.\relax }}{14}{figure.caption.28}
-\contentsline {figure}{\numberline {1.11}{\ignorespaces Potential landscape due to V-pits decorating the apex of TDs: carriers (blue) need to overcome the energy barriers to recombine non-radiatively at the TDs \cite {Hangleiter2005}.\relax }}{15}{figure.caption.29}
-\contentsline {figure}{\numberline {1.12}{\ignorespaces a) {\it p-n} junction at equilibrium, with the conduction band, Fermi level and valence band denoted $E_{c},E_{F}$ and $E_{v}$ respectively, the built in potential across the junction is denoted as $V_{bi}$ b) under forward bias of V.\relax }}{16}{figure.caption.30}
-\contentsline {figure}{\numberline {1.13}{\ignorespaces Typical visible light LED structure grown on a sapphire substrate \cite {Ren2015}.\relax }}{16}{figure.caption.31}
-\contentsline {figure}{\numberline {1.14}{\ignorespaces Illustration of the some key parameters such as FSR and resonant cavity mode FWHM. \relax }}{18}{figure.caption.33}
-\contentsline {figure}{\numberline {1.15}{\ignorespaces Optical resonators.\relax }}{19}{figure.caption.34}
-\contentsline {figure}{\numberline {1.16}{\ignorespaces Illustration of the minimum radius $R_{min}$ for WGM propagation. Rays traversing the region $r<R_{min}$ (denoted in red) exceed the critical angle $\theta _{c}$ and thus escape the cavity. Rays travelling outside this region $r>R_{min}$ (denoted in violet) are confined. \relax }}{20}{figure.caption.36}
-\contentsline {figure}{\numberline {1.17}{\ignorespaces Scanning electron microscope image of a GaN microdisk produced by selective etching of sacrificial AlInN layers \cite {Simeonov2008}.\relax }}{21}{figure.caption.37}
-\contentsline {figure}{\numberline {1.18}{\ignorespaces Nanobeam schematic and 3-D FDTD simulation of the electric field intensity profile of the cavity mode adapted from \cite {Trivino2015}. \relax }}{22}{figure.caption.39}
-\contentsline {figure}{\numberline {1.19}{\ignorespaces III-Nitride nanowire applications.\relax }}{23}{figure.caption.40}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Wurtzite unit cell and lattice parameters \textbf {a} and \textbf {c}, the (0001),(11-20) and (1-100) planes are shown. Courtesy of J. Griffiths.\relax }}{2}{figure.caption.8}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Unit cell (dashed line) for GaN crystal structure and lattice parameters $\mathbf {a_{0}},\mathbf {c_{0}}$. Adapted from \cite {Yu1999}\relax }}{3}{figure.caption.9}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Bandgap at room temperature for III-nitride materials with the visible spectrum shown on the left. Courtesy of K. Montgomery.\relax }}{5}{figure.caption.12}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Band diagram of a quantum well. The bandgap of the well material is denoted $E_{g}$, the energy of the ground state transition is denoted $E_{1}$ and the conduction and valence bands are denoted $E_{c},E_{v}$ respectively \cite {Ren2015}.\relax }}{6}{figure.caption.14}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Illustration of Ga-face (+ {\it c}) and N-face (-{\it c}) GaN wrutzite crystal exhibiting polarity along the {\it c}-axis \cite {Sumiya2004}.\relax }}{7}{figure.caption.15}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces GaN unit cell with lattice parameters \textbf {\it c} and \textbf {\it a} \cite {Miguel2014}\relax }}{8}{figure.caption.16}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces Unbiased and biased quantum well energy levels with associated carrier wavefunctions. Under an applied field the overlap between the electron and hole carrier wavefunctions is reduced \cite {Ryou2009}.\relax }}{9}{figure.caption.19}
+\contentsline {figure}{\numberline {1.8}{\ignorespaces Point Defects:vacancy, self-interdtitial, substitutional impurity and foreign interstitial.\relax }}{11}{figure.caption.21}
+\contentsline {figure}{\numberline {1.9}{\ignorespaces Misfit dislocation formation through strain relaxation for heteroepitaxial growth: a) the film is grown on a substrate of smaller lattice size b) film maintains a pseudomorphic relationship with the substrate c) the film relaxes through the formation of a dislocation.\relax }}{12}{figure.caption.23}
+\contentsline {figure}{\numberline {1.10}{\ignorespaces a) {\it a}-plane GaN showing basal plane stacking faults (BSFs), prismatic stacking faults (PSFs) and stacking faults bounded partial dislocations (PDs) shown schematically b) and in TEM. Adapted from \cite {Liu2011}.\relax }}{13}{figure.caption.26}
+\contentsline {figure}{\numberline {1.11}{\ignorespaces a) TEM image of a hexagonal inverted pyramid defect b) Schematic of a V-pit with its associated TD \cite {Hangleiter2005}.\relax }}{14}{figure.caption.29}
+\contentsline {figure}{\numberline {1.12}{\ignorespaces Potential landscape due to V-pits decorating the apex of TDs: carriers (blue) need to overcome the energy barriers to recombine non-radiatively at the TDs \cite {Hangleiter2005}.\relax }}{15}{figure.caption.30}
+\contentsline {figure}{\numberline {1.13}{\ignorespaces a) {\it p-n} junction at equilibrium, with the conduction band, Fermi level and valence band denoted $E_{c},E_{F}$ and $E_{v}$ respectively, the built in potential across the junction is denoted as $V_{bi}$ b) under forward bias of V.\relax }}{16}{figure.caption.31}
+\contentsline {figure}{\numberline {1.14}{\ignorespaces Typical visible light LED structure grown on a sapphire substrate \cite {Ren2015}.\relax }}{16}{figure.caption.32}
+\contentsline {figure}{\numberline {1.15}{\ignorespaces Illustration of the some key parameters such as FSR and resonant cavity mode FWHM. \relax }}{18}{figure.caption.34}
+\contentsline {figure}{\numberline {1.16}{\ignorespaces Optical resonators.\relax }}{19}{figure.caption.35}
+\contentsline {figure}{\numberline {1.17}{\ignorespaces Illustration of the minimum radius $R_{min}$ for WGM propagation. Rays traversing the region $r<R_{min}$ (denoted in red) exceed the critical angle $\theta _{c}$ and thus escape the cavity. Rays travelling outside this region $r>R_{min}$ (denoted in violet) are confined. \relax }}{20}{figure.caption.37}
+\contentsline {figure}{\numberline {1.18}{\ignorespaces Scanning electron microscope image of a GaN microdisk produced by selective etching of sacrificial AlInN layers \cite {Simeonov2008}.\relax }}{21}{figure.caption.38}
+\contentsline {figure}{\numberline {1.19}{\ignorespaces Nanobeam schematic and 3-D FDTD simulation of the electric field intensity profile of the cavity mode adapted from \cite {Trivino2015}. \relax }}{22}{figure.caption.40}
+\contentsline {figure}{\numberline {1.20}{\ignorespaces a) Lasing from the end-facets of a GaN nanowire b) schematic of the triangular InGaN/GaN MQW nanowire grown by Qian {\it et al.} c) GaN nanowire coupling to a dielectric cavity d) GaN/InGaN nanowire bundle coupling to a gold plate through a nanogap layer. Adapted from \cite {Johnson2002,Qian2008,Das2011,Wu2011} respectively.\relax }}{23}{figure.caption.41}
+\contentsline {figure}{\numberline {1.21}{\ignorespaces a) Schematic of the InGaN QD in GaN nanowire structure b) SEM micrograph of the nanowire sample grown by MBE c)TEM micrograph of a single nanowire. Adapted from \cite {Deshpande2013b}.\relax }}{24}{figure.caption.42}
+\contentsline {figure}{\numberline {1.22}{\ignorespaces a) SEM micrograph showing the a single nanowire on a patterned $SiO_{2}$ substrate grown by MOCVD. The inset shows the array of nanowires grown on the substrate b)showing the site-controlled GaN QD at the tip of the nanowire c)schematic of the nanowire structure \cite {Holmes2014}.\relax }}{24}{figure.caption.43}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces h}}{25}{figure.caption.41}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces a) Elastic and b) inelastic interactions for a high energy electron beam incident on a thin sample. \relax }}{26}{figure.caption.42}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces h}}{27}{figure.caption.44}
-\contentsline {figure}{\numberline {2.4}{\ignorespaces h}}{28}{figure.caption.45}
-\contentsline {figure}{\numberline {2.5}{\ignorespaces a)Bright-field and b) dark-field imaging \cite {Zhang2008}.\relax }}{29}{figure.caption.47}
-\contentsline {figure}{\numberline {2.6}{\ignorespaces h}}{31}{figure.caption.49}
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Schematic of an atomic force microscope.\relax }}{32}{figure.caption.50}
-\contentsline {figure}{\numberline {2.8}{\ignorespaces The effect of separation on the tip-sample interaction force \cite {Zhu2010}.\relax }}{33}{figure.caption.51}
-\contentsline {figure}{\numberline {2.9}{\ignorespaces Interaction of a hemisphere with a flat-topped island for the cases a) $h > R(1-cos(\alpha ))$ and b) $h < R(1-cos(\alpha ))$ adapted from \cite {Oliver2008}. \relax }}{33}{figure.caption.52}
-\contentsline {figure}{\numberline {2.10}{\ignorespaces Measurement error in the depth of a pit caused by the finite width of the AFM tip.\relax }}{34}{figure.caption.53}
-\contentsline {figure}{\numberline {2.11}{\ignorespaces SEM design \cite {YacobiHolt1990}.\relax }}{35}{figure.caption.55}
-\contentsline {figure}{\numberline {2.12}{\ignorespaces Interaction volumes for different interactions of an electron beam \cite {Puchtler2014}.\relax }}{36}{figure.caption.56}
-\contentsline {figure}{\numberline {2.13}{\ignorespaces h}}{37}{figure.caption.58}
-\contentsline {figure}{\numberline {2.14}{\ignorespaces h}}{38}{figure.caption.59}
-\contentsline {figure}{\numberline {2.15}{\ignorespaces h}}{40}{figure.caption.61}
-\contentsline {figure}{\numberline {2.16}{\ignorespaces h}}{41}{figure.caption.62}
-\contentsline {figure}{\numberline {2.17}{\ignorespaces h}}{42}{figure.caption.63}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces h}}{25}{figure.caption.44}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces a) Elastic and b) inelastic interactions for a high energy electron beam incident on a thin sample. \relax }}{26}{figure.caption.45}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces h}}{27}{figure.caption.47}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces h}}{28}{figure.caption.48}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces a)Bright-field and b) dark-field imaging \cite {Zhang2008}.\relax }}{29}{figure.caption.50}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces h}}{31}{figure.caption.52}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Schematic of an atomic force microscope.\relax }}{32}{figure.caption.53}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces The effect of separation on the tip-sample interaction force \cite {Zhu2010}.\relax }}{33}{figure.caption.54}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Interaction of a hemisphere with a flat-topped island for the cases a) $h > R(1-cos(\alpha ))$ and b) $h < R(1-cos(\alpha ))$ adapted from \cite {Oliver2008}. \relax }}{33}{figure.caption.55}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Measurement error in the depth of a pit caused by the finite width of the AFM tip.\relax }}{34}{figure.caption.56}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces SEM design \cite {YacobiHolt1990}.\relax }}{35}{figure.caption.58}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Interaction volumes for different interactions of an electron beam \cite {Puchtler2014}.\relax }}{36}{figure.caption.59}
+\contentsline {figure}{\numberline {2.13}{\ignorespaces h}}{37}{figure.caption.61}
+\contentsline {figure}{\numberline {2.14}{\ignorespaces h}}{38}{figure.caption.62}
+\contentsline {figure}{\numberline {2.15}{\ignorespaces h}}{40}{figure.caption.64}
+\contentsline {figure}{\numberline {2.16}{\ignorespaces h}}{41}{figure.caption.65}
+\contentsline {figure}{\numberline {2.17}{\ignorespaces h}}{42}{figure.caption.66}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Best Animations\relax }}{49}{figure.caption.68}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Best Animations\relax }}{49}{figure.caption.71}
 \addvspace {10\p@ }
 \addvspace {10\p@ }

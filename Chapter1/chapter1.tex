@@ -24,7 +24,16 @@ This work aims to explore the manner in which the microstructural properties of 
 \label{section1.1.1}
 
 GaN can crystallise into two distinct crystal structures: hexagonal (wurtzite) and cubic (zinc blende and rock salt). Under ambient conditions, wurtzite GaN is the most commonly studied form as it is the most structurally stable. Thus, the work discussed in this thesis concerns wurtzite III-nitrides. A schematic of a wurtzite III-nitride crystal structure is shown in Fig.\ref{1.1} and consists of stacked hexagonal close-packed planes following an ABABAB stacking sequence. Atoms of the respective elements are tetrahedrally bonded to one another. However, in the case of III-nitrides this structure deviates from ideal tetrahedral bonding and results in a non-zero dipole moment for each unit cell which will be discussed in the following sections.
-\\ A 4-index Miller-Bravais notation (hkil) is used to denote the crystal planes where the index {\it i} is defined by the relation:
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.4\textwidth]{Figs/Ch1/crystal_planes-eps-converted-to.pdf}
+	\caption {Wurtzite unit cell and lattice parameters \textbf{a} and \textbf{c}, the (0001),(11-20) and (1-100) planes are shown. Courtesy of J. Griffiths.}
+	\label{1.1}
+\end{figure}
+\FloatBarrier
+
+A 4-index Miller-Bravais notation (hkil) is used to denote the crystal planes where the index {\it i} is defined by the relation:
 
 \begin{equation}
  i = -(h+k)
@@ -498,26 +507,38 @@ Electromagnetic field confinement is achieved in nanobeam structures by Bragg sc
 \end{figure}
 \FloatBarrier 
 
-\subsection{Nanowires}
-The lack of readily available, low-cost substrates for the epitaxial growth of GaN and its associated alloys has motivated research into the growth of III-nitrides in nanowire geometries. Indeed, studies have shown that epitaxial GaN nanowires can be grown with far lower dislocation densities relative to bulk GaN due to a large surface-to-volume ratio. Furthermore, QWs grown radially along the non-polar facets of nanowires allow for the reduction of the polarization fields which can deleteriously affect the optical properties of polar III-nitride emitters without the need for expensive non-polar substrates. Furthermore, axial heterostructure nanowire geometries allow for the growth of {\it p-n} junctions within a single nanowire, allowing for the use of III-nitride nanowires as fundamental electrical components in optoelectronics. As such III-nitride nanowires have been utilised to develop high efficiency LEDs, electrically pump lasers with extremely low lasing thresholds and single photon sources with site-controlled QDs.
+Despite the promise of large $\frac{Q}{V_{eff}}$ ratios and potential applications ranging from bio-photonics to optical communications, processing issues have hindered the development of III-nitride based photonic crystal cavities, similarly to the development of microdisk cavities discussed earlier. Indeed, the first high-Q (2400) III-nitride photonic crystal cavity was demonstrated in 2007 by Arita {\it et al.} \cite{Arita2007}. In terms of 1-D nanobeam cavities, Pernice {\it et al.} reported AlN nanobeam cavities with measured Q-factors of approximately 146000 close to standard telecommunication wavelengths of 1.55 $\mu m$ \cite{Pernice2012}. Sergent {\it et al.} demonstrated a high Q ($6.3 \times 10^{3}$) optically active nanobeam cavity with embedded GaN/AlN quantum dots using a layer transfer method rather than the traditional PEC undercut. More recently, continuous wave blue lasing was demonstrated at 460 nm in GaN nanobeams with an InGaN QW active region  grown on silicon, where the reported Q-factor was $ 10^{4}$. Ultra-low threshold (9.1 $\mu J/cm^{2}$) lasing was also reported by Niu \textit{et al.} in GaN nanobeam cavity structures with a fragmented InGaN QW active layer which provided additional confinement for photo-generated carriers relative to continuous QW active layers \cite{Niu2015}.
 
-\begin{figure}
+\subsection{Nanowires for Nanophotonic Devices}
+The lack of readily available, low-cost substrates for the epitaxial growth of GaN and its associated alloys has motivated research into the growth of III-nitrides in nanowire geometries. Indeed, studies have shown that epitaxial GaN nanowires can be grown with far lower dislocation densities relative to bulk GaN due to a large surface-to-volume ratio. Furthermore, QWs grown radially along the non-polar facets of nanowires allow for the reduction of the polarization fields which can deleteriously affect the optical properties of polar III-nitride emitters without the need for expensive non-polar substrates.\\
+Beyond the material benefits of the nanowire growth geometries in the III-nitrides, the reduced dimensionality of nanowires will potentially allow for the realisation of highly efficient, low-threshold  compact light sources for applcations such as information processing and optical communications \cite{Arafin2013}. As such, nanowires may provide a solution to one of the most challenging areas of modern optoelectronics: miniaturisation of optoelectronic components. In terms of their employment as active optoelectronic components, nanowires have the additional benefit of having to intrinsic mirrors in the form of their crystalline end-facets. Due to the increasingly demanding nature of modern optoelectronic device development, research into nanowire devices is currently an extremly active area of research.
+The first demonstration of GaN nanowire based lasing was reported by Johnson {\it et al.}, who demontrasted lasing at wavelengths of 370-380 nm at a threshold of approximartely 700 $nJ/cm^2$ \cite{Johnson2002}. Progress in the epitaxial growth of heterostructure nanowires lead to the demonstration of InGaN/GaN MQW nanowire lasing in 2008 by Qian {\it et al.}, by varying the indium composition of the MQW structures lasing at wavelengths ranging from 380 to 478 nm was achieved \cite{Qian2008}. Whilst both these demonstrations of nanowire lasing were achieved by using the simplest cavity geometry (Fabry-Perot), polariton lasing in GaN nanowries was demonstrated by Das {\it et al.} by strongly coupling a single GaN nanowrie to a large-area dielectric microcavity \cite{Das2011}. Alternative cavity coupling designs have since been expanded to include plasmonic coupling, first demonstrated in InGaN/GaN nanowires by Wu {\it et al.} by coupling a bundle of GaN/InGaN nanowires to a gold plate through a dielectric nanogap layer \cite{Wu2011}. These nanowire laser applications are shown schematically in Fig.\ref{1.20}
 
-	\begin{subfigure}[b]{0.49\textwidth}
-		\centering
-		\includegraphics[width=.95\linewidth]{Figs/Ch1/Nwlaser.png}
-		\caption{Axial GaN/AlGaN heterostructure nanowire for random lasing\cite{Li2015}}
-		
-	\end{subfigure}%
-	\hspace*{0.5cm}
-	\begin{subfigure}[b]{0.49\textwidth}
-		\centering
-		\includegraphics[width=.85\linewidth]{Figs/Ch1/holmes.png}
-		\caption{Site-controlled QD in a GaN nanowire showing photon anti-bunching emission at room temperature \cite{Holmes2014}.}
-	\end{subfigure}%
-	
-	\caption{III-Nitride nanowire applications.}
-	\label{1.19}
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.8\textwidth]{Figs/Ch1/nw_lasers.png}
+	\caption {a) Lasing from the end-facets of a GaN nanowire b) schematic of the triangular InGaN/GaN MQW nanowire grown by Qian {\it et al.} c) GaN nanowire coupling to a dielectric cavity d) GaN/InGaN nanowire bundle coupling to a gold plate through a nanogap layer. Adapted from \cite{Johnson2002,Qian2008,Das2011,Wu2011} respectively.} 
+	\label{1.20}
 \end{figure}
+\FloatBarrier 
 
-\FloatBarrier
+Nanowire single photon sources have also been achieved, due to  the benefit of site-controlled quantum dots due to the confinement within nanowires. Electrically injected blue single photon sources based on III-nitride nanowires have been reported by Deshpande {\it et al.} operating at 10 K. In this particular case, an InGaN QD was incorporated into a {\it p-n} GaN nanowire as shown in Fig. \ref{elec}.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.9\textwidth]{Figs/Ch1/elect_SPS.png}
+	\caption {a) Schematic of the InGaN QD in GaN nanowire structure b) SEM micrograph of the nanowire sample grown by MBE c)TEM micrograph of a single nanowire. Adapted from \cite{Deshpande2013b}.}
+	\label{elec}
+\end{figure}
+\FloatBarrier 
+
+Holmes \textit{et al.} have also demonstrated room temperature triggered single photon emission from a GaN QD grown in a GaN/AlGaN core-shell nanowire as shown in Fig.\ref{homey}.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.9\textwidth]{Figs/Ch1/homey.png}
+	\caption {a) SEM micrograph showing the a single nanowire on a patterned $SiO_{2}$ substrate grown by MOCVD. The inset shows the array of nanowires grown on the substrate b)showing the site-controlled GaN QD at the tip of the nanowire c)schematic of the nanowire structure \cite{Holmes2014}.} 
+	\label{homey}
+\end{figure}
+\FloatBarrier 
+

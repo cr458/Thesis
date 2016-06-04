@@ -174,6 +174,36 @@
   url =             {http://scitation.aip.org/content/aip/journal/apl/91/5/10.1063/1.2757596}
 }
 
+@Article{Arita2007,
+  author =          {Arita, M. and Ishida, S. and Kako, S. and Iwamoto, S. and Arakawa, Y.},
+  title =           {{AlN air-bridge photonic crystal nanocavities demonstrating high quality factor}},
+  journal =         {Applied Physics Letters},
+  year =            {2007},
+  volume =          {91},
+  number =          {5},
+  pages =           {89--92},
+  abstract =        {The authors report an achievement of high quality AlN ultraviolet photonic crystal nanocavities. Convex AlN air-bridge structures with embedded GaN quantum dots have been formed by utilizing photoelectrochemical etching of 6H-SiC substrates. Room-temperature microscopic photoluminescence measurements reveal the high quality of the nanocavities. For the lowest-order cavity mode of a 150-nm-period nanocavity with seven missing holes, the highest Q factor ({\textgreater}2400) ever reported in nitride-based photonic crystals has been obtained.},
+  doi =             {10.1063/1.2757596},
+  file =            {:C$\backslash$:/Users/cr458/OneDrive/Overleaf{\_}thesis/Ch1Refs/1.2757596.pdf:pdf},
+  issn =            {00036951},
+  mendeley-groups = {thesis}
+}
+
+@Article{Arita2007,
+  author =          {Arita, M. and Ishida, S. and Kako, S. and Iwamoto, S. and Arakawa, Y.},
+  title =           {{AlN air-bridge photonic crystal nanocavities demonstrating high quality factor}},
+  journal =         {Applied Physics Letters},
+  year =            {2007},
+  volume =          {91},
+  number =          {5},
+  pages =           {89--92},
+  abstract =        {The authors report an achievement of high quality AlN ultraviolet photonic crystal nanocavities. Convex AlN air-bridge structures with embedded GaN quantum dots have been formed by utilizing photoelectrochemical etching of 6H-SiC substrates. Room-temperature microscopic photoluminescence measurements reveal the high quality of the nanocavities. For the lowest-order cavity mode of a 150-nm-period nanocavity with seven missing holes, the highest Q factor ({\textgreater}2400) ever reported in nitride-based photonic crystals has been obtained.},
+  doi =             {10.1063/1.2757596},
+  file =            {:C$\backslash$:/Users/cr458/OneDrive/Overleaf{\_}thesis/Ch1Refs/1.2757596.pdf:pdf},
+  issn =            {00036951},
+  mendeley-groups = {thesis}
+}
+
 @Article{Asaoka1999,
   author =          {Asaoka, Kazuya and Ohno, Yutaka and Kishimoto, Shigeru and Mizutani, Takashi},
   title =           {{Microscopic Photoluminescence Study of InAs Single Quantum Dots Grown on (100) GaAs}},
@@ -328,6 +358,23 @@
   mendeley-groups = {JAP special topic,thesis}
 }
 
+@Article{Borselli2005,
+  author =          {Borselli, Matthew and Johnson, Thomas and Painter, Oskar},
+  title =           {{Beyond the Rayleigh scattering limit in high-Q silicon microdisks: theory and experiment.}},
+  journal =         {Optics express},
+  year =            {2005},
+  volume =          {13},
+  number =          {5},
+  pages =           {1515--1530},
+  abstract =        {Using a combination of resist reflow to form a highly circular etch mask pattern and a low-damage plasma dry etch, high-quality-factor silicon optical microdisk resonators are fabricated out of silicon-on-insulator (SOI) wafers. Quality factors as high as Q = 5x10(6) are measured in these microresonators, corresponding to a propagation loss coefficient as small as alpha {\~{}} 0.1 dB/cm. The different optical loss mechanisms are identified through a study of the total optical loss, mode coupling, and thermally-induced optical bistability as a function of microdisk radius (5-30 microm). These measurements indicate that optical loss in these high-Q microresonators is limited not by surface roughness, but rather by surface state absorption and bulk free-carrier absorption.},
+  doi =             {10.1364/OPEX.13.001515},
+  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/Microdisk/JAP Special topic/JAP Special Topic Papers/oe-13-5-1515.pdf:pdf},
+  isbn =            {1094-4087},
+  issn =            {1094-4087},
+  mendeley-groups = {JAP special topic,thesis},
+  pmid =            {19495027}
+}
+
 @Article{Bottcher2001,
   author =          {B{\"{o}}ttcher, T. and Einfeldt, S. and Figge, S. and Chierchia, R. and Heinke, H. and Hommel, D. and Speck, J. S.},
   title =           {{The role of high-temperature island coalescence in the development of stresses in GaN films}},
@@ -358,6 +405,21 @@
   isbn =            {0003-6951},
   issn =            {00036951},
   mendeley-groups = {DRIP Paper,thesis}
+}
+
+@Article{Bruckbauer2014,
+  author =          {Bruckbauer, Jochen and Edwards, Paul R and Sahonta, Suman-Lata and Massabuau, Fabien C-P and Kappers, Menno J and Humphreys, Colin J and Oliver, Rachel a and Martin, Robert W},
+  title =           {{Cathodoluminescence hyperspectral imaging of trench-like defects in InGaN/GaN quantum well structures}},
+  journal =         {Journal of Physics D: Applied Physics},
+  year =            {2014},
+  volume =          {47},
+  number =          {13},
+  pages =           {135107},
+  doi =             {10.1088/0022-3727/47/13/135107},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Bruckbauer et al. - 2014 - Cathodoluminescence hyperspectral imaging of trench-like defects in InGaNGaN quantum well structures.pdf:pdf},
+  issn =            {0022-3727},
+  mendeley-groups = {DRIP Paper,thesis},
+  url =             {http://stacks.iop.org/0022-3727/47/i=13/a=135107?key=crossref.042ff2f4ddfc438cb2cec7401e95a201}
 }
 
 @Article{Bruckbauer2014,
@@ -587,6 +649,23 @@
   mendeley-groups = {JAP special topic/Response,thesis}
 }
 
+@Article{Das2011,
+  author =          {Das, Ayan and Heo, Junseok and Jankowski, Marc and Guo, Wei and Zhang, Lei and Deng, Hui and Bhattacharya, Pallab},
+  title =           {{Room temperature ultralow threshold GaN nanowire polariton laser}},
+  journal =         {Physical Review Letters},
+  year =            {2011},
+  volume =          {107},
+  number =          {6},
+  pages =           {1--5},
+  abstract =        {We report ultralow threshold polariton lasing from a single GaN nanowire strongly coupled to a large-area dielectric microcavity. The threshold carrier density is 3 orders of magnitude lower than that of photon lasing observed in the same device, and 2 orders of magnitude lower than any existing room-temperature polariton devices. Spectral, polarization, and coherence properties of the emission were measured to confirm polariton lasing.},
+  doi =             {10.1103/PhysRevLett.107.066405},
+  file =            {:C$\backslash$:/Users/cr458/OneDrive/Overleaf{\_}thesis/Ch1Refs/PhysRevLett.107.066405.pdf:pdf},
+  isbn =            {1079-7114 (Electronic)$\backslash$r0031-9007 (Linking)},
+  issn =            {00319007},
+  mendeley-groups = {thesis},
+  pmid =            {21902349}
+}
+
 @Article{DasBakshi2009,
   author =          {{Das Bakshi}, S. and Sumner, J. and Kappers, M.J. and Oliver, R.a.},
   title =           {{The influence of coalescence time on unintentional doping in GaN/sapphire}},
@@ -696,6 +775,24 @@
   isbn =            {9781557528735},
   issn =            {00036951},
   mendeley-groups = {thesis}
+}
+
+@Article{Deshpande2013b,
+  author =          {Deshpande, Saniya and Heo, Junseok and Das, Ayan and Bhattacharya, Pallab},
+  title =           {{Electrically driven polarized single-photon emission from an InGaN quantum dot in a GaN nanowire.}},
+  journal =         {Nature communications},
+  year =            {2013},
+  volume =          {4},
+  pages =           {1675},
+  month =           {jan},
+  abstract =        {In a classical light source, such as a laser, the photon number follows a Poissonian distribution. For quantum information processing and metrology applications, a non-classical emitter of single photons is required. A single quantum dot is an ideal source of single photons and such single-photon sources in the visible spectral range have been demonstrated with III-nitride and II-VI-based single quantum dots. It has been suggested that short-wavelength blue single-photon emitters would be useful for free-space quantum cryptography, with the availability of high-speed single-photon detectors in this spectral region. Here we demonstrate blue single-photon emission with electrical injection from an In0.25Ga0.75N quantum dot in a single nanowire. The emitted single photons are linearly polarized along the c axis of the nanowire with a degree of linear polarization of {\~{}}70{\%}.},
+  doi =             {10.1038/ncomms2691},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Deshpande et al. - 2013 - Electrically driven polarized single-photon emission from an InGaN quantum dot in a GaN nanowire.pdf:pdf},
+  issn =            {2041-1723},
+  mendeley-groups = {GaN/Single Photon Sources/QD,thesis},
+  pmid =            {23575679},
+  publisher =       {Nature Publishing Group},
+  url =             {http://www.ncbi.nlm.nih.gov/pubmed/23575679}
 }
 
 @Article{Dorfman2014,
@@ -1051,6 +1148,22 @@
   mendeley-groups = {JAP special topic/Response,thesis}
 }
 
+@Article{Holmes2014,
+  author =          {Holmes, Mark J and Choi, Kihyun and Kako, Satoshi and Arita, Munetaka and Arakawa, Yasuhiko},
+  title =           {{Room-Temperature Triggered Single Photon Emission from a III-Nitride Site-Controlled Nanowire Quantum Dot.}},
+  journal =         {Nano letters},
+  year =            {2014},
+  month =           {jan},
+  abstract =        {We demonstrate triggered single photon emission at room temperature from a site-controlled III-nitride quantum dot embedded in a nanowire. Moreover, we reveal a remarkable temperature insensitivity of the single photon statistics, and a g((2))[0] value at 300 K of just 0.13. The combination of using high-quality, small, site-controlled quantum dots with a wide-bandgap material system is crucial for providing both sufficient exciton confinement and an emission spectrum with minimal contamination in order to enable room temperature operation. Arrays of such single photon emitters will be useful for room-temperature quantum information processing applications such as on-chip quantum communication.},
+  doi =             {10.1021/nl404400d},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Holmes et al. - 2014 - Room-Temperature Triggered Single Photon Emission from a III-Nitride Site-Controlled Nanowire Quantum Dot.pdf:pdf},
+  issn =            {1530-6992},
+  keywords =        {a site-controlled,goals of semiconductor nano-,iii-nitride,information processing,is the development of,nanowire,ne of the ultimate,on the way to,quantum dot,realizing solid-state quantum,room temperature,single photon source,technology},
+  mendeley-groups = {GaN/Single Photon Sources/QD,thesis},
+  pmid =            {24422516},
+  url =             {http://www.ncbi.nlm.nih.gov/pubmed/24422516}
+}
+
 @Article{Honig2013,
   author =          {H{\"{o}}nig, Gerald and Rodt, Sven and Callsen, Gordon and Ostapenko, Irina A. and Kure, Thomas and Schliwa, Andrei and Kindel, Christian and Bimberg, Dieter and Hoffmann, Axel and Kako, Satoshi and Arakawa, Yasuhiko},
   title =           {{Identification of electric dipole moments of excitonic complexes in nitride-based quantum dots}},
@@ -1248,6 +1361,25 @@
   issn =            {00319007},
   mendeley-groups = {thesis},
   pmid =            {10034761}
+}
+
+@Article{Johnson2002,
+  author =          {Johnson, Justin C and Choi, Heon-Jin and Knutsen, Kelly P and Schaller, Richard D and Yang, Peidong and Saykally, Richard J},
+  title =           {{Single gallium nitride nanowire lasers.}},
+  journal =         {Nature materials},
+  year =            {2002},
+  volume =          {1},
+  number =          {2},
+  pages =           {106--110},
+  abstract =        {There is much current interest in the optical properties of semiconductor nanowires, because the cylindrical geometry and strong two-dimensional confinement of electrons, holes and photons make them particularly attractive as potential building blocks for nanoscale electronics and optoelectronic devices, including lasersand nonlinear optical frequency converters. Gallium nitride (GaN) is a wide-bandgap semiconductor of much practical interest, because it is widely used in electrically pumped ultraviolet-blue light-emitting diodes, lasers and photodetectors. Recent progress in microfabrication techniques has allowed stimulated emission to be observed from a variety of GaN microstructures and films. Here we report the observation of ultraviolet-blue laser action in single monocrystalline GaN nanowires, using both near-field and far-field optical microscopy to characterize the waveguide mode structure and spectral properties of the radiation at room temperature. The optical microscope images reveal radiation patterns that correlate with axial Fabry-Perot modes (Q approximately 10(3)) observed in the laser spectrum, which result from the cylindrical cavity geometry of the monocrystalline nanowires. A redshift that is strongly dependent on pump power (45 meV microJ x cm(-2)) supports the idea that the electron-hole plasma mechanism is primarily responsible for the gain at room temperature. This study is a considerable advance towards the realization of electron-injected, nanowire-based ultraviolet-blue coherent light sources.},
+  doi =             {10.1038/nmat728},
+  file =            {:C$\backslash$:/Users/cr458/OneDrive/Overleaf{\_}thesis/Ch1Refs/nmat728.pdf:pdf},
+  isbn =            {1476-1122 (Print)$\backslash$r1476-1122 (Linking)},
+  issn =            {1476-1122},
+  keywords =        {Crystallization,Electrons,Equipment Design,Equipment Failure Analysis,Equipment Failure Analysis: methods,Gallium,Gallium: chemistry,Lasers,Materials Testing,Materials Testing: methods,Microchemistry,Microchemistry: methods,Miniaturization,Miniaturization: methods,Nanotechnology,Nanotechnology: instrumentation,Nanotechnology: methods,Nitrogen,Nitrogen: chemistry,Photochemistry,Photochemistry: instrumentation,Photochemistry: methods,Semiconductors,Sensitivity and Specificity,Ultraviolet Rays},
+  mendeley-groups = {thesis},
+  pmid =            {12618824},
+  url =             {http://apps.webofknowledge.com/full{\{}{\_}{\}}record.do?product=UA{\{}{\&}{\}}search{\{}{\_}{\}}mode=GeneralSearch{\{}{\&}{\}}qid=2{\{}{\&}{\}}SID=S1DuRMs4AOm8E64w9BH{\{}{\&}{\}}page=1{\{}{\&}{\}}doc=4}
 }
 
 @Article{Kako2004,
@@ -2322,6 +2454,36 @@
   url =             {http://scitation.aip.org/content/aip/journal/apl/97/6/10.1063/1.3477952}
 }
 
+@Article{Pernice2012,
+  author =          {Pernice, W. H P and Xiong, C. and Schuck, C. and Tang, H. X.},
+  title =           {{High-Q aluminum nitride photonic crystal nanobeam cavities}},
+  journal =         {Applied Physics Letters},
+  year =            {2012},
+  volume =          {100},
+  number =          {9},
+  abstract =        {We demonstrate high optical quality factors in aluminum nitride(AlN)photonic crystal nanobeam cavities. Suspended AlNphotonic crystal nanobeams are fabricated in sputter-deposited AlN-on-insulator substrates using a self-protecting release process. Employing one-dimensional photonic crystalcavities coupled to integrated optical circuits, we measure quality factors up to 146 000. By varying the waveguide-cavity coupling gap, extinction ratios in excess of 15 dB are obtained. Our results open the door for integrated photonic bandgap structures made from a low loss, wide-transparency, nonlinear optical material system.},
+  doi =             {10.1063/1.3690888},
+  file =            {:C$\backslash$:/Users/cr458/OneDrive/Overleaf{\_}thesis/Ch1Refs/1.3690888.pdf:pdf},
+  isbn =            {0003-6951},
+  issn =            {00036951},
+  mendeley-groups = {thesis}
+}
+
+@Article{Pernice2012,
+  author =          {Pernice, W. H P and Xiong, C. and Schuck, C. and Tang, H. X.},
+  title =           {{High-Q aluminum nitride photonic crystal nanobeam cavities}},
+  journal =         {Applied Physics Letters},
+  year =            {2012},
+  volume =          {100},
+  number =          {9},
+  abstract =        {We demonstrate high optical quality factors in aluminum nitride(AlN)photonic crystal nanobeam cavities. Suspended AlNphotonic crystal nanobeams are fabricated in sputter-deposited AlN-on-insulator substrates using a self-protecting release process. Employing one-dimensional photonic crystalcavities coupled to integrated optical circuits, we measure quality factors up to 146 000. By varying the waveguide-cavity coupling gap, extinction ratios in excess of 15 dB are obtained. Our results open the door for integrated photonic bandgap structures made from a low loss, wide-transparency, nonlinear optical material system.},
+  doi =             {10.1063/1.3690888},
+  file =            {:C$\backslash$:/Users/cr458/OneDrive/Overleaf{\_}thesis/Ch1Refs/1.3690888.pdf:pdf},
+  isbn =            {0003-6951},
+  issn =            {00036951},
+  mendeley-groups = {thesis}
+}
+
 @Book{Piprek2007,
   title =           {{Nitride Semiconductor Devices: Principles and Simulation}},
   publisher =       {Wiley-VCH},
@@ -2396,6 +2558,23 @@
   keywords =        {an microcavities with embedded,as visible light sources,as well as,cathodoluminescence,cqed,electrodynamics,gan,long been sought after,microcavities,optical emitters have,platforms for cavity quantum,quality factor,threading dislocations},
   mendeley-groups = {Microdisks,JAP special topic,thesis},
   url =             {http://pubs.acs.org/doi/abs/10.1021/ph500426g}
+}
+
+@Article{Qian2008,
+  author =          {Qian, Fang and Li, Yat and Gradecak, Silvija and Park, Hong-Gyu and Dong, Yajie and Ding, Yong and Wang, Zhong Lin and Lieber, Charles M},
+  title =           {{Multi-quantum-well nanowire heterostructures for wavelength-controlled lasers.}},
+  journal =         {Nature materials},
+  year =            {2008},
+  volume =          {7},
+  number =          {9},
+  pages =           {701--706},
+  abstract =        {Rational design and synthesis of nanowires with increasingly complex structures can yield enhanced and/or novel electronic and photonic functions. For example, Ge/Si core/shell nanowires have exhibited substantially higher performance as field-effect transistors and low-temperature quantum devices compared with homogeneous materials, and nano-roughened Si nanowires were recently shown to have an unusually high thermoelectric figure of merit. Here, we report the first multi-quantum-well (MQW) core/shell nanowire heterostructures based on well-defined III-nitride materials that enable lasing over a broad range of wavelengths at room temperature. Transmission electron microscopy studies show that the triangular GaN nanowire cores enable epitaxial and dislocation-free growth of highly uniform (InGaN/GaN)n quantum wells with n=3, 13 and 26 and InGaN well thicknesses of 1-3 nm. Optical excitation of individual MQW nanowire structures yielded lasing with InGaN quantum-well composition-dependent emission from 365 to 494 nm, and threshold dependent on quantum well number, n. Our work demonstrates a new level of complexity in nanowire structures, which potentially can yield free-standing injection nanolasers.},
+  doi =             {10.1038/nmat2253},
+  file =            {:C$\backslash$:/Users/cr458/OneDrive/Overleaf{\_}thesis/Ch1Refs/nmat2253.pdf:pdf},
+  isbn =            {1476-1122},
+  issn =            {1476-1122},
+  mendeley-groups = {thesis},
+  pmid =            {18711385}
 }
 
 @Article{Quan2014,
@@ -3008,6 +3187,34 @@
   issn =            {00036951},
   mendeley-groups = {JAP special topic,thesis},
   url =             {http://scitation.aip.org/content/aip/journal/apl/100/12/10.1063/1.3695331}
+}
+
+@Article{Sergent2012,
+  author =          {Sergent, S. and Arita, M. and Kako, S. and Tanabe, K. and Iwamoto, S. and Arakawa, Y.},
+  title =           {{High-Q AlN photonic crystal nanobeam cavities fabricated by layer transfer}},
+  journal =         {Applied Physics Letters},
+  year =            {2012},
+  volume =          {101},
+  number =          {10},
+  abstract =        {High-quality-factor one-dimensional photonic crystal nanobeam cavities$\backslash$nembedding {\{}GaN{\}}/{\{}AlN{\}} quantum dots are fabricated by an epilayer$\backslash$ntransfer method. The {\{}GaN{\}}/{\{}AlN{\}} quantum dots are first grown on$\backslash$n{\{}SiC{\}} before being transferred to a Si substrate using a hydrogen$\backslash$nsilsesquioxane bonding layer and highly selective back-etching of$\backslash$nthe {\{}SiC{\}}. Nanobeam cavities are then fabricated by electron-beam$\backslash$nlithography, dry etching, and {\{}HF{\}} underetching of the bonding layer.$\backslash$nThe resulting nanocavity exhibits quality factors larger than 6.3$\backslash$n× 103, the highest quality factor reported to date for an optically$\backslash$nactive group-{\{}III{\}} nitride photonic crystal nanocavity.},
+  doi =             {10.1063/1.4751336},
+  file =            {:C$\backslash$:/Users/cr458/OneDrive/Overleaf{\_}thesis/Ch1Refs/1.4751336.pdf:pdf},
+  issn =            {00036951},
+  mendeley-groups = {thesis}
+}
+
+@Article{Sergent2012,
+  author =          {Sergent, S. and Arita, M. and Kako, S. and Tanabe, K. and Iwamoto, S. and Arakawa, Y.},
+  title =           {{High-Q AlN photonic crystal nanobeam cavities fabricated by layer transfer}},
+  journal =         {Applied Physics Letters},
+  year =            {2012},
+  volume =          {101},
+  number =          {10},
+  abstract =        {High-quality-factor one-dimensional photonic crystal nanobeam cavities$\backslash$nembedding {\{}GaN{\}}/{\{}AlN{\}} quantum dots are fabricated by an epilayer$\backslash$ntransfer method. The {\{}GaN{\}}/{\{}AlN{\}} quantum dots are first grown on$\backslash$n{\{}SiC{\}} before being transferred to a Si substrate using a hydrogen$\backslash$nsilsesquioxane bonding layer and highly selective back-etching of$\backslash$nthe {\{}SiC{\}}. Nanobeam cavities are then fabricated by electron-beam$\backslash$nlithography, dry etching, and {\{}HF{\}} underetching of the bonding layer.$\backslash$nThe resulting nanocavity exhibits quality factors larger than 6.3$\backslash$n× 103, the highest quality factor reported to date for an optically$\backslash$nactive group-{\{}III{\}} nitride photonic crystal nanocavity.},
+  doi =             {10.1063/1.4751336},
+  file =            {:C$\backslash$:/Users/cr458/OneDrive/Overleaf{\_}thesis/Ch1Refs/1.4751336.pdf:pdf},
+  issn =            {00036951},
+  mendeley-groups = {thesis}
 }
 
 @Article{Seufert2000,
@@ -3884,6 +4091,17 @@
   mendeley-groups = {thesis}
 }
 
+@Article{Wu2011,
+  author =          {Wu, Chen-ying and Kuo, Cheng-tai and Wang, Chun-yuan and He, Chieh-lun},
+  title =           {{Plasmonic Green Nanolaser Based on a Metal-Oxide-Semiconductor Structure}},
+  journal =         {Nano letters},
+  year =            {2011},
+  pages =           {4256--4260},
+  file =            {:C$\backslash$:/Users/cr458/OneDrive/Overleaf{\_}thesis/Ch1Refs/nl2022477.pdf:pdf},
+  keywords =        {indium gallium nitride,nanorod,plasmonic nanolaser,surface plasmon polariton},
+  mendeley-groups = {thesis}
+}
+
 @Article{Wu2014,
   author =          {Wu, Xiaoming and Liu, Junlin and Quan, Zhijue and Xiong, Chuanbing and Zheng, Changda and Zhang, Jianli and Mao, Qinghua and Jiang, Fengyi},
   title =           {{Electroluminescence from the sidewall quantum wells in the V-shaped pits of InGaN light emitting diodes}},
@@ -4162,6 +4380,23 @@
   issn =            {1862-6300},
   keywords =        {nitride semiconductor microdisk laser review},
   mendeley-groups = {JAP special topic,Microdisks,thesis}
+}
+
+@Article{Zhao2015,
+  author =          {Zhao, Songrui and Nguyen, Hieu P T and Kibria, Md G. and Mi, Zetian},
+  title =           {{III-Nitride nanowire optoelectronics}},
+  journal =         {Progress in Quantum Electronics},
+  year =            {2015},
+  volume =          {44},
+  pages =           {14--68},
+  abstract =        {Group-III nitride nanowire structures, including GaN, InN, AlN and their alloys, have been intensively studied in the past decade. Unique to this material system is that its energy bandgap can be tuned from the deep ultraviolet ({\~{}}6.2 eV for AlN) to the near infrared ({\~{}}0.65 eV for InN). In this article, we provide an overview on the recent progress made in III-nitride nanowire optoelectronic devices, including light emitting diodes, lasers, photodetectors, single photon sources, intraband devices, solar cells, and artificial photosynthesis. The present challenges and future prospects of III-nitride nanowire optoelectronic devices are also discussed.},
+  doi =             {10.1016/j.pquantelec.2015.11.001},
+  file =            {:C$\backslash$:/Users/cr458/OneDrive/Overleaf{\_}thesis/Ch1Refs/1-s2.0-S0079672715000403-main.pdf:pdf},
+  issn =            {00796727},
+  keywords =        {AlN,GaN,InN,LED,Laser,Nanowire,Optoelectronics,Photodetector,Photosynthesis,Si photonics,Solar cell,Solar fuel,Solar hydrogen,Water splitting},
+  mendeley-groups = {thesis},
+  publisher =       {Elsevier},
+  url =             {http://dx.doi.org/10.1016/j.pquantelec.2015.11.001}
 }
 
 @PhdThesis{Zhu2010,
