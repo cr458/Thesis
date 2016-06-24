@@ -115,6 +115,10 @@ J.~H. Ryou, P.~D. Yoder, J.~Liu, Z.~Lochner, H.~S. Kim, S.~Choi, H.~J. Kim, and
   quantum wells},'' {\em IEEE Journal on Selected Topics in Quantum
   Electronics}, vol.~15, no.~4, pp.~1080--1091, 2009.
 
+\bibitem{StriteS.Morkoc1992}
+H.~{Strite, S., Morko{\c{c}}}, ``{GaN, AlN, and InN: A review},'' {\em Journal
+  of Vacuum Science {\&} Technology B}, vol.~10, no.~4, pp.~1237--1266, 1992.
+
 \bibitem{Reshchikov2005}
 M.~A. Reshchikov and H.~Morko, ``{Luminescence properties of defects in GaN},''
   {\em Journal of Applied Physics}, vol.~97, no.~6, 2005.
@@ -123,6 +127,12 @@ M.~A. Reshchikov and H.~Morko, ``{Luminescence properties of defects in GaN},''
 X.~Ning and F.~Chien, ``{Growth defects in GaN films on sapphire: The probable
   origin of threading dislocations},'' {\em Journal of materials {\ldots}},
   no.~0001, 1996.
+
+\bibitem{Moram2009}
+M.~a. Moram, C.~S. Ghedia, D.~V.~S. Rao, J.~S. Barnard, Y.~Zhang, M.~J.
+  Kappers, and C.~J. Humphreys, ``{On the origin of threading dislocations in
+  GaN films},'' {\em Journal of Applied Physics}, vol.~106, no.~7, p.~073513,
+  2009.
 
 \bibitem{Oliver2008a}
 R.~A. Oliver, M.~J. Kappers, C.~McAleese, R.~Datta, J.~Sumner, and C.~J.
@@ -135,10 +145,32 @@ L.~Z.-Y. Liu, {\em Advanced Transmission Electron Microscopy of GaN-based
   Materials and Devices}.
 \newblock PhD thesis, University of Cambridge, 2011.
 
+\bibitem{Lahnemann2014}
+J.~Lahnemann, U.~Jahn, O.~Brandt, T.~Flissikowski, P.~Dogan, and H.~T. Grahn,
+  ``{Luminescence associated with stacking faults in GaN},'' {\em Journal of
+  Physics D: Applied Physics}, vol.~47, no.~42, p.~423001, 2014.
+
+\bibitem{Rieger1996}
+W.~Rieger, R.~Dimitrov, D.~Brunner, E.~Rohrer, O.~Ambacher, and M.~Stutzmann,
+  ``{Defect-related optical transitions in GaN},'' {\em Physical Review B},
+  vol.~54, no.~24, p.~17596, 1996.
+
 \bibitem{Rebane1997}
 Y.~Rebane, Y.~Shreter, and M.~Albrecht, ``{Stacking Faults as Quantum Wells for
   Excitons in Wurtzite GaN},'' {\em Physica Status Solidi (a)}, vol.~164,
   no.~141, 1997.
+
+\bibitem{Lahnemann2012}
+J.~Lahnemann, O.~Brandt, U.~Jahn, C.~Pf{\"{u}}ller, C.~Roder, P.~Dogan,
+  F.~Grosse, A.~Belabbes, F.~Bechstedt, A.~Trampert, and L.~Geelhaar, ``{Direct
+  experimental determination of the spontaneous polarization of GaN},'' {\em
+  Physical Review B}, vol.~86, pp.~1--5, 2012.
+
+\bibitem{Nogues2014}
+G.~Nogues, T.~Auzelle, M.~{Den Hertog}, B.~Gayral, and B.~Daudin,
+  ``{Cathodoluminescence of stacking fault bound excitons for local probing of
+  the exciton diffusion length in single GaN nanowires},'' {\em Applied Physics
+  Letters}, vol.~104, p.~102102, mar 2014.
 
 \bibitem{Hangleiter2005}
 A.~Hangleiter, F.~Hitzel, C.~Netzel, D.~Fuhrmann, U.~Rossow, G.~Ade, and
@@ -269,7 +301,7 @@ N.~V. Trivi{\~{n}}o, R.~Butt{\'{e}}, J.-F. Carlin, and N.~Grandjean,
 \bibitem{Arita2007}
 M.~Arita, S.~Ishida, S.~Kako, S.~Iwamoto, and Y.~Arakawa, ``{AlN air-bridge
   photonic crystal nanocavities demonstrating high quality factor},'' {\em
-  Applied Physics Letters}, vol.~91, no.~5, p.~051106, 2007.
+  Applied Physics Letters}, vol.~91, no.~5, pp.~89--92, 2007.
 
 \bibitem{Pernice2012}
 W.~H.~P. Pernice, C.~Xiong, C.~Schuck, and H.~X. Tang, ``{High-Q aluminum

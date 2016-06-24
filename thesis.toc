@@ -13,34 +13,34 @@
 \contentsline {subsubsection}{0-D Defects}{10}{section*.20}
 \contentsline {subsubsection}{1-D Defects}{11}{section*.22}
 \contentsline {subsubsection}{2-D Defects}{13}{section*.25}
-\contentsline {subsubsection}{3-D Defects}{14}{section*.28}
-\contentsline {section}{\numberline {1.2}III-nitride Devices }{15}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Light Emitting Diodes}{15}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Microcavities}{16}{subsection.1.2.2}
-\contentsline {subsubsection}{Cavity Parameters and Design}{17}{section*.33}
-\contentsline {subsubsection}{Microdisk Cavities}{19}{section*.36}
-\contentsline {subsubsection}{Nanobeam Cavities}{21}{section*.39}
-\contentsline {subsection}{\numberline {1.2.3}Nanowires for Nanophotonic Devices}{22}{subsection.1.2.3}
-\contentsline {chapter}{\numberline {2}Experimental Methods}{25}{chapter.2}
-\contentsline {section}{\numberline {2.1}Transmission Electron Microscopy}{25}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Conventional Transmission Electron Microscopy}{26}{subsection.2.1.1}
-\contentsline {subsubsection}{Electron Diffraction}{26}{section*.46}
-\contentsline {subsubsection}{Diffraction Contrast Imaging}{28}{section*.49}
-\contentsline {subsubsection}{Weak-Beam Dark-Field Microscopy}{30}{section*.51}
-\contentsline {subsection}{\numberline {2.1.2}Scanning Transmission Electron Microscopy}{30}{subsection.2.1.2}
-\contentsline {section}{\numberline {2.2}Atomic Force Microscopy}{32}{section.2.2}
-\contentsline {subsubsection}{Conductive Atomic Force Microcsopy}{34}{section*.57}
-\contentsline {section}{\numberline {2.3}Scanning Electron Microscopy Techniques}{34}{section.2.3}
-\contentsline {subsubsection}{Cathodoluminescence}{36}{section*.60}
-\contentsline {subsubsection}{Electron-Beam Induced Current}{38}{section*.63}
-\contentsline {section}{\numberline {2.4}Hyperspectral Electroluminescence Mapping}{38}{section.2.4}
-\contentsline {section}{\numberline {2.5}Dual Beam FIB-SEM}{39}{section.2.5}
-\contentsline {subsection}{\numberline {2.5.1}Sample Preparation}{40}{subsection.2.5.1}
-\contentsline {subsection}{\numberline {2.5.2}Tomography}{41}{subsection.2.5.2}
-\contentsline {section}{\numberline {2.6}Transmisson Electron Microscopy}{43}{section.2.6}
-\contentsline {subsection}{\numberline {2.6.1}Tomography}{43}{subsection.2.6.1}
-\contentsline {chapter}{\numberline {3}Inhomogeneous Electroluminescence in InGaN QW LEDs}{45}{chapter.3}
-\contentsline {section}{\numberline {3.1}Short title}{45}{section.3.1}
-\contentsline {chapter}{References}{51}{chapter*.72}
-\contentsline {chapter}{Appendix \numberline {A}How to install \LaTeX }{57}{Appendix.a.A}
-\contentsline {chapter}{Appendix \numberline {B}Installing the CUED class file}{61}{Appendix.a.B}
+\contentsline {subsubsection}{3-D Defects}{14}{section*.29}
+\contentsline {section}{\numberline {1.2}III-nitride Devices }{16}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Light Emitting Diodes}{16}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Microcavities}{17}{subsection.1.2.2}
+\contentsline {subsubsection}{Cavity Parameters and Design}{18}{section*.34}
+\contentsline {subsubsection}{Microdisk Cavities}{20}{section*.37}
+\contentsline {subsubsection}{Nanobeam Cavities}{21}{section*.40}
+\contentsline {subsection}{\numberline {1.2.3}Nanowires for Nanophotonic Devices}{23}{subsection.1.2.3}
+\contentsline {chapter}{\numberline {2}Experimental Methods}{27}{chapter.2}
+\contentsline {section}{\numberline {2.1}Transmission Electron Microscopy}{27}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Conventional Transmission Electron Microscopy}{28}{subsection.2.1.1}
+\contentsline {subsubsection}{Electron Diffraction}{28}{section*.47}
+\contentsline {subsubsection}{Diffraction Contrast Imaging}{30}{section*.50}
+\contentsline {subsubsection}{Weak-Beam Dark-Field Microscopy}{32}{section*.52}
+\contentsline {subsection}{\numberline {2.1.2}Scanning Transmission Electron Microscopy}{32}{subsection.2.1.2}
+\contentsline {section}{\numberline {2.2}Atomic Force Microscopy}{34}{section.2.2}
+\contentsline {subsubsection}{Conductive Atomic Force Microcsopy}{36}{section*.58}
+\contentsline {section}{\numberline {2.3}Scanning Electron Microscopy Techniques}{36}{section.2.3}
+\contentsline {subsubsection}{Cathodoluminescence}{38}{section*.61}
+\contentsline {subsubsection}{Electron-Beam Induced Current}{40}{section*.64}
+\contentsline {section}{\numberline {2.4}Hyperspectral Electroluminescence Mapping}{40}{section.2.4}
+\contentsline {section}{\numberline {2.5}Dual Beam FIB-SEM}{41}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Sample Preparation}{42}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Tomography}{43}{subsection.2.5.2}
+\contentsline {section}{\numberline {2.6}Transmisson Electron Microscopy}{45}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Tomography}{45}{subsection.2.6.1}
+\contentsline {chapter}{\numberline {3}Inhomogeneous Electroluminescence in InGaN QW LEDs}{47}{chapter.3}
+\contentsline {section}{\numberline {3.1}Short title}{47}{section.3.1}
+\contentsline {chapter}{References}{53}{chapter*.73}
+\contentsline {chapter}{Appendix \numberline {A}How to install \LaTeX }{59}{Appendix.a.A}
+\contentsline {chapter}{Appendix \numberline {B}Installing the CUED class file}{63}{Appendix.a.B}
