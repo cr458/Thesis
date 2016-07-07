@@ -27,20 +27,20 @@
 \contentsline {subsubsection}{Electron Diffraction}{28}{section*.47}
 \contentsline {subsubsection}{Diffraction Contrast Imaging}{30}{section*.50}
 \contentsline {subsubsection}{Weak-Beam Dark-Field Microscopy}{32}{section*.52}
-\contentsline {subsection}{\numberline {2.1.2}Scanning Transmission Electron Microscopy}{32}{subsection.2.1.2}
-\contentsline {section}{\numberline {2.2}Atomic Force Microscopy}{34}{section.2.2}
-\contentsline {subsubsection}{Conductive Atomic Force Microcsopy}{36}{section*.58}
-\contentsline {section}{\numberline {2.3}Scanning Electron Microscopy Techniques}{36}{section.2.3}
-\contentsline {subsubsection}{Cathodoluminescence}{38}{section*.61}
-\contentsline {subsubsection}{Electron-Beam Induced Current}{40}{section*.64}
-\contentsline {section}{\numberline {2.4}Hyperspectral Electroluminescence Mapping}{40}{section.2.4}
-\contentsline {section}{\numberline {2.5}Dual Beam FIB-SEM}{41}{section.2.5}
-\contentsline {subsection}{\numberline {2.5.1}Sample Preparation}{42}{subsection.2.5.1}
-\contentsline {subsection}{\numberline {2.5.2}Tomography}{43}{subsection.2.5.2}
-\contentsline {section}{\numberline {2.6}Transmisson Electron Microscopy}{45}{section.2.6}
-\contentsline {subsection}{\numberline {2.6.1}Tomography}{45}{subsection.2.6.1}
-\contentsline {chapter}{\numberline {3}Inhomogeneous Electroluminescence in InGaN QW LEDs}{47}{chapter.3}
-\contentsline {section}{\numberline {3.1}Short title}{47}{section.3.1}
-\contentsline {chapter}{References}{53}{chapter*.73}
-\contentsline {chapter}{Appendix \numberline {A}How to install \LaTeX }{59}{Appendix.a.A}
-\contentsline {chapter}{Appendix \numberline {B}Installing the CUED class file}{63}{Appendix.a.B}
+\contentsline {subsection}{\numberline {2.1.2}Scanning Transmission Electron Microscopy}{33}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Energy-Dispersive X-ray spectroscopy}{35}{subsection.2.1.3}
+\contentsline {section}{\numberline {2.2}Electron Tomography}{36}{section.2.2}
+\contentsline {section}{\numberline {2.3}Atomic Force Microscopy}{37}{section.2.3}
+\contentsline {subsubsection}{Conductive Atomic Force Microcsopy}{39}{section*.62}
+\contentsline {section}{\numberline {2.4}Scanning Electron Microscopy Techniques}{40}{section.2.4}
+\contentsline {subsubsection}{Cathodoluminescence}{41}{section*.65}
+\contentsline {subsubsection}{Electron-Beam Induced Current}{43}{section*.68}
+\contentsline {section}{\numberline {2.5}Hyperspectral Electroluminescence Mapping}{43}{section.2.5}
+\contentsline {section}{\numberline {2.6}Dual Beam FIB-SEM}{44}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Sample Preparation}{45}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}Tomography}{46}{subsection.2.6.2}
+\contentsline {chapter}{\numberline {3}Inhomogeneous Electroluminescence in InGaN QW LEDs}{49}{chapter.3}
+\contentsline {section}{\numberline {3.1}Short title}{49}{section.3.1}
+\contentsline {chapter}{References}{55}{chapter*.77}
+\contentsline {chapter}{Appendix \numberline {A}How to install \LaTeX }{63}{Appendix.a.A}
+\contentsline {chapter}{Appendix \numberline {B}Installing the CUED class file}{67}{Appendix.a.B}
