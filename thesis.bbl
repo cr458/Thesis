@@ -301,7 +301,7 @@ N.~V. Trivi{\~{n}}o, R.~Butt{\'{e}}, J.-F. Carlin, and N.~Grandjean,
 \bibitem{Arita2007}
 M.~Arita, S.~Ishida, S.~Kako, S.~Iwamoto, and Y.~Arakawa, ``{AlN air-bridge
   photonic crystal nanocavities demonstrating high quality factor},'' {\em
-  Applied Physics Letters}, vol.~91, no.~5, pp.~89--92, 2007.
+  Applied Physics Letters}, vol.~91, no.~5, p.~051106, 2007.
 
 \bibitem{Pernice2012}
 W.~H.~P. Pernice, C.~Xiong, C.~Schuck, and H.~X. Tang, ``{High-Q aluminum
@@ -457,5 +457,20 @@ M.~Albrecht, J.~L. Weyher, B.~Lucznik, I.~Grzegory, and S.~Porowski,
   ``{Nonradiative recombination at threading dislocations in n-type GaN:
   Studied by cathodoluminescence and defect selective etching},'' {\em Applied
   Physics Letters}, vol.~92, no.~23, pp.~0--3, 2008.
+
+\bibitem{Laak2013}
+N.~K. V.~D. Laak, R.~A. Oliver, M.~J. Kappers, C.~J. Humphreys, N.~K. V.~D.
+  Laak, R.~A. Oliver, M.~J. Kappers, and C.~J. Humphreys, ``{Role of gross
+  well-width fluctuations in bright , green-emitting single InGaN/GaN quantum
+  well structures Role of gross well-width fluctuations in bright ,
+  green-emitting single InGaN / GaN quantum well structures},'' vol.~121911,
+  no.~2007, pp.~1--4, 2013.
+
+\bibitem{Oliver2013}
+R.~a. Oliver, F.~C.-P. Massabuau, M.~J. Kappers, W.~a. Phillips, E.~J. Thrush,
+  C.~C. Tartan, W.~E. Blenkhorn, T.~J. Badcock, P.~Dawson, M.~a. Hopkins,
+  D.~W.~E. Allsopp, and C.~J. Humphreys, ``{The impact of gross well width
+  fluctuations on the efficiency of GaN-based light emitting diodes},'' {\em
+  Applied Physics Letters}, vol.~103, no.~14, p.~141114, 2013.
 
 \end{thebibliography}

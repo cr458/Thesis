@@ -30,3 +30,6 @@
 \nomenclatureentry{z-FIB/SEMFIB/SEM@[{FIB/SEM}]\begingroup Focussed Ion Beam/Scanning Electron Microscope\nomeqref {2.5}|nompageref}{44}
 \nomenclatureentry{z-GISGIS@[{GIS}]\begingroup Gas Injection System\nomeqref {2.5}|nompageref}{45}
 \nomenclatureentry{z-TEMTEM@[{TEM}]\begingroup Transmission Electron Microscopy\nomeqref {2.5}|nompageref}{45}
+\nomenclatureentry{z-LDDLDD@[{LDD}]\begingroup Low Dislocation Density\nomeqref {3.0}|nompageref}{50}
+\nomenclatureentry{z-EBLEBL@[{EBL}]\begingroup Electron Blocking Layer\nomeqref {3.0}|nompageref}{50}
+\nomenclatureentry{z-XRDXRD@[{XRD}]\begingroup X-ray Diffraction\nomeqref {3.0}|nompageref}{50}

@@ -355,12 +355,32 @@ The specimen preparation method is shown in Fig.\ref{2.9} is as follows:\\
 \indent - A probe is then attached to the lamella by connecting the two with ion-beam deposited metal and used to lift the lamella out.\\
 \indent - The lamella is then transferred to a TEM grid, where it is thinned to a suitable thickness.
 
-\begin{figure}[!ht]
-	\centering
-	\includegraphics[width=0.9\textwidth]{Figs/Ch2/liftout.png}
-	\caption[h] {FIB/SEM lamella lift-out and polishing process: a) Protective Pt layer deposition, b) Trench milling, c) and d) Lamella lift out, e) Lamella stuck to TEM grid f) final thinning.}
+
+\begin{figure}
+	\begin{subfigure}[b]{0.3\textwidth}
+		\centering
+		\includegraphics[width=.95\linewidth]{Figs/Ch2/FIB1}
+		\caption{}
+		
+	\end{subfigure}%
+	\hspace*{0.5cm}
+	\begin{subfigure}[b]{0.3\textwidth}
+		\centering
+		\includegraphics[width=.95\linewidth]{Figs/Ch2/FIB2}
+		\caption{}
+		
+	\end{subfigure}%
+	\hspace*{0.5cm}
+	\begin{subfigure}[b]{0.3\textwidth}
+		\centering
+		\includegraphics[width=.95\linewidth]{Figs/Ch2/FIB3}
+		\caption{}
+	\end{subfigure}%
+	
+	\caption{FIB/SEM lamella lift-out and polishing process: a) Protective Pt layer deposition, b) trench milling and Lamella lift out c) final thinning.}
 	\label{2.9}
 \end{figure}
+
 \FloatBarrier
 
 \subsection{Tomography}
@@ -376,14 +396,14 @@ In FIB/SEM tomography, a small volume of the sample is selected for analysis. Th
 \FloatBarrier
 
 The purpose of serial sectioning is to produce a stack of images which can be transformed into a voxel-based volume data set. As such the thickness of the milled layers should match approximately with the resolution in the imaging plane.\\
-Perhaps the most challenging task in FIB/SEM tomography lies in the extraction of information from the reconstructed 3-D image volume. This procedure, known as 'stack-processing' can be described as follows:\\
+Perhaps the most challenging task in FIB/SEM tomography lies in the extraction of information from the reconstructed 3-D image volume. This procedure, known as 'stack-processing', is very similar to reconstruction protocol used for electron tomography and can be described as follows:\\
 \indent - 3-D volume reconstruction by stack alignment.\\
 \indent - Image defect correction ( noise reduction etc...)\\
 \indent - Segmentation and recognition of objects.\\
 \indent - Visualization of voxel-based volume data.\\
 \indent - Quantitative analysis of features.
 
-This process is very similar to reconstruction protocol used for electron tomography.
+
 
 
 
