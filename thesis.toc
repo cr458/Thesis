@@ -42,21 +42,21 @@
 \contentsline {chapter}{\numberline {3}Inhomogeneous Electroluminescence in InGaN QW LEDs}{49}{chapter.3}
 \contentsline {section}{\numberline {3.1}Short title}{49}{section.3.1}
 \contentsline {section}{\numberline {3.2}Sample Structure}{50}{section.3.2}
-\contentsline {section}{\numberline {3.3}Inhomogeneous Electroluminescence}{51}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Probe Station Characterisation}{51}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Hyperspectral EL Imaging}{51}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Cathodoluminescence and Electron Beam Induced Current}{51}{subsection.3.3.3}
-\contentsline {section}{\numberline {3.4}Hexagonal Defect Analysis}{51}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Scanning Electron Microscopy}{51}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Atomic Force Microscopy}{51}{subsection.3.4.2}
-\contentsline {subsubsection}{Conductive-AFM}{52}{section*.73}
-\contentsline {subsection}{\numberline {3.4.3}TEM Lamella preparation}{52}{subsection.3.4.3}
-\contentsline {subsection}{\numberline {3.4.4}Scanning Transmission Electron Microscopy}{52}{subsection.3.4.4}
-\contentsline {subsubsection}{Hexagonal Defect Morphology}{52}{section*.74}
-\contentsline {subsubsection}{Compositional Analysis}{52}{section*.75}
-\contentsline {section}{\numberline {3.5}Simulations}{52}{section.3.5}
-\contentsline {section}{\numberline {3.6}Conclusion}{52}{section.3.6}
-\contentsline {section}{\numberline {3.7}Future Work}{52}{section.3.7}
-\contentsline {chapter}{References}{53}{chapter*.76}
-\contentsline {chapter}{Appendix \numberline {A}How to install \LaTeX }{61}{Appendix.a.A}
-\contentsline {chapter}{Appendix \numberline {B}Installing the CUED class file}{65}{Appendix.a.B}
+\contentsline {section}{\numberline {3.3}Experimental}{51}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Hyperspectral EL Imaging}{52}{subsection.3.3.1}
+\contentsline {subsubsection}{Current Dependent EL Measurements}{53}{section*.76}
+\contentsline {subsection}{\numberline {3.3.2}Cathodoluminescence and Electron Beam Induced Current}{53}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Hexagonal Defect Analysis}{53}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Scanning Electron Microscopy}{53}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}Atomic Force Microscopy}{53}{subsection.3.3.5}
+\contentsline {subsubsection}{Conductive-AFM}{54}{section*.77}
+\contentsline {subsection}{\numberline {3.3.6}TEM Lamella preparation}{54}{subsection.3.3.6}
+\contentsline {subsection}{\numberline {3.3.7}Scanning Transmission Electron Microscopy}{54}{subsection.3.3.7}
+\contentsline {subsubsection}{Hexagonal Defect Morphology}{54}{section*.78}
+\contentsline {subsubsection}{Compositional Analysis}{54}{section*.79}
+\contentsline {section}{\numberline {3.4}Simulations}{54}{section.3.4}
+\contentsline {section}{\numberline {3.5}Conclusion}{54}{section.3.5}
+\contentsline {section}{\numberline {3.6}Future Work}{54}{section.3.6}
+\contentsline {chapter}{References}{55}{chapter*.80}
+\contentsline {chapter}{Appendix \numberline {A}How to install \LaTeX }{63}{Appendix.a.A}
+\contentsline {chapter}{Appendix \numberline {B}Installing the CUED class file}{67}{Appendix.a.B}

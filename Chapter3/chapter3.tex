@@ -32,20 +32,65 @@ For this study, two multiple QW InGaN LED structures of different QW nominal thi
 \end{figure}
 
 \FloatBarrier 
+The wafers were processed into $1 \times 1 mm^{2}$ side contacted LEDs with thin oxidized Ni/Au current spreading {\it p}-layer Ohmic contact. Ti/Al Ohmic contact stripes were deposited on the {\it n}-layer and the Ni/Au current spreading layer in an interdigitated geometry.\\
+QW thickness for both samples was determined from X-ray diffraction \nomenclature[z-XRD]{XRD}{X-ray Diffraction} (XRD) using the method described by Vickers {\it et al.} \cite{Vickers2003}. The QWs were grown using the '2T' method, whereby the growth temperature is ramped up immediately following the InGaN growth under ammonia but without metalorganic fluxes. The barrier growth begins towards the end of the temperature ramp, this typically leads to loss of indium during the temperature ramp which can cause gross well-width fluctuations \cite{Laak2013} but a higher barrier growth temperature is preferable\cite{Oliver2013}. '2T' growth is shown schematically in Fig.\ref{2T}.
 
-QW thickness for both samples was determined from X-ray diffraction \nomenclature[z-XRD]{XRD}{X-ray Diffraction} (XRD) using the method described by Vickers {\it et al.} \cite{Vickers2003}. The QWs were grown using the '2T' method, whereby the growth temperature is ramped up immediately following the InGaN growth under ammonia but without metalorganic fluxes. The barrier growth begins towards the end of the temperature ramp, this typically leads to loss of indium during the temperature ramp which can cause gross well-width fluctuations \cite{Laak2013} but a higher barrier growth temperature is preferable\cite{Oliver2013}.
+\begin{figure}[!ht]
+	\centering
+	\includegraphics[width=0.9\textwidth]{Figs/Ch3/2T}
+	\caption[h] {'2T' growth of InGaN/GaN QWs. GaN QB growth is halted during the temperature ramp. The black trace indicates growth temperature over time.}
+	\label{2T}
+\end{figure}
 
-\section{Inhomogeneous Electroluminescence}
-\subsection{Probe Station Characterisation}
-Probe station images, Eleni's 64 devices and trends
+\FloatBarrier 
+
+\section{Experimental}
+
+Initial evaluation of the inhomogeneous EL was performed in a Signatone S-1160 probe station under forward bias, as shown in Fig.\ref{probe}.
+
+\begin{figure}[h]
+	\begin{subfigure}[t]{0.35\textwidth}
+		\centering
+		\includegraphics[width = 1\textwidth]{Figs/Ch3/5610.png}
+		\caption{}
+	\end{subfigure}%
+	\hspace*{2cm}
+	~	
+	\begin{subfigure}[t]{0.35\textwidth}
+		\centering
+		\includegraphics[width=1\textwidth]{Figs/Ch3/5608.png}
+		\caption{}
+	\end{subfigure}
+	\caption {a) C5610A b) C5608A EL under a forward bias of 3V. The bright inhomogeneities are visible in the emission of the LEDs. }
+	\label{probe}
+\end{figure}
+\FloatBarrier
+
+
+Following this, hyperspectral EL mapping with CL and EBIC were performed using a modified Cameca SX100 electron probe micro-analyser with a custom built cathodoluminescence set-up. Hyperspectral EL measurements were performed under forward bias, enabling the acquisition spatially resolved EL maps of the inhomogeneities. Following the detection of hexagonal defects at the centre of inhomogeneities using SEM-CL, the defects were analyzed using AFM and C-AFM. Finally, FIB/SEM lamella preparation techniques were used to perform HAADF-STEM and STEM-EDX on the defects, allowing for access nanoscale compositional and structural information required to reproduce the EL in simulations.
+
 
 \subsection{Hyperspectral EL Imaging}
-Strathclyde hyperspectral EL images showing peak intensity peak energy and emission FWHM 
+Hyperspectral EL imaging was performed at Strathclyde University with the assistance of Dr Michael Wallace. In order to study the device under forward current, the LED wafers were mounted on TO-5 headers and bonded with 5 µm Al wire. A Keithley Instrument 2401 source meter was used to apply varying forward currents to the devices and thus allow for the collection of EL. \\
+Full EL spectra were collected with a spatial resolution of approximately 3 µm and analysed using custom software developed by Dr. Paul Edwards, allowing for 2-D maps of EL peak intensity, position and FWHM. At each pixel in the map, a full EL spectrum was collected by an Andor CCD camera. A full set of data extracted from the hyperspectral EL mapping is shown in Fig.\ref{ELfull}
+
+\begin{figure}[!ht]
+	\centering
+	\includegraphics[width=0.8\textwidth]{Figs/Ch3/ELfull}
+	\caption[h] {a) Probe station image b) EL peak intensity, c) EL peak energy and d) EL FWHM extracted by fitting the hyperspectral EL data under a forward current of 10 mA}
+	\label{ELfull}
+\end{figure}
+
+\FloatBarrier 
+
+It is interesting to note that from this representative data set, the inhomogeneities observed are brighter by a factor of $\sim 6$, blue-shifted in terms of peak energy by $\sim 0.08$ eV and have a larger FWHM. Although these values were observed to shift based on injection current, the overall trend observed in all data sets for both LED devices is represented by Fig.\ref{ELfull}.
+
+\subsubsection{Current Dependent EL Measurements}
 
 \subsection{Cathodoluminescence and Electron Beam Induced Current}
 CL and EBIC images showing rings + CL/SEM showing pits.
 
-\section{Hexagonal Defect Analysis}
+\subsection{Hexagonal Defect Analysis}
 
 \subsection{Scanning Electron Microscopy}
 
