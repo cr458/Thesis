@@ -87,6 +87,8 @@ It is interesting to note that from this representative data set, the inhomogene
 
 \subsubsection{Current Dependent EL Measurements}
 
+Current dependent hyperspectral EL maps of the same area were performed, in order to examine the behaviour of the inhomogeneities with increasing current relative to the 'uniform' background. The peak intensities and peak energies for injection currents for device C5610A ranging from 1-500 mA are shown in Figures \ref{peak5610} and \ref{centre5610} respectively. 
+
 \begin{figure}
 	\begin{subfigure}[b]{0.48\textwidth}
 		\centering
@@ -116,24 +118,255 @@ It is interesting to note that from this representative data set, the inhomogene
 	\medskip
 	\begin{subfigure}[b]{0.48\textwidth}
 		\centering
-		\includegraphics[width=1\linewidth]{Figs/Ch3/10}
+		\includegraphics[width=1\linewidth]{Figs/Ch3/100}
+		\caption{100 mA}
+	\end{subfigure}%
+	\hspace*\fill
+	\begin{subfigure}[b]{0.48\textwidth}
+		\centering
+		\includegraphics[width=1\linewidth]{Figs/Ch3/500}
+		\caption{500 mA}		
+	\end{subfigure}%
+	
+	\caption{Peak intensity for varying injection current for C5610.}
+	\label{peak5610}
+\end{figure}
+
+\begin{figure}
+	\begin{subfigure}[b]{0.48\textwidth}
+		\centering
+		\includegraphics[width=1\linewidth]{Figs/Ch3/1c}
+		\caption{1 mA}
+	\end{subfigure}%
+	\hspace*\fill
+	\begin{subfigure}[b]{0.48\textwidth}
+		\centering
+		\includegraphics[width=1\linewidth]{Figs/Ch3/5c}
+		\caption{5 mA}		
+	\end{subfigure}%
+	
+	\medskip
+	\begin{subfigure}[b]{0.48\textwidth}
+		\centering
+		\includegraphics[width=1\linewidth]{Figs/Ch3/10c}
 		\caption{10 mA}
 	\end{subfigure}%
 	\hspace*\fill
 	\begin{subfigure}[b]{0.48\textwidth}
 		\centering
-		\includegraphics[width=1\linewidth]{Figs/Ch3/50}
+		\includegraphics[width=1\linewidth]{Figs/Ch3/50c}
 		\caption{50 mA}		
 	\end{subfigure}%
 	
-	\caption{Peak Intensity for Varying Current}
-	\label{peak5610}
+	\medskip
+	\begin{subfigure}[b]{0.48\textwidth}
+		\centering
+		\includegraphics[width=1\linewidth]{Figs/Ch3/100c}
+		\caption{100 mA}
+	\end{subfigure}%
+	\hspace*\fill
+	\begin{subfigure}[b]{0.48\textwidth}
+		\centering
+		\includegraphics[width=1\linewidth]{Figs/Ch3/500c}
+		\caption{500 mA}		
+	\end{subfigure}%
+	
+	\caption{Peak energy for varying injection current for C5610.}
+	\label{centre5610}
 \end{figure}
 
 \FloatBarrier
-\subsection{Cathodoluminescence and Electron Beam Induced Current}
-CL and EBIC images showing rings + CL/SEM showing pits.
 
+The spatially resolved EL data shown in Figures \ref{peak5610} and \ref{centre5610} allow for the comparison between areas containing the inhomogeneities and the 'background' EL by thresholding the data set. This is demonstrated in Fig. \ref{5610peakcomp} which shows the behaviour of both the inhomogeneities (lablled 'spots') and the averaged background peak intensity with increasing injection current.
+\begin{figure}[!ht]
+	\centering
+	\includegraphics[width=0.8\textwidth]{Figs/Ch3/Peakcomp5610.png}
+	\caption[h] {Spot and background average peak intensity against injection current}
+	\label{5610peakcomp}
+\end{figure}
+
+\FloatBarrier 
+It is interesting to note that Fig.\ref{5610peakcomp} shows the inhomogeneities experience a far sharper initial increase in peak intensity relative to the background based on the hyperspectral EL data fitting in the current range 0-50 mA, perhaps indicating enhanced current injection in the areas exhibiting the inhomogeneities.\\
+Fig. \ref{5610centrecomp} shows the same current dependent comparison for background and inhomogeneity peak energy. Here we see the same trend, in that the inhomogeneity exhibits a larger current-induced blueshift in the 0-50 mA range relative to the background. The origin of the current-dependent blueshift in InGaN QW structures is attributed to the screening of the QCSE by the additional carriers injected into the wells \cite{Ryou2009}, and as such indicates the inhomogeneities are regions experiencing higher current injection relative to the background.
+
+\begin{figure}[!ht]
+	\centering
+	\includegraphics[width=0.8\textwidth]{Figs/Ch3/CentercompeV.png}
+	\caption[h] {Spot and background average peak energy against injection current}
+	\label{5610centrecomp}
+\end{figure}
+
+\FloatBarrier 
+
+Device C5608A exhibited a similar current dependent relationship between the inhomogeneities and the background, as shown in Fig. \ref{5608peak} and \ref{5608centre}. As evidenced by Fig. \ref{probe}, Fig. \ref{5608peak} demonstrates a larger difference in EL intensity between the background and the inhomogeneities for C5608A relative to C5610A.
+
+\begin{figure}[!ht]
+	\centering
+	\includegraphics[width=0.8\textwidth]{Figs/Ch3/Peakcomp5608.png}
+	\caption[h] {Spot and background average peak intensity against injection current}
+	\label{5608peak}
+\end{figure}
+\FloatBarrier 
+
+\begin{figure}[!ht]
+	\centering
+	\includegraphics[width=0.8\textwidth]{Figs/Ch3/centrePeakcomp5608.png}
+	\caption[h] {Spot and background average peak intensity against injection current}
+	\label{5608centre}
+\end{figure}
+\FloatBarrier 
+
+\subsection{Cathodoluminescence and Electron Beam Induced Current}
+Having noted the behaviour of the inhomogeneities inferred from the hyperpsectral EL data, CL and EBIC data were taken over areas containing the inhomogeneities in order to examine their properties in more detail as CL and EBIC are electron beam based techniques and as such allow for a far higher resolution than EL mapping.\\
+In order to achieve simultaneous CL and EBIC measurements, a Keithley Instrument 2401 source/measure unit was utilised in order to main the LED devices at a fixed bias of 0V thus allowing for the measurement of the short circuit current. During the CL image scanning, the Andor CCD camera was set-up to trigger the measure unit to record the current at each point in the CL spectral acquisition. The CL acquisition was performed with an electron beam at 10 kV and 1 nA. Unfortunately the secondary electron detector was inoperable during the acquisition of this data, as such there is no accompanying SEM micrograph for the CL and EBIC data. The CL and EBIC data for devices C5610A and C5608A are shown in figures \ref{5610CLEBIC} and \ref{5608CLEBIC} respectively.
+
+
+\begin{figure}[h]
+	\hspace*{0.5cm}
+	\begin{subfigure}[b]{0.4\textwidth}
+		\centering
+		\includegraphics[width=0.7\linewidth]{Figs/Ch3/5610CLEBICloc}
+		\caption{}
+		
+	\end{subfigure}%
+	\hspace*{2cm}
+	\begin{subfigure}[b]{0.4\textwidth}
+		\centering
+		\includegraphics[width=0.7\linewidth]{Figs/Ch3/5608CLEBICloc}
+		\caption{}
+	\end{subfigure}%
+	
+	\caption{EL images of the regions examined using CL and EBIC mapping for a) C5610A and b) C5608A.}
+	\label{5610loc}
+\end{figure}
+
+\FloatBarrier
+\begin{figure}[h]
+	\hspace*{0.5cm}
+	\begin{subfigure}[b]{0.48\textwidth}
+		\centering
+		\includegraphics[width=1\linewidth]{Figs/Ch3/5610AsmallCL}
+		\caption{}
+		
+	\end{subfigure}%
+	\hspace*{0.5cm}
+	\begin{subfigure}[b]{0.48\textwidth}
+		\centering
+		\includegraphics[width=0.98\linewidth]{Figs/Ch3/5610smallEBIC}
+		\caption{}
+	\end{subfigure}%
+	
+	\caption{a) CL and b) EBIC maps acquired simultaneously of the area shown in Fig.\ref{5610loc} a.}
+	\label{5610CLEBIC}
+\end{figure}
+
+\FloatBarrier
+
+\begin{figure}[h]
+	\hspace*{0.5cm}
+	\begin{subfigure}[b]{0.48\textwidth}
+		\centering
+		\includegraphics[width=1\linewidth]{Figs/Ch3/5608AsmallCL}
+		\caption{}
+		
+	\end{subfigure}%
+	\hspace*{0.5cm}
+	\begin{subfigure}[b]{0.48\textwidth}
+		\centering
+		\includegraphics[width=0.98\linewidth]{Figs/Ch3/5608smallEBIC}
+		\caption{}
+	\end{subfigure}%
+	
+	\caption{a) CL and b) EBIC maps acquired simultaneously of the area shown in Fig.\ref{5610loc}b.}
+	\label{5608CLEBIC}
+\end{figure}
+\FloatBarrier
+
+Fig. \ref{5610CLEBIC}a. shows the inhomogeneities exhibit a lower CL intensity relative to the background, in contrast to the EL. Interestingly, the EBIC signal, shown in Fig.\ref{5610CLEBIC} for both inhomogeneities examined seem rather different. The feature closest to the contact region can be seen as a region of high EBIC surrounding a region of lower extracted current. However the feature furthest from the electrical contact shows far less prominent EBIC signal.\\
+The features examined are far more prominent in the case of device C5608A. Fig.\ref{5608CLEBIC}.a. shows the detection of 'rings' emitting at a lower at a lower intensity in the CL at the location of the features. These rings correspond to rings of higher EBIC current as observed in Fig.\ref{5608CLEBIC}.b.
+
+\subsubsection{Scanning Electron Microscopy with Cathodoluminescence}
+Following the CL and EBIC scans shown in figures \ref{5610CLEBIC} and \ref{5608CLEBIC} performed at Strathclyde University, more detailed SEM-CL experiments were performed at the University of Cambridge using a Phillips XL30s field emission SEM equipped with a Gatan MonoCL4 system to record the CL signal. This set-up provides the additional benefit of panchromatic CL imaging, which allows for the detection of the features without the need for extremely detailed EL correlation.
+
+\begin{figure}[h]
+	
+	\begin{subfigure}[b]{0.48\textwidth}
+		\centering
+		\includegraphics[width=0.7\linewidth]{Figs/Ch3/5610sem}
+		\caption{}
+		
+	\end{subfigure}%
+	\hspace*{0.5cm}
+	\begin{subfigure}[b]{0.48\textwidth}
+		\centering
+		\includegraphics[width=0.7\linewidth]{Figs/Ch3/5610panCL}
+		\caption{}
+	\end{subfigure}%
+	
+	\caption{a) SEM micrograph and b) pan-CL image of an inhomogeneity in C5610A. The pan-CL image utilises a temperature scale (blue = low, red = high).}
+	\label{5610-SEM-CL}
+\end{figure}
+\FloatBarrier
+
+\begin{figure}[h]
+	
+	\begin{subfigure}[b]{0.48\textwidth}
+		\centering
+		\includegraphics[width=1\linewidth]{Figs/Ch3/A-peak}
+		\caption{}
+		
+	\end{subfigure}%
+	\hspace*{0.5cm}
+	\begin{subfigure}[b]{0.48\textwidth}
+		\centering
+		\includegraphics[width=1\linewidth]{Figs/Ch3/A-centre}
+		\caption{}
+	\end{subfigure}%
+	
+	\caption{a)CL peak intensity and b) CL peak energy for the feature shown in Fig.\ref{5610-SEM-CL}}
+	\label{A-CL}
+\end{figure}
+\FloatBarrier
+
+\begin{figure}[h]
+	
+	\begin{subfigure}[b]{0.48\textwidth}
+		\centering
+		\includegraphics[width=0.7\linewidth]{Figs/Ch3/5608sem}
+		\caption{}
+		
+	\end{subfigure}%
+	\hspace*{0.5cm}
+	\begin{subfigure}[b]{0.48\textwidth}
+		\centering
+		\includegraphics[width=0.7\linewidth]{Figs/Ch3/5608panCL}
+		\caption{}
+	\end{subfigure}%
+	
+	\caption{a) SEM micrograph and b) pan-CL image of an inhomogeneity in C5610A. The pan-CL image utilises a temperature scale (blue = low, red = high).}
+	\label{5608-SEM-CL}
+\end{figure}
+\FloatBarrier
+
+\begin{figure}[h]
+	
+	\begin{subfigure}[b]{0.48\textwidth}
+		\centering
+		\includegraphics[width=1\linewidth]{Figs/Ch3/11-peak}
+		\caption{}
+		
+	\end{subfigure}%
+	\hspace*{0.5cm}
+	\begin{subfigure}[b]{0.48\textwidth}
+		\centering
+		\includegraphics[width=1\linewidth]{Figs/Ch3/11-centre}
+		\caption{}
+	\end{subfigure}%
+	
+	\caption{a)CL peak intensity and b) CL peak energy for the feature shown in Fig.\ref{5608-SEM-CL}}
+	\label{11-CL}
+\end{figure}
+\FloatBarrier
 \subsection{Hexagonal Defect Analysis}
 
 \subsection{Scanning Electron Microscopy}
