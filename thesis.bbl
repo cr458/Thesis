@@ -301,7 +301,7 @@ N.~V. Trivi{\~{n}}o, R.~Butt{\'{e}}, J.-F. Carlin, and N.~Grandjean,
 \bibitem{Arita2007}
 M.~Arita, S.~Ishida, S.~Kako, S.~Iwamoto, and Y.~Arakawa, ``{AlN air-bridge
   photonic crystal nanocavities demonstrating high quality factor},'' {\em
-  Applied Physics Letters}, vol.~91, no.~5, p.~051106, 2007.
+  Applied Physics Letters}, vol.~91, no.~5, pp.~89--92, 2007.
 
 \bibitem{Pernice2012}
 W.~H.~P. Pernice, C.~Xiong, C.~Schuck, and H.~X. Tang, ``{High-Q aluminum
@@ -472,5 +472,16 @@ R.~a. Oliver, F.~C.-P. Massabuau, M.~J. Kappers, W.~a. Phillips, E.~J. Thrush,
   D.~W.~E. Allsopp, and C.~J. Humphreys, ``{The impact of gross well width
   fluctuations on the efficiency of GaN-based light emitting diodes},'' {\em
   Applied Physics Letters}, vol.~103, no.~14, p.~141114, 2013.
+
+\bibitem{Lyons2010}
+J.~L. Lyons, A.~Janotti, and C.~G. {Van De Walle}, ``{Carbon impurities and the
+  yellow luminescence in GaN},'' {\em Applied Physics Letters}, vol.~97,
+  no.~15, pp.~10--13, 2010.
+
+\bibitem{Oliver2006a}
+R.~Oliver, M.~Kappers, J.~Sumner, R.~Datta, and C.~Humphreys, ``{Highlighting
+  threading dislocations in MOVPE-grown GaN using an in situ treatment with
+  SiH4 and NH3},'' {\em Journal of Crystal Growth}, vol.~289, pp.~506--514, apr
+  2006.
 
 \end{thebibliography}
