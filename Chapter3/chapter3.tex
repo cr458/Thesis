@@ -449,13 +449,74 @@ A successfully thinned sample is shown in Fig.\ref{thinned}.
 \FloatBarrier 
 
 
-\subsubsection{Scanning Transmission Electron Microscopy}
+\subsubsection{Transmission Electron Microscopy}
 
+The site-specific TEM lamella prepared using the dual-beam methods, shown in Fig.\ref{thinned} was studied by HAADF-STEM performed on an FEI Osiris microscope with an extreme-FEG (X-FEG) \nomenclature[z-X-FEG]{X-FEG}{Extreme Field-Emission Gun} at 200 kV. HAADF-STEM imaging of the defect reveals it originates below/at the MQW stack, a possible explanation for the large size of the hexagonal defects relative to those reported in literature \cite{Hangleiter2005,Tsai2007,Oliver2006a}. 
 
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.6\textwidth]{Figs/Ch3/STEM-spot}
+	\caption[h] {HAADF-STEM image of a prepared TEM lamella showing defect interrupting the QW stack.}
+	\label{STEM-spot}
+\end{figure}
+\FloatBarrier 
 
-\subsubsection{Compositional Analysis}
+The composition of the MQW stack adjacent to the region occupied by the defect was studied using EDX-STEM, where the characteristic X-rays emitted by the sample were recorded by four silicon drift detectors which form a solid angle greater than 0.9 sr. Cliff-Lorimer analysis of the aluminium, gallium and indium was performed using HyperSpy in order to quantify the ternary alloy compositions as shown in Fig.\ref{EDXspot}
 
-\section{Simulations}
+\begin{figure}[h]
+	\begin{subfigure}[b]{0.48\textwidth}
+	\centering
+		\includegraphics[width=1\linewidth]{Figs/Ch3/EDStarget}
+		\caption{}
+	\end{subfigure}%
+	\hspace*\fill
+	\begin{subfigure}[b]{0.48\textwidth}
+		\centering
+		\includegraphics[width=1\linewidth]{Figs/Ch3/AtomicAl}
+		\caption{}		
+	\end{subfigure}%
+	
+	\medskip
+	\begin{subfigure}[b]{0.48\textwidth}
+		\centering
+		\includegraphics[width=1\linewidth]{Figs/Ch3/AtomicGa}
+		\caption{}
+	\end{subfigure}%
+	\hspace*\fill
+	\begin{subfigure}[b]{0.48\textwidth}
+		\centering
+		\includegraphics[width=1\linewidth]{Figs/Ch3/AtomicIn}
+		\caption{}		
+	\end{subfigure}%
+	
+
+	\caption{Quantification of the ternary alloy compositions: a) HAADF-STEM image showing the region examined by EDX (blue box) b) aluminium atomic percentage, c) gallium atomic percentage and d) indium atomic percentage.}
+	\label{EDXspot}
+\end{figure}
+\FloatBarrier 
+The EDS analysis shows the disruption of the QW stack by the defect, as evidenced by the apparent termination of the QW In signal in Fig.\ref{EDXspot}.d. Additionally, the Al signal can be seen to overlap with the QW In signal, suggesting the presence of aluminium in the region disrupted by the defect. Furthermore, there is an observable indium signal originating from below the QWs. Although both the aluminium and indium atomic percentages observed in the region disrupted by the defect appear lower than expected (approximately 6-7 $\%$ and 4 $\%$ respectively) it is also important to consider the effect of the sample geometry in the collection of the EDX signal: due to the inverted pyramidal morphology of the defect the collected signal is expected to be reduced, and thus the atomic percentages obtained via quantification are expected to be under-estimates.
+
+\subsection{LED Simulations}
+
+In order to investigate the manner in which changes induced by the defect could affect the EL of the LED simulations were performed by Berrtand Rouet-Leduc using the APSYS simulation package, with parameters taken from J.Piprek \cite{Piprek2007}. The carrier transport equations are self-consistently solved and coupled with the Schrodinger equation to compute the confined states in the QWs. Fig.\ref{simsetup} shows the simulated LED structure with a hexagonal defect incorporated. In this case we assume the QW stack simply continues along the edge of the hexagonal defect as described in \cite{Hangleiter2005}, as the EDX quantification reveals a detected atomic percentage of indium of approximately 4 $\%$ below the QW stack. We assume a similar geometry for the AlGaN EBL, which is expected to follow the angled facet of the defect.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.6\textwidth]{Figs/Ch3/Sim}
+	\caption[h] {Simulated LED structure.}
+	\label{simsetup}
+\end{figure}
+\FloatBarrier 
+
+The simulation results are shown in Fig.\ref{simresults}. Fig.\ref{simresults}.a. shows overall radiative recombination events in units of $10^{28} cm^{-3}s^{-1}$. The region closest to the defect at the lowest QW shows an increased radiative recombination rate, indicating the presence of the defect can indeed cause enhanced radiative recombination under electrical injection in regions surrounding the defect. Fig.\ref{simresults}.b. shows two profiles taken from Fig.\ref{simresults}.a. intersecting the five QWs and indicates that the radiative recombination is almost doubled in the lowest QW close to the defect when compared with a profile taken further away.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=1\textwidth]{Figs/Ch3/simresults}
+	\caption[h] {APSYS simulation results: a) Radiative recombination events b) radiative recombination profiles, c) electron concentration profiles and d) hole concentration profiles. Red and black traces in b), c) and d) correspond to the red and black profiles in a).}
+	\label{simresults}
+\end{figure}
+\FloatBarrier 
 
 \section{Conclusion}
 

@@ -38,6 +38,10 @@ Repeated entry---line 2750 of file thesis.bib
  : @article{Pernice2012
  :                     ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 2776 of file thesis.bib
+ : @book{Piprek2007
+ :                 ,
+I'm skipping whatever remains of this entry
 Repeated entry---line 3079 of file thesis.bib
  : @article{Ren2015
  :                 ,
@@ -48,4 +52,5 @@ Repeated entry---line 4041 of file thesis.bib
 I'm skipping whatever remains of this entry
 Warning--can't use both author and editor fields in Frank2006
 Warning--empty journal in Laak2013
-(There were 9 error messages)
+Warning--can't use both author and editor fields in Piprek2007
+(There were 10 error messages)
