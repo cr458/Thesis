@@ -50,14 +50,13 @@
 \contentsline {subsection}{\numberline {3.3.3}Hexagonal Defect Structure}{63}{subsection.3.3.3}
 \contentsline {subsubsection}{Scanning Electron Microscopy}{63}{section*.91}
 \contentsline {subsubsection}{Atomic Force Microscopy}{63}{section*.93}
-\contentsline {subsubsection}{Conductive-AFM}{64}{section*.95}
-\contentsline {subsection}{\numberline {3.3.4}TEM Lamella preparation}{64}{subsection.3.3.4}
-\contentsline {subsection}{\numberline {3.3.5}Scanning Transmission Electron Microscopy}{64}{subsection.3.3.5}
-\contentsline {subsubsection}{Hexagonal Defect Morphology}{64}{section*.96}
-\contentsline {subsubsection}{Compositional Analysis}{64}{section*.97}
-\contentsline {section}{\numberline {3.4}Simulations}{64}{section.3.4}
-\contentsline {section}{\numberline {3.5}Conclusion}{64}{section.3.5}
-\contentsline {section}{\numberline {3.6}Future Work}{64}{section.3.6}
-\contentsline {chapter}{References}{65}{chapter*.98}
-\contentsline {chapter}{Appendix \numberline {A}How to install \LaTeX }{73}{Appendix.a.A}
-\contentsline {chapter}{Appendix \numberline {B}Installing the CUED class file}{77}{Appendix.a.B}
+\contentsline {subsubsection}{Conductive-AFM}{65}{section*.96}
+\contentsline {subsubsection}{TEM Lamella preparation}{65}{section*.97}
+\contentsline {subsubsection}{Scanning Transmission Electron Microscopy}{67}{section*.101}
+\contentsline {subsubsection}{Compositional Analysis}{67}{section*.102}
+\contentsline {section}{\numberline {3.4}Simulations}{67}{section.3.4}
+\contentsline {section}{\numberline {3.5}Conclusion}{67}{section.3.5}
+\contentsline {section}{\numberline {3.6}Future Work}{67}{section.3.6}
+\contentsline {chapter}{References}{69}{chapter*.103}
+\contentsline {chapter}{Appendix \numberline {A}How to install \LaTeX }{77}{Appendix.a.A}
+\contentsline {chapter}{Appendix \numberline {B}Installing the CUED class file}{81}{Appendix.a.B}

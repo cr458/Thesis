@@ -3967,23 +3967,6 @@
   mendeley-groups = {DRIP Paper,thesis}
 }
 
-@Article{Tsai2007,
-  author =          {Tsai, Hung-Ling and Wang, Ting-Yu and Yang, Jer-Ren and Chuo, Chang-Cheng and Hsu, Jung-Tsung and Feng, Zhe-Chuan and Shiojiri, Makoto},
-  title =           {{Observation of V Defects in Multiple InGaN/GaN Quantum Well Layers}},
-  journal =         {Materials Transactions},
-  year =            {2007},
-  volume =          {48},
-  number =          {5},
-  pages =           {894--898},
-  abstract =        {/    . Hung-Ling TSAI, Ting-Yu WANG, Jer-Ren YANG, Chang-Cheng CHUO, Jung },
-  doi =             {10.2320/matertrans.48.894},
-  file =            {:C$\backslash$:/Users/cr458/SkyDrive/GaN/Papers for Eleni/894.pdf:pdf},
-  isbn =            {1345-9678},
-  issn =            {1345-9678},
-  keywords =        {gallium nitride quantum wells,green laser diode,high-angle annular dark-field scanning,inverted hexagonal pyramid defect,multiple indium gallium nitride,transmission electron microscopy,v defect},
-  mendeley-groups = {DRIP Paper,thesis}
-}
-
 @Article{Vahala2003,
   author =          {Vahala, Kerry J},
   title =           {{Optical microcavities.}},
