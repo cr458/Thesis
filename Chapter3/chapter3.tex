@@ -498,7 +498,12 @@ The EDS analysis shows the disruption of the QW stack by the defect, as evidence
 
 \subsection{LED Simulations}
 
-In order to investigate the manner in which changes induced by the defect could affect the EL of the LED simulations were performed by Berrtand Rouet-Leduc using the APSYS simulation package, with parameters taken from J.Piprek \cite{Piprek2007}. The carrier transport equations are self-consistently solved and coupled with the Schrodinger equation to compute the confined states in the QWs. Fig.\ref{simsetup} shows the simulated LED structure with a hexagonal defect incorporated. In this case we assume the QW stack simply continues along the edge of the hexagonal defect as described in \cite{Hangleiter2005}, as the EDX quantification reveals a detected atomic percentage of indium of approximately 4 $\%$ below the QW stack. We assume a similar geometry for the AlGaN EBL, which is expected to follow the angled facet of the defect.
+In order to investigate the manner in which changes induced by the defect could affect the EL of the LED simulations were performed by Berrtand Rouet-Leduc using the APSYS simulation package, with parameters taken from J.Piprek \cite{Piprek2007}. The carrier transport equations are self-consistently solved and coupled with the Schrodinger equation to compute the confined states in the QWs.\\
+
+\subsubsection{Deep Inclusion}
+Fig.\ref{simsetup} shows the simulated LED structure with a hexagonal defect incorporated. In this case we assume the QW stack simply continues along the edge of the hexagonal defect as described in \cite{Hangleiter2005}, as the EDX quantification reveals a detected atomic percentage of indium of approximately 4 $\%$ below the QW stack. We assume a similar geometry for the AlGaN EBL, which is expected to follow the angled facet of the defect. Thus, this set of simulations deals with what we term a 'deep' AlGaN inclusion, which is expected to penetrate below the QW stack.\\
+In this set of simulations, we have set the {\it p}-GaN doping concentration to 3 $\times 10^{19} cm^{-3}$, the {\it p}-AlGaN EBL doping to 4 $\times 10^{19} cm^{-3}$ except on the semi-polar facets of the defect where it is set to 1$\times 10^{19} cm^{-3}$.
+
 
 \begin{figure}[h]
 	\centering
@@ -508,7 +513,7 @@ In order to investigate the manner in which changes induced by the defect could 
 \end{figure}
 \FloatBarrier 
 
-The simulation results are shown in Fig.\ref{simresults}. Fig.\ref{simresults}.a. shows overall radiative recombination events in units of $10^{28} cm^{-3}s^{-1}$. The region closest to the defect at the lowest QW shows an increased radiative recombination rate, indicating the presence of the defect can indeed cause enhanced radiative recombination under electrical injection in regions surrounding the defect. Fig.\ref{simresults}.b. shows two profiles taken from Fig.\ref{simresults}.a. intersecting the five QWs and indicates that the radiative recombination is almost doubled in the lowest QW close to the defect when compared with a profile taken further away.
+The simulation results are shown in Fig.\ref{simresults}. Fig.\ref{simresults}.a. shows overall radiative recombination events in units of $10^{28} cm^{-3}s^{-1}$. The region closest to the defect at the lowest QW shows an increased radiative recombination rate, indicating the presence of the defect can indeed cause enhanced radiative recombination under electrical injection in regions surrounding the defect. Fig.\ref{simresults}.b. shows two profiles taken from Fig.\ref{simresults}.a. intersecting the five QWs and indicates that the rate of radiative recombination is almost doubled in the lowest QW close to the defect when compared with a profile taken further away.
 
 \begin{figure}[h]
 	\centering
@@ -517,6 +522,11 @@ The simulation results are shown in Fig.\ref{simresults}. Fig.\ref{simresults}.a
 	\label{simresults}
 \end{figure}
 \FloatBarrier 
+
+\subsubsection{Shallow Inclusion}
+
+In this simulation we have simulated a structure similar to the EDX maps shown in Fig.\ref{EDXspot}. We have assumed that the AlGaN EBL may penetrate only slightly in into the QW stack due to the defect, but otherwise the rest of the disrupted region is filled with undoped GaN. The AlGaN EBL doping is set to 5$\times 10^{18} cm^{-3}$ with an Al content of 10$\%$.
+
 
 \section{Conclusion}
 

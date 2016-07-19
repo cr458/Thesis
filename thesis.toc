@@ -54,8 +54,10 @@
 \contentsline {subsubsection}{TEM Lamella preparation}{65}{section*.97}
 \contentsline {subsubsection}{Transmission Electron Microscopy}{66}{section*.101}
 \contentsline {subsection}{\numberline {3.3.4}LED Simulations}{69}{subsection.3.3.4}
-\contentsline {section}{\numberline {3.4}Conclusion}{70}{section.3.4}
-\contentsline {section}{\numberline {3.5}Future Work}{70}{section.3.5}
-\contentsline {chapter}{References}{71}{chapter*.106}
-\contentsline {chapter}{Appendix \numberline {A}How to install \LaTeX }{79}{Appendix.a.A}
-\contentsline {chapter}{Appendix \numberline {B}Installing the CUED class file}{83}{Appendix.a.B}
+\contentsline {subsubsection}{Deep Inclusion}{69}{section*.104}
+\contentsline {subsubsection}{Shallow Inclusion}{71}{section*.107}
+\contentsline {section}{\numberline {3.4}Conclusion}{71}{section.3.4}
+\contentsline {section}{\numberline {3.5}Future Work}{71}{section.3.5}
+\contentsline {chapter}{References}{73}{chapter*.108}
+\contentsline {chapter}{Appendix \numberline {A}How to install \LaTeX }{81}{Appendix.a.A}
+\contentsline {chapter}{Appendix \numberline {B}Installing the CUED class file}{85}{Appendix.a.B}
