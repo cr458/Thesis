@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{100}
 
 \bibitem{Humphreys2008}
 C.~J. Humphreys, ``{USE Solid-State Lighting},'' {\em MRS Bulletin}, vol.~33,
@@ -301,7 +301,7 @@ N.~V. Trivi{\~{n}}o, R.~Butt{\'{e}}, J.-F. Carlin, and N.~Grandjean,
 \bibitem{Arita2007}
 M.~Arita, S.~Ishida, S.~Kako, S.~Iwamoto, and Y.~Arakawa, ``{AlN air-bridge
   photonic crystal nanocavities demonstrating high quality factor},'' {\em
-  Applied Physics Letters}, vol.~91, no.~5, pp.~89--92, 2007.
+  Applied Physics Letters}, vol.~91, no.~5, p.~051106, 2007.
 
 \bibitem{Pernice2012}
 W.~H.~P. Pernice, C.~Xiong, C.~Schuck, and H.~X. Tang, ``{High-Q aluminum
@@ -473,6 +473,20 @@ R.~a. Oliver, F.~C.-P. Massabuau, M.~J. Kappers, W.~a. Phillips, E.~J. Thrush,
   fluctuations on the efficiency of GaN-based light emitting diodes},'' {\em
   Applied Physics Letters}, vol.~103, no.~14, p.~141114, 2013.
 
+\bibitem{Polyakov1998}
+A.~Polyakov, N.~Smirnov, A.~Usikov, A.~Govorkov, and B.~Pushniy, ``{Studies of
+  the origin of the yellow luminescence band, the nature of nonradiative
+  recombination and the origin of persistent photoconductivity in n-GaN
+  films},'' {\em Solid-State Electronics}, vol.~42, no.~11, pp.~1959--1967,
+  1998.
+
+\bibitem{Chichibu1999}
+S.~Chichibu, a.C Abare, M.~Mack, M.~Minsky, T.~Deguchi, D.~Cohen, P.~Kozodoy,
+  S.~Fleischer, S.~Keller, J.~Speck, J.~Bowers, E.~Hu, U.~Mishra, L.~Coldren,
+  S.~DenBaars, K.~Wada, T.~Sota, and S.~Nakamura, ``{Optical properties of
+  InGaN quantum wells},'' {\em Materials Science and Engineering: B}, vol.~59,
+  pp.~298--306, may 1999.
+
 \bibitem{Lyons2010}
 J.~L. Lyons, A.~Janotti, and C.~G. {Van De Walle}, ``{Carbon impurities and the
   yellow luminescence in GaN},'' {\em Applied Physics Letters}, vol.~97,
@@ -498,5 +512,51 @@ M.~Shiojiri, C.~C. Chuo, J.~T. Hsu, J.~R. Yang, and H.~Saijo, ``{Structure and
 \bibitem{Piprek2007}
 J.~Piprek, {\em {Nitride Semiconductor Devices: Principles and Simulation}}.
 \newblock Wiley-VCH, january 20~ed., 2007.
+
+\bibitem{Li2014}
+Y.~Li, F.~Yun, X.~Su, S.~Liu, W.~Ding, and X.~Hou, ``{Deep hole injection
+  assisted by large V-shape pits in InGaN/GaN multiple-quantum-wells blue
+  light-emitting diodes},'' {\em Journal of Applied Physics}, vol.~116, no.~12,
+  p.~123101, 2014.
+
+\bibitem{Quan2014}
+Z.~Quan, L.~Wang, C.~Zheng, J.~Liu, and F.~Jiang, ``{Roles of V-shaped pits on
+  the improvement of quantum efficiency in InGaN/GaN multiple quantum well
+  light-emitting diodes},'' {\em Journal of Applied Physics}, vol.~116, no.~18,
+  p.~183107, 2014.
+
+\bibitem{Florescu2003}
+D.~I. Florescu, S.~M. Ting, J.~C. Ramer, D.~S. Lee, V.~N. Merai, a.~Parkeh,
+  D.~Lu, E.~a. Armour, and L.~Chernyak, ``{Investigation of V-Defects and
+  embedded inclusions in InGaN/GaN multiple quantum wells grown by metalorganic
+  chemical vapor deposition on (0001) sapphire},'' {\em Applied Physics
+  Letters}, vol.~83, no.~1, p.~33, 2003.
+
+\bibitem{Datta2004}
+R.~Datta, M.~Kappers, M.~Vickers, J.~Barnard, and C.~Humphreys, ``{Growth and
+  characterisation of GaN with reduced dislocation density},'' {\em
+  Superlattices and Microstructures}, vol.~36, pp.~393--401, oct 2004.
+
+\bibitem{Hiramatsu2001}
+K.~Hiramatsu, ``{Epitaxial lateral overgrowth techniques used in group III
+  nitride epitaxy},'' {\em Journal of Physics: Condensed Matter}, vol.~13,
+  pp.~6961--6975, aug 2001.
+
+\bibitem{Beaumont1999}
+B.~Beaumont, V.~Bousquet, P.~Venn{\'{e}}gu{\`{e}}s, M.~Vaille,
+  A.~Bouill{\'{e}}, P.~Gibart, S.~Dassonneville, A.~Amokrane, and B.~Sieber,
+  ``{Two-step method for epitaxial lateral overgrowth of GaN},'' {\em Physica
+  Status Solidi (A) Applied Research}, vol.~176, no.~1, pp.~567--571, 1999.
+
+\bibitem{Reithmaier2004}
+J.~P. Reithmaier, G.~Sek, a.~L{\"{o}}ffler, C.~Hofmann, S.~Kuhn,
+  S.~Reitzenstein, L.~V. Keldysh, V.~D. Kulakovskii, T.~L. Reinecke, and
+  a.~Forchel, ``{Strong coupling in a single quantum dot-semiconductor
+  microcavity system.},'' {\em Nature}, vol.~432, no.~7014, pp.~197--200, 2004.
+
+\bibitem{Jarjour2007}
+A.~Jarjour, R.~Oliver, A.~Tahraoui, M.~Kappers, C.~Humphreys, and R.~Taylor,
+  ``{Control of the Oscillator Strength of the Exciton in a Single InGaN-GaN
+  Quantum Dot},'' {\em Physical Review Letters}, vol.~99, p.~197403, nov 2007.
 
 \end{thebibliography}

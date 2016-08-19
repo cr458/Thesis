@@ -45,19 +45,22 @@
 \contentsline {section}{\numberline {3.3}Experimental}{51}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Hyperspectral EL Imaging}{52}{subsection.3.3.1}
 \contentsline {subsubsection}{Current Dependent EL Measurements}{53}{section*.76}
-\contentsline {subsection}{\numberline {3.3.2}Cathodoluminescence and Electron Beam Induced Current}{58}{subsection.3.3.2}
-\contentsline {subsubsection}{Scanning Electron Microscopy with Cathodoluminescence}{60}{section*.86}
-\contentsline {subsection}{\numberline {3.3.3}Hexagonal Defect Structure}{63}{subsection.3.3.3}
-\contentsline {subsubsection}{Scanning Electron Microscopy}{63}{section*.91}
-\contentsline {subsubsection}{Atomic Force Microscopy}{63}{section*.93}
-\contentsline {subsubsection}{Conductive-AFM}{65}{section*.96}
-\contentsline {subsubsection}{TEM Lamella preparation}{65}{section*.97}
-\contentsline {subsubsection}{Transmission Electron Microscopy}{66}{section*.101}
-\contentsline {subsection}{\numberline {3.3.4}LED Simulations}{69}{subsection.3.3.4}
-\contentsline {subsubsection}{Deep Inclusion}{69}{section*.104}
-\contentsline {subsubsection}{Shallow Inclusion}{71}{section*.107}
-\contentsline {section}{\numberline {3.4}Conclusion}{71}{section.3.4}
-\contentsline {section}{\numberline {3.5}Future Work}{71}{section.3.5}
-\contentsline {chapter}{References}{73}{chapter*.108}
-\contentsline {chapter}{Appendix \numberline {A}How to install \LaTeX }{81}{Appendix.a.A}
-\contentsline {chapter}{Appendix \numberline {B}Installing the CUED class file}{85}{Appendix.a.B}
+\contentsline {subsection}{\numberline {3.3.2}Cathodoluminescence and Electron Beam Induced Current}{57}{subsection.3.3.2}
+\contentsline {subsubsection}{Scanning Electron Microscopy with Cathodoluminescence}{58}{section*.82}
+\contentsline {subsection}{\numberline {3.3.3}Hexagonal Defect Structure}{60}{subsection.3.3.3}
+\contentsline {subsubsection}{Scanning Electron Microscopy}{60}{section*.85}
+\contentsline {subsubsection}{Atomic Force Microscopy}{60}{section*.87}
+\contentsline {subsubsection}{TEM Lamella preparation}{62}{section*.90}
+\contentsline {subsubsection}{Transmission Electron Microscopy}{63}{section*.94}
+\contentsline {subsection}{\numberline {3.3.4}LED Simulations}{66}{subsection.3.3.4}
+\contentsline {subsubsection}{Deep Inclusion}{66}{section*.97}
+\contentsline {subsubsection}{Shallow Inclusion}{68}{section*.100}
+\contentsline {subsection}{\numberline {3.3.5}Origin of the Defect}{70}{subsection.3.3.5}
+\contentsline {subsubsection}{Threading Dislocation Analysis}{70}{section*.103}
+\contentsline {section}{\numberline {3.4}Conclusion}{73}{section.3.4}
+\contentsline {section}{\numberline {3.5}Future Work}{74}{section.3.5}
+\contentsline {chapter}{\numberline {4}Defects in III-Nitride Microdisk Cavities}{75}{chapter.4}
+\contentsline {section}{\numberline {4.1}Short title}{75}{section.4.1}
+\contentsline {chapter}{References}{77}{chapter*.107}
+\contentsline {chapter}{Appendix \numberline {A}How to install \LaTeX }{85}{Appendix.a.A}
+\contentsline {chapter}{Appendix \numberline {B}Installing the CUED class file}{89}{Appendix.a.B}
