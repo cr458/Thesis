@@ -542,15 +542,37 @@ B.~Beaumont, V.~Bousquet, P.~Venn{\'{e}}gu{\`{e}}s, M.~Vaille,
   ``{Two-step method for epitaxial lateral overgrowth of GaN},'' {\em Physica
   Status Solidi (A) Applied Research}, vol.~176, no.~1, pp.~567--571, 1999.
 
-\bibitem{Reithmaier2004}
-J.~P. Reithmaier, G.~Sek, a.~L{\"{o}}ffler, C.~Hofmann, S.~Kuhn,
-  S.~Reitzenstein, L.~V. Keldysh, V.~D. Kulakovskii, T.~L. Reinecke, and
-  a.~Forchel, ``{Strong coupling in a single quantum dot-semiconductor
-  microcavity system.},'' {\em Nature}, vol.~432, no.~7014, pp.~197--200, 2004.
+\bibitem{El-Ella2011a}
+H.~El-Ella, F.~Rol, D.~Collins, M.~Kappers, R.~Taylor, E.~Hu, and R.~Oliver,
+  ``{InGaN super-lattice growth for fabrication of quantum dot containing
+  microdisks},'' {\em Journal of Crystal Growth}, vol.~321, pp.~113--119, apr
+  2011.
 
-\bibitem{Jarjour2007}
-A.~Jarjour, R.~Oliver, A.~Tahraoui, M.~Kappers, C.~Humphreys, and R.~Taylor,
-  ``{Control of the Oscillator Strength of the Exciton in a Single InGaN-GaN
-  Quantum Dot},'' {\em Physical Review Letters}, vol.~99, p.~197403, nov 2007.
+\bibitem{Visconti2001}
+P.~Visconti, M.~a. Reshchikov, K.~M. Jones, D.~F. Wang, R.~Cingolani,
+  H.~Morkoc, R.~J. Molnar, and D.~J. Smith, ``{Highly selective
+  photoelectrochemical etching of nitride materials for defect investigation
+  and device fabrication},'' {\em Journal of Vacuum Science {\&} Technology B:
+  Microelectronics and Nanometer Structures}, vol.~19, no.~4, p.~1328, 2001.
+
+\bibitem{Youtsey1999}
+C.~Youtsey, L.~T. Romano, R.~J. Molnar, and I.~Adesida, ``{Rapid evaluation of
+  dislocation densities in n-type GaN films using photoenhanced wet etching},''
+  {\em Applied Physics Letters}, vol.~74, no.~May 2015, p.~3537, 1999.
+
+\bibitem{Youtsey1998}
+C.~Youtsey, L.~T. Romano, and I.~Adesida, ``{Gallium nitride whiskers formed by
+  selective photoenhanced wet etching of dislocations},'' {\em Applied Physics
+  Letters}, vol.~73, no.~6, p.~797, 1998.
+
+\bibitem{Minsky1996}
+M.~S. Minsky, M.~White, and E.~L. Hu, ``{Room-temperature photoenhanced wet
+  etching of GaN},'' {\em Applied Physics Letters}, vol.~68, no.~11,
+  pp.~1531--1533, 1996.
+
+\bibitem{Cherns2000}
+D.~Cherns, ``{The structure and optoelectronic properties of dislocations in
+  GaN The structure and optoelectronic properties of dislocations in},'' {\em
+  J. Phys. Condens. Matter.}, vol.~12, p.~10205, 2000.
 
 \end{thebibliography}

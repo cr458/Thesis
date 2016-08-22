@@ -2792,6 +2792,21 @@
   url =             {http://scitation.aip.org/content/aip/journal/apl/97/6/10.1063/1.3477952}
 }
 
+@Article{People1985,
+  author =          {People, R. and Bean, J. C.},
+  title =           {{Calculation of critical layer thickness versus lattice mismatch for GexSi1−x/Si strained-layer heterostructures}},
+  journal =         {Applied Physics Letters},
+  year =            {1985},
+  volume =          {47},
+  number =          {3},
+  pages =           {322},
+  doi =             {10.1063/1.96206},
+  file =            {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/People, Bean - 1985 - Calculation of critical layer thickness versus lattice mismatch for GexSi1−xSi strained-layer heterostructures.pdf:pdf},
+  issn =            {00036951},
+  mendeley-groups = {GaN/CPGS/Challenges},
+  url =             {http://scitation.aip.org/content/aip/journal/apl/47/3/10.1063/1.96206}
+}
+
 @Article{Pernice2012,
   author =          {Pernice, W. H P and Xiong, C. and Schuck, C. and Tang, H. X.},
   title =           {{High-Q aluminum nitride photonic crystal nanobeam cavities}},
@@ -4159,7 +4174,7 @@
 }
 
 @Article{Visconti2001,
-  author =          {Visconti, P. and Reshchikov, M. a. and Jones, K. M. and Wang, D. F. and Cingolani, R. and Morkoç̌, H. and Molnar, R. J. and Smith, D. J.},
+  author =          {Visconti, P. and Reshchikov, M. a. and Jones, K. M. and Wang, D. F. and Cingolani, R. and Morkoc, H. and Molnar, R. J. and Smith, D. J.},
   title =           {{Highly selective photoelectrochemical etching of nitride materials for defect investigation and device fabrication}},
   journal =         {Journal of Vacuum Science {\&} Technology B: Microelectronics and Nanometer Structures},
   year =            {2001},
