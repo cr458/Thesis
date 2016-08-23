@@ -11,7 +11,7 @@
 \fi
 
 
-\section[Short title]{Background}
+\section[Background]{Background}
 
 Microcavities possess particular optical properties, as discussed in section \ref{cavity section}. Strongly-coupled cavities are crucial in accomplishing important quantum information processing tasks such as controlled coherent coupling and the entanglement of quantum systems \cite{Hennessy2007}. Weakly-coupled microcavity systems have many applications in optoelectronic devices such as high efficiency, low threshold lasers \cite{Vahala2003}. Applications for both strong and weak coupling cavities are discussed in more detail in section \ref{cavity section}.
 \\ Though various geometries for cavities exist, in this chapter we will specifically address III-nitride microdisk cavities. Microdisk III-nitride cavities have presented several challenges in terms of fabrication, due to chemical and thermal properties of GaN discussed in section \ref{microdisk section}. Currently, one of the preferred methods of for the fabrication of III-nitride microdisk cavities is PEC etching of an InGaN sacrificial superlattice \nomenclature[z-SSL]{SSL}{Sacrificial Superlattice} (SSL) \cite{Puchtler2015}. This in itself presents issues, as El-Ella \textit{et al.} have shown that the growth of the InGaN SSL with a quantum dot (QD) layer can introduce dislocations into the structure \cite{El-Ella2011a}. Furthermore, PEC etching can be a difficult process to control as it is heavily dependent on conductivity and hence can be defect-selective \cite{Visconti2001,Youtsey1999,Youtsey1998} and dopant-selective \cite{Youtsey1999}, occasionally resulting in protrusions or roughness \cite{Puchtler2015} on the etched underside of microdisk cavities. The work contained in this chapter is a microscopy-based investigation into fabrication issues in GaN/InGaN microdisk cavities.
@@ -68,3 +68,31 @@ Puchtler \textit{et al.} addressed these issues by identifying not only the numb
 	\label{puchtlerdislocation}
 \end{figure}
 \FloatBarrier 
+
+Following this, the authors reported the correlation between dislocation number and position and Q-factor extracted from the modal peaks in micro-PL. Whilst dislocation number and microdisk Q-factor were shown to be inversely correlated, this was foudn to hold true only for dislocations located at a distance > 0.4 $\mu$m from the centre, suggesting only dislocations located within the outer-periphery of the microdisks (where the WGMs are confined as discussed in section \ref{microdisk section}) have an effect on Q-factor. These results are summarised in Fig.\ref{puchtlerdistance}.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=1\textwidth]{Figs/Ch4/puchtlerdistance.png}
+	\caption {a)Microdisk Q-factor vs. threading dislocation number for radial positions: a) 0- 0.6 $\mu$m b) < 0.4 $\mu$m d) >0.4 $\mu$m for QD (blue) and QW (red) containing microdisks. c) and e) show a schematic of, and representative PL spectrum taken from microdisks of low and high dislocation number in the periphery of the disks. Reproduced from \cite{Puchtler2015}.}
+	\label{puchtlerdistance}
+\end{figure}
+\FloatBarrier 
+
+The mechanism behind the deleterious effect of TDs on Q-factor were investigated by Puchtler \textit{et al.} through the use of finite difference time domain (FDTD) simulations \cite{Puchtler2015}. The presence of a whisker on the underside of a microdisk was simulated as a pyramidal protrusion with a range of dimensions and positions on the underside, producing results which suggest the Q-factor of the first order WGM decreases as the position of the whisker approaches the periphery of the microdisk and provides a radiative pathway for light confined in this region to escape \cite{Puchtler2015}. The results of these simulations are shown in Fig.\ref{puchtlersim}.
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.7\textwidth]{Figs/Ch4/puchtlersim}
+	\caption {Effect of radial position on the influence of a whisker on microdisk Q-factor. The whisker was simulated as a pyramid with a height of 150 nm and base widths of 100, 150, and 200 nm. The inset shows a side-on view of the field profile for a whisker located at the edge of the microdisk: light leaks into the whisker region and is radiated, thus introducing loss in the cavity. Reproduced from \cite{Puchtler2015}.}
+	\label{puchtlersim}
+\end{figure}
+\FloatBarrier 
+
+TDs have been shown to increase impurity levels at dislocation cores and in an extended region affected by their associated strain field during sample growth. TEM studies of dislocations have revealed strain related changes in doping occuring on the scale of several nanometres\cite{Rhode2013,Horton2015}. Threading dislocations can also have associated vacancy states giving rise to ‘yellow-band’ optical transitions, though these are far away from the wavelength range of III-nitride cavities \cite{Xin2000,Elsner1997}. In considering the impact of these factors  on absorption in the micodisk, Puchtler \textit{et al.} reported no significant effect on cavity Q-factor for linear attenuation coefficients up to $10^{9} cm^{-1}$ (several orders of magnitude greater than the expected value for highly doped GaN \cite{Ambacher1996}) associated with dislocations modelled as a cylinder of radius 4 nm.
+
+\section[Experimental]{Direct Evidence for Dislocation Induced Whiskers in Microdisks} 
+\subsection{FIB/SEM Sample Preparation}
+\subsection{TEM}
+
+
+

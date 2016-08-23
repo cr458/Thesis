@@ -301,7 +301,7 @@ N.~V. Trivi{\~{n}}o, R.~Butt{\'{e}}, J.-F. Carlin, and N.~Grandjean,
 \bibitem{Arita2007}
 M.~Arita, S.~Ishida, S.~Kako, S.~Iwamoto, and Y.~Arakawa, ``{AlN air-bridge
   photonic crystal nanocavities demonstrating high quality factor},'' {\em
-  Applied Physics Letters}, vol.~91, no.~5, p.~051106, 2007.
+  Applied Physics Letters}, vol.~91, no.~5, pp.~89--92, 2007.
 
 \bibitem{Pernice2012}
 W.~H.~P. Pernice, C.~Xiong, C.~Schuck, and H.~X. Tang, ``{High-Q aluminum
@@ -580,5 +580,36 @@ H.~a.~R. El-Ella, F.~Rol, M.~J. Kappers, K.~J. Russell, E.~L. Hu, and R.~a.
   Oliver, ``{Dislocation density-dependent quality factors in InGaN quantum dot
   containing microdisks},'' {\em Applied Physics Letters}, vol.~98, no.~13,
   p.~131909, 2011.
+
+\bibitem{Rhode2013}
+S.~K. Rhode, M.~K. Horton, M.~J. Kappers, S.~Zhang, C.~J. Humphreys, R.~O.
+  Dusane, S.~L. Sahonta, and M.~a. Moram, ``{Mg doping affects dislocation core
+  structures in GaN},'' {\em Physical Review Letters}, vol.~111, no.~July,
+  pp.~1--4, 2013.
+
+\bibitem{Horton2015}
+M.~K. Horton, S.~Rhode, S.-L. Sahonta, M.~J. Kappers, S.~J. Haigh, T.~J.
+  Pennycook, C.~J. Humphreys, R.~O. Dusane, and M.~A. Moram, ``{Segregation of
+  In to dislocations in InGaN.},'' {\em Nano letters}, vol.~15, no.~2,
+  pp.~923--30, 2015.
+
+\bibitem{Xin2000}
+Y.~Xin, E.~M. James, I.~Arslan, S.~Sivananthan, N.~D. Browning, S.~J.
+  Pennycook, F.~Omnes, B.~Beaumont, J.-P. Faurie, and P.~Gibart, ``{Direct
+  experimental observation of the local electronic structure at threading
+  dislocations in metalorganic vapor phase epitaxy grown wurtzite GaN thin
+  films},'' {\em Applied Physics Letters}, vol.~76, no.~4, p.~466, 2000.
+
+\bibitem{Elsner1997}
+J.~Elsner, R.~Jones, P.~K. Sitch, V.~D. Porezag, M.~Elstner, T.~Frauenheim,
+  M.~I. Heggie, S.~Oberg, and P.~R. Briddon, ``{Theory of Threading Edge and
+  Screw Dislocations in GaN},'' {\em Physical Review Letters}, vol.~79, no.~19,
+  pp.~3672--3675, 1997.
+
+\bibitem{Ambacher1996}
+O.~Ambacher, W.~Rieger, P.~Ansmann, H.~Angerer, T.~D. Moustakas, and
+  M.~Stutzmann, ``{Sub-bandgap absorption of gallium nitride determined by
+  photothermal deflection spectroscopy},'' {\em Solid State Communications},
+  vol.~97, no.~5, pp.~365--370, 1996.
 
 \end{thebibliography}
