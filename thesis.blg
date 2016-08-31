@@ -11,48 +11,36 @@ The style file: ieeetr.bst
 A level-1 auxiliary file: Appendix1/appendix1.aux
 A level-1 auxiliary file: Appendix2/appendix2.aux
 Database file #1: thesis.bib
-Repeated entry---line 214 of file thesis.bib
- : @article{Arita2007
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 229 of file thesis.bib
- : @article{Arita2007
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 558 of file thesis.bib
+Repeated entry---line 480 of file thesis.bib
  : @article{Cherns2000
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 795 of file thesis.bib
- : @article{Datta2004
- :                   ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2636 of file thesis.bib
+Repeated entry---line 2471 of file thesis.bib
  : @article{Oliver2006a
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2685 of file thesis.bib
+Repeated entry---line 2520 of file thesis.bib
  : @article{Oliver2008
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2734 of file thesis.bib
- : @article{Oliver2013
- :                    ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2825 of file thesis.bib
- : @article{Pernice2012
- :                     ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 2851 of file thesis.bib
+Repeated entry---line 2656 of file thesis.bib
  : @book{Piprek2007
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2962 of file thesis.bib
+Repeated entry---line 2767 of file thesis.bib
  : @article{Quan2014
  :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2973 of file thesis.bib
+ : @article{Ren2015
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3935 of file thesis.bib
+ : @article{Vickers2003
+ :                     ,
 I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "Peeople1985"
 Warning--can't use both author and editor fields in Frank2006
 Warning--empty journal in Laak2013
 Warning--can't use both author and editor fields in Piprek2007
-(There were 10 error messages)
+(There were 7 error messages)

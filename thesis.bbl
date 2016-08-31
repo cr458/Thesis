@@ -301,7 +301,7 @@ N.~V. Trivi{\~{n}}o, R.~Butt{\'{e}}, J.-F. Carlin, and N.~Grandjean,
 \bibitem{Arita2007}
 M.~Arita, S.~Ishida, S.~Kako, S.~Iwamoto, and Y.~Arakawa, ``{AlN air-bridge
   photonic crystal nanocavities demonstrating high quality factor},'' {\em
-  Applied Physics Letters}, vol.~91, no.~5, pp.~89--92, 2007.
+  Applied Physics Letters}, vol.~91, no.~5, p.~051106, 2007.
 
 \bibitem{Pernice2012}
 W.~H.~P. Pernice, C.~Xiong, C.~Schuck, and H.~X. Tang, ``{High-Q aluminum
@@ -611,5 +611,17 @@ O.~Ambacher, W.~Rieger, P.~Ansmann, H.~Angerer, T.~D. Moustakas, and
   M.~Stutzmann, ``{Sub-bandgap absorption of gallium nitride determined by
   photothermal deflection spectroscopy},'' {\em Solid State Communications},
   vol.~97, no.~5, pp.~365--370, 1996.
+
+\bibitem{Bals2007}
+S.~Bals, W.~Tirry, R.~Geurts, Z.~Yang, and D.~Schryvers, ``{High-quality sample
+  preparation by low kV FIB thinning for analytical TEM measurements.},'' {\em
+  Microscopy and microanalysis : the official journal of Microscopy Society of
+  America, Microbeam Analysis Society, Microscopical Society of Canada},
+  vol.~13, no.~2, pp.~80--86, 2007.
+
+\bibitem{Lazar2004}
+S.~Lazar, L.~Weyher, J. L abd~Macht, F.~D. Tichelaar, and H.~W. Zandbergen,
+  ``{Nanopipes in GaN: photo-etching and TEM study},'' {\em The European
+  Physical Journal Applied Physics}, vol.~28, pp.~265--291, 2004.
 
 \end{thebibliography}
