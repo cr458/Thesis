@@ -3,7 +3,7 @@
 %*******************************************************************************
 
 \chapter{Characterisation of III-Nitride Microdisk Cavities}
-
+\label{Microdisk Chapter}
 \ifpdf
     \graphicspath{{Chapter2/Figs/Raster/}{Chapter2/Figs/PDF/}{Chapter2/Figs/}}
 \else
@@ -14,7 +14,7 @@
 \section[Background]{Background}
 
 Microcavities possess particular optical properties, as discussed in section \ref{cavity section}. Strongly-coupled cavities are crucial in accomplishing important quantum information processing tasks such as controlled coherent coupling and the entanglement of quantum systems \cite{Hennessy2007}. Weakly-coupled microcavity systems have many applications in optoelectronic devices such as high efficiency, low threshold lasers \cite{Vahala2003}. Applications for both strong and weak coupling cavities are discussed in more detail in section \ref{cavity section}.
-\\ Though various geometries for cavities exist, in this chapter we will specifically address III-nitride microdisk cavities. Microdisk III-nitride cavities have presented several challenges in terms of fabrication, due to chemical and thermal properties of GaN discussed in section \ref{microdisk section}. Currently, one of the preferred methods of for the fabrication of III-nitride microdisk cavities is PEC etching of an InGaN sacrificial superlattice \nomenclature[z-SSL]{SSL}{Sacrificial Superlattice} (SSL) \cite{Puchtler2015}. This in itself presents issues, as El-Ella \textit{et al.} have shown that the growth of the InGaN SSL with a quantum dot (QD) layer can introduce dislocations into the structure \cite{El-Ella2011a}. Furthermore, PEC etching can be a difficult process to control as it is heavily dependent on conductivity and hence can be defect-selective \cite{Visconti2001,Youtsey1999,Youtsey1998} and dopant-selective \cite{Youtsey1999}, occasionally resulting in protrusions or roughness \cite{Puchtler2015} on the etched underside of microdisk cavities. The work contained in this chapter is a microscopy-based investigation into fabrication issues in GaN/InGaN microdisk cavities.
+\\ Though various geometries for cavities exist, in this chapter we will specifically address III-nitride microdisk cavities. Microdisk III-nitride cavities have presented several challenges in terms of fabrication due to the chemical and thermal properties of GaN discussed in section \ref{microdisk section}. Currently, one of the most effective method for the fabrication of III-nitride microdisk cavities is PEC etching of an InGaN sacrificial superlattice \nomenclature[z-SSL]{SSL}{Sacrificial Superlattice} (SSL) \cite{Puchtler2015}. This in itself presents issues, as El-Ella \textit{et al.} have shown that the growth of the InGaN SSL with a quantum dot (QD) layer can introduce dislocations into the structure \cite{El-Ella2011a}. Furthermore, PEC etching can be a difficult process to control as it is heavily dependent on conductivity and hence can be defect-selective \cite{Visconti2001,Youtsey1999,Youtsey1998} and dopant-selective \cite{Youtsey1999}, occasionally resulting in protrusions or roughness \cite{Puchtler2015} on the etched underside of microdisk cavities which can heavily influence microdisk Q-factor \cite{Puchtler2015}. The work contained in this chapter is a microscopy-based investigation into the structural properties of GaN/InGaN microdisk cavities.
 
 \subsection{PEC etching}
 \label{microdisk fab section}
@@ -59,7 +59,8 @@ El-Ella \textit{et al.} first demonstrated the effect of dislocations on the Q-f
 \FloatBarrier 
 
 All microdisks fabricated from sample B show a larger Q-factor than all microdisks from sample A. The average Q-factors for microdisks fabricated from samples A and B were 600 and 2000 respectively, suggesting a strong correlation between Q-factor and dislocation density \cite{El-Ella2011}.\\
-Puchtler \textit{et al.} addressed these issues by identifying not only the number but also the position of TDs in individual microdisk cavities and evaluating the effect of these parameters on microdisk Q-factors\cite{Puchtler2015}.  Unlike the study by El-Ella \textit{et al.}, this work correlated the performance of each individual device structure with its specific structure. In this study, dark spots in CL images (arising from non-radiative recombination as discussed in section \ref{dislocation section}) were used as a signature for the presence of dislocations, and hence whiskers.  The authors established the correspondence of dark spots in the CL to whiskers by comparing plan-view panchromatic CL images with side-view SEM images of the microdisks. The results of these correlative measurements are shown in Fig.\ref{puchtlerdislocation}.
+Puchtler \textit{et al.} addressed these issues by identifying not only the number but also the position of TDs in individual microdisk cavities and evaluating the effect of these parameters on microdisk Q-factors\cite{Puchtler2015}.  Unlike the study by El-Ella \textit{et al.}, this work correlated the performance of each individual device structure with its specific structure. In this study, dark spots in CL images (arising from non-radiative recombination as discussed in section \ref{dislocation section}) were used as a signature for the presence of dislocations, and hence whiskers.\\
+The authors established the correspondence of dark spots in the CL to whiskers by comparing plan-view panchromatic CL images with side-view SEM images of the microdisks. The results of these correlative measurements are shown in Fig.\ref{puchtlerdislocation}.
 
 \begin{figure}[h]
 	\centering
@@ -69,7 +70,7 @@ Puchtler \textit{et al.} addressed these issues by identifying not only the numb
 \end{figure}
 \FloatBarrier 
 
-Following this, the authors reported the correlation between dislocation number and position and Q-factor extracted from the modal peaks in micro-PL. Whilst dislocation number and microdisk Q-factor were shown to be inversely correlated, this was foudn to hold true only for dislocations located at a distance > 0.4 $\mu$m from the centre, suggesting only dislocations located within the outer-periphery of the microdisks (where the WGMs are confined as discussed in section \ref{microdisk section}) have an effect on Q-factor. These results are summarised in Fig.\ref{puchtlerdistance}.
+Following this, the authors reported the correlation between dislocation number and position and Q-factor extracted from the modal peaks in micro-PL. Whilst dislocation number and microdisk Q-factor were shown to be inversely correlated, this was found to hold true only for dislocations located at a distance > 0.4 $\mu$m from the centre, suggesting only dislocations located within the outer-periphery of the microdisks (where the WGMs are confined as discussed in section \ref{microdisk section}) have an effect on Q-factor. These results are summarised in Fig.\ref{puchtlerdistance}.
 
 \begin{figure}[h]
 	\centering
@@ -92,6 +93,8 @@ TDs have been shown to increase impurity levels at dislocation cores and in an e
 
 
 \section[Experimental]{Microdisk Characterisation}
+In this section we will report on the experimental microscopy work performed on microdisks. A FIB based lamella preparation method was developed in order to prepare TEM samples from the microdisks, allowing for the observation of a dislocation in a whisker from the underside of a microdisk as well as the characterisation of the microdisk active region. Furthermore, FIB tomography experiments were performed on the microdisk, allowing us to further characterise the structural properties of the microdisks.
+
 \subsection{Samples}
 \label{microdisk samples}
 Samples for this study were grown on \textit{c}-plane GaN on a sapphire substrate. The active layers of the structure consist of three InGaN layers(QW or QD) in a 200 nm cavity membrane grown above a SSL $\mathrm{In_{x}Ga_{1-x}N/In_{y}Ga_{1-y}N}$ where x = 0.005 and y = 0.065. The purpose of the alternating In composition SSL is to confine carriers generated during the PEC process into localised regions. An unmodulated In composition would result in the separation of electron-hole pairs due to the inherent polarization fields present in InGaN, resulting in asymmetric etching \cite{El-Ella2011a}. The bottom of the microdisk membrane contains 20 nm $\mathrm{Al_{0.2}Ga_{0.8}}N$ layer which restricts the photo-generated carriers from the PEC process within the SSL, acting as an etch stop during undercutting and reducing damage to the microdisk membrane. The SSL is grown on a 500 nm \textit{n}-GaN layer which provides a highly conductive pathway for photo-generated carriers to be removed by propagating to an electrical contact. A schematic of the structure following the PEC undercut is shown in Fig.\ref{Puchtlerudiskimage}.
@@ -107,10 +110,10 @@ Samples for this study were grown on \textit{c}-plane GaN on a sapphire substrat
 
 \subsection{Whisker Analysis}
 
-In sections \ref{Whisker section} we have discussed the manner in which dislocations hinder the PEC etching process and cause the formation of 'whiskers' on the underside of microdisk. Furthermore we have addressed the deleterious effect of these whiskers on microdisk Q-factor in section \ref{Q-factor reduction}. In this section we will present FIB/SEM techniques developped in order to produce TEM lamellae from delicate structures such as microdisks which have allowed for the direct observation of a TD in a whisker from a microdisk using TEM.
+In sections \ref{Whisker section} we have discussed the manner in which dislocations hinder the PEC etching process and cause the formation of 'whiskers' on the underside of microdisk. Furthermore we have addressed the deleterious effect of these whiskers on microdisk Q-factor in section \ref{Q-factor reduction}. In this section we will present FIB/SEM techniques developed in order to produce TEM lamellae from delicate structures such as microdisks which have allowed for the direct observation of a TD in a whisker from a microdisk using TEM.
 
 \subsection{FIB/SEM Sample Preparation}
-
+\label{udiskFIBsection}
 The microdisks studied here were found to be extremely sensitive to ion-beam damage during Pt deposition, even with a protective electron beam Pt layer deposited first. As such for the preparation of delicate structures it is key to restrict the usage of the ion-beam as much as possible. \\
 In order to isolate a whisker on the underside of a microdisk for TEM examination, a target whisker is identified, and the sample is rotated in the FIB/SEM chamber to ensure optimal whisker orientation with respect to the TEM lamella, as shown in Fig.\ref{FIBwhisk}.
 
@@ -134,7 +137,7 @@ A thick (approx. 2 $\mathrm{\mu m}$) protective layer of electron beam Pt is dep
 
 \subsection{STEM}
 
-Following the successful preparation of a TEM lamella, the sample was characterised using STEM-HAADF and BF-STEM. Fig.\ref{whiskerstem}a. shows the presence of threading dislocation running through the whisker, as well as damage induced by the ion-beam thinning process illustrating the fragility of the microdisk membrane.
+Following the successful preparation of a TEM lamella, the sample was characterised using STEM-HAADF and BF-STEM. Fig.\ref{whiskerstem}a. shows the presence of a threading dislocation running through the whisker, as well as damage induced by the ion-beam thinning process, illustrating the fragility of the microdisk membrane.
 
 \begin{figure}[h]
 	\hspace*{0.5cm}
@@ -217,7 +220,7 @@ The ability to fabricate TEM lamella from microdisks allows unique insight into 
 \FloatBarrier
 \squeezeup
 Fig.\ref{pedestal}.b. shows the apparent 'splitting' of the InGaN QD layers. Compositional mapping was performed to examine the splitting of the layers using EDX and is shown in Fig.\ref{udiskEDX}.\\
-Fig.\ref{udiskEDX}.b. shows the In composition reaches close to 0 in between the split lines of the QD containing layer, indicating the layer is close to fully split. As such, the fabrication of TEM lamellae from processed microdisks allows for detailed insight into the structure and composition of the active regions of microdisks providing the potential for correlated measurements between the optical and structural properties of the microdisks.
+Fig.\ref{udiskEDX}.b. shows the In composition reaches close to 0 in between the split lines of the QD containing layer, with a split spacing of approximately 2.5 nm, indicating the layer is close to fully split. As such, the fabrication of TEM lamellae from processed microdisks allows for detailed insight into the structure and composition of the active regions of microdisks providing the potential for correlated measurements between the optical and structural properties of the microdisks.
 
 \begin{figure}
 	\begin{subfigure}[b]{0.3\textwidth}
@@ -315,12 +318,95 @@ FIB milling in order to 'slice' the sample was performed at 10 nm step thickness
 
 \FloatBarrier 
 
+\subsubsection{Analysis}
+
+In order to perform quantitative analysis of the microdisk, the image stack generated through the tomography experiment was reconstructed into an isosurface through the use of a marching cubes algorithm \cite{Lorensen1987} implemented in the scikit-image python package. The algorithm generates a surface from a triangular mesh, thus allowing us to access information concerning the surface of the microdisk down to the resolution of the SEM images in x-y plane, and the slice thickness in the z-direction. In this set of images the pixel size in each image is 1.2 nm, and the slice thickness is 10 nm.\\
+Reconstruction using scikit-image allows us to access specific parts of the microdisk. In this instance we are interested in the top portion of the 'split' microdisk membrane. Fig.\ref{mayavi1} shows a reconstruction of this region.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.5\textwidth]{Figs/Ch4/membrane.png}
+	\caption {Isosurface reconstruction of the top portion of the microdisk membrane}
+	\label{mayavi1}
+\end{figure}
+\FloatBarrier 
+
+Fig.\ref{mayavi2} shows a top view of the reconstructed membrane, demonstrating the sub-optimal stacking of the image slices as the perimeter of the microdisk membrane seems distorted from it's expected circular shape. A certain amount of 'roughness' in the microdisk can be seen on the surface.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.5\textwidth]{Figs/Ch4/udisktomoarrowstop.png}
+	\caption {Top view of the reconstructed isosurface. Blatant stacking errors are denoted by blue arrows.}
+	\label{mayavi2}
+\end{figure}
+\FloatBarrier
+
+In order to quantify this roughness, we utilise a method described by Vartak \textit{et al.} \cite{Vartak2016}. The triangular mesh generated by the marching cubes algorithm is composed of triangles represented by vertices. As such, the cross product of any two of vectors between two vertices gives the normal vector of the triangle such that:
+
+\begin{equation}
+\textbf{A} \times \textbf{B} = |A||B|sin(\theta)\textbf{N}
+\end{equation}
+
+where $\theta$ is the angle between the two vectors \textbf{A} and \textbf{B}
+This is shown schematically in Fig.\ref{crossprod}.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.4\textwidth]{Figs/Ch4/crossprod.png}
+	\caption {The cross product of any two vectors (\textbf{A} and \textbf{B}) describing two facets of a triangle in the triangular mesh gives the area normal vector \textbf{N}.}
+	\label{crossprod}
+\end{figure}
+\FloatBarrier
+
+The dot product of the normal vectors for each triangle and a vector representing an ideal flat surface gives the angle of orientation of each individual triangle composing the isosurface. The angle between the ideal surface vector \textbf{F} and any triangle with an area vector \textbf{N} in the mesh is then given by the relation:
+
+\begin{equation}
+\phi = arcos((\textbf{F}\cdot\textbf{N})(|\textbf{F}||\textbf{N}|))
+\end{equation}
+
+As shown schematically in Fig.\ref{dotprod}. 
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.4\textwidth]{Figs/Ch4/roughnessangle.png}
+	\caption {The dot product between the normal vector of a triangle in the mesh and an ideal flat surface gives the angle}
+	\label{dotprod}
+\end{figure}
+\FloatBarrier
+
+
+As such, the variance of these angles correspond to variations in the orientation of the triangles composing the isosurface and can be interpreted as a measure of corrugation, or roughness. This is highly dependent on the orientation of the surface, the side walls of the isosurface will require a different 'ideal' flat surface relative to the top surface of the microdisk membrane. This method yields an angular variance of $1.5 \times 10^{-3}$ degrees for the surface shown in Fig.\ref{mayavi1}.\\
+Performing smoothing and noise removal on the individual SEM images comprising the stack should allow for a smoother surface reconstruction as shown in Fig.\ref{smoothmayavi}. 
+
+\begin{figure}[h]
+	\hspace*{0.5cm}
+	\begin{subfigure}[b]{0.48\textwidth}
+		\centering
+		\includegraphics[width=1\linewidth]{Figs/Ch4/may2}
+		\caption{}
+		
+	\end{subfigure}%
+	\hspace*{0.5cm}
+	\begin{subfigure}[b]{0.48\textwidth}
+		\centering
+		\includegraphics[width=1\linewidth]{Figs/Ch4/may1}
+		\caption{}
+	\end{subfigure}%
+	
+	\caption{a) Smoothed isosurface b) unsmoothed.}
+	\label{smoothmayavi}
+\end{figure}
+\FloatBarrier
+ 
+The smoothed surface yields an angular variance of $8.3 \times 10^{-4}$ degrees, indicating the angular variance can indeed be used as a measure of roughness in analysing the reconstruction. However, the thresholding in the smoothing process can be seen to result in the generation of some 'holes' in the membrane, which may introduce artificial roughness into the calculation.
+
+\section{Summary}
+The PEC etching process provides an effective manner in undercutting GaN microdisk membranes. However, due to the mechanism of etching which relies on the presence of photo-generated carriers, dislocations can hinder the etching process resulting in the formation of 'whiskers' of unetched material on the underside of the microdisk, which provide a radiative pathway for WGMs propagating in the microdisk to escape thus reducing cavity Q-factor.\\
+In this chapter, we have presented a manner through which TEM lamellae can be prepared from processed microdisks. Following this we have performed TEM in order to reveal the presence of a dislocation at the centre of a whisker. Using WBDF-TEM we have identified the dislocation type as pure edge, though mixed and pure screw dislocations are expected to result in the formation of whiskers. This preparation method has also allowed us to examine the active region in the microdisk membrane using STEM-HAADF and STEM-EDX, revealing the presence of a 'split' InGaN active region.\\
 Fig.\ref{tomoreconstruction}. demonstrates the ability of the FIB tomography process to access detailed information concerning the morphology of the disk. The 'splitting' of the microdisk membrane caused by etching of the active region can be seen in reconstruction, as well as residual material on the underside of the microdisk indicating incomplete etching. FIB tomography thus provides a reliable albeit destructive manner of accessing microdisk morphology, which could potentially be utilised in conjunction with optical characterisation techniques for correlated measurements.
 
-\section{Conclusion}
-
-The PEC etching process provides an effective manner in undercutting GaN microdisk membranes. However, due to the mechanism of etching which relies on the presence of photo-generated carriers dislocations can hinder the etching process resulting in the formation of 'whiskers' of unetched material on the underside of the microdisk, which provide a radiative pathway for WGMs propagating in the microdisk to escape thus reducing cavity Q-factor.\\
-In this chapter, we have presented a manner through which TEM lamellae can be prepared from processed microdisks. Following this we have performed TEM in order to reveal the presence of a dislocation at the centre of a whisker. Using WBDF-TEM we have identified the dislocation type as pure edge, though mixed and pure screw dislocations are expected to result in the formation of whiskers. This preparation method has also allowed us to examine the active region in the microdisk membrane using STEM-HAADF and STEM-EDX, revealing the presence of a 'split' InGaN active region. Finally, FIB tomography has been used in order to obtain a 3-D reconstruction of the microdisk as a whole limited only by the resolution of the SEM and reconstruction artifacts.
+\section{Future Work}
+A continuation of the work presented in this chapter would likely involve correlated optical and structural measurements. In particular, the TEM lamella preparation allows for insight into the active region of microdisks. As such, an experiment involving the correlation between PL, CL and site-specific STEM-EDX would allow for a comprehensive analysis of the optical and structural properties of the InGaN active region, as well as its interaction with the microdisk cavity. Beyond this, the groundwork for the analysis of the 3D morphology of the microdisks has been presented here, in extending this with AFM measurements of the microdisk membrane surface the accuracy and precision of the tomographic reconstruction may be reassessed. Following this, roughness measurements obtained via FIB tomography coupled with cavity Q-factor measured through micro-PL may provide insight into current fabrication limitations.
 
 
 

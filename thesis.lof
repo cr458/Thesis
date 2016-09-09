@@ -87,6 +87,16 @@
 \contentsline {figure}{\numberline {4.13}{\ignorespaces a)STEM-HAADF image of a microdisk lamella produced with the membrane, SSL pedestal and \textit {n}-GaN layer and b) higher magnification image of the InGaN active region.\relax }}{87}{figure.caption.95}
 \contentsline {figure}{\numberline {4.14}{\ignorespaces a) STEM-HAADF of the active region of the microdisk (scale bar = 10 nm) b) Ga atomic percentage and c) In atomic percentage of the region highlighted in red.\relax }}{88}{figure.caption.96}
 \contentsline {figure}{\numberline {4.15}{\ignorespaces SEM image of two microdisks exhibiting damage due to the PEC etching process.\relax }}{89}{figure.caption.97}
-\contentsline {figure}{\numberline {4.16}{\ignorespaces SEM image of a cross-section of the microdisks shown in Fig.\ref {udisktomotarget}\relax }}{89}{figure.caption.98}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces SEM image of a cross-section of the microdisks shown in Fig.\ref {udisktomotarget}.\relax }}{89}{figure.caption.98}
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Tomographic reconstruction for microdisk 'B'.\relax }}{90}{figure.caption.99}
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Isosurface reconstruction of the top portion of the microdisk membrane\relax }}{91}{figure.caption.100}
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Top view of the reconstructed isosurface. Blatant stacking errors are denoted by blue arrows.\relax }}{91}{figure.caption.101}
+\contentsline {figure}{\numberline {4.20}{\ignorespaces The cross product of any two vectors (\textbf {A} and \textbf {B}) describing two facets of a triangle in the triangular mesh gives the area normal vector \textbf {N}.\relax }}{92}{figure.caption.102}
+\contentsline {figure}{\numberline {4.21}{\ignorespaces The dot product between the normal vector of a triangle in the mesh and an ideal flat surface gives the angle\relax }}{92}{figure.caption.103}
+\contentsline {figure}{\numberline {4.22}{\ignorespaces a) Smoothed isosurface b) unsmoothed.\relax }}{93}{figure.caption.104}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Nanobeam cavity workflow.\relax }}{96}{figure.caption.105}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces a) Top-view and b) side-view of the suspended nanobeam cavities. Reproduced from \cite {Niu2015}.\relax }}{96}{figure.caption.106}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces SEM image of the Omniprobe attached to a broken nanobeam cavity.\relax }}{98}{figure.caption.107}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
