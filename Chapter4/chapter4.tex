@@ -318,8 +318,8 @@ FIB milling in order to 'slice' the sample was performed at 10 nm step thickness
 
 \FloatBarrier 
 
-\subsubsection{Analysis}
-
+\subsection{Mesh Roughness Analysis}
+\label{meshanalysis}
 In order to perform quantitative analysis of the microdisk, the image stack generated through the tomography experiment was reconstructed into an isosurface through the use of a marching cubes algorithm \cite{Lorensen1987} implemented in the scikit-image python package. The algorithm generates a surface from a triangular mesh, thus allowing us to access information concerning the surface of the microdisk down to the resolution of the SEM images in x-y plane, and the slice thickness in the z-direction. In this set of images the pixel size in each image is 1.2 nm, and the slice thickness is 10 nm.\\
 Reconstruction using scikit-image allows us to access specific parts of the microdisk. In this instance we are interested in the top portion of the 'split' microdisk membrane. Fig.\ref{mayavi1} shows a reconstruction of this region.
 
@@ -364,18 +364,18 @@ The dot product of the normal vectors for each triangle and a vector representin
 \phi = arcos((\textbf{F}\cdot\textbf{N})(|\textbf{F}||\textbf{N}|))
 \end{equation}
 
-As shown schematically in Fig.\ref{dotprod}. 
+As shown schematically in Fig.\ref{dotprod}. As an extension of this, the magnitude of the dot product gives the distance of elevation over the triangle above the flat surface, thus giving us a measure of vertical translation.
 
 \begin{figure}[h]
 	\centering
-	\includegraphics[width=0.4\textwidth]{Figs/Ch4/roughnessangle.png}
+	\includegraphics[width=0.6\textwidth]{Figs/Ch4/roughnessangle.png}
 	\caption {The dot product between the normal vector of a triangle in the mesh and an ideal flat surface gives the angle}
 	\label{dotprod}
 \end{figure}
 \FloatBarrier
 
 
-As such, the variance of these angles correspond to variations in the orientation of the triangles composing the isosurface and can be interpreted as a measure of corrugation, or roughness. This is highly dependent on the orientation of the surface, the side walls of the isosurface will require a different 'ideal' flat surface relative to the top surface of the microdisk membrane. This method yields an angular variance of $1.5 \times 10^{-3}$ degrees for the surface shown in Fig.\ref{mayavi1}.\\
+As such, the variance of these angles correspond to variations in the orientation of the triangles composing the isosurface and can be interpreted as a measure of corrugation, or roughness.  This is highly dependent on the orientation of the surface, the side walls of the isosurface will require a different 'ideal' flat surface relative to the top surface of the microdisk membrane. This method yields an angular variance of $9.4 \times 10^{-4}$ degrees and a RMS elevation value of 1nm for the surface shown in Fig.\ref{mayavi1}.\\
 Performing smoothing and noise removal on the individual SEM images comprising the stack should allow for a smoother surface reconstruction as shown in Fig.\ref{smoothmayavi}. 
 
 \begin{figure}[h]
@@ -398,15 +398,47 @@ Performing smoothing and noise removal on the individual SEM images comprising t
 \end{figure}
 \FloatBarrier
  
-The smoothed surface yields an angular variance of $8.3 \times 10^{-4}$ degrees, indicating the angular variance can indeed be used as a measure of roughness in analysing the reconstruction. However, the thresholding in the smoothing process can be seen to result in the generation of some 'holes' in the membrane, which may introduce artificial roughness into the calculation.
+The smoothed surface yields an angular variance of $4.25\times 10^{-7}$ degrees, indicating the angular variance can indeed be used as a measure of roughness in analysing the reconstruction. However, the RMS elevation calculated for the smooth value remained 1 nm. This indicates that the RMS roughness value extracted using this method is dominated by features which are unaffected by the smoothing process, perhaps due to the smoothing function threshold being set too low.
+
+\subsection{Image Roughness Analysis}
+
+An alternative to the computationally expensive method of performing analysis on the 3D mesh is to perform roughness analysis on the individual images taken during the FIB tomography experiment. An individual slice of the image stack used for reconstruction is shown below in Fig.\ref{slice591}. The images are stored as gray-scale images, with their value describing the intensity at each particular pixel.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=1\textwidth]{Figs/Ch4/slice591.png}
+	\caption {'Slice' of a microdisk taken from the stack of images used for 3D reconstruction}
+	\label{slice591}
+\end{figure}
+\FloatBarrier
+
+We can use these individual images to extract profiles which describe the surfaces of the microdisk. In this example we have chosen the top surface of the microdisk in order to compare this method with the mesh analysis method presented in section \ref{meshanalysis}. By choosing a threshold value identical to that used to construct the triangular mesh (60) we can extract the profile of the top surface of the microdisk. Fitting this surface with a polynomial in order to remove any bowing or protrusions from the shape of the microdisk and subtracting this fit gives a 'linear' profile centred with a mean of approximately 0, thus allowing us to extract the root-mean squared (RMS) roughness. The individual plots for the profile, fit and fit subtracted from the profile of the top microdisk surface shown in Fig.\ref{slice591} are shown below in Fig.\ref{fitting}. 
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.6\textwidth]{Figs/Ch4/RMS_back_removal.png}
+	\caption {'Slice' of a microdisk taken from the stack of images used for 3D reconstruction}
+	\label{fitting}
+\end{figure}
+\FloatBarrier
+
+Using the blue plot shown in Fig.\ref{fitting} we can thus extract the RMS roughness for each individual image and calculate a mean RMS roughness for all images. A histogram of the extracted RMS roughnesses for all images is shown below in Fig.\ref{RMSroughness}. The RMS roughness averaged for all images obtained using this method is 1.02 nm, in good agreement with the RMS roughness value obtained via the analysis of the triangular mesh generated by the marching cubes algorithm.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.7\textwidth]{Figs/Ch4/RMScounts_nosmoothing_poly30.png}
+	\caption {Histogram showing the RMS roughnesses extracted from each individual image.}
+	\label{RMSroughness}
+\end{figure}
+\FloatBarrier
 
 \section{Summary}
 The PEC etching process provides an effective manner in undercutting GaN microdisk membranes. However, due to the mechanism of etching which relies on the presence of photo-generated carriers, dislocations can hinder the etching process resulting in the formation of 'whiskers' of unetched material on the underside of the microdisk, which provide a radiative pathway for WGMs propagating in the microdisk to escape thus reducing cavity Q-factor.\\
 In this chapter, we have presented a manner through which TEM lamellae can be prepared from processed microdisks. Following this we have performed TEM in order to reveal the presence of a dislocation at the centre of a whisker. Using WBDF-TEM we have identified the dislocation type as pure edge, though mixed and pure screw dislocations are expected to result in the formation of whiskers. This preparation method has also allowed us to examine the active region in the microdisk membrane using STEM-HAADF and STEM-EDX, revealing the presence of a 'split' InGaN active region.\\
-Fig.\ref{tomoreconstruction}. demonstrates the ability of the FIB tomography process to access detailed information concerning the morphology of the disk. The 'splitting' of the microdisk membrane caused by etching of the active region can be seen in reconstruction, as well as residual material on the underside of the microdisk indicating incomplete etching. FIB tomography thus provides a reliable albeit destructive manner of accessing microdisk morphology, which could potentially be utilised in conjunction with optical characterisation techniques for correlated measurements.
+Fig.\ref{tomoreconstruction}. demonstrates the ability of the FIB tomography process to access detailed information concerning the morphology of the disk. The 'splitting' of the microdisk membrane caused by etching of the active region can be seen in reconstruction, as well as residual material on the underside of the microdisk indicating incomplete etching. We have utilised two different methods of extracting RMS roughness from the FIB tomography data, which both give a result of 1 nm.
 
 \section{Future Work}
-A continuation of the work presented in this chapter would likely involve correlated optical and structural measurements. In particular, the TEM lamella preparation allows for insight into the active region of microdisks. As such, an experiment involving the correlation between PL, CL and site-specific STEM-EDX would allow for a comprehensive analysis of the optical and structural properties of the InGaN active region, as well as its interaction with the microdisk cavity. Beyond this, the groundwork for the analysis of the 3D morphology of the microdisks has been presented here, in extending this with AFM measurements of the microdisk membrane surface the accuracy and precision of the tomographic reconstruction may be reassessed. Following this, roughness measurements obtained via FIB tomography coupled with cavity Q-factor measured through micro-PL may provide insight into current fabrication limitations.
+A continuation of the work presented in this chapter would likely involve correlated optical and structural measurements. In particular, the TEM lamella preparation allows for insight into the active region of microdisks. As such, an experiment involving the correlation between PL, CL and site-specific STEM-EDX would allow for a comprehensive analysis of the optical and structural properties of the InGaN active region, as well as its interaction with the microdisk cavity. Beyond this, the groundwork for the analysis of the 3D morphology of the microdisks has been presented here, in extending this with AFM measurements of the microdisk membrane surface the accuracy and precision of the tomographic reconstruction may be reassessed. Following this, roughness measurements obtained via FIB tomography coupled with cavity Q-factor measured through micro-PL may provide insight into current fabrication limitations. Ultimately, using the data concerning microdisk membrane morphology obtained by FIB tomography and its optical properties through micro PL, FDTD simulations may be used to attempt to simulate microdisk Q-factor based on their structural morphology.
 
 
 
