@@ -30,7 +30,7 @@ S.~E. Bennett, ``{Dislocations and their reduction in GaN},'' {\em Materials
 
 \bibitem{Yu1999}
 E.~T. Yu, X.~Z. Dang, P.~M. Asbeck, S.~S. Lau, and G.~J. Sullivan,
-  ``{Spontaneous and piezoelectric polarization effects in III–V nitride
+  ``{Spontaneous and piezoelectric polarization effects in IIIâ€“V nitride
   heterostructures},'' {\em Journal of Vacuum Science {\&} Technology B:
   Microelectronics and Nanometer Structures}, vol.~17, p.~1742, 1999.
 
@@ -227,8 +227,8 @@ a.~Imamoglu, D.~Awschalom, G.~Burkard, D.~P. DiVincenzo, D.~Loss, M.~Sherwin,
 
 \bibitem{Hennessy2007}
 K.~Hennessy, a.~Badolato, M.~Winger, D.~Gerace, M.~Atat{\"{u}}re, S.~Gulde,
-  S.~F{\"{a}}lt, E.~L. Hu, and a.~Imamoğlu, ``{Quantum nature of a strongly
-  coupled single quantum dot–cavity system},'' {\em Nature}, vol.~445,
+  S.~F{\"{a}}lt, E.~L. Hu, and a.~ImamoÄŸlu, ``{Quantum nature of a strongly
+  coupled single quantum dotâ€“cavity system},'' {\em Nature}, vol.~445,
   no.~7130, pp.~896--899, 2007.
 
 \bibitem{Tamboli2007}
@@ -298,6 +298,11 @@ N.~V. Trivi{\~{n}}o, R.~Butt{\'{e}}, J.-F. Carlin, and N.~Grandjean,
   ``{Continuous Wave Blue Lasing in III-Nitride Nanobeam Cavity on Silicon},''
   {\em Nano Letters}, vol.~15, no.~2, pp.~1259--1263, 2015.
 
+\bibitem{Niu2015}
+N.~Niu, A.~Woolf, D.~Wang, T.~Zhu, Q.~Quan, R.~a. Oliver, and E.~L. Hu,
+  ``{Ultra-low threshold gallium nitride photonic crystal nanobeam laser},''
+  {\em Applied Physics Letters}, vol.~106, no.~23, p.~231104, 2015.
+
 \bibitem{Arita2007}
 M.~Arita, S.~Ishida, S.~Kako, S.~Iwamoto, and Y.~Arakawa, ``{AlN air-bridge
   photonic crystal nanocavities demonstrating high quality factor},'' {\em
@@ -308,10 +313,9 @@ W.~H.~P. Pernice, C.~Xiong, C.~Schuck, and H.~X. Tang, ``{High-Q aluminum
   nitride photonic crystal nanobeam cavities},'' {\em Applied Physics Letters},
   vol.~100, no.~9, 2012.
 
-\bibitem{Niu2015}
-N.~Niu, A.~Woolf, D.~Wang, T.~Zhu, Q.~Quan, R.~a. Oliver, and E.~L. Hu,
-  ``{Ultra-low threshold gallium nitride photonic crystal nanobeam laser},''
-  {\em Applied Physics Letters}, vol.~106, no.~23, p.~231104, 2015.
+\bibitem{Bao2017}
+A.~Bao, ``{Group III-nitride nanowires Group III-nitride nanowires},'' {\em
+  Materials Science and Technology}, vol.~0, no.~0, pp.~1--12, 2017.
 
 \bibitem{Arafin2013}
 S.~Arafin, X.~Liu, and Z.~Mi, ``{Review of recent progress of III-nitride
@@ -395,23 +399,47 @@ N.~Kawase, M.~Kato, H.~Nishioka, and H.~Jinnai, ``{Transmission electron
   microtomography without the "missing wedge" for quantitative structural
   analysis},'' {\em Ultramicroscopy}, vol.~107, no.~1, pp.~8--15, 2007.
 
+\bibitem{Fernandez2010}
+J.~J. Fern{\'{a}}ndez, J.~I. Agulleiro, A.~Mart{\'{i}}nez, I.~Garc{\'{i}}a, and
+  F.~J. Chich{\'{o}}n, ``{Image processing in electron tomography},'' {\em
+  Microscopy: Science, Technology, Applications and Education}, no.~Figure 1,
+  pp.~19--28, 2010.
+
+\bibitem{Midgley2003}
+P.~A. Midgley and M.~Weyland, ``{3D electron microscopy in the physical
+  sciences: The development of Z-contrast and EFTEM tomography},'' {\em
+  Ultramicroscopy}, vol.~96, no.~3-4, pp.~413--431, 2003.
+
+\bibitem{Gilbert1972}
+P.~Gilbert, ``{Iterative methods for the three-dimensional reconstruction of an
+  object from projections},'' {\em Journal of Theoretical Biology}, vol.~36,
+  pp.~105--117, jul 1972.
+
+\bibitem{Penczek2010}
+P.~A. Penczek, ``{Fundamentals of Three-Dimensional Reconstruction from
+  Projections},'' pp.~1--33, 2010.
+
 \bibitem{Frank2006}
 J.~Frank, {\em Electron Tomography}.
 \newblock Springer New York, 2006.
-
-\bibitem{Zhu2010}
-T.~Zhu, {\em Nanoscale Electrical Characterisation of Gallium Nitride}.
-\newblock PhD thesis, University of Cambridge, 2010.
 
 \bibitem{Oliver2008}
 R.~a. Oliver, ``{Advances in AFM for the electrical characterization of
   semiconductors},'' {\em Reports on Progress in Physics}, vol.~71, p.~076501,
   jul 2008.
 
+\bibitem{Zhu2010}
+T.~Zhu, {\em Nanoscale Electrical Characterisation of Gallium Nitride}.
+\newblock PhD thesis, University of Cambridge, 2010.
+
 \bibitem{YacobiHolt1990}
 B.~Yacobi and D.~Holt, {\em Cathodoluminescence Microscopy of Inorganic
   Solids}.
 \newblock Springer US, 1990.
+
+\bibitem{Joy2006}
+D.~C. Joy, {\em Scanning Electron Microscopy}.
+\newblock Wiley-VCH Verlag GmbH \& Co. KGaA, 2006.
 
 \bibitem{Puchtler2014}
 T.~Puchtler, {\em DEVELOPMENT OF STRUCTURES AND MATERIALS FOR INGAN/GAN
@@ -441,10 +469,32 @@ C.~L. {Paul R. Edwards, Lethy Krishnan Jagadamma, Jochen Bruckbauer} and
   cathodoluminescence hyperspectral imaging of nitride nanostructures},'' {\em
   Microscopy and Microanalysis}, pp.~1212--1219, 2012.
 
+\bibitem{Haegel2009}
+N.~M. Haegel, {\em {Measurement of Minority Charge Carrier Diffusion Length in
+  Gallium Nitride Nanowires Using Electron Beam Induced Current}}.
+\newblock PhD thesis, Naval Postgraduate School, 2009.
+
 \bibitem{Yakimov2002}
 E.~Yakimov, ``{Electron-beam-induced-current study of defects in GaN;
   experiments and simulation},'' {\em Journal of Physics: Condensed Matter},
   vol.~13069, 2002.
+
+\bibitem{Jansen1982}
+W.~Jansen and M.~Slaughter, ``{Elemental mapping of minerals by electron
+  microprobe.},'' {\em American Mineralogist}, vol.~67, no.~5-6, pp.~521--533,
+  1982.
+
+\bibitem{Ishitani1996}
+T.~Ishitani and T.~Yaguchi, ``{Cross-sectional sample preparation by focused
+  ion beam: a review of ion-sample interaction.},'' {\em Microscopy research
+  and technique}, vol.~35, no.~4, pp.~320--333, 1996.
+
+\bibitem{Bals2007}
+S.~Bals, W.~Tirry, R.~Geurts, Z.~Yang, and D.~Schryvers, ``{High-quality sample
+  preparation by low kV FIB thinning for analytical TEM measurements.},'' {\em
+  Microscopy and microanalysis : the official journal of Microscopy Society of
+  America, Microbeam Analysis Society, Microscopical Society of Canada},
+  vol.~13, no.~2, pp.~80--86, 2007.
 
 \bibitem{Holzer2004}
 L.~Holzer, F.~Indutnyi, P.~Gasser, B.~M{\"{u}}nch, and M.~Wegmann,
@@ -612,13 +662,6 @@ O.~Ambacher, W.~Rieger, P.~Ansmann, H.~Angerer, T.~D. Moustakas, and
   photothermal deflection spectroscopy},'' {\em Solid State Communications},
   vol.~97, no.~5, pp.~365--370, 1996.
 
-\bibitem{Bals2007}
-S.~Bals, W.~Tirry, R.~Geurts, Z.~Yang, and D.~Schryvers, ``{High-quality sample
-  preparation by low kV FIB thinning for analytical TEM measurements.},'' {\em
-  Microscopy and microanalysis : the official journal of Microscopy Society of
-  America, Microbeam Analysis Society, Microscopical Society of Canada},
-  vol.~13, no.~2, pp.~80--86, 2007.
-
 \bibitem{Lazar2004}
 S.~Lazar, L.~Weyher, J. L abd~Macht, F.~D. Tichelaar, and H.~W. Zandbergen,
   ``{Nanopipes in GaN: photo-etching and TEM study},'' {\em The European
@@ -634,9 +677,5 @@ W.~E. Lorensen and H.~E. Cline, ``{Marching cubes: A high resolution 3D surface
 N.~Vartak, A.~Damle-Vartak, B.~Richter, O.~Dirsch, U.~Dahmen, S.~Hammad, and
   J.~G. Hengstler, ``{Cholestasis-induced adaptive remodeling of interlobular
   bile ducts},'' {\em Hepatology}, vol.~63, no.~3, 2016.
-
-\bibitem{Rao2010}
-D.~V.~S. Rao, K.~Muraleedharan, and C.~J. Humphreys, ``{TEM specimen
-  preparation techniques},'' no.~320, pp.~1232--1244, 2010.
 
 \end{thebibliography}
