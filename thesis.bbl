@@ -413,7 +413,7 @@ P.~A. Midgley and M.~Weyland, ``{3D electron microscopy in the physical
 \bibitem{Gilbert1972}
 P.~Gilbert, ``{Iterative methods for the three-dimensional reconstruction of an
   object from projections},'' {\em Journal of Theoretical Biology}, vol.~36,
-  pp.~105--117, jul 1972.
+  no.~1, pp.~105--117, 1972.
 
 \bibitem{Penczek2010}
 P.~A. Penczek, ``{Fundamentals of Three-Dimensional Reconstruction from
@@ -501,6 +501,20 @@ L.~Holzer, F.~Indutnyi, P.~Gasser, B.~M{\"{u}}nch, and M.~Wegmann,
   ``{Three-dimensional analysis of porous BaTiO3 ceramics using FIB
   nanotomography},'' {\em Journal of Microscopy}, vol.~216, no.~1, pp.~84--95,
   2004.
+
+\bibitem{Rasband1997-2016}
+W.~Rasband, ``Imagej,'' 1997-2016.
+
+\bibitem{Thevenaz1998}
+P.~Thevenaz, U.~E. Ruttimann, and M.~Unser, ``A pyramid approach to subpixel
+  registration based on intensity,'' {\em IEEE Transactions on Image
+  Processing}, vol.~7, pp.~27--41, Jan 1998.
+
+\bibitem{Lorensen1987}
+W.~E. Lorensen and H.~E. Cline, ``{Marching cubes: A high resolution 3D surface
+  construction algorithm},'' {\em Proceedings of the 14th annual conference on
+  Computer graphics and interactive techniques - SIGGRAPH '87}, vol.~21, no.~4,
+  pp.~163--169, 1987.
 
 \bibitem{Laak2013}
 N.~K. V.~D. Laak, R.~A. Oliver, M.~J. Kappers, C.~J. Humphreys, N.~K. V.~D.
@@ -666,12 +680,6 @@ O.~Ambacher, W.~Rieger, P.~Ansmann, H.~Angerer, T.~D. Moustakas, and
 S.~Lazar, L.~Weyher, J. L abd~Macht, F.~D. Tichelaar, and H.~W. Zandbergen,
   ``{Nanopipes in GaN: photo-etching and TEM study},'' {\em The European
   Physical Journal Applied Physics}, vol.~28, pp.~265--291, 2004.
-
-\bibitem{Lorensen1987}
-W.~E. Lorensen and H.~E. Cline, ``{Marching cubes: A high resolution 3D surface
-  construction algorithm},'' {\em Proceedings of the 14th annual conference on
-  Computer graphics and interactive techniques - SIGGRAPH '87}, vol.~21, no.~4,
-  pp.~163--169, 1987.
 
 \bibitem{Vartak2016}
 N.~Vartak, A.~Damle-Vartak, B.~Richter, O.~Dirsch, U.~Dahmen, S.~Hammad, and

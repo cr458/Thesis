@@ -26,27 +26,33 @@ Repeated entry---line 2261 of file thesis.bib
  : @article{Gilbert1972
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5677 of file thesis.bib
+Repeated entry---line 4389 of file thesis.bib
+ : @article{Lorensen1987
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5719 of file thesis.bib
  : @article{Oliver2008
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5753 of file thesis.bib
+Repeated entry---line 5795 of file thesis.bib
  : @article{Oliver2006a
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6027 of file thesis.bib
+Repeated entry---line 6069 of file thesis.bib
  : @book{Piprek2007
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6263 of file thesis.bib
+Repeated entry---line 6305 of file thesis.bib
  : @article{Quan2014
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6657 of file thesis.bib
+Warning--entry type for "Rasband1997-2016" isn't style-file defined
+--line 6497 of file thesis.bib
+Repeated entry---line 6721 of file thesis.bib
  : @article{Ren2015
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 8809 of file thesis.bib
+Repeated entry---line 8905 of file thesis.bib
  : @article{Vickers2003
  :                     ,
 I'm skipping whatever remains of this entry
@@ -57,45 +63,45 @@ Warning--can't use both author and editor fields in Frank2006
 Warning--empty chapter and pages in Joy2006
 Warning--empty journal in Laak2013
 Warning--can't use both author and editor fields in Piprek2007
-You've used 127 entries,
+You've used 129 entries,
             1876 wiz_defined-function locations,
-            1286 strings with 29573 characters,
-and the built_in function-call counts, 40152 in all, are:
-= -- 3962
-> -- 1982
+            1299 strings with 29869 characters,
+and the built_in function-call counts, 40570 in all, are:
+= -- 4002
+> -- 1997
 < -- 0
-+ -- 712
-- -- 585
-* -- 3066
-:= -- 5770
-add.period$ -- 140
-call.type$ -- 127
-change.case$ -- 115
++ -- 718
+- -- 589
+* -- 3093
+:= -- 5829
+add.period$ -- 142
+call.type$ -- 129
+change.case$ -- 117
 chr.to.int$ -- 0
-cite$ -- 133
-duplicate$ -- 1998
-empty$ -- 3249
-format.name$ -- 585
-if$ -- 9653
+cite$ -- 135
+duplicate$ -- 2017
+empty$ -- 3294
+format.name$ -- 589
+if$ -- 9759
 int.to.chr$ -- 0
-int.to.str$ -- 127
-missing$ -- 127
-newline$ -- 397
-num.names$ -- 127
-pop$ -- 238
+int.to.str$ -- 129
+missing$ -- 128
+newline$ -- 403
+num.names$ -- 129
+pop$ -- 246
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1575
+skip$ -- 1590
 stack$ -- 0
-substring$ -- 2635
-swap$ -- 1012
+substring$ -- 2655
+swap$ -- 1019
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 6
-while$ -- 377
-width$ -- 130
-write$ -- 1323
-(There were 9 error messages)
+while$ -- 381
+width$ -- 132
+write$ -- 1341
+(There were 10 error messages)

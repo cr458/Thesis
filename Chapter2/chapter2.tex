@@ -335,7 +335,7 @@ Hyperspectral electroluminescence  \nomenclature[z-EL]{EL}{Electroluminescence} 
 
 
 \section{Dual Beam FIB-SEM}
-
+\label{dualbeam}
 In this work a dual beam focused ion beam/scanning electron microscope  \nomenclature[z-FIB/SEM]{FIB/SEM}{Focussed Ion Beam/Scanning Electron Microscope} was used to perform sample preparation as well as 'slice and view' tomography experiments. As we have introduced the basic principles behind SEM we will focus on the FIB in this section.
 \\ The FIB is an extremely versatile combination of a scanning ion microscope ( similar in principle to the SEM but utilising ions rather than electrons) and a precision machining tool\cite{Ishitani1996}. The ions utilised by the FIB are typically $\mathrm{Ga^{+}}$, though helium sources also exist . A liquid-metal ion source is used to produce the gallium ions which are focused into a beam and onto the surface of a sample in a similar manner to the SEM using electrostatic lenses and apertures \cite{Bals2007}. Due to the complementary nature of FIB and SEM instruments, dual beam FIB/SEM machines have been produced in which the techniques are used synergistically to overcome limitations on individual systems \cite{Bals2007}. Aside from a standard electron beam, the FIB-SEM contains an additional gallium ion beam at an angle of $\mathrm{52^{o}}$ to the axis of the electron beam as shown in Fig.\ref{2.8}
 
@@ -350,7 +350,7 @@ In this work a dual beam focused ion beam/scanning electron microscope  \nomencl
 Due to the large mass of the $\mathrm{Ga^{+}}$ ions relative to electrons the interaction of the focused ion beam with a sample can cause sputtering of the material, thus allowing for the precise removal of material. Often the SEM is used to monitor the milling process of the FIB as electrons cause negligible damage to the sample relative to the ion beam. Beyond the removal of material, the ion beam can also often be used to deposit material. A gas injection system \nomenclature[z-GIS]{GIS}{Gas Injection System} is typically used to achieve this: a gas containing a metal-organic compound is injected into the chamber where it interacts with the targeted ion-beam  at the surface of the sample leading to the heavier metal atoms remaining at the sample surface whilst the organic material is evacuated by the chamber vacuum system. Typically, platinum or carbon can be deposited using this method, though the platinum often contains carbon and other impurities rendering effectively semi-insulting \cite{Divitni2012}. 
 
 \subsection{Sample Preparation}
-Transmission electron microscopy \nomenclature[z-TEM]{TEM}{Transmission Electron Microscopy} requires electron transparent samples, typically of a thickness on the order of 100-150nm. As such the dual beam FIB/SEM allows for site-specific TEM specimen preparation. Unless otherwise stated, all the TEM samples prepared in this work were produced using the FIB/SEM.\\
+Transmission electron microscopy \nomenclature[z-TEM]{TEM}{Transmission Electron Microscopy} requires electron transparent samples, typically of a thickness on the order of 100-150 nm. As such the dual beam FIB/SEM allows for site-specific TEM specimen preparation. Unless otherwise stated, all the TEM samples prepared in this work were produced using the FIB/SEM.\\
 The specimen preparation method is shown in Fig.\ref{2.9} is as follows:\\
 \indent - A region of interest on the sample surface is identified.\\
 \indent - A protective layer of metal is deposited using the GIS system, first with the electron beam then with the ion beam.\\
@@ -372,7 +372,7 @@ The specimen preparation method is shown in Fig.\ref{2.9} is as follows:\\
 \subsection{Tomography}
 \label{FIBtomo}
 FIB/SEM tomography, often referred to as 'slice and view', is a technique which has become relatively widespread in materials and life sciences due to the variety of detection modes available in commercial systems as well as the resolution and volume of material which can be analysed. Typical resolutions that can be achieved ( voxel sizes) are in the range 5-10 nm.\\
-In FIB/SEM tomography, a small volume of the sample is selected for analysis. This volume is then typically coated with a layer of protective metal in order to prevent ion beam damage. Serial sectioning is then used to analyse the sample: alternating turns of milling and imaging allow for the sequential erosion of thin layers of material and subsequent imaging as shown in Fig.\ref{2.10}. In this work we employ only the use of the SE detector for imaging.
+In FIB/SEM tomography, a small volume of the sample is selected for analysis. This volume is then typically coated with a layer of protective metal in order to prevent ion beam damage. In the experiments described in this thesis, a carbon coating is preferred to the platinum as it provide better contrast in the secondary electron image with GaN. Serial sectioning is then used to analyse the sample: alternating turns of milling and imaging allow for the sequential erosion of thin layers of material and subsequent imaging as shown in Fig.\ref{2.10}. In this work we employ only the use of the SE detector for imaging.
 
 \begin{figure}[!ht]
 	\centering
@@ -383,12 +383,7 @@ In FIB/SEM tomography, a small volume of the sample is selected for analysis. Th
 \FloatBarrier
 
 The purpose of serial sectioning is to produce a stack of images which can be transformed into a voxel-based volume data set. As such the thickness of the milled layers should match approximately with the resolution in the imaging plane.\\
-Perhaps the most challenging task in FIB/SEM tomography lies in the extraction of information from the reconstructed 3-D image volume. This procedure, known as 'stack-processing', is very similar to reconstruction protocol used for electron tomography and can be described as follows:\\
-\indent - 3-D volume reconstruction by stack alignment.\\
-\indent - Image defect correction ( noise reduction etc...)\\
-\indent - Segmentation and recognition of objects.\\
-\indent - Visualization of voxel-based volume data.\\
-\indent - Quantitative analysis of features.
+Perhaps the most challenging task in FIB/SEM tomography lies in the extraction of information from the reconstructed 3-D image volume. This procedure, known as 'stack-processing', is very similar to reconstruction protocol used for electron tomography. In this work, the image stack is produced and aligned using the ImageJ \cite{Rasband1997-2016} plugin StackReg using the 'rigid body' method \cite{Thevenaz1998}. Due to the oblique SEM imaging angle of $\mathrm{52^{o}}$, as discussed in section \ref{dualbeam}, distances measured along the y-axis shown in Fig.\ref{2.10} require correction for projection effects. The slice thickness for each layer are derived using the total measured volume divided by the total number of slices \cite{Holzer2004}. Following this step, thresholding is utilised to binarize the data into the subvolume under examination, and the 'background', this process is known as segmentation. Accurate evaluation of the subvolume requires high image quality: high contrast and low signal-to-noise ratio are of particular importance \cite{Holzer2004}. The binary voxel data can be visualized using a wire frame structure calculated from the voxel mask by applying the 'marching cubes' algorithm. Details of the algorithm can be found in \cite{Lorensen1987}. 
 
 
 

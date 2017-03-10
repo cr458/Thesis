@@ -1115,24 +1115,6 @@
   Author                   = {Gilbert, Peter},
   Journal                  = {Journal of Theoretical Biology},
   Year                     = {1972},
-
-  Month                    = {jul},
-  Number                   = {1},
-  Pages                    = {105--117},
-  Volume                   = {36},
-
-  Doi                      = {10.1016/0022-5193(72)90180-4},
-  ISSN                     = {00225193},
-  Owner                    = {Christopher Ren},
-  Timestamp                = {2017.03.09},
-  Url                      = {http://linkinghub.elsevier.com/retrieve/pii/0022519372901804}
-}
-
-@Article{Gilbert1972,
-  Title                    = {{Iterative methods for the three-dimensional reconstruction of an object from projections}},
-  Author                   = {Gilbert, Peter},
-  Journal                  = {Journal of Theoretical Biology},
-  Year                     = {1972},
   Number                   = {1},
   Pages                    = {105--117},
   Volume                   = {36},
@@ -1144,6 +1126,24 @@
   ISSN                     = {10958541},
   Mendeley-groups          = {Tomography},
   Pmid                     = {5070894}
+}
+
+@Article{Gilbert1972,
+  Title                    = {{Iterative methods for the three-dimensional reconstruction of an object from projections}},
+  Author                   = {Gilbert, Peter},
+  Journal                  = {Journal of Theoretical Biology},
+  Year                     = {1972},
+
+  Month                    = {jul},
+  Number                   = {1},
+  Pages                    = {105--117},
+  Volume                   = {36},
+
+  Doi                      = {10.1016/0022-5193(72)90180-4},
+  ISSN                     = {00225193},
+  Owner                    = {Christopher Ren},
+  Timestamp                = {2017.03.09},
+  Url                      = {http://linkinghub.elsevier.com/retrieve/pii/0022519372901804}
 }
 
 @Article{Gong2010,
@@ -1291,7 +1291,7 @@
   Url                      = {http://scitation.aip.org/content/aip/journal/apl/85/5/10.1063/1.1776615}
 }
 
-@PhdThesis{,
+@PhdThesis{Haegel2009,
   Title                    = {{Measurement of Minority Charge Carrier Diffusion Length in Gallium Nitride Nanowires Using Electron Beam Induced Current}},
   Author                   = {Haegel, Nancy M},
   School                   = {Naval Postgraduate School},
@@ -3225,6 +3225,17 @@
   Mendeley-groups          = {GaN/CPGS/TEM}
 }
 
+@Electronic{Rasband1997-2016,
+  Title                    = {ImageJ},
+  Author                   = {Rasband, W.S.},
+  Organization             = {U. S. National Institutes of Health, Bethesda, Maryland, USA},
+  Url                      = {https://imagej.nih.gov/ij/},
+  Year                     = {1997-2016.},
+
+  Owner                    = {Christopher Ren},
+  Timestamp                = {2017.03.10}
+}
+
 @Article{Rebane1997,
   Title                    = {{Stacking Faults as Quantum Wells for Excitons in Wurtzite GaN}},
   Author                   = {Rebane, Y.T. and Shreter, Y.C. and Albrecht, M.},
@@ -4281,6 +4292,22 @@
   File                     = {:C$\backslash$:/Users/cr458/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Taylor - 2014 - pss.pdf:pdf},
   Keywords                 = {biexciton,ingan,non-polar,quantum dots},
   Mendeley-groups          = {GaN/Single Photon Sources/QD,Microdisks,JAP special topic/Response,thesis}
+}
+
+@Article{Thevenaz1998,
+  Title                    = {A pyramid approach to subpixel registration based on intensity},
+  Author                   = {P. Thevenaz and U. E. Ruttimann and M. Unser},
+  Journal                  = {IEEE Transactions on Image Processing},
+  Year                     = {1998},
+
+  Month                    = {Jan},
+  Number                   = {1},
+  Pages                    = {27-41},
+  Volume                   = {7},
+
+  Doi                      = {10.1109/83.650848},
+  Owner                    = {Christopher Ren},
+  Timestamp                = {2017.03.10}
 }
 
 @Article{Tomiya2004,
