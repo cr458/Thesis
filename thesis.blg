@@ -14,98 +14,181 @@ I couldn't open auxiliary file Chapter5/chapter5.aux
  : \@input{Chapter5/chapter5.aux
  :                              }
 I'm skipping whatever remains of this command
+A level-1 auxiliary file: Chapter6/chapter6.aux
+A level-1 auxiliary file: Chapter7/chapter7.aux
 The style file: ieeetr.bst
 A level-1 auxiliary file: Appendix1/appendix1.aux
 A level-1 auxiliary file: Appendix2/appendix2.aux
 Database file #1: thesis.bib
-Repeated entry---line 1065 of file thesis.bib
+Repeated entry---line 349 of file thesis.bib
+ : @article{Arafin2013
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 765 of file thesis.bib
+ : @article{Bergbauer2010
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1325 of file thesis.bib
+ : @article{Chen2010
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1393 of file thesis.bib
+ : @incollection{Chen2015
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1449 of file thesis.bib
  : @article{Cherns2000
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2261 of file thesis.bib
- : @article{Gilbert1972
+Repeated entry---line 1541 of file thesis.bib
+ : @article{Cheze2010
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1581 of file thesis.bib
+ : @article{Cheze2010
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1639 of file thesis.bib
+ : @article{Cheze2010
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2081 of file thesis.bib
+ : @article{Das2011
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2451 of file thesis.bib
+ : @article{Deshpande2013b
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2547 of file thesis.bib
+ : @article{Dhara2010
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2581 of file thesis.bib
+ : @article{Dhara2010
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2619 of file thesis.bib
+ : @article{Dhara2010
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2829 of file thesis.bib
+ : @article{Duan2000
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2867 of file thesis.bib
+ : @article{Duan2000
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3997 of file thesis.bib
+ : @article{Hersee2006
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4157 of file thesis.bib
+ : @article{Holmes2014
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4333 of file thesis.bib
+ : @article{Hou2011
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4367 of file thesis.bib
+ : @article{Hou2011
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4839 of file thesis.bib
+ : @article{Johnson2002
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 4389 of file thesis.bib
- : @article{Lorensen1987
- :                      ,
+Repeated entry---line 7243 of file thesis.bib
+ : @article{Nogues2014
+ :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5719 of file thesis.bib
+Repeated entry---line 7477 of file thesis.bib
  : @article{Oliver2008
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5795 of file thesis.bib
- : @article{Oliver2006a
- :                     ,
+Repeated entry---line 7973 of file thesis.bib
+ : @article{Qian2008
+ :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6069 of file thesis.bib
- : @book{Piprek2007
- :                 ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 6305 of file thesis.bib
+Repeated entry---line 8041 of file thesis.bib
  : @article{Quan2014
  :                  ,
 I'm skipping whatever remains of this entry
-Warning--entry type for "Rasband1997-2016" isn't style-file defined
---line 6497 of file thesis.bib
-Repeated entry---line 6721 of file thesis.bib
+Repeated entry---line 8501 of file thesis.bib
  : @article{Ren2015
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 8905 of file thesis.bib
+Repeated entry---line 10615 of file thesis.bib
+ : @article{Tessarek2013
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10707 of file thesis.bib
+ : @article{Tessarek2014a
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11187 of file thesis.bib
  : @article{Vickers2003
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 9199 of file thesis.bib
+Repeated entry---line 11469 of file thesis.bib
  : @article{Wallace2015
  :                     ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 12681 of file thesis.bib
+ : @article{Zhao2015
+ :                  ,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "Peeople1985"
-Warning--empty booktitle in Penczek2010
-Warning--empty publisher in Penczek2010
-Warning--can't use both author and editor fields in Frank2006
-Warning--empty chapter and pages in Joy2006
-Warning--empty journal in Laak2013
-Warning--can't use both author and editor fields in Piprek2007
-You've used 130 entries,
+Warning--I didn't find a database entry for "Bao2017"
+Warning--I didn't find a database entry for "Fernandez2010"
+Warning--I didn't find a database entry for "Penczek2010"
+Warning--I didn't find a database entry for "Joy2006"
+Warning--I didn't find a database entry for "Haegel2009"
+Warning--I didn't find a database entry for "Jansen1982"
+Warning--I didn't find a database entry for "Ishitani1996"
+Warning--I didn't find a database entry for "Rasband1997-2016"
+Warning--I didn't find a database entry for "Thevenaz1998"
+You've used 159 entries,
             1876 wiz_defined-function locations,
-            1305 strings with 30209 characters,
-and the built_in function-call counts, 40967 in all, are:
-= -- 4035
-> -- 2029
+            1488 strings with 37480 characters,
+and the built_in function-call counts, 52420 in all, are:
+= -- 5111
+> -- 2714
 < -- 0
-+ -- 729
-- -- 599
-* -- 3125
-:= -- 5889
-add.period$ -- 143
-call.type$ -- 130
-change.case$ -- 118
++ -- 966
+- -- 807
+* -- 4097
+:= -- 7558
+add.period$ -- 170
+call.type$ -- 159
+change.case$ -- 149
 chr.to.int$ -- 0
-cite$ -- 136
-duplicate$ -- 2038
-empty$ -- 3318
-format.name$ -- 599
-if$ -- 9853
+cite$ -- 159
+duplicate$ -- 2557
+empty$ -- 4165
+format.name$ -- 807
+if$ -- 12562
 int.to.chr$ -- 0
-int.to.str$ -- 130
-missing$ -- 129
-newline$ -- 406
-num.names$ -- 130
-pop$ -- 248
+int.to.str$ -- 159
+missing$ -- 159
+newline$ -- 491
+num.names$ -- 158
+pop$ -- 272
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1609
+skip$ -- 2042
 stack$ -- 0
-substring$ -- 2667
-swap$ -- 1032
+substring$ -- 3532
+swap$ -- 1318
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 6
-while$ -- 383
-width$ -- 133
-write$ -- 1352
-(There were 11 error messages)
+warning$ -- 0
+while$ -- 475
+width$ -- 162
+write$ -- 1670
+(There were 31 error messages)

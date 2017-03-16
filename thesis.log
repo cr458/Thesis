@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.8.26)  15 MAR 2017 13:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.8.26)  16 MAR 2017 16:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1307,7 +1307,8 @@ Package: notoccite 2000/07/20
 (./Abstract/abstract.aux) (./Chapter1/chapter1.aux) (./Chapter2/chapter2.aux)
 (./Chapter3/chapter3.aux) (./Chapter4/chapter4.aux)
 No file Chapter5/chapter5.aux.
-(./Appendix1/appendix1.aux) (./Appendix2/appendix2.aux))
+(./Chapter6/chapter6.aux) (./Chapter7/chapter7.aux) (./Appendix1/appendix1.aux)
+(./Appendix2/appendix2.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 112.
@@ -1625,35 +1626,60 @@ File: Figs/Ch2/tomo.png Graphic file (type png)
 Package pdftex.def Info: Figs/Ch2/tomo.png used on input line 195.
 (pdftex.def)             Requested size: 437.46112pt x 101.74097pt.
 
+
+Package natbib Warning: Citation `Fernandez2010' on page 36 undefined on input 
+line 202.
+
+
+Package natbib Warning: Citation `Fernandez2010' on page 36 undefined on input 
+line 202.
+
+
+Package natbib Warning: Citation `Penczek2010' on page 36 undefined on input li
+ne 202.
+
+
+Package natbib Warning: Citation `Fernandez2010' on page 36 undefined on input 
+line 202.
+
 [36 <./Figs/Ch2/tomo.png>]
-<Figs/Ch2/WBPSIRT.png, id=225, 1044.15094pt x 431.36156pt>
+<Figs/Ch2/WBPSIRT.png, id=221, 1044.15094pt x 431.36156pt>
 File: Figs/Ch2/WBPSIRT.png Graphic file (type png)
 
 <use Figs/Ch2/WBPSIRT.png>
 Package pdftex.def Info: Figs/Ch2/WBPSIRT.png used on input line 206.
 (pdftex.def)             Requested size: 393.71233pt x 162.64876pt.
- [37 <./Figs/Ch2/WBPSIRT.png>]
-<Figs/Ch2/AFM.png, id=242, 644.1666pt x 409.53pt>
+
+
+Package natbib Warning: Citation `Fernandez2010' on page 37 undefined on input 
+line 207.
+
+
+Package natbib Warning: Citation `Fernandez2010' on page 37 undefined on input 
+line 207.
+
+[37 <./Figs/Ch2/WBPSIRT.png>]
+<Figs/Ch2/AFM.png, id=234, 644.1666pt x 409.53pt>
 File: Figs/Ch2/AFM.png Graphic file (type png)
  <use Figs/Ch2/AFM.png>
 Package pdftex.def Info: Figs/Ch2/AFM.png used on input line 221.
 (pdftex.def)             Requested size: 306.22144pt x 194.67874pt.
 
 [38 <./Figs/Ch2/AFM.png>]
-<Figs/Ch2/AFMint.png, id=255, 1200.73593pt x 637.63219pt>
+<Figs/Ch2/AFMint.png, id=247, 1200.73593pt x 637.63219pt>
 File: Figs/Ch2/AFMint.png Graphic file (type png)
 
 <use Figs/Ch2/AFMint.png>
 Package pdftex.def Info: Figs/Ch2/AFMint.png used on input line 233.
 (pdftex.def)             Requested size: 306.22144pt x 162.60864pt.
 
-<Figs/Ch2/afm1.png, id=261, 292.09125pt x 234.8775pt>
+<Figs/Ch2/afm1.png, id=253, 292.09125pt x 234.8775pt>
 File: Figs/Ch2/afm1.png Graphic file (type png)
  <use Figs/Ch2/afm1.png>
 Package pdftex.def Info: Figs/Ch2/afm1.png used on input line 244.
 (pdftex.def)             Requested size: 174.98177pt x 140.71254pt.
 
-<Figs/Ch2/afm2.png, id=262, 286.82156pt x 234.8775pt>
+<Figs/Ch2/afm2.png, id=254, 286.82156pt x 234.8775pt>
 File: Figs/Ch2/afm2.png Graphic file (type png)
  <use Figs/Ch2/afm2.png>
 Package pdftex.def Info: Figs/Ch2/afm2.png used on input line 251.
@@ -1663,13 +1689,13 @@ Package pdftex.def Info: Figs/Ch2/afm2.png used on input line 251.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [39 <./Figs/Ch2/AFMint.png>]
-<Figs/Ch2/afm3.png, id=274, 819.8128pt x 526.21594pt>
+<Figs/Ch2/afm3.png, id=266, 819.8128pt x 526.21594pt>
 File: Figs/Ch2/afm3.png Graphic file (type png)
  <use Figs/Ch2/afm3.png>
 Package pdftex.def Info: Figs/Ch2/afm3.png used on input line 263.
 (pdftex.def)             Requested size: 174.98177pt x 112.31522pt.
 
-<Figs/Ch2/SEM.png, id=276, 340.27126pt x 283.81032pt>
+<Figs/Ch2/SEM.png, id=268, 340.27126pt x 283.81032pt>
 File: Figs/Ch2/SEM.png Graphic file (type png)
  <use Figs/Ch2/SEM.png>
 Package pdftex.def Info: Figs/Ch2/SEM.png used on input line 275.
@@ -1679,7 +1705,15 @@ Package pdftex.def Info: Figs/Ch2/SEM.png used on input line 275.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [40 <./Figs/Ch2/afm1.png> <./Figs/Ch2/afm2.png> <./Figs/Ch2/afm3.png>]
-<Figs/Ch2/int.png, id=293, 359.3425pt x 353.82187pt>
+
+Package natbib Warning: Citation `Joy2006' on page 41 undefined on input line 2
+81.
+
+
+Package natbib Warning: Citation `Joy2006' on page 41 undefined on input line 2
+82.
+
+<Figs/Ch2/int.png, id=283, 359.3425pt x 353.82187pt>
 File: Figs/Ch2/int.png Graphic file (type png)
  <use Figs/Ch2/int.png>
 Package pdftex.def Info: Figs/Ch2/int.png used on input line 286.
@@ -1688,7 +1722,7 @@ Package pdftex.def Info: Figs/Ch2/int.png used on input line 286.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[41 <./Figs/Ch2/SEM.png>] <Figs/Ch2/CL.png, id=311, 616.55344pt x 394.47375pt>
+[41 <./Figs/Ch2/SEM.png>] <Figs/Ch2/CL.png, id=300, 616.55344pt x 394.47375pt>
 File: Figs/Ch2/CL.png Graphic file (type png)
 
 <use Figs/Ch2/CL.png>
@@ -1715,78 +1749,101 @@ Underfull \hbox (badness 10000) in paragraph at lines 309--317
  []
 
 [43 <./Figs/Ch2/CL.png>]
-<Figs/Ch2/hyper.png, id=334, 363.60844pt x 167.87718pt>
+<Figs/Ch2/hyper.png, id=322, 363.60844pt x 167.87718pt>
 File: Figs/Ch2/hyper.png Graphic file (type png)
 
 <use Figs/Ch2/hyper.png>
 Package pdftex.def Info: Figs/Ch2/hyper.png used on input line 320.
 (pdftex.def)             Requested size: 218.73056pt x 100.99092pt.
- [44 <./Figs/Ch2/hyper.png>]
-<Figs/Ch2/FIB.png, id=356, 470.50781pt x 415.5525pt>
+
+
+Package natbib Warning: Citation `Haegel2009' on page 44 undefined on input lin
+e 329.
+
+
+Package natbib Warning: Citation `Jansen1982' on page 44 undefined on input lin
+e 335.
+
+[44 <./Figs/Ch2/hyper.png>]
+
+Package natbib Warning: Citation `Ishitani1996' on page 45 undefined on input l
+ine 341.
+
+<Figs/Ch2/FIB.png, id=341, 470.50781pt x 415.5525pt>
 File: Figs/Ch2/FIB.png Graphic file (type png)
  <use Figs/Ch2/FIB.png>
 Package pdftex.def Info: Figs/Ch2/FIB.png used on input line 345.
 (pdftex.def)             Requested size: 262.47934pt x 231.8201pt.
 
 [45] [46 <./Figs/Ch2/FIB.png>]
-<Figs/Ch2/Lift-out.png, id=373, 895.84688pt x 597.73312pt>
+<Figs/Ch2/Lift-out.png, id=356, 895.84688pt x 597.73312pt>
 File: Figs/Ch2/Lift-out.png Graphic file (type png)
 
 <use Figs/Ch2/Lift-out.png>
 Package pdftex.def Info: Figs/Ch2/Lift-out.png used on input line 365.
 (pdftex.def)             Requested size: 393.71233pt x 262.69328pt.
 
-<Figs/Ch2/SnV.png, id=375, 341.77687pt x 298.11375pt>
+<Figs/Ch2/SnV.png, id=358, 341.77687pt x 298.11375pt>
 File: Figs/Ch2/SnV.png Graphic file (type png)
  <use Figs/Ch2/SnV.png>
 Package pdftex.def Info: Figs/Ch2/SnV.png used on input line 380.
 (pdftex.def)             Requested size: 393.71233pt x 343.4377pt.
 
-[47 <./Figs/Ch2/Lift-out.png>] [48 <./Figs/Ch2/SnV.png>]) [49] (./thesis.bbl
-[98
+[47 <./Figs/Ch2/Lift-out.png>]
+
+Package natbib Warning: Citation `Rasband1997-2016' on page 48 undefined on inp
+ut line 387.
+
+
+Package natbib Warning: Citation `Thevenaz1998' on page 48 undefined on input l
+ine 387.
+
+[48 <./Figs/Ch2/SnV.png>]) [49] (./thesis.bbl [161
 
 
 
 
 
-]
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 33.
- (c:/texlive/2015/texmf-dist/tex/latex/psnfss/ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) [99] [100]
+
+
+] [162]
 Overfull \hbox (0.61902pt too wide) in paragraph at lines 154--157
 \T1/ptm/m/n/12 (-20) ``Defect-related optical transitions in GaN,'' \T1/ptm/m/i
 t/12 (-20) Physical Review B\T1/ptm/m/n/12 (-20) , vol. 54, no. 24, p. 17596,
  []
 
-[101] [102] [103]
-Underfull \hbox (badness 10000) in paragraph at lines 375--377
-[]\T1/ptm/m/n/12 (+20) A. M. . M. R. Fa-cil-ity, ``Char-ac-ter-is-tic x-rays.''
-
+[163] [164] [165]
+Overfull \hbox (74.79662pt too wide) in paragraph at lines 371--373
+[]\T1/ptm/m/n/12 (-20) ``Characteristic x-rays.'' http://www.ammrf.org.au/mysco
+pe/analysis/eds/xraygeneration/characteristic/. 
  []
 
-[104] [105] [106] [107]) [108]
+[166] [167] [168] [169] [170] [171] [172]) [173]
+
+Package natbib Warning: There were undefined citations.
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 191.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 191.
- (./thesis.aux (./Dedication/dedication.aux)
-(./Declaration/declaration.aux) (./Acknowledgement/acknowledgement.aux)
-(./Abstract/abstract.aux) (./Chapter1/chapter1.aux) (./Chapter2/chapter2.aux)
-(./Chapter3/chapter3.aux) (./Chapter4/chapter4.aux)
+(./thesis.aux (./Dedication/dedication.aux) (./Declaration/declaration.aux)
+(./Acknowledgement/acknowledgement.aux) (./Abstract/abstract.aux)
+(./Chapter1/chapter1.aux) (./Chapter2/chapter2.aux) (./Chapter3/chapter3.aux)
+(./Chapter4/chapter4.aux)
 No file Chapter5/chapter5.aux.
-(./Appendix1/appendix1.aux) (./Appendix2/appendix2.aux))
+(./Chapter6/chapter6.aux) (./Chapter7/chapter7.aux) (./Appendix1/appendix1.aux)
+(./Appendix2/appendix2.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 191.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 191.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 75E68AEE9BE8B05C33AE7C70E17E677E;2957.
+(rerunfilecheck)             Checksum: DC34474C43E8B85D5D772A8855A0611D;2957.
  ) 
 Here is how much of TeX's memory you used:
- 25576 strings out of 493091
- 448024 string characters out of 6138531
- 516742 words of memory out of 5000000
- 28182 multiletter control sequences out of 15000+600000
- 59240 words of font info for 226 fonts, out of 8000000 for 9000
+ 25731 strings out of 493091
+ 450484 string characters out of 6138531
+ 523958 words of memory out of 5000000
+ 28289 multiletter control sequences out of 15000+600000
+ 59601 words of font info for 231 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,12n,92p,10385b,1364s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,92p,10385b,1512s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2015/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2015/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/
@@ -1794,10 +1851,10 @@ public/amsfonts/cm/cmsy10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/urw/symbo
 l/usyr.pfb><c:/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/tex
 live/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2015/texmf-di
 st/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (38 pages, 3213996 bytes).
+Output written on thesis.pdf (40 pages, 3222395 bytes).
 PDF statistics:
- 628 PDF objects out of 1000 (max. 8388607)
- 512 compressed objects within 6 object streams
- 215 named destinations out of 1000 (max. 500000)
- 28915 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 660 PDF objects out of 1000 (max. 8388607)
+ 543 compressed objects within 6 object streams
+ 246 named destinations out of 1000 (max. 500000)
+ 28403 words of extra memory for PDF output out of 29859 (max. 10000000)
 

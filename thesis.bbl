@@ -30,7 +30,7 @@ S.~E. Bennett, ``{Dislocations and their reduction in GaN},'' {\em Materials
 
 \bibitem{Yu1999}
 E.~T. Yu, X.~Z. Dang, P.~M. Asbeck, S.~S. Lau, and G.~J. Sullivan,
-  ``{Spontaneous and piezoelectric polarization effects in IIIâ€“V nitride
+  ``{Spontaneous and piezoelectric polarization effects in III-nitride
   heterostructures},'' {\em Journal of Vacuum Science {\&} Technology B:
   Microelectronics and Nanometer Structures}, vol.~17, p.~1742, 1999.
 
@@ -51,14 +51,14 @@ F.~Scholz, ``{Semipolar GaN grown on foreign substrates: a review},'' {\em
 
 \bibitem{Wu2002}
 J.~Wu, W.~Walukiewicz, K.~M. Yu, J.~W. Ager, E.~E. Haller, H.~Lu, and W.~J.
-  Schaff, ``{Small band gap bowing in In1-xGaxN alloys},'' {\em Applied Physics
-  Letters}, vol.~80, no.~25, pp.~4741--4743, 2002.
+  Schaff, ``{Small band gap bowing in $In_{1-x}Ga_{x}N$ alloys},'' {\em Applied
+  Physics Letters}, vol.~80, no.~25, pp.~4741--4743, 2002.
 
 \bibitem{McCluskey2003}
 M.~D. McCluskey, C.~G. {Van de Walle}, L.~T. Romano, B.~S. Krusor, and N.~M.
-  Johnson, ``{Effect of composition on the band gap of strained InxGa1-xN
-  alloys},'' {\em Journal of Applied Physics}, vol.~93, no.~7, pp.~4340--4342,
-  2003.
+  Johnson, ``{Effect of composition on the band gap of strained
+  $In_{x}Ga_{1-x}N$ alloys},'' {\em Journal of Applied Physics}, vol.~93,
+  no.~7, pp.~4340--4342, 2003.
 
 \bibitem{Moses2010}
 P.~G. Moses and C.~G. {Van De Walle}, ``{Band bowing and band alignment in
@@ -66,7 +66,7 @@ P.~G. Moses and C.~G. {Van De Walle}, ``{Band bowing and band alignment in
   2010.
 
 \bibitem{Puchtler2015}
-T.~J. Puchtler, A.~Woolf, T.~Zhu, D.~Gachet, E.~L. Hu, and R.~a. Oliver,
+T.~J. Puchtler, A.~Woolf, T.~Zhu, D.~Gachet, E.~L. Hu, and R.~A. Oliver,
   ``{Effect of Threading Dislocations on the Quality Factor of InGaN/GaN
   Microdisk Cavities},'' {\em ACS Photonics}, vol.~2, pp.~137--143, 2015.
 
@@ -76,7 +76,7 @@ C.~X. Ren, ``{Polarisation fields in III-nitrides: effects and control},'' {\em
 
 \bibitem{Ambacher2002}
 O.~Ambacher and J.~Majewski, ``{Pyroelectric properties of Al (In) GaN/GaN
-  hetero-and quantum well structures},'' {\em Journal of physics: {\ldots}},
+  hetero-and quantum well structures},'' {\em Journal of physics: D},
   vol.~3399, 2002.
 
 \bibitem{Sumiya2004}
@@ -102,7 +102,7 @@ V.~Fiorentini, F.~Bernardini, F.~D. Sala, A.~D. Carlo, P.~Lugli, and
   1999.
 
 \bibitem{Chichibu2006}
-S.~F. Chichibu, A.~Uedono, T.~Onuma, B.~a. Haskell, A.~Chakraborty, T.~Koyama,
+S.~F. Chichibu, A.~Uedono, T.~Onuma, B.~A. Haskell, A.~Chakraborty, T.~Koyama,
   P.~T. Fini, S.~Keller, S.~P. Denbaars, J.~S. Speck, U.~K. Mishra,
   S.~Nakamura, S.~Yamaguchi, S.~Kamiyama, H.~Amano, I.~Akasaki, J.~Han, and
   T.~Sota, ``{Origin of defect-insensitive emission probability in
@@ -129,7 +129,7 @@ X.~Ning and F.~Chien, ``{Growth defects in GaN films on sapphire: The probable
   no.~0001, 1996.
 
 \bibitem{Moram2009}
-M.~a. Moram, C.~S. Ghedia, D.~V.~S. Rao, J.~S. Barnard, Y.~Zhang, M.~J.
+M.~A. Moram, C.~S. Ghedia, D.~V.~S. Rao, J.~S. Barnard, Y.~Zhang, M.~J.
   Kappers, and C.~J. Humphreys, ``{On the origin of threading dislocations in
   GaN films},'' {\em Journal of Applied Physics}, vol.~106, no.~7, p.~073513,
   2009.
@@ -192,24 +192,24 @@ H.-L. Tsai, T.-Y. Wang, J.-R. Yang, C.-C. Chuo, J.-T. Hsu, Z.-C. Feng, and
   Layers},'' {\em Materials Transactions}, vol.~48, no.~5, pp.~894--898, 2007.
 
 \bibitem{Christopoulos2007}
-S.~Christopoulos, G.~B.~H. von H{\"{o}}gersthal, a.~J.~D. Grundy, P.~G.
-  Lagoudakis, a.~V. Kavokin, J.~J. Baumberg, G.~Christmann, R.~Butt{\'{e}},
+S.~Christopoulos, G.~B.~H. von H{\"{o}}gersthal, A.~J.~D. Grundy, P.~G.
+  Lagoudakis, A.~V. Kavokin, J.~J. Baumberg, G.~Christmann, R.~Butt{\'{e}},
   E.~Feltin, J.-F. Carlin, and N.~Grandjean, ``{Room-Temperature Polariton
   Lasing in Semiconductor Microcavities},'' {\em Physical Review Letters},
   vol.~98, no.~12, p.~126405, 2007.
 
 \bibitem{Vahala2003}
-K.~J. Vahala, ``{Optical microcavities.},'' {\em Nature}, vol.~424, no.~6950,
+K.~J. Vahala, ``{Optical microcavities},'' {\em Nature}, vol.~424, no.~6950,
   pp.~839--846, 2003.
 
 \bibitem{Jarjour2007a}
-A.~F. Jarjour, R.~A. Taylor, Robert A..~andTaylor, M.~J. Kappers, C.~J.
-  Humphreys, and A.~Tahraoui, ``{Cavity-enhanced blue single-photon emission
-  from a single InGaN/GaN quantum dot},'' {\em Applied Physics Letters},
-  vol.~91, no.~5, p.~052101, 2007.
+A.~F. Jarjour, R.~A. Taylor, R.~A. Taylor, M.~J. Kappers, C.~J. Humphreys, and
+  A.~Tahraoui, ``{Cavity-enhanced blue single-photon emission from a single
+  InGaN/GaN quantum dot},'' {\em Applied Physics Letters}, vol.~91, no.~5,
+  p.~052101, 2007.
 
 \bibitem{Aharonovich2013}
-I.~Aharonovich, A.~Woolf, K.~J. Russell, T.~Zhu, N.~Niu, M.~J. Kappers, R.~a.
+I.~Aharonovich, A.~Woolf, K.~J. Russell, T.~Zhu, N.~Niu, M.~J. Kappers, R.~A.
   Oliver, and E.~L. Hu, ``{Low threshold, room-temperature microdisk lasers in
   the blue spectral range},'' {\em Applied Physics Letters}, vol.~103, no.~2,
   p.~021112, 2013.
@@ -220,15 +220,15 @@ G.~Malpuech, A.~{Di Carlo}, A.~Kavokin, J.~J. Baumberg, M.~Zamfirescu, and
   {\em Applied Physics Letters}, vol.~81, no.~3, pp.~412--414, 2002.
 
 \bibitem{Imamoglu1999}
-a.~Imamoglu, D.~Awschalom, G.~Burkard, D.~P. DiVincenzo, D.~Loss, M.~Sherwin,
+A.~Imamoglu, D.~Awschalom, G.~Burkard, D.~P. DiVincenzo, D.~Loss, M.~Sherwin,
   and a.~Small, ``{Quantum information processing using quantum dot spins and
   cavity QED},'' {\em Physical Review Letters}, vol.~83, no.~20,
   pp.~4204--4207, 1999.
 
 \bibitem{Hennessy2007}
-K.~Hennessy, a.~Badolato, M.~Winger, D.~Gerace, M.~Atat{\"{u}}re, S.~Gulde,
-  S.~F{\"{a}}lt, E.~L. Hu, and a.~ImamoÄŸlu, ``{Quantum nature of a strongly
-  coupled single quantum dotâ€“cavity system},'' {\em Nature}, vol.~445,
+K.~Hennessy, A.~Badolato, M.~Winger, D.~Gerace, M.~Atat{\"{u}}re, S.~Gulde,
+  S.~F{\"{a}}lt, E.~L. Hu, and A.~Imamoglu, ``{Quantum nature of a strongly
+  coupled single quantum dot-cavity system},'' {\em Nature}, vol.~445,
   no.~7130, pp.~896--899, 2007.
 
 \bibitem{Tamboli2007}
@@ -248,14 +248,14 @@ E.~D. Haberer, R.~Sharma, C.~Meier, A.~R. Stonas, S.~Nakamura, S.~P. DenBaars,
   vol.~85, no.~22, p.~5179, 2004.
 
 \bibitem{Simeonov2008}
-D.~Simeonov, A.~Feltin, E.~andCastiglia, A.~Castiglia, J.~F. Carlin, R.~Butte,
-  and N.~Grandjean, ``{High quality nitride based microdisks obtained via
-  selective wet etching of AlInN sacrificial layers},'' {\em Applied Physics
-  Letters}, vol.~92, no.~17, pp.~2008--2010, 2008.
+D.~Simeonov, E.~Feltin, A.~Castiglia, A.~Castiglia, J.~F. Carlin, R.~Butte, and
+  N.~Grandjean, ``{High quality nitride based microdisks obtained via selective
+  wet etching of AlInN sacrificial layers},'' {\em Applied Physics Letters},
+  vol.~92, no.~17, pp.~2008--2010, 2008.
 
 \bibitem{Yablonovitch1987}
 E.~Yablonovitch, ``{Inhibited Spontaneous Emission in Solid-State Physics and
-  Electronics Eli},'' {\em Physical Review Letters}, vol.~58, no.~20,
+  Electronics},'' {\em Physical Review Letters}, vol.~58, no.~20,
   pp.~2059--2062, 1987.
 
 \bibitem{John1987}
@@ -299,7 +299,7 @@ N.~V. Trivi{\~{n}}o, R.~Butt{\'{e}}, J.-F. Carlin, and N.~Grandjean,
   {\em Nano Letters}, vol.~15, no.~2, pp.~1259--1263, 2015.
 
 \bibitem{Niu2015}
-N.~Niu, A.~Woolf, D.~Wang, T.~Zhu, Q.~Quan, R.~a. Oliver, and E.~L. Hu,
+N.~Niu, A.~Woolf, D.~Wang, T.~Zhu, Q.~Quan, R.~A. Oliver, and E.~L. Hu,
   ``{Ultra-low threshold gallium nitride photonic crystal nanobeam laser},''
   {\em Applied Physics Letters}, vol.~106, no.~23, p.~231104, 2015.
 
@@ -312,10 +312,6 @@ M.~Arita, S.~Ishida, S.~Kako, S.~Iwamoto, and Y.~Arakawa, ``{AlN air-bridge
 W.~H.~P. Pernice, C.~Xiong, C.~Schuck, and H.~X. Tang, ``{High-Q aluminum
   nitride photonic crystal nanobeam cavities},'' {\em Applied Physics Letters},
   vol.~100, no.~9, 2012.
-
-\bibitem{Bao2017}
-A.~Bao, ``{Group III-nitride nanowires Group III-nitride nanowires},'' {\em
-  Materials Science and Technology}, vol.~0, no.~0, pp.~1--12, 2017.
 
 \bibitem{Arafin2013}
 S.~Arafin, X.~Liu, and Z.~Mi, ``{Review of recent progress of III-nitride
@@ -362,7 +358,7 @@ C.~B.~C. David B.~Williams, {\em Transmission Electron Microscopy}.
 \newblock Springer US, 2009.
 
 \bibitem{Moram2007}
-M.~a. Moram, Y.~Zhang, M.~J. Kappers, Z.~H. Barber, and C.~J. Humphreys,
+M.~A. Moram, Y.~Zhang, M.~J. Kappers, Z.~H. Barber, and C.~J. Humphreys,
   ``{Dislocation reduction in gallium nitride films using scandium nitride
   interlayers},'' {\em Applied Physics Letters}, vol.~91, no.~15, p.~152101,
   2007.
@@ -372,7 +368,7 @@ A.~Howie, ``Image contrast and localized signal selection techniques,'' {\em
   Journal of Microscopy}, 1979.
 
 \bibitem{Facility}
-A.~M. . M.~R. Facility, ``Characteristic x-rays.''
+``Characteristic x-rays.''
   http://www.ammrf.org.au/myscope/analysis/eds/xraygeneration/characteristic/.
 
 \bibitem{Divitni2012}
@@ -386,7 +382,7 @@ D.~J. {De Rosier} and A.~Klug, ``{Reconstruction of Three Dimensional
   pp.~130--134, 1968.
 
 \bibitem{Midgley2009}
-P.~a. Midgley and R.~E. Dunin-Borkowski, ``{Electron tomography and holography
+P.~A. Midgley and R.~E. Dunin-Borkowski, ``{Electron tomography and holography
   in materials science.},'' {\em Nature materials}, vol.~8, no.~4,
   pp.~271--280, 2009.
 
@@ -399,12 +395,6 @@ N.~Kawase, M.~Kato, H.~Nishioka, and H.~Jinnai, ``{Transmission electron
   microtomography without the "missing wedge" for quantitative structural
   analysis},'' {\em Ultramicroscopy}, vol.~107, no.~1, pp.~8--15, 2007.
 
-\bibitem{Fernandez2010}
-J.~J. Fern{\'{a}}ndez, J.~I. Agulleiro, A.~Mart{\'{i}}nez, I.~Garc{\'{i}}a, and
-  F.~J. Chich{\'{o}}n, ``{Image processing in electron tomography},'' {\em
-  Microscopy: Science, Technology, Applications and Education}, no.~Figure 1,
-  pp.~19--28, 2010.
-
 \bibitem{Midgley2003}
 P.~A. Midgley and M.~Weyland, ``{3D electron microscopy in the physical
   sciences: The development of Z-contrast and EFTEM tomography},'' {\em
@@ -415,16 +405,12 @@ P.~Gilbert, ``{Iterative methods for the three-dimensional reconstruction of an
   object from projections},'' {\em Journal of Theoretical Biology}, vol.~36,
   no.~1, pp.~105--117, 1972.
 
-\bibitem{Penczek2010}
-P.~A. Penczek, ``{Fundamentals of Three-Dimensional Reconstruction from
-  Projections},'' pp.~1--33, 2010.
-
 \bibitem{Frank2006}
 J.~Frank, {\em Electron Tomography}.
 \newblock Springer New York, 2006.
 
 \bibitem{Oliver2008}
-R.~a. Oliver, ``{Advances in AFM for the electrical characterization of
+R.~A. Oliver, ``{Advances in AFM for the electrical characterization of
   semiconductors},'' {\em Reports on Progress in Physics}, vol.~71, p.~076501,
   jul 2008.
 
@@ -437,13 +423,9 @@ B.~Yacobi and D.~Holt, {\em Cathodoluminescence Microscopy of Inorganic
   Solids}.
 \newblock Springer US, 1990.
 
-\bibitem{Joy2006}
-D.~C. Joy, {\em Scanning Electron Microscopy}.
-\newblock Wiley-VCH Verlag GmbH \& Co. KGaA, 2006.
-
 \bibitem{Puchtler2014}
-T.~Puchtler, {\em DEVELOPMENT OF STRUCTURES AND MATERIALS FOR INGAN/GAN
-  CAVITY-QUANTUMELECTRODYNAMICS}.
+T.~Puchtler, {\em Development of structures and materials for InGaN/GaN cavity
+  quantum electro-dynamics}.
 \newblock PhD thesis, University of Cambridge, 2014.
 
 \bibitem{Edwards2011}
@@ -469,32 +451,17 @@ C.~L. {Paul R. Edwards, Lethy Krishnan Jagadamma, Jochen Bruckbauer} and
   cathodoluminescence hyperspectral imaging of nitride nanostructures},'' {\em
   Microscopy and Microanalysis}, pp.~1212--1219, 2012.
 
-\bibitem{Haegel2009}
-N.~M. Haegel, {\em {Measurement of Minority Charge Carrier Diffusion Length in
-  Gallium Nitride Nanowires Using Electron Beam Induced Current}}.
-\newblock PhD thesis, Naval Postgraduate School, 2009.
-
 \bibitem{Yakimov2002}
 E.~Yakimov, ``{Electron-beam-induced-current study of defects in GaN;
   experiments and simulation},'' {\em Journal of Physics: Condensed Matter},
   vol.~13069, 2002.
 
-\bibitem{Jansen1982}
-W.~Jansen and M.~Slaughter, ``{Elemental mapping of minerals by electron
-  microprobe.},'' {\em American Mineralogist}, vol.~67, no.~5-6, pp.~521--533,
-  1982.
-
 \bibitem{Wallace2015}
-M.~J. Wallace, P.~R. Edwards, M.~J. Kappers, M.~a. Hopkins, F.~Oehler,
-  S.~Sivaraya, R.~a. Oliver, C.~J. Humphreys, D.~W.~E. Allsopp, and R.~W.
+M.~J. Wallace, P.~R. Edwards, M.~J. Kappers, M.~A. Hopkins, F.~Oehler,
+  S.~Sivaraya, R.~A. Oliver, C.~J. Humphreys, D.~W.~E. Allsopp, and R.~W.
   Martin, ``{Effect of the barrier growth mode on the luminescence and
   conductivity micron scale uniformity of InGaN light emitting diodes},'' {\em
   Journal of Applied Physics}, vol.~117, no.~11, p.~115705, 2015.
-
-\bibitem{Ishitani1996}
-T.~Ishitani and T.~Yaguchi, ``{Cross-sectional sample preparation by focused
-  ion beam: a review of ion-sample interaction.},'' {\em Microscopy research
-  and technique}, vol.~35, no.~4, pp.~320--333, 1996.
 
 \bibitem{Bals2007}
 S.~Bals, W.~Tirry, R.~Geurts, Z.~Yang, and D.~Schryvers, ``{High-quality sample
@@ -505,17 +472,9 @@ S.~Bals, W.~Tirry, R.~Geurts, Z.~Yang, and D.~Schryvers, ``{High-quality sample
 
 \bibitem{Holzer2004}
 L.~Holzer, F.~Indutnyi, P.~Gasser, B.~M{\"{u}}nch, and M.~Wegmann,
-  ``{Three-dimensional analysis of porous BaTiO3 ceramics using FIB
+  ``{Three-dimensional analysis of porous $BaTiO_{3}$ ceramics using FIB
   nanotomography},'' {\em Journal of Microscopy}, vol.~216, no.~1, pp.~84--95,
   2004.
-
-\bibitem{Rasband1997-2016}
-W.~Rasband, ``Imagej,'' 1997-2016.
-
-\bibitem{Thevenaz1998}
-P.~Thevenaz, U.~E. Ruttimann, and M.~Unser, ``A pyramid approach to subpixel
-  registration based on intensity,'' {\em IEEE Transactions on Image
-  Processing}, vol.~7, pp.~27--41, Jan 1998.
 
 \bibitem{Lorensen1987}
 W.~E. Lorensen and H.~E. Cline, ``{Marching cubes: A high resolution 3D surface
@@ -524,16 +483,14 @@ W.~E. Lorensen and H.~E. Cline, ``{Marching cubes: A high resolution 3D surface
   pp.~163--169, 1987.
 
 \bibitem{Laak2013}
-N.~K. V.~D. Laak, R.~A. Oliver, M.~J. Kappers, C.~J. Humphreys, N.~K. V.~D.
-  Laak, R.~A. Oliver, M.~J. Kappers, and C.~J. Humphreys, ``{Role of gross
-  well-width fluctuations in bright , green-emitting single InGaN/GaN quantum
-  well structures Role of gross well-width fluctuations in bright ,
-  green-emitting single InGaN / GaN quantum well structures},'' vol.~121911,
-  no.~2007, pp.~1--4, 2013.
+N.~K. V.~D. Laak, R.~A. Oliver, M.~J. Kappers, and C.~J. Humphreys, ``{Role of
+  gross well-width fluctuations in bright , green-emitting single InGaN/GaN
+  quantum well structures},'' {\em Appl. Phys. Lett.}, vol.~121911, no.~2007,
+  pp.~1--4, 2013.
 
 \bibitem{Oliver2013}
-R.~a. Oliver, F.~C.-P. Massabuau, M.~J. Kappers, W.~a. Phillips, E.~J. Thrush,
-  C.~C. Tartan, W.~E. Blenkhorn, T.~J. Badcock, P.~Dawson, M.~a. Hopkins,
+R.~A. Oliver, F.~C.-P. Massabuau, M.~J. Kappers, W.~A. Phillips, E.~J. Thrush,
+  C.~C. Tartan, W.~E. Blenkhorn, T.~J. Badcock, P.~Dawson, M.~A. Hopkins,
   D.~W.~E. Allsopp, and C.~J. Humphreys, ``{The impact of gross well width
   fluctuations on the efficiency of GaN-based light emitting diodes},'' {\em
   Applied Physics Letters}, vol.~103, no.~14, p.~141114, 2013.
@@ -546,7 +503,7 @@ A.~Polyakov, N.~Smirnov, A.~Usikov, A.~Govorkov, and B.~Pushniy, ``{Studies of
   1998.
 
 \bibitem{Chichibu1999}
-S.~Chichibu, a.C Abare, M.~Mack, M.~Minsky, T.~Deguchi, D.~Cohen, P.~Kozodoy,
+S.~Chichibu, A.~Abare, M.~Mack, M.~Minsky, T.~Deguchi, D.~Cohen, P.~Kozodoy,
   S.~Fleischer, S.~Keller, J.~Speck, J.~Bowers, E.~Hu, U.~Mishra, L.~Coldren,
   S.~DenBaars, K.~Wada, T.~Sota, and S.~Nakamura, ``{Optical properties of
   InGaN quantum wells},'' {\em Materials Science and Engineering: B}, vol.~59,
@@ -591,8 +548,8 @@ Z.~Quan, L.~Wang, C.~Zheng, J.~Liu, and F.~Jiang, ``{Roles of V-shaped pits on
   p.~183107, 2014.
 
 \bibitem{Florescu2003}
-D.~I. Florescu, S.~M. Ting, J.~C. Ramer, D.~S. Lee, V.~N. Merai, a.~Parkeh,
-  D.~Lu, E.~a. Armour, and L.~Chernyak, ``{Investigation of V-Defects and
+D.~I. Florescu, S.~M. Ting, J.~C. Ramer, D.~S. Lee, V.~N. Merai, A.~Parkeh,
+  D.~Lu, E.~A. Armour, and L.~Chernyak, ``{Investigation of V-Defects and
   embedded inclusions in InGaN/GaN multiple quantum wells grown by metalorganic
   chemical vapor deposition on (0001) sapphire},'' {\em Applied Physics
   Letters}, vol.~83, no.~1, p.~33, 2003.
@@ -620,7 +577,7 @@ H.~El-Ella, F.~Rol, D.~Collins, M.~Kappers, R.~Taylor, E.~Hu, and R.~Oliver,
   2011.
 
 \bibitem{Visconti2001}
-P.~Visconti, M.~a. Reshchikov, K.~M. Jones, D.~F. Wang, R.~Cingolani,
+P.~Visconti, M.~A. Reshchikov, K.~M. Jones, D.~F. Wang, R.~Cingolani,
   H.~Morkoc, R.~J. Molnar, and D.~J. Smith, ``{Highly selective
   photoelectrochemical etching of nitride materials for defect investigation
   and device fabrication},'' {\em Journal of Vacuum Science {\&} Technology B:
@@ -647,14 +604,14 @@ D.~Cherns, ``{The structure and optoelectronic properties of dislocations in
   J. Phys. Condens. Matter.}, vol.~12, p.~10205, 2000.
 
 \bibitem{El-Ella2011}
-H.~a.~R. El-Ella, F.~Rol, M.~J. Kappers, K.~J. Russell, E.~L. Hu, and R.~a.
+H.~A.~R. El-Ella, F.~Rol, M.~J. Kappers, K.~J. Russell, E.~L. Hu, and R.~A.
   Oliver, ``{Dislocation density-dependent quality factors in InGaN quantum dot
   containing microdisks},'' {\em Applied Physics Letters}, vol.~98, no.~13,
   p.~131909, 2011.
 
 \bibitem{Rhode2013}
 S.~K. Rhode, M.~K. Horton, M.~J. Kappers, S.~Zhang, C.~J. Humphreys, R.~O.
-  Dusane, S.~L. Sahonta, and M.~a. Moram, ``{Mg doping affects dislocation core
+  Dusane, S.~L. Sahonta, and M.~A. Moram, ``{Mg doping affects dislocation core
   structures in GaN},'' {\em Physical Review Letters}, vol.~111, no.~July,
   pp.~1--4, 2013.
 
@@ -692,5 +649,222 @@ S.~Lazar, L.~Weyher, J. L abd~Macht, F.~D. Tichelaar, and H.~W. Zandbergen,
 N.~Vartak, A.~Damle-Vartak, B.~Richter, O.~Dirsch, U.~Dahmen, S.~Hammad, and
   J.~G. Hengstler, ``{Cholestasis-induced adaptive remodeling of interlobular
   bile ducts},'' {\em Hepatology}, vol.~63, no.~3, 2016.
+
+\bibitem{Bergbauer2010}
+W.~Bergbauer, M.~Strassburg, C.~K{\"{o}}lper, N.~Linder, C.~Roder,
+  J.~L{\"{a}}hnemann, A.~Trampert, S.~F{\"{u}}ndling, S.~F. Li, H.-H. Wehmann,
+  and A.~Waag, ``{Continuous-flux MOVPE growth of position-controlled N-face
+  GaN nanorods and embedded InGaN quantum wells},'' {\em Nanotechnology},
+  vol.~21, no.~30, p.~305201, 2010.
+
+\bibitem{Tessarek2013}
+C.~Tessarek, M.~Bashouti, M.~Heilmann, C.~Dieker, I.~Knoke, E.~Spiecker, and
+  S.~Christiansen, ``{Controlling morphology and optical properties of
+  self-catalyzed, mask-free GaN rods and nanorods by metal-organic vapor phase
+  epitaxy},'' {\em Journal of Applied Physics}, vol.~114, no.~14, 2013.
+
+\bibitem{Zhao2015}
+S.~Zhao, H.~P.~T. Nguyen, M.~G. Kibria, and Z.~Mi, ``{III-Nitride nanowire
+  optoelectronics},'' {\em Progress in Quantum Electronics}, vol.~44,
+  pp.~14--68, 2015.
+
+\bibitem{Liu201558}
+G.~Liu, B.~Wen, T.~Xie, A.~Castillo, J.-Y. Ha, N.~Sullivan, R.~Debnath,
+  A.~Davydov, M.~Peckerar, and A.~Motayed, ``Top-down fabrication of
+  horizontally-aligned gallium nitride nanowire arrays for sensor
+  development,'' {\em Microelectronic Engineering}, vol.~142, pp.~58 -- 63,
+  2015.
+
+\bibitem{Maliakkal2015}
+C.~B. Maliakkal, J.~P. Mathew, N.~Hatui, A.~A. Rahman, M.~M. Deshmukh, and
+  A.~Bhattacharya, ``Fabrication and characterization of gan nanowire doubly
+  clamped resonators,'' {\em Journal of Applied Physics}, vol.~118, no.~11,
+  2015.
+
+\bibitem{Debnath2014}
+R.~Debnath, J.-Y. Ha, B.~Wen, D.~Paramanik, A.~Motayed, M.~R. King, and A.~V.
+  Davydov, ``Top-down fabrication of large-area gan micro- and nanopillars,''
+  {\em Journal of Vacuum Science \& Technology B}, vol.~32, no.~2, 2014.
+
+\bibitem{Dhara2010}
+S.~Dhara, C.~Y. Lu, C.~T. Wu, C.~W. Hsu, W.~S. Tu, K.~H. Chen, Y.~L. Wang,
+  L.~C. Chen, and B.~Raj, ``{Focused ion beam induced nanojunction and defect
+  doping as a building block for nanoscale electronics in GaN nanowires},''
+  {\em Journal of Physical Chemistry C}, vol.~114, no.~36, pp.~15260--15265,
+  2010.
+
+\bibitem{Bao2016}
+A.~Bao, ``Group iii-nitride nanowires,'' {\em Materials Science and
+  Technology}, vol.~0, no.~0, pp.~1--12, 2016.
+
+\bibitem{Shi2001}
+W.~Shi, Y.~Zheng, N.~Wang, C.~Lee, and S.~Lee, ``Microstructures of gallium
+  nitride nanowires synthesized by oxide-assisted method,'' {\em Chemical
+  Physics Letters}, vol.~345, no.~56, pp.~377 -- 380, 2001.
+
+\bibitem{Hou2011}
+W.~C. Hou, L.~Y. Chen, W.~C. Tang, and F.~C.~N. Hong, ``{Control of seed
+  detachment in Au-assisted GaN nanowire growths},'' {\em Crystal Growth and
+  Design}, vol.~11, no.~4, pp.~990--994, 2011.
+
+\bibitem{Duan2000}
+X.~F. Duan and C.~M. Lieber, ``{Laser-assisted catalytic growth of single
+  crystal GaN nanowires},'' {\em J Am Chem Soc}, vol.~122, no.~1, pp.~188--189,
+  2000.
+
+\bibitem{Cheze2010}
+C.~Ch{\`{e}}ze, L.~Geelhaar, A.~Trampert, O.~Brandt, and H.~Riechert,
+  ``{Collector phase transitions during vapor-solid-solid nucleation of GaN
+  nanowires},'' {\em Nano Letters}, vol.~10, no.~9, pp.~3426--3431, 2010.
+
+\bibitem{Chen2010}
+J.~Chen and C.~Xue, ``Catalytic growth of large-scale gan nanowires,'' {\em
+  Journal of Materials Engineering and Performance}, vol.~19, no.~7,
+  pp.~1054--1057, 2010.
+
+\bibitem{Geelhaar2007}
+L.~Geelhaar, C.~Ch{\`{e}}ze, W.~M. Weber, R.~Averbeck, H.~Riechert,
+  T.~Kehagias, P.~Komninou, G.~P. Dimitrakopulos, and T.~Karakostas, ``Axial
+  and radial growth of ni-induced gan nanowires,'' {\em Applied Physics
+  Letters}, vol.~91, no.~9, 2007.
+
+\bibitem{Chen2015}
+G.~Chen, T.~McGuckin, C.~J. Hawley, E.~M. Gallo, P.~Prete, I.~Miccoli,
+  N.~Lovergine, and J.~E. Spanier, ``{Subsurface imaging of coupled carrier
+  transport in GaAs/AlGaAs core-shell nanowires},'' {\em Nano Letters},
+  vol.~15, no.~1, pp.~75--79, 2015.
+
+\bibitem{Hersee2006}
+S.~D. Hersee, X.~Sun, and X.~Wang, ``{The controlled growth of GaN
+  nanowires},'' {\em Nano Letters}, vol.~6, no.~8, pp.~1808--1811, 2006.
+
+\bibitem{Tessarek2014a}
+C.~Tessarek, M.~Heilmann, E.~Butzen, A.~Haab, H.~Hardtdegen, C.~Dieker,
+  E.~Spiecker, and S.~Christiansen, ``{The role of Si during the growth of GaN
+  micro- and nanorods},'' {\em Crystal Growth and Design}, vol.~14, no.~3,
+  pp.~1486--1492, 2014.
+
+\bibitem{Li2011}
+S.~Li, S.~Fuendling, X.~Wang, S.~Merzch, M.~A.~M. Al-Suleiman, J.~D. Wei, H.~H.
+  Wehmann, A.~Waag, W.~Bergbauer, and M.~Strassburg, ``{Polarity and its
+  Influence on Growth Mechanism during MOVPE Growth of GaN Nanorods},'' {\em
+  Crystal Growth {\&} Design}, vol.~11, pp.~1573--1577, 2011.
+
+\bibitem{Koester2010}
+R.~Koester, J.~S. Hwang, C.~Durand, D.~L.~S. Dang, and J.~Eymery,
+  ``Self-assembled growth of catalyst-free gan wires by metal-organic vapour
+  phase epitaxy,'' {\em Nanotechnology}, vol.~21, no.~1, p.~015602, 2010.
+
+\bibitem{Yankovich2012}
+A.~B. Yankovich, A.~V. Kvit, X.~Li, F.~Zhang, V.~Avrutin, H.~Y. Liu,
+  N.~Izyumskaya, {\"{U}}.~{\"{O}}zg{\"{u}}r, H.~Morko{\c{c}}, and P.~M. Voyles,
+  ``{Hexagonal-based pyramid void defects in GaN and InGaN},'' {\em Journal of
+  Applied Physics}, vol.~111, no.~2, 2012.
+
+\bibitem{Fang2015}
+Z.~Fang, E.~Robin, E.~Rozas-Jimenez, A.~Cros, F.~Donatini, N.~Mollard,
+  J.~Pernot, and B.~Daudin, ``{Si Donor Incorporation in GaN Nanowires},'' {\em
+  Nano Letters}, vol.~15, no.~10, pp.~6794--6801, 2015.
+
+\bibitem{Neugebauer2003}
+J.~Neugebauer, ``{Surfactants and antisurfactants on group-III-nitride
+  surfaces},'' {\em Physica Status Solidi C: Conferences}, vol.~0, no.~6 SPEC.
+  ISS., pp.~1651--1667, 2003.
+
+\bibitem{Markurt2013}
+T.~Markurt, L.~Lymperakis, J.~Neugebauer, P.~Drechsel, P.~Stauss, T.~Schulz,
+  T.~Remmele, V.~Grillo, E.~Rotunno, and M.~Albrecht, ``{Blocking growth by an
+  electrically active subsurface layer: The effect of si as an antisurfactant
+  in the growth of GaN},'' {\em Physical Review Letters}, vol.~110, no.~3,
+  pp.~1--5, 2013.
+
+\bibitem{Kappers2007}
+M.~Kappers, M.~Moram, Y.~Zhang, M.~Vickers, Z.~Barber, and C.~Humphreys,
+  ``{Interlayer methods for reducing the dislocation density in gallium
+  nitride},'' {\em Physica B: Condensed Matter}, vol.~401-402, pp.~296--301,
+  dec 2007.
+
+\bibitem{Vennegues1998}
+Venn{\'{e}}gu{\`{e}}s, B.~Beaumont, S.~Haffouz, M.~Vaille, and P.~Gibart,
+  ``Influence of in situ sapphire surface preparation and carrier gas on the
+  growth mode of gan in movpe,'' {\em Journal of Crystal Growth}, vol.~187,
+  no.~2, pp.~167 -- 177, 1998.
+
+\bibitem{Bottcher2003}
+T.~B{\"{o}}ttcher, J.~Dennemarck, R.~Kr{\"{o}}ger, S.~Figge, and D.~Hommel,
+  ``{The role of the growth temperature for the SiN interlayer deposition in
+  GaN},'' {\em Physica Status Solidi C: Conferences}, vol.~2042, no.~7,
+  pp.~2039--2042, 2003.
+
+\bibitem{Johnston2009}
+C.~Johnston, M.~Kappers, M.~Moram, J.~Hollander, and C.~Humphreys,
+  ``{Assessment of defect reduction methods for nonpolar a-plane GaN grown on
+  r-plane sapphire},'' {\em Journal of Crystal Growth}, vol.~311,
+  pp.~3295--3299, jun 2009.
+
+\bibitem{Tanaka1996}
+S.~Tanaka, S.~Iwai, and Y.~Aoyagi, ``Self-assembling gan quantum dots on
+  $al_{x}ga_{1-x}n$ surfaces using a surfactant,'' {\em Applied Physics
+  Letters}, vol.~69, no.~26, pp.~4096--4098, 1996.
+
+\bibitem{OliverVanderLaakKappersEtAl2008}
+R.~A. Oliver, N.~K. {Van der Laak}, M.~J. Kappers, and C.~J. Humphreys,
+  ``{Insights into the growth mechanism of$In_{x}Ga_{1-x}N$ epitaxial
+  nanostructures formed using a silane predose},'' {\em Journal of Crystal
+  Growth}, vol.~310, no.~15, pp.~3459--3465, 2008.
+
+\bibitem{Unland2003}
+J.~Unland, B.~Onderka, A.~Davydov, and R.~Schmid-Fetze, ``Thermodynamics and
+  phase stability in the gan system,'' {\em Journal of Crystal Growth},
+  vol.~256, pp.~33 -- 51, 2003.
+
+\bibitem{Schmidt2010}
+V.~Schmidt, J.~V. Wittemann, and U.~Gosele, ``{Growth, Thermodynamics, and
+  Electrical Properties of Silicon Nanowires.},'' {\em Chemical Reviews},
+  vol.~110, no.~1, pp.~361--388, 2010.
+
+\bibitem{Xie2007}
+J.~Xie, Y.~Fu, X.~Ni, H.~Morko, C.~K. Inoki, T.~S. Kuan, J.~V. Foreman, and
+  H.~O. Everitt, ``Low dislocation densities and long carrier lifetimes in gan
+  thin films grown on a $sin_{x}$ nanonetwork,'' {\em Applied Physics Letters},
+  vol.~90, no.~4, 2007.
+
+\bibitem{Halidou2004}
+I.~Halidou, Z.~Benzarti, T.~Boufaden, B.~{El Jani}, S.~Juillaguet, and
+  M.~Ramonda, ``{Influence of silane flow on MOVPE grown GaN on sapphire
+  substrate by an in situ SiN treatment},'' {\em Materials Science and
+  Engineering B: Solid-State Materials for Advanced Technology}, vol.~110,
+  no.~3, pp.~251--255, 2004.
+
+\bibitem{Bennett2010}
+S.~E. Bennett, D.~Holec, M.~J. Kappers, C.~J. Humphreys, and R.~A. Oliver,
+  ``{Imaging dislocations in gallium nitride across broad areas using atomic
+  force microscopy.},'' {\em The Review of scientific instruments}, vol.~81,
+  p.~063701, jun 2010.
+
+\bibitem{Ji2016}
+Q.~Ji, L.~Li, W.~Zhang, J.~Wang, P.~Liu, Y.~Xie, T.~Yan, W.~Yang, W.~Chen, and
+  X.~Hu, ``{Dislocation Reduction and Stress Relaxation of GaN and InGaN
+  Multiple Quantum Wells with Improved Performance via Serpentine Channel
+  Patterned Mask},'' {\em ACS Applied Materials and Interfaces}, vol.~8,
+  no.~33, pp.~21480--21489, 2016.
+
+\bibitem{Tu2004}
+R.-C. Tu, C.-J. Tun, C.-C. Chuo, B.-C. Lee, C.-E. Tsai, T.-C. Wang, J.~Chi,
+  C.-P. Lee, and G.-C. Chi, ``Ultra-high-density ingan quantum dots grown by
+  metalorganic chemical vapor deposition,'' {\em Japanese Journal of Applied
+  Physics}, vol.~43, no.~2B, p.~L264, 2004.
+
+\bibitem{Te-Chung2006}
+W.~Te-Chung, K.~Hao-Chung, L.~Tien-Chang, T.~Ching-En, T.~Min-Ying,
+  H.~Jung-Tsung, and Y.~Jer-Ren, ``{Study of InGaN multiple quantum dots by
+  metal organic chemical vapor deposition},'' {\em Japanese Journal of Applied
+  Physics, Part 1 (Regular Papers, Short Notes {\&} Review Papers)}, vol.~45,
+  no.~4B, pp.~3560--3563, 2006.
+
+\bibitem{Tessarek2014}
+C.~Tessarek, R.~Roder, and T.~Michalsky, ``{Improving the Optical Properties of
+  Self-Catalyzed GaN Microrods toward Whispering Gallery Mode Lasing},'' {\em
+  ACS Photonics}, vol.~1, no.~10, pp.~990--997, 2014.
 
 \end{thebibliography}
