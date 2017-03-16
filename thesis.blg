@@ -56,6 +56,10 @@ Repeated entry---line 8905 of file thesis.bib
  : @article{Vickers2003
  :                     ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 9199 of file thesis.bib
+ : @article{Wallace2015
+ :                     ,
+I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "Peeople1985"
 Warning--empty booktitle in Penczek2010
 Warning--empty publisher in Penczek2010
@@ -63,45 +67,45 @@ Warning--can't use both author and editor fields in Frank2006
 Warning--empty chapter and pages in Joy2006
 Warning--empty journal in Laak2013
 Warning--can't use both author and editor fields in Piprek2007
-You've used 129 entries,
+You've used 130 entries,
             1876 wiz_defined-function locations,
-            1299 strings with 29869 characters,
-and the built_in function-call counts, 40570 in all, are:
-= -- 4002
-> -- 1997
+            1305 strings with 30209 characters,
+and the built_in function-call counts, 40967 in all, are:
+= -- 4035
+> -- 2029
 < -- 0
-+ -- 718
-- -- 589
-* -- 3093
-:= -- 5829
-add.period$ -- 142
-call.type$ -- 129
-change.case$ -- 117
++ -- 729
+- -- 599
+* -- 3125
+:= -- 5889
+add.period$ -- 143
+call.type$ -- 130
+change.case$ -- 118
 chr.to.int$ -- 0
-cite$ -- 135
-duplicate$ -- 2017
-empty$ -- 3294
-format.name$ -- 589
-if$ -- 9759
+cite$ -- 136
+duplicate$ -- 2038
+empty$ -- 3318
+format.name$ -- 599
+if$ -- 9853
 int.to.chr$ -- 0
-int.to.str$ -- 129
-missing$ -- 128
-newline$ -- 403
-num.names$ -- 129
-pop$ -- 246
+int.to.str$ -- 130
+missing$ -- 129
+newline$ -- 406
+num.names$ -- 130
+pop$ -- 248
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1590
+skip$ -- 1609
 stack$ -- 0
-substring$ -- 2655
-swap$ -- 1019
+substring$ -- 2667
+swap$ -- 1032
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 6
-while$ -- 381
-width$ -- 132
-write$ -- 1341
-(There were 10 error messages)
+while$ -- 383
+width$ -- 133
+write$ -- 1352
+(There were 11 error messages)

@@ -22,7 +22,7 @@ In this study, a 'multi-microscopy' approach, whereby several microscopy techniq
 
 
 \section{Sample Structure}
-For this study, a QW InGaN LED structure with a nominal QW thicknesses of 4.5 nm was studied.The sample was grown at the Cambridge Centre for Gallium Nitride, with LED processing carried out at the University of Bath. The structure was grown on a low dislocation density \nomenclature[z-LDD]{LDD}{Low Dislocation Density} ($5 \times 10^{8}cm^{-2}$) GaN template on sapphire, and consists of a 2 $\mu m$ layer of unintentionally doped GaN followed by a 3 $\mu m$ silicon doped GaN layer. The active layer consists of a 5 period InGaN/GaN MQW region, with unintentionally doped GaN barriers (7.6 nm). An AlGaN electron blocking layer \nomenclature[z-EBL]{EBL}{Electron Blocking Layer} (20 nm) and a magnesium-doped GaN cap (117 nm) were grown following the active region. This is shown schematically in Fig. \ref{LEDstruct}:
+For this study, a QW InGaN LED structure with a nominal QW thicknesses of 4.5 nm was studied.The sample was grown at the Cambridge Centre for Gallium Nitride, with LED processing carried out at the University of Bath. The structure was grown on a low dislocation density \nomenclature[z-LDD]{LDD}{Low Dislocation Density} ($5 \times 10^{8}cm^{-2}$) GaN template on sapphire, and consists of a 2 $\mu m$ layer of unintentionally doped GaN followed by a 3 $\mu m$ silicon doped GaN layer. The active layer consists of a 5 period InGaN/GaN MQW region, with unintentionally doped GaN barriers (7.6 nm). An AlGaN electron blocking layer \nomenclature[z-EBL]{EBL}{Electron Blocking Layer} (20 nm) and a magnesium-doped GaN cap (117 nm) were grown following the active region. The sample code is C5608A. This is shown schematically in Fig. \ref{LEDstruct}:
 
 \begin{figure}[!ht]
 	\centering
@@ -62,7 +62,7 @@ Following this, hyperspectral EL mapping with CL and EBIC were performed using a
 
 \subsection{Hyperspectral EL Imaging}
 Hyperspectral EL imaging was performed at Strathclyde University with the assistance of Dr Michael Wallace. In order to study the device under forward current, the LED wafers were mounted on TO-5 headers and bonded with 5 µm Al wire. A Keithley Instrument 2401 source meter was used to apply varying forward currents to the devices and thus allow for the collection of EL. \\
-Full EL spectra were collected with a spatial resolution of approximately 3 µm and analysed using custom software developed by Dr. Paul Edwards, allowing for 2-D maps of EL peak intensity, position and FWHM. At each pixel in the map, a full EL spectrum was collected by an Andor CCD camera. A full set of data extracted from the hyperspectral EL mapping is shown in Fig.\ref{ELfull}
+Full EL spectra were collected with a spatial resolution of approximately 3 µm and analysed using custom software developed by Dr. Paul Edwards, allowing for 2-D maps of EL peak intensity, position and FWHM. At each pixel in the map, a full EL spectrum was collected by an Andor CCD spectrograph. A full set of data extracted from the hyperspectral EL mapping (taken from the background emission of the LED, and not the bright inhomogeneities) is shown in Fig.\ref{ELfull}
 
 \begin{figure}[!ht]
 	\centering
@@ -73,7 +73,8 @@ Full EL spectra were collected with a spatial resolution of approximately 3 µm 
 
 \FloatBarrier 
 
-It is interesting to note that from this representative data set, the inhomogeneities observed are brighter by a factor of $\sim 6$, blue-shifted in terms of peak energy by $\sim 0.08$ eV and have a larger FWHM. Although these values were observed to shift based on injection current, the overall trend observed in the EL data collected for this LED is represented by Fig.\ref{ELfull}.
+It is interesting to note that from this representative data set, the inhomogeneities observed are brighter by a factor of $\sim 6$, blue-shifted in terms of peak energy by $\sim 0.08$ eV and have a larger FWHM. Although these values were observed to shift based on injection current, the overall trend observed in the EL data collected for this LED is represented by Fig.\ref{ELfull}.\\
+All intensity measurements performed on the system at Strathclyde University (for both CL and EL) are reported with units of 'Counts/eV' due to non-uniformity between neighbouring CCD channels in the spectrograph.
 
 \subsubsection{Current Dependent EL Measurements}
 
@@ -170,7 +171,7 @@ Current dependent hyperspectral EL maps of the same area were performed, in orde
 The spatially resolved EL data shown in Figures \ref{peak5610} and \ref{centre5610} allow for the comparison between areas containing the inhomogeneities and the 'background' EL. This is demonstrated in Fig. \ref{5610peakcomp} which shows the behaviour of both the inhomogeneities (labelled 'spots') and the averaged background peak intensity with increasing injection current.
 \begin{figure}[!ht]
 	\centering
-	\includegraphics[width=0.8\textwidth]{Figs/Ch3/centrePeakcomp5608.png}
+	\includegraphics[width=0.8\textwidth]{Figs/Ch3/Peakcomp5608.png}
 	\caption[h] {Spot and background average peak intensity against injection current}
 	\label{5610peakcomp}
 \end{figure}
@@ -181,7 +182,7 @@ Fig. \ref{5610centrecomp} shows the same current dependent comparison for backgr
 
 \begin{figure}[!ht]
 	\centering
-	\includegraphics[width=0.8\textwidth]{Figs/Ch3/CentercompeV.png}
+	\includegraphics[width=0.8\textwidth]{Figs/Ch3/centrePeakcomp5608.png}
 	\caption[h] {Spot and background average peak energy against injection current}
 	\label{5610centrecomp}
 \end{figure}
@@ -190,7 +191,7 @@ Fig. \ref{5610centrecomp} shows the same current dependent comparison for backgr
 
 
 \subsection{Cathodoluminescence and Electron Beam Induced Current}
-Having noted the behaviour of the inhomogeneities inferred from the hyperpsectral EL data, CL and EBIC data were taken over areas containing the inhomogeneities in order to examine their properties in more detail as electron-beam based techniques allow for a far higher resolution than EL mapping.\\
+Having noted the behaviour of the inhomogeneities inferred from the hyperspectral EL data, CL and EBIC data were taken over areas containing the inhomogeneities in order to examine their properties in more detail as electron-beam based techniques allow for a far higher resolution than EL mapping.\\
 In order to achieve simultaneous CL and EBIC measurements, a Keithley Instrument 2401 source/measure unit was utilised in order to main the LED devices at a fixed bias of 0V thus allowing for the measurement of the short circuit current. During the CL image scanning, the Andor CCD camera was set-up to trigger the unit to record the current at each point in the CL spectral acquisition. The CL acquisition was performed with an electron beam at 10 kV and 1 nA. Unfortunately the secondary electron detector was inoperable during the acquisition of this data, as such there is no accompanying SEM micrograph for the CL and EBIC data. The CL and EBIC data for C5608A are shown in Fig.\ref{5608CLEBIC}.
 
 \begin{figure}[h]
