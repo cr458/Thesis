@@ -313,6 +313,10 @@ W.~H.~P. Pernice, C.~Xiong, C.~Schuck, and H.~X. Tang, ``{High-Q aluminum
   nitride photonic crystal nanobeam cavities},'' {\em Applied Physics Letters},
   vol.~100, no.~9, 2012.
 
+\bibitem{Bao2017}
+A.~Bao, ``Group iii-nitride nanowires,'' {\em Materials Science and
+  Technology}, vol.~0, no.~0, pp.~1--12, 2016.
+
 \bibitem{Arafin2013}
 S.~Arafin, X.~Liu, and Z.~Mi, ``{Review of recent progress of III-nitride
   nanowire lasers},'' {\em Journal of Nanophotonics}, vol.~7, no.~1,
@@ -395,6 +399,12 @@ N.~Kawase, M.~Kato, H.~Nishioka, and H.~Jinnai, ``{Transmission electron
   microtomography without the "missing wedge" for quantitative structural
   analysis},'' {\em Ultramicroscopy}, vol.~107, no.~1, pp.~8--15, 2007.
 
+\bibitem{Fernandez2010}
+J.~J. Fern{\'{a}}ndez, J.~I. Agulleiro, A.~Mart{\'{i}}nez, I.~Garc{\'{i}}a, and
+  F.~J. Chich{\'{o}}n, ``{Image processing in electron tomography},'' {\em
+  Microscopy: Science, Technology, Applications and Education}, no.~Figure 1,
+  pp.~19--28, 2010.
+
 \bibitem{Midgley2003}
 P.~A. Midgley and M.~Weyland, ``{3D electron microscopy in the physical
   sciences: The development of Z-contrast and EFTEM tomography},'' {\em
@@ -404,6 +414,10 @@ P.~A. Midgley and M.~Weyland, ``{3D electron microscopy in the physical
 P.~Gilbert, ``{Iterative methods for the three-dimensional reconstruction of an
   object from projections},'' {\em Journal of Theoretical Biology}, vol.~36,
   no.~1, pp.~105--117, 1972.
+
+\bibitem{Penczek2010}
+P.~A. Penczek, ``{Fundamentals of Three-Dimensional Reconstruction from
+  Projections},'' pp.~1--33, 2010.
 
 \bibitem{Frank2006}
 J.~Frank, {\em Electron Tomography}.
@@ -451,10 +465,20 @@ C.~L. {Paul R. Edwards, Lethy Krishnan Jagadamma, Jochen Bruckbauer} and
   cathodoluminescence hyperspectral imaging of nitride nanostructures},'' {\em
   Microscopy and Microanalysis}, pp.~1212--1219, 2012.
 
+\bibitem{Haegel2009}
+N.~M. Haegel, {\em {Measurement of Minority Charge Carrier Diffusion Length in
+  Gallium Nitride Nanowires Using Electron Beam Induced Current}}.
+\newblock PhD thesis, Naval Postgraduate School, 2009.
+
 \bibitem{Yakimov2002}
 E.~Yakimov, ``{Electron-beam-induced-current study of defects in GaN;
   experiments and simulation},'' {\em Journal of Physics: Condensed Matter},
   vol.~13069, 2002.
+
+\bibitem{Jansen1982}
+W.~Jansen and M.~Slaughter, ``{Elemental mapping of minerals by electron
+  microprobe.},'' {\em American Mineralogist}, vol.~67, no.~5-6, pp.~521--533,
+  1982.
 
 \bibitem{Wallace2015}
 M.~J. Wallace, P.~R. Edwards, M.~J. Kappers, M.~A. Hopkins, F.~Oehler,
@@ -462,6 +486,11 @@ M.~J. Wallace, P.~R. Edwards, M.~J. Kappers, M.~A. Hopkins, F.~Oehler,
   Martin, ``{Effect of the barrier growth mode on the luminescence and
   conductivity micron scale uniformity of InGaN light emitting diodes},'' {\em
   Journal of Applied Physics}, vol.~117, no.~11, p.~115705, 2015.
+
+\bibitem{Ishitani1996}
+T.~Ishitani and T.~Yaguchi, ``{Cross-sectional sample preparation by focused
+  ion beam: a review of ion-sample interaction.},'' {\em Microscopy research
+  and technique}, vol.~35, no.~4, pp.~320--333, 1996.
 
 \bibitem{Bals2007}
 S.~Bals, W.~Tirry, R.~Geurts, Z.~Yang, and D.~Schryvers, ``{High-quality sample
@@ -475,6 +504,14 @@ L.~Holzer, F.~Indutnyi, P.~Gasser, B.~M{\"{u}}nch, and M.~Wegmann,
   ``{Three-dimensional analysis of porous $BaTiO_{3}$ ceramics using FIB
   nanotomography},'' {\em Journal of Microscopy}, vol.~216, no.~1, pp.~84--95,
   2004.
+
+\bibitem{Rasband1997-2016}
+W.~Rasband, ``Imagej,'' 1997-2017.
+
+\bibitem{Thevenaz1998}
+M.~U. P.~Th{\'{e}}venaz, U.E.~Ruttimann, ``{A Pyramid Approach to Subpixel
+  Registration Based on Intensity},'' {\em IEEE Transactions on Image
+  Processing}, vol.~7, no.~1, pp.~27--41, 1998.
 
 \bibitem{Lorensen1987}
 W.~E. Lorensen and H.~E. Cline, ``{Marching cubes: A high resolution 3D surface
@@ -650,6 +687,11 @@ N.~Vartak, A.~Damle-Vartak, B.~Richter, O.~Dirsch, U.~Dahmen, S.~Hammad, and
   J.~G. Hengstler, ``{Cholestasis-induced adaptive remodeling of interlobular
   bile ducts},'' {\em Hepatology}, vol.~63, no.~3, 2016.
 
+\bibitem{Rao2010}
+D.~V.~S. Rao, K.~Muraleedharan, and C.~J. Humphreys, ``{TEM specimen
+  preparation techniques},'' {\em Microscopy: Science, Technology, Applications
+  and Education}, no.~320, pp.~1232--1244, 2010.
+
 \bibitem{Bergbauer2010}
 W.~Bergbauer, M.~Strassburg, C.~K{\"{o}}lper, N.~Linder, C.~Roder,
   J.~L{\"{a}}hnemann, A.~Trampert, S.~F{\"{u}}ndling, S.~F. Li, H.-H. Wehmann,
@@ -692,10 +734,6 @@ S.~Dhara, C.~Y. Lu, C.~T. Wu, C.~W. Hsu, W.~S. Tu, K.~H. Chen, Y.~L. Wang,
   doping as a building block for nanoscale electronics in GaN nanowires},''
   {\em Journal of Physical Chemistry C}, vol.~114, no.~36, pp.~15260--15265,
   2010.
-
-\bibitem{Bao2016}
-A.~Bao, ``Group iii-nitride nanowires,'' {\em Materials Science and
-  Technology}, vol.~0, no.~0, pp.~1--12, 2016.
 
 \bibitem{Shi2001}
 W.~Shi, Y.~Zheng, N.~Wang, C.~Lee, and S.~Lee, ``Microstructures of gallium

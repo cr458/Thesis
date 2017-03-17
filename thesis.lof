@@ -5,23 +5,23 @@
 \contentsline {figure}{\numberline {1.4}{\ignorespaces Band diagram of a quantum well. The bandgap of the well material is denoted $E_{g}$, the energy of the ground state transition is denoted $E_{1}$ and the conduction and valence bands are denoted $E_{c},E_{v}$ respectively \cite {Ren2015}.\relax }}{6}{figure.caption.13}
 \contentsline {figure}{\numberline {1.5}{\ignorespaces Illustration of Ga-face (+ {\it c}) and N-face (-{\it c}) GaN wrutzite crystal exhibiting polarity along the {\it c}-axis. Reproduced from \cite {Sumiya2004}.\relax }}{7}{figure.caption.14}
 \contentsline {figure}{\numberline {1.6}{\ignorespaces GaN unit cell with lattice parameters \textbf {\it c} and \textbf {\it a} \cite {Miguel2014}\relax }}{8}{figure.caption.15}
-\contentsline {figure}{\numberline {1.7}{\ignorespaces Unbiased and biased quantum well energy levels with associated carrier wavefunctions. Under an applied field the overlap between the electron and hole carrier wavefunctions is reduced. Reproduced from \cite {Ryou2009}.\relax }}{9}{figure.caption.17}
-\contentsline {figure}{\numberline {1.8}{\ignorespaces Point Defects:vacancy, self-interdtitial, substitutional impurity and foreign interstitial.\relax }}{11}{figure.caption.18}
-\contentsline {figure}{\numberline {1.9}{\ignorespaces Misfit dislocation formation through strain relaxation for heteroepitaxial growth: a) the film is grown on a substrate of smaller lattice size b) the film maintains a pseudomorphic relationship with the substrate c) the film relaxes through the formation of a dislocation.\relax }}{12}{figure.caption.19}
-\contentsline {figure}{\numberline {1.10}{\ignorespaces a) {\it a}-plane GaN showing basal plane stacking faults (BSFs), prismatic stacking faults (PSFs) and stacking faults bounded partial dislocations (PDs) shown schematically b) and in TEM. Adapted from \cite {Liu2011}.\relax }}{13}{figure.caption.21}
-\contentsline {figure}{\numberline {1.11}{\ignorespaces Stacking sequences for stacking fault types. The change in stacking sequence is highlighted in the figures \cite {Lahnemann2014}.\relax }}{14}{figure.caption.23}
-\contentsline {figure}{\numberline {1.12}{\ignorespaces a) TEM image of a hexagonal inverted pyramid defect b) Schematic of a V-pit with its associated TD \cite {Hangleiter2005}.\relax }}{15}{figure.caption.24}
-\contentsline {figure}{\numberline {1.13}{\ignorespaces Potential landscape due to V-pits decorating the apex of TDs: carriers (blue) need to overcome the energy barriers to recombine non-radiatively at the TDs \cite {Hangleiter2005}.\relax }}{15}{figure.caption.25}
-\contentsline {figure}{\numberline {1.14}{\ignorespaces a) {\it p-n} junction at equilibrium, with the conduction band, Fermi level and valence band denoted $E_{c},E_{F}$ and $E_{v}$ respectively, the built in potential across the junction is denoted as $V_{bi}$ b) under forward bias of V.\relax }}{16}{figure.caption.26}
-\contentsline {figure}{\numberline {1.15}{\ignorespaces Typical visible light LED structure grown on a sapphire substrate \cite {Ren2015}.\relax }}{17}{figure.caption.27}
-\contentsline {figure}{\numberline {1.16}{\ignorespaces Illustration of the some key parameters such as FSR and resonant cavity mode FWHM. \relax }}{19}{figure.caption.28}
-\contentsline {figure}{\numberline {1.17}{\ignorespaces Optical resonators.\relax }}{19}{figure.caption.29}
-\contentsline {figure}{\numberline {1.18}{\ignorespaces Illustration of the minimum radius $R_{min}$ for WGM propagation. Rays traversing the region $r<R_{min}$ (denoted in red) exceed the critical angle $\theta _{c}$ and thus escape the cavity. Rays travelling outside this region $r>R_{min}$ (denoted in violet) are confined. \relax }}{20}{figure.caption.30}
-\contentsline {figure}{\numberline {1.19}{\ignorespaces Scanning electron microscope image of a GaN microdisk produced by selective etching of sacrificial AlInN layers \cite {Simeonov2008}.\relax }}{21}{figure.caption.31}
-\contentsline {figure}{\numberline {1.20}{\ignorespaces Nanobeam schematic and 3-D FDTD simulation of the electric field intensity profile of the cavity mode adapted from \cite {Trivino2015}. \relax }}{22}{figure.caption.32}
-\contentsline {figure}{\numberline {1.21}{\ignorespaces a) Lasing from the end-facets of a GaN nanowire b) schematic of the triangular InGaN/GaN MQW nanowire grown by Qian {\it et al.} c) GaN nanowire coupling to a dielectric cavity d) GaN/InGaN nanowire bundle coupling to a gold plate through a nanogap layer. Adapted from \cite {Johnson2002,Qian2008,Das2011,Wu2011} respectively.\relax }}{24}{figure.caption.33}
-\contentsline {figure}{\numberline {1.22}{\ignorespaces a) Schematic of the InGaN QD in GaN nanowire structure b) SEM micrograph of the nanowire sample grown by MBE c)TEM micrograph of a single nanowire. Adapted from \cite {Deshpande2013b}.\relax }}{24}{figure.caption.34}
-\contentsline {figure}{\numberline {1.23}{\ignorespaces a) SEM micrograph showing the a single nanowire on a patterned $SiO_{2}$ substrate grown by MOCVD. The inset shows the array of nanowires grown on the substrate b)showing the site-controlled GaN QD at the tip of the nanowire c)schematic of the nanowire structure \cite {Holmes2014}.\relax }}{25}{figure.caption.35}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces Unbiased and biased quantum well energy levels with associated carrier wavefunctions. Under an applied field in the x-direction labelled in the figure, the overlap between the electron and hole carrier wavefunctions is reduced. Reproduced from \cite {Ryou2009}.\relax }}{10}{figure.caption.17}
+\contentsline {figure}{\numberline {1.8}{\ignorespaces Point Defects:vacancy, self-interdtitial, substitutional impurity and foreign interstitial.\relax }}{12}{figure.caption.18}
+\contentsline {figure}{\numberline {1.9}{\ignorespaces Misfit dislocation formation through strain relaxation for heteroepitaxial growth: a) the film is grown on a substrate of smaller lattice size b) the film maintains a pseudomorphic relationship with the substrate c) the film relaxes through the formation of a dislocation.\relax }}{13}{figure.caption.19}
+\contentsline {figure}{\numberline {1.10}{\ignorespaces a) {\it a}-plane GaN showing basal plane stacking faults (BSFs), prismatic stacking faults (PSFs) and stacking faults bounded partial dislocations (PDs) shown schematically b) and in TEM. Adapted from \cite {Liu2011}.\relax }}{14}{figure.caption.21}
+\contentsline {figure}{\numberline {1.11}{\ignorespaces Stacking sequences for stacking fault types. The change in stacking sequence is highlighted in the figures \cite {Lahnemann2014}.\relax }}{15}{figure.caption.23}
+\contentsline {figure}{\numberline {1.12}{\ignorespaces a) TEM image of a hexagonal inverted pyramid defect b) Schematic of a V-pit with its associated TD \cite {Hangleiter2005}.\relax }}{16}{figure.caption.24}
+\contentsline {figure}{\numberline {1.13}{\ignorespaces Potential landscape due to V-pits decorating the apex of TDs: carriers (blue) need to overcome the energy barriers to recombine non-radiatively at the TDs \cite {Hangleiter2005}.\relax }}{16}{figure.caption.25}
+\contentsline {figure}{\numberline {1.14}{\ignorespaces a) {\it p-n} junction at equilibrium, with the conduction band, Fermi level and valence band denoted $E_{c},E_{F}$ and $E_{v}$ respectively, the built in potential across the junction is denoted as $V_{bi}$ b) under forward bias of V.\relax }}{17}{figure.caption.26}
+\contentsline {figure}{\numberline {1.15}{\ignorespaces Typical visible light LED structure grown on a sapphire substrate \cite {Ren2015}.\relax }}{18}{figure.caption.27}
+\contentsline {figure}{\numberline {1.16}{\ignorespaces Illustration of the some key parameters such as FSR and resonant cavity mode FWHM. \relax }}{20}{figure.caption.28}
+\contentsline {figure}{\numberline {1.17}{\ignorespaces Optical resonators.\relax }}{20}{figure.caption.29}
+\contentsline {figure}{\numberline {1.18}{\ignorespaces Illustration of the minimum radius $R_{min}$ for WGM propagation. Rays traversing the region $r<R_{min}$ (denoted in red) exceed the critical angle $\theta _{c}$ and thus escape the cavity. Rays travelling outside this region $r>R_{min}$ (denoted in violet) are confined. \relax }}{21}{figure.caption.30}
+\contentsline {figure}{\numberline {1.19}{\ignorespaces Scanning electron microscope image of a GaN microdisk produced by selective etching of sacrificial AlInN layers \cite {Simeonov2008}.\relax }}{22}{figure.caption.31}
+\contentsline {figure}{\numberline {1.20}{\ignorespaces Nanobeam schematic and 3-D FDTD simulation of the electric field intensity profile of the cavity mode adapted from \cite {Trivino2015}. The tapering of the nanobeam holes is crucial in avoiding large scattering losses. \relax }}{23}{figure.caption.32}
+\contentsline {figure}{\numberline {1.21}{\ignorespaces a) Lasing from the end-facets of a GaN nanowire b) schematic of the triangular InGaN/GaN MQW nanowire grown by Qian {\it et al.} c) GaN nanowire coupling to a dielectric cavity d) GaN/InGaN nanowire bundle coupling to a gold plate through a nanogap layer. Adapted from \cite {Johnson2002,Qian2008,Das2011,Wu2011} respectively.\relax }}{25}{figure.caption.33}
+\contentsline {figure}{\numberline {1.22}{\ignorespaces a) Schematic of the InGaN QD in GaN nanowire structure b) SEM micrograph of the nanowire sample grown by MBE c)TEM micrograph of a single nanowire. Adapted from \cite {Deshpande2013b}.\relax }}{26}{figure.caption.34}
+\contentsline {figure}{\numberline {1.23}{\ignorespaces a) SEM micrograph showing the a single nanowire on a patterned $SiO_{2}$ substrate grown by MOCVD. The inset shows the array of nanowires grown on the substrate b)showing the site-controlled GaN QD at the tip of the nanowire c)schematic of the nanowire structure \cite {Holmes2014}.\relax }}{26}{figure.caption.35}
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2.1}{\ignorespaces h}}{27}{figure.caption.36}
 \contentsline {figure}{\numberline {2.2}{\ignorespaces a) Elastic and b) inelastic interactions for a high energy electron beam incident on a thin sample. \relax }}{28}{figure.caption.37}
@@ -33,70 +33,104 @@
 \contentsline {figure}{\numberline {2.8}{\ignorespaces h}}{34}{figure.caption.43}
 \contentsline {figure}{\numberline {2.9}{\ignorespaces h}}{35}{figure.caption.44}
 \contentsline {figure}{\numberline {2.10}{\ignorespaces h}}{36}{figure.caption.45}
-\contentsline {figure}{\numberline {2.11}{\ignorespaces Schematic of an atomic force microscope.\relax }}{37}{figure.caption.46}
-\contentsline {figure}{\numberline {2.12}{\ignorespaces The effect of separation on the tip-sample interaction force \cite {Zhu2010}.\relax }}{38}{figure.caption.47}
-\contentsline {figure}{\numberline {2.13}{\ignorespaces Interaction of a hemisphere with a flat-topped island for the cases a) $h > R(1-cos(\alpha ))$ and b) $h < R(1-cos(\alpha ))$ adapted from \cite {Oliver2008}. \relax }}{39}{figure.caption.48}
-\contentsline {figure}{\numberline {2.14}{\ignorespaces Measurement error in the depth of a pit caused by the finite width of the AFM tip.\relax }}{39}{figure.caption.49}
-\contentsline {figure}{\numberline {2.15}{\ignorespaces SEM design \cite {YacobiHolt1990}.\relax }}{40}{figure.caption.50}
-\contentsline {figure}{\numberline {2.16}{\ignorespaces Interaction volumes for different interactions of an electron beam \cite {Puchtler2014}.\relax }}{41}{figure.caption.51}
-\contentsline {figure}{\numberline {2.17}{\ignorespaces h}}{42}{figure.caption.52}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces WBP and SIRT reconstruction. Adapted from \cite {Fernandez2010}.\relax }}{37}{figure.caption.46}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Schematic of an atomic force microscope.\relax }}{38}{figure.caption.47}
+\contentsline {figure}{\numberline {2.13}{\ignorespaces The effect of separation on the tip-sample interaction force \cite {Zhu2010}.\relax }}{39}{figure.caption.48}
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Interaction of a hemisphere with a flat-topped island for the cases a) $h > R(1-cos(\alpha ))$ and b) $h < R(1-cos(\alpha ))$ adapted from \cite {Oliver2008}. \relax }}{40}{figure.caption.49}
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Measurement error in the depth of a pit caused by the finite width of the AFM tip.\relax }}{40}{figure.caption.50}
+\contentsline {figure}{\numberline {2.16}{\ignorespaces SEM design \cite {YacobiHolt1990}.\relax }}{41}{figure.caption.51}
+\contentsline {figure}{\numberline {2.17}{\ignorespaces Interaction volumes for different interactions of an electron beam \cite {Puchtler2014}.\relax }}{42}{figure.caption.52}
 \contentsline {figure}{\numberline {2.18}{\ignorespaces h}}{43}{figure.caption.53}
 \contentsline {figure}{\numberline {2.19}{\ignorespaces h}}{44}{figure.caption.54}
-\contentsline {figure}{\numberline {2.20}{\ignorespaces FIB/SEM lamella lift-out and polishing process: a) Protective Pt layer deposition, b) trench milling and Lamella lift out c) final thinning.\relax }}{45}{figure.caption.55}
-\contentsline {figure}{\numberline {2.21}{\ignorespaces h}}{46}{figure.caption.56}
+\contentsline {figure}{\numberline {2.20}{\ignorespaces h}}{46}{figure.caption.55}
+\contentsline {figure}{\numberline {2.21}{\ignorespaces FIB/SEM lamella lift-out and polishing process: a) Protective Pt layer deposition, b) trench milling, c) probe attachment, d) sample lift out e) sample attached onto a TEM grid f) final sample after thinning.\relax }}{47}{figure.caption.56}
+\contentsline {figure}{\numberline {2.22}{\ignorespaces h}}{48}{figure.caption.57}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces h}}{50}{figure.caption.57}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces h}}{51}{figure.caption.58}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces LED EL under a forward bias of 3V. The bright inhomogeneities are visible in the emission of the LEDs. \relax }}{52}{figure.caption.59}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces h}}{53}{figure.caption.60}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Peak intensity for varying injection current for C5608.\relax }}{54}{figure.caption.61}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Peak energy for varying injection current for C5608.\relax }}{55}{figure.caption.62}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces h}}{56}{figure.caption.63}
-\contentsline {figure}{\numberline {3.8}{\ignorespaces h}}{57}{figure.caption.64}
-\contentsline {figure}{\numberline {3.9}{\ignorespaces a) CL and b) EBIC maps acquired simultaneously of the area shown in Fig.\ref {5610loc}b.\relax }}{58}{figure.caption.65}
-\contentsline {figure}{\numberline {3.10}{\ignorespaces a) SEM micrograph and b) pan-CL image of an inhomogeneity in C5608A. The pan-CL image utilises a temperature scale (blue = low, red = high).\relax }}{59}{figure.caption.66}
-\contentsline {figure}{\numberline {3.11}{\ignorespaces a) CL peak intensity and b) CL peak energy for the feature shown in Fig.\ref {5608-SEM-CL}\relax }}{59}{figure.caption.67}
-\contentsline {figure}{\numberline {3.12}{\ignorespaces h}}{60}{figure.caption.68}
-\contentsline {figure}{\numberline {3.13}{\ignorespaces h}}{61}{figure.caption.69}
-\contentsline {figure}{\numberline {3.14}{\ignorespaces h}}{61}{figure.caption.70}
-\contentsline {figure}{\numberline {3.15}{\ignorespaces h}}{62}{figure.caption.71}
-\contentsline {figure}{\numberline {3.16}{\ignorespaces h}}{63}{figure.caption.72}
-\contentsline {figure}{\numberline {3.17}{\ignorespaces h}}{63}{figure.caption.73}
-\contentsline {figure}{\numberline {3.18}{\ignorespaces h}}{64}{figure.caption.74}
-\contentsline {figure}{\numberline {3.19}{\ignorespaces Quantification of the ternary alloy compositions: a) HAADF-STEM image showing the region examined by EDX (blue box) b) aluminium atomic percentage, c) gallium atomic percentage and d) indium atomic percentage.\relax }}{65}{figure.caption.75}
-\contentsline {figure}{\numberline {3.20}{\ignorespaces h}}{67}{figure.caption.76}
-\contentsline {figure}{\numberline {3.21}{\ignorespaces APSYS simulation results: a) Radiative recombination events b) radiative recombination profiles, c) electron concentration profiles and d) hole concentration profiles. Red and black traces in b), c) and d) correspond to the red and black profiles in a).\relax }}{68}{figure.caption.77}
-\contentsline {figure}{\numberline {3.22}{\ignorespaces h}}{69}{figure.caption.78}
-\contentsline {figure}{\numberline {3.23}{\ignorespaces APSYS simulation results: a) Radiative recombination events b) radiative recombination profiles, c) electron concentration profiles and d) hole concentration profiles. Red and black traces in b), c) and d) correspond to the red and black profiles in a).\relax }}{70}{figure.caption.79}
-\contentsline {figure}{\numberline {3.24}{\ignorespaces h}}{71}{figure.caption.80}
-\contentsline {figure}{\numberline {3.25}{\ignorespaces h}}{72}{figure.caption.81}
-\contentsline {figure}{\numberline {3.26}{\ignorespaces h}}{73}{figure.caption.82}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces h}}{52}{figure.caption.58}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces h}}{53}{figure.caption.59}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces LED EL under a forward bias of 3V. The bright inhomogeneities are visible in the emission of the LEDs. \relax }}{54}{figure.caption.60}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces h}}{55}{figure.caption.61}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Peak intensity for varying injection current for C5608.\relax }}{56}{figure.caption.62}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Peak energy for varying injection current for C5608.\relax }}{57}{figure.caption.63}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces h}}{58}{figure.caption.64}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces h}}{59}{figure.caption.65}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces a) CL and b) EBIC maps acquired simultaneously of the area shown in Fig.\ref {5610loc}b.\relax }}{60}{figure.caption.66}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces a) SEM micrograph and b) pan-CL image of an inhomogeneity in C5608A. The pan-CL image utilises a temperature scale (blue = low, red = high).\relax }}{61}{figure.caption.67}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces a) CL peak intensity and b) CL peak energy for the feature shown in Fig.\ref {5608-SEM-CL}\relax }}{61}{figure.caption.68}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces h}}{62}{figure.caption.69}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces h}}{63}{figure.caption.70}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces h}}{64}{figure.caption.71}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces h}}{65}{figure.caption.72}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces h}}{65}{figure.caption.73}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces h}}{66}{figure.caption.74}
+\contentsline {figure}{\numberline {3.18}{\ignorespaces h}}{67}{figure.caption.75}
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Quantification of the ternary alloy compositions: a) HAADF-STEM image showing the region examined by EDX (blue box) b) aluminium atomic percentage, c) gallium atomic percentage and d) indium atomic percentage.\relax }}{68}{figure.caption.76}
+\contentsline {figure}{\numberline {3.20}{\ignorespaces h}}{70}{figure.caption.77}
+\contentsline {figure}{\numberline {3.21}{\ignorespaces APSYS simulation results: a) Radiative recombination events b) radiative recombination profiles, c) electron concentration profiles and d) hole concentration profiles. Red and black traces in b), c) and d) correspond to the red and black profiles in a).\relax }}{71}{figure.caption.78}
+\contentsline {figure}{\numberline {3.22}{\ignorespaces h}}{72}{figure.caption.79}
+\contentsline {figure}{\numberline {3.23}{\ignorespaces APSYS simulation results: a) Radiative recombination events b) radiative recombination profiles, c) electron concentration profiles and d) hole concentration profiles. Red and black traces in b), c) and d) correspond to the red and black profiles in a).\relax }}{73}{figure.caption.80}
+\contentsline {figure}{\numberline {3.24}{\ignorespaces h}}{74}{figure.caption.81}
+\contentsline {figure}{\numberline {3.25}{\ignorespaces h}}{75}{figure.caption.82}
+\contentsline {figure}{\numberline {3.26}{\ignorespaces h}}{76}{figure.caption.83}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces PEC etching set-up, with the charge transfer process shown in the inset.\relax }}{76}{figure.caption.83}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces SEM image of whiskers produced by etching of dislocations in an MOCVD GaN film grown on a silicon carbide (SiC) substrate. Reproduced from \cite {Youtsey1999}\relax }}{77}{figure.caption.84}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Q values from eight modes of microdisks fabricated from structure A(\leavevmode {\color {red}$\lozenge $}) and B ((\leavevmode {\color {blue}$\Bigcdot $}). Reproduced from \cite {El-Ella2011}.\relax }}{78}{figure.caption.85}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces a) Sample plan-view CL b) Corresponding side-view SEM image of an undercut microdisk with whiskers corresponding to the dark spots shown in a). c) Relationship between whiskers on the underside and dark features counted in plan-view CL. Adapted from \cite {Puchtler2015}.\relax }}{79}{figure.caption.86}
-\contentsline {figure}{\numberline {4.5}{\ignorespaces a)Microdisk Q-factor vs. threading dislocation number for radial positions: a) 0- 0.6 $\mu $m b) < 0.4 $\mu $m d) >0.4 $\mu $m for QD (blue) and QW (red) containing microdisks. c) and e) show a schematic of, and representative PL spectrum taken from microdisks of low and high dislocation number in the periphery of the disks. Reproduced from \cite {Puchtler2015}.\relax }}{80}{figure.caption.87}
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Effect of radial position on the influence of a whisker on microdisk Q-factor. The whisker was simulated as a pyramid with a height of 150 nm and base widths of 100, 150, and 200 nm. The inset shows a side-on view of the field profile for a whisker located at the edge of the microdisk: light leaks into the whisker region and is radiated, thus introducing loss in the cavity. Reproduced from \cite {Puchtler2015}.\relax }}{81}{figure.caption.88}
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Schematic of the microdisk structure. Courtesy of Dr. T. Puchtler.\relax }}{82}{figure.caption.89}
-\contentsline {figure}{\numberline {4.8}{\ignorespaces SEM micrograph taken at 3 kV and 0.16 nA of a PEC undercut microdisk with a whisker circled in red.\relax }}{83}{figure.caption.90}
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Whisker lift-out process: a) SEM electron beam deposited platinum with the approximate position of the whisker as shown in Fig. \ref {FIBwhisk} circled in red b) milling of trenches by ion beam c)ion-beam image taken after attaching the lift-out probe to the sample using ion-beam deposited Pt and of d) sample release and lift-out e) SEM image of the initial stages of thinning and f) the final stages of thinning with the whisker visible (red ellipse).\relax }}{84}{figure.caption.91}
-\contentsline {figure}{\numberline {4.10}{\ignorespaces a)BF-STEM and b) STEM-HAADF acquired simultaneously of a TEM lamella prepared containing the microdisk membrane and a whisker. The sample has been slightly damaged by the thinning process.\relax }}{85}{figure.caption.92}
-\contentsline {figure}{\numberline {4.11}{\ignorespaces High magnification BF-STEM of the whisker, the red arrow points to the dislocation.\relax }}{85}{figure.caption.93}
-\contentsline {figure}{\numberline {4.12}{\ignorespaces a)WBDF activating \textbf {g} = $<11\bar {2}0>$ b) WBDF activating \textbf {g} = $<0002>$. The dislocation is only visible along the direction, confirming its nature as a pure edge dislocation.\relax }}{86}{figure.caption.94}
-\contentsline {figure}{\numberline {4.13}{\ignorespaces a)STEM-HAADF image of a microdisk lamella produced with the membrane, SSL pedestal and \textit {n}-GaN layer and b) higher magnification image of the InGaN active region.\relax }}{87}{figure.caption.95}
-\contentsline {figure}{\numberline {4.14}{\ignorespaces a) STEM-HAADF of the active region of the microdisk (scale bar = 10 nm) b) Ga atomic percentage and c) In atomic percentage of the region highlighted in red.\relax }}{88}{figure.caption.96}
-\contentsline {figure}{\numberline {4.15}{\ignorespaces SEM image of two microdisks exhibiting damage due to the PEC etching process.\relax }}{89}{figure.caption.97}
-\contentsline {figure}{\numberline {4.16}{\ignorespaces SEM image of a cross-section of the microdisks shown in Fig.\ref {udisktomotarget}.\relax }}{89}{figure.caption.98}
-\contentsline {figure}{\numberline {4.17}{\ignorespaces Tomographic reconstruction for microdisk 'B'.\relax }}{90}{figure.caption.99}
-\contentsline {figure}{\numberline {4.18}{\ignorespaces Isosurface reconstruction of the top portion of the microdisk membrane\relax }}{91}{figure.caption.100}
-\contentsline {figure}{\numberline {4.19}{\ignorespaces Top view of the reconstructed isosurface. Blatant stacking errors are denoted by blue arrows.\relax }}{91}{figure.caption.101}
-\contentsline {figure}{\numberline {4.20}{\ignorespaces The cross product of any two vectors (\textbf {A} and \textbf {B}) describing two facets of a triangle in the triangular mesh gives the area normal vector \textbf {N}.\relax }}{92}{figure.caption.102}
-\contentsline {figure}{\numberline {4.21}{\ignorespaces The dot product between the normal vector of a triangle in the mesh and an ideal flat surface gives the angle\relax }}{92}{figure.caption.103}
-\contentsline {figure}{\numberline {4.22}{\ignorespaces a) Smoothed isosurface b) unsmoothed.\relax }}{93}{figure.caption.104}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces PEC etching set-up, with the charge transfer process shown in the inset.\relax }}{80}{figure.caption.84}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces SEM image of whiskers produced by etching of dislocations in an MOCVD GaN film grown on a silicon carbide (SiC) substrate. Reproduced from \cite {Youtsey1999}\relax }}{81}{figure.caption.85}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Q values from eight modes of microdisks fabricated from structure A(\leavevmode {\color {red}$\lozenge $}) and B ((\leavevmode {\color {blue}$\Bigcdot $}). Reproduced from \cite {El-Ella2011}.\relax }}{82}{figure.caption.86}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces a) Sample plan-view CL b) Corresponding side-view SEM image of an undercut microdisk with whiskers corresponding to the dark spots shown in a). c) Relationship between whiskers on the underside and dark features counted in plan-view CL. Adapted from \cite {Puchtler2015}.\relax }}{83}{figure.caption.87}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces a)Microdisk Q-factor vs. threading dislocation number for radial positions: a) 0- 0.6 $\mu $m b) < 0.4 $\mu $m d) >0.4 $\mu $m for QD (blue) and QW (red) containing microdisks. c) and e) show a schematic of, and representative PL spectrum taken from microdisks of low and high dislocation number in the periphery of the disks. Reproduced from \cite {Puchtler2015}.\relax }}{84}{figure.caption.88}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Effect of radial position on the influence of a whisker on microdisk Q-factor. The whisker was simulated as a pyramid with a height of 150 nm and base widths of 100, 150, and 200 nm. The inset shows a side-on view of the field profile for a whisker located at the edge of the microdisk: light leaks into the whisker region and is radiated, thus introducing loss in the cavity. Reproduced from \cite {Puchtler2015}.\relax }}{85}{figure.caption.89}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Schematic of the microdisk structure. Courtesy of Dr. T. Puchtler.\relax }}{86}{figure.caption.90}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces SEM micrograph taken at 3 kV and 0.16 nA of a PEC undercut microdisk with a whisker circled in red.\relax }}{87}{figure.caption.91}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Whisker lift-out process: a) SEM electron beam deposited platinum with the approximate position of the whisker as shown in Fig. \ref {FIBwhisk} circled in red b) milling of trenches by ion beam c)ion-beam image taken after attaching the lift-out probe to the sample using ion-beam deposited Pt and of d) sample release and lift-out e) SEM image of the initial stages of thinning and f) the final stages of thinning with the whisker visible (red ellipse).\relax }}{88}{figure.caption.92}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces a)BF-STEM and b) STEM-HAADF acquired simultaneously of a TEM lamella prepared containing the microdisk membrane and a whisker. The sample has been slightly damaged by the thinning process.\relax }}{89}{figure.caption.93}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces High magnification BF-STEM of the whisker, the red arrow points to the dislocation.\relax }}{89}{figure.caption.94}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces a)WBDF activating \textbf {g} = $<11\bar {2}0>$ b) WBDF activating \textbf {g} = $<0002>$. The dislocation is only visible along the direction, confirming its nature as a pure edge dislocation.\relax }}{90}{figure.caption.95}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces a)STEM-HAADF image of a microdisk lamella produced with the membrane, SSL pedestal and \textit {n}-GaN layer and b) higher magnification image of the InGaN active region.\relax }}{91}{figure.caption.96}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces a) STEM-HAADF of the active region of the microdisk (scale bar = 10 nm) b) Ga atomic percentage and c) In atomic percentage of the region highlighted in red.\relax }}{92}{figure.caption.97}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces SEM image of two microdisks exhibiting damage due to the PEC etching process.\relax }}{93}{figure.caption.98}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces SEM image of a cross-section of the microdisks shown in Fig.\ref {udisktomotarget}.\relax }}{93}{figure.caption.99}
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Tomographic reconstruction for microdisk 'B'.\relax }}{94}{figure.caption.100}
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Isosurface reconstruction of the top portion of the microdisk membrane\relax }}{95}{figure.caption.101}
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Top view of the reconstructed isosurface. Blatant stacking errors are denoted by blue arrows.\relax }}{95}{figure.caption.102}
+\contentsline {figure}{\numberline {4.20}{\ignorespaces The cross product of any two vectors (\textbf {A} and \textbf {B}) describing two facets of a triangle in the triangular mesh gives the area normal vector \textbf {N}.\relax }}{96}{figure.caption.103}
+\contentsline {figure}{\numberline {4.21}{\ignorespaces The dot product between the normal vector of a triangle in the mesh and an ideal flat surface gives the angle\relax }}{97}{figure.caption.104}
+\contentsline {figure}{\numberline {4.22}{\ignorespaces a) Smoothed isosurface b) unsmoothed.\relax }}{97}{figure.caption.105}
+\contentsline {figure}{\numberline {4.23}{\ignorespaces 'Slice' of a microdisk taken from the stack of images used for 3D reconstruction\relax }}{98}{figure.caption.106}
+\contentsline {figure}{\numberline {4.24}{\ignorespaces 'Slice' of a microdisk taken from the stack of images used for 3D reconstruction\relax }}{99}{figure.caption.107}
+\contentsline {figure}{\numberline {4.25}{\ignorespaces Histogram showing the RMS roughnesses extracted from each individual image.\relax }}{99}{figure.caption.108}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Nanobeam cavity workflow.\relax }}{96}{figure.caption.105}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces a) Top-view and b) side-view of the suspended nanobeam cavities. Reproduced from \cite {Niu2015}.\relax }}{96}{figure.caption.106}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces SEM image of the Omniprobe attached to a broken nanobeam cavity.\relax }}{98}{figure.caption.107}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Nanobeam cavity workflow.\relax }}{104}{figure.caption.109}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces a) Top-view and b) side-view of the suspended nanobeam cavities. Reproduced from \cite {Niu2015}.\relax }}{104}{figure.caption.110}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces SEM image of the Omniprobe attached to a broken nanobeam cavity.\relax }}{105}{figure.caption.111}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces SEM image of a nanobeam attached to a TEM grid covered in platinum.\relax }}{106}{figure.caption.112}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces STEM-HAADF images of a carbon covered nanobeam.\relax }}{106}{figure.caption.113}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Top-down approach to nanorod fabrication. The mask is not required if a site-specific etching method such as electron beam lithography or FIB micromachining is used. Reproduced from \cite {Bao2016}\relax }}{110}{figure.caption.114}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Catalyst induced nanowire growth mechanism. Reproduced from \cite {Chen2015}.\relax }}{111}{figure.caption.115}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces a) SEM micrograph and b) panchromatic CL image at 5 kV of microrods from sample A. Images courtesy of Dr. Tongtong Zhu.\relax }}{112}{figure.caption.116}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces a) SEM micrograph and b) panchromatic CL image at 5kV of microrods from sample B. Images courtesy of Dr. Tongtong Zhu.\relax }}{113}{figure.caption.117}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces a) SEM image and b) panchromatic CL for a rod harvested from sample A on a silicon substrate. Different regions of the rod which are apparent in the panchromatic CL are labelled.\relax }}{113}{figure.caption.118}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces CL linescan taken at 10 nm steps along a rod from sample A denoted by the dashed blue arrow in Fig.\ref {sampleAscan}.\relax }}{114}{figure.caption.119}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces a) Panchromatic CL image showing the locations at which the CL spectra were taken b) CL spectra taken from the top, middle and bottom of the linescan with the respective normalisation factors shown in the legend.\relax }}{114}{figure.caption.120}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces a) SEM image and b) panchromatic CL for a rod harvested from sample B on a silicon substrate. The dashed blue line shows the location of the CL line scan.\relax }}{115}{figure.caption.121}
+\contentsline {figure}{\numberline {6.9}{\ignorespaces CL line scan denoted by the dashed blue arrow in Fig.\ref {sampleBscan}.\relax }}{115}{figure.caption.122}
+\contentsline {figure}{\numberline {6.10}{\ignorespaces a) Panchromatic CL image showing the locations at which the CL spectra were taken b) CL spectra taken from the top, middle and bottom of the linescan with the respective normalisation factors shown in the legend.\relax }}{116}{figure.caption.123}
+\contentsline {figure}{\numberline {6.11}{\ignorespaces Low magnification STEM-HAADF image of a TEM lamella of the rod shown in Fig.\ref {sampleAscan} prepared by FIB.\relax }}{116}{figure.caption.124}
+\contentsline {figure}{\numberline {6.12}{\ignorespaces STEM-HAADF images taken from region 1 of the rod from sample A.\relax }}{117}{figure.caption.125}
+\contentsline {figure}{\numberline {6.13}{\ignorespaces STEM-HAADF images taken from region 2 of the rod from sample A. The dark feature highlighted by the blue arrow is present in both the top and bottom regions of the rod. A large void defect is highlighted by the dashed lines.\relax }}{118}{figure.caption.126}
+\contentsline {figure}{\numberline {6.14}{\ignorespaces Low magnification STEM-BF image of region 2 from sample A, chosen to highlight the presence of stacking faults, which appear darker in contrast in STEM-BF.\relax }}{119}{figure.caption.127}
+\contentsline {figure}{\numberline {6.15}{\ignorespaces Low magnification STEM-BF image of region 3 from sample A, chosen to highlight the presence of voids and the non-uniform morphology of the microrod in this region. Large voids are labelled using the red circles, and the regions which are expected to contain the QW stack are delineated by the dashed lines.\relax }}{120}{figure.caption.128}
+\contentsline {figure}{\numberline {6.16}{\ignorespaces STEM-HAADF images taken from a) the top and b) the bottom of a rod harvested from sample B. \relax }}{121}{figure.caption.129}
+\contentsline {figure}{\numberline {6.17}{\ignorespaces STEM-HAADF images of a) QW distortion and b) void related disruption of the QW stack in the lower region of a rod harvested from sample B.\relax }}{122}{figure.caption.130}
+\contentsline {figure}{\numberline {6.18}{\ignorespaces Axial cross-section lamella preparation. The three steps shown above (a, b and c) may be repeated as many times as the length of the rod allows, allowing for the preparation of multiple cross-sections from the same rod. d) shows a finished sample, viewed along the microrod growth axis (this image is taken at 45 degrees relative to the other three images in this set).\relax }}{124}{figure.caption.131}
+\contentsline {figure}{\numberline {6.19}{\ignorespaces a) STEM-HAADF image of a TEM sample prepared from the bottom of a rod from sample A. The contrast in this image has been enhanced for clarity.\relax }}{125}{figure.caption.132}
+\contentsline {figure}{\numberline {6.20}{\ignorespaces a) STEM-HAADF image of a TEM sample prepared from the bottom of a rod from sample A b) In and c) Si content extracted from EDX maps taken from the region labelled by the blue box.\relax }}{126}{figure.caption.133}
+\contentsline {figure}{\numberline {6.21}{\ignorespaces a) STEM-HAADF image of a TEM sample prepared from the top of a rod from sample A b) Si content extracted from EDX maps take from the region labelled by the blue box.\relax }}{127}{figure.caption.134}
+\contentsline {figure}{\numberline {6.22}{\ignorespaces a) STEM-HAADF image of a TEM sample prepared from the bottom of a rod from sample B b) Si content extracted from EDX maps take from the region labelled by the blue box.\relax }}{128}{figure.caption.135}
+\contentsline {figure}{\numberline {6.23}{\ignorespaces a) STEM-HAADF image of a TEM sample prepared from the top of a rod from sample B b) Si content extracted from EDX maps take from the region labelled by the blue box.\relax }}{129}{figure.caption.136}
+\contentsline {figure}{\numberline {6.24}{\ignorespaces a) Schematic of $\mathrm {SiN_{x}}$ induced 3D growth and b) cross-sectional TEM image of an $\mathrm {SiN_{x}}$ interlayer (white arrow) on a GaN layer with GaN islands grown through the holes in the $\mathrm {SiN_{x}}$ layer. Adapted from \cite {Kappers2007}. Note that the $\mathrm {SiN_{x}}$ layer thickness is not to scale here, and has been expanded for the sake of clarity.\relax }}{130}{figure.caption.137}
+\contentsline {figure}{\numberline {6.25}{\ignorespaces Schematic of the $\mathrm {SiN_{x}}$ layer formation process: Si and N atoms experience low solubility in the Ga-droplet at the top of the rod and are thus present in greater concentration on the sidewall facets of the microrod. Reproduced from \cite {Tessarek2014a}.\relax }}{131}{figure.caption.138}
+\contentsline {figure}{\numberline {6.26}{\ignorespaces Cross-sectional SEM image showing voids formed during ELOG of GaN. Adapted from \cite {Ji2016}. In the context of ELOG, 'wing' and 'window' describe sections of the epilayer grown laterally over the mask and from the holes in the mask respectively.\relax }}{132}{figure.caption.139}
+\addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

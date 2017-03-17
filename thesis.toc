@@ -1,7 +1,7 @@
 \thispagestyle {empty}
 \contentsline {chapter}{List of figures}{xv}{chapter*.5}
-\contentsline {chapter}{List of tables}{xxi}{chapter*.6}
-\contentsline {chapter}{Nomenclature}{xxiii}{chapter*.7}
+\contentsline {chapter}{List of tables}{xxiii}{chapter*.6}
+\contentsline {chapter}{Nomenclature}{xxv}{chapter*.7}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}III-Nitride Material Properties }{2}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Crystal Structure}{2}{subsection.1.1.1}
@@ -9,18 +9,18 @@
 \contentsline {subsubsection}{\numberline {1.1.2.1}Quantum Confinement Effects}{6}{subsubsection.1.1.2.1}
 \contentsline {subsection}{\numberline {1.1.3}Built-in Fields}{7}{subsection.1.1.3}
 \contentsline {subsubsection}{\numberline {1.1.3.1}The Quantum Confined Stark Effect}{9}{subsubsection.1.1.3.1}
-\contentsline {subsection}{\numberline {1.1.4}Defects in III-nitrides}{10}{subsection.1.1.4}
-\contentsline {subsubsection}{\numberline {1.1.4.1}0-D Defects}{10}{subsubsection.1.1.4.1}
-\contentsline {subsubsection}{\numberline {1.1.4.2}1-D Defects}{11}{subsubsection.1.1.4.2}
-\contentsline {subsubsection}{\numberline {1.1.4.3}2-D Defects}{13}{subsubsection.1.1.4.3}
-\contentsline {subsubsection}{\numberline {1.1.4.4}3-D Defects}{14}{subsubsection.1.1.4.4}
-\contentsline {section}{\numberline {1.2}III-nitride Devices }{16}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Light Emitting Diodes}{16}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Microcavities}{17}{subsection.1.2.2}
-\contentsline {subsubsection}{\numberline {1.2.2.1}Cavity Parameters and Design}{18}{subsubsection.1.2.2.1}
-\contentsline {subsubsection}{\numberline {1.2.2.2}Microdisk Cavities}{20}{subsubsection.1.2.2.2}
-\contentsline {subsubsection}{\numberline {1.2.2.3}Nanobeam Cavities}{21}{subsubsection.1.2.2.3}
-\contentsline {subsection}{\numberline {1.2.3}Nanowires for Nanophotonic Devices}{23}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.1.4}Defects in III-nitrides}{11}{subsection.1.1.4}
+\contentsline {subsubsection}{\numberline {1.1.4.1}0-D Defects}{11}{subsubsection.1.1.4.1}
+\contentsline {subsubsection}{\numberline {1.1.4.2}1-D Defects}{12}{subsubsection.1.1.4.2}
+\contentsline {subsubsection}{\numberline {1.1.4.3}2-D Defects}{14}{subsubsection.1.1.4.3}
+\contentsline {subsubsection}{\numberline {1.1.4.4}3-D Defects}{15}{subsubsection.1.1.4.4}
+\contentsline {section}{\numberline {1.2}III-nitride Devices }{17}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Light Emitting Diodes}{17}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Microcavities}{18}{subsection.1.2.2}
+\contentsline {subsubsection}{\numberline {1.2.2.1}Cavity Parameters and Design}{19}{subsubsection.1.2.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2.2}Microdisk Cavities}{21}{subsubsection.1.2.2.2}
+\contentsline {subsubsection}{\numberline {1.2.2.3}Nanobeam Cavities}{22}{subsubsection.1.2.2.3}
+\contentsline {subsection}{\numberline {1.2.3}Nanowires for Nanophotonic Devices}{24}{subsection.1.2.3}
 \contentsline {chapter}{\numberline {2}Experimental Methods}{27}{chapter.2}
 \contentsline {section}{\numberline {2.1}Transmission Electron Microscopy}{27}{section.2.1}
 \contentsline {subsection}{\numberline {2.1.1}Conventional Transmission Electron Microscopy}{28}{subsection.2.1.1}
@@ -30,56 +30,71 @@
 \contentsline {subsection}{\numberline {2.1.2}Scanning Transmission Electron Microscopy}{33}{subsection.2.1.2}
 \contentsline {subsection}{\numberline {2.1.3}Energy-Dispersive X-ray spectroscopy}{35}{subsection.2.1.3}
 \contentsline {section}{\numberline {2.2}Electron Tomography}{36}{section.2.2}
-\contentsline {section}{\numberline {2.3}Atomic Force Microscopy}{37}{section.2.3}
-\contentsline {subsubsection}{\numberline {2.3.0.1}Conductive Atomic Force Microcsopy}{39}{subsubsection.2.3.0.1}
+\contentsline {section}{\numberline {2.3}Atomic Force Microscopy}{38}{section.2.3}
 \contentsline {section}{\numberline {2.4}Scanning Electron Microscopy Techniques}{40}{section.2.4}
-\contentsline {subsubsection}{\numberline {2.4.0.2}Cathodoluminescence}{41}{subsubsection.2.4.0.2}
-\contentsline {subsubsection}{\numberline {2.4.0.3}Electron-Beam Induced Current}{43}{subsubsection.2.4.0.3}
-\contentsline {section}{\numberline {2.5}Hyperspectral Electroluminescence Mapping}{43}{section.2.5}
-\contentsline {section}{\numberline {2.6}Dual Beam FIB-SEM}{44}{section.2.6}
-\contentsline {subsection}{\numberline {2.6.1}Sample Preparation}{45}{subsection.2.6.1}
-\contentsline {subsection}{\numberline {2.6.2}Tomography}{46}{subsection.2.6.2}
-\contentsline {chapter}{\numberline {3}Inhomogeneous Electroluminescence in InGaN QW LEDs}{49}{chapter.3}
-\contentsline {section}{\numberline {3.1}Short title}{49}{section.3.1}
-\contentsline {section}{\numberline {3.2}Sample Structure}{50}{section.3.2}
-\contentsline {section}{\numberline {3.3}Experimental}{51}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Hyperspectral EL Imaging}{52}{subsection.3.3.1}
-\contentsline {subsubsection}{\numberline {3.3.1.1}Current Dependent EL Measurements}{53}{subsubsection.3.3.1.1}
-\contentsline {subsection}{\numberline {3.3.2}Cathodoluminescence and Electron Beam Induced Current}{57}{subsection.3.3.2}
-\contentsline {subsubsection}{\numberline {3.3.2.1}Scanning Electron Microscopy with Cathodoluminescence}{58}{subsubsection.3.3.2.1}
-\contentsline {subsection}{\numberline {3.3.3}Hexagonal Defect Structure}{60}{subsection.3.3.3}
-\contentsline {subsubsection}{\numberline {3.3.3.1}Scanning Electron Microscopy}{60}{subsubsection.3.3.3.1}
-\contentsline {subsubsection}{\numberline {3.3.3.2}Atomic Force Microscopy}{60}{subsubsection.3.3.3.2}
-\contentsline {subsubsection}{\numberline {3.3.3.3}TEM Lamella preparation}{62}{subsubsection.3.3.3.3}
-\contentsline {subsubsection}{\numberline {3.3.3.4}Transmission Electron Microscopy}{63}{subsubsection.3.3.3.4}
-\contentsline {subsection}{\numberline {3.3.4}LED Simulations}{66}{subsection.3.3.4}
-\contentsline {subsubsection}{\numberline {3.3.4.1}Deep Inclusion}{66}{subsubsection.3.3.4.1}
-\contentsline {subsubsection}{\numberline {3.3.4.2}Shallow Inclusion}{68}{subsubsection.3.3.4.2}
-\contentsline {subsection}{\numberline {3.3.5}Origin of the Defect}{70}{subsection.3.3.5}
-\contentsline {subsubsection}{\numberline {3.3.5.1}Threading Dislocation Analysis}{70}{subsubsection.3.3.5.1}
-\contentsline {section}{\numberline {3.4}Conclusion}{73}{section.3.4}
-\contentsline {section}{\numberline {3.5}Future Work}{74}{section.3.5}
-\contentsline {chapter}{\numberline {4}Characterisation of III-Nitride Microdisk Cavities}{75}{chapter.4}
-\contentsline {section}{\numberline {4.1}Background}{75}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}PEC etching}{76}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Whisker Generation in PEC Etching}{77}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}Q-factor Reduction in Microdisks}{78}{subsection.4.1.3}
-\contentsline {section}{\numberline {4.2}Experimental}{82}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Samples}{82}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Whisker Analysis}{83}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}FIB/SEM Sample Preparation}{83}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}STEM}{84}{subsection.4.2.4}
-\contentsline {subsection}{\numberline {4.2.5}WBDF-TEM}{86}{subsection.4.2.5}
-\contentsline {subsection}{\numberline {4.2.6}Active Region Analysis}{86}{subsection.4.2.6}
-\contentsline {subsection}{\numberline {4.2.7}FIB Tomography}{88}{subsection.4.2.7}
-\contentsline {subsubsection}{\numberline {4.2.7.1}Analysis}{90}{subsubsection.4.2.7.1}
-\contentsline {section}{\numberline {4.3}Conclusion}{93}{section.4.3}
-\contentsline {section}{\numberline {4.4}Future Work}{94}{section.4.4}
-\contentsline {chapter}{\numberline {5}Characterisation of III-Nitride Nanobeam Cavities}{95}{chapter.5}
-\contentsline {section}{\numberline {5.1}Background}{95}{section.5.1}
-\contentsline {section}{\numberline {5.2}Nanobeam Fabrication}{95}{section.5.2}
-\contentsline {section}{\numberline {5.3}Experimental}{97}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Nanobeam Lift-out}{97}{subsection.5.3.1}
-\contentsline {chapter}{References}{99}{chapter*.108}
-\contentsline {chapter}{Appendix \numberline {A}How to install \LaTeX }{109}{Appendix.a.A}
-\contentsline {chapter}{Appendix \numberline {B}Installing the CUED class file}{113}{Appendix.a.B}
+\contentsline {subsubsection}{\numberline {2.4.0.1}Cathodoluminescence}{42}{subsubsection.2.4.0.1}
+\contentsline {subsubsection}{\numberline {2.4.0.2}Electron-Beam Induced Current}{44}{subsubsection.2.4.0.2}
+\contentsline {section}{\numberline {2.5}Hyperspectral Electroluminescence Mapping}{44}{section.2.5}
+\contentsline {section}{\numberline {2.6}Dual Beam FIB-SEM}{45}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Sample Preparation}{46}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}Tomography}{47}{subsection.2.6.2}
+\contentsline {chapter}{\numberline {3}Inhomogeneous Electroluminescence in InGaN QW LEDs}{51}{chapter.3}
+\contentsline {section}{\numberline {3.1}Short title}{51}{section.3.1}
+\contentsline {section}{\numberline {3.2}Sample Structure}{52}{section.3.2}
+\contentsline {section}{\numberline {3.3}Experimental}{53}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Hyperspectral EL Imaging}{54}{subsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.1.1}Current Dependent EL Measurements}{55}{subsubsection.3.3.1.1}
+\contentsline {subsection}{\numberline {3.3.2}Cathodoluminescence and Electron Beam Induced Current}{59}{subsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.2.1}Scanning Electron Microscopy with Cathodoluminescence}{60}{subsubsection.3.3.2.1}
+\contentsline {subsection}{\numberline {3.3.3}Hexagonal Defect Structure}{62}{subsection.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.3.1}Scanning Electron Microscopy}{62}{subsubsection.3.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.3.2}Atomic Force Microscopy}{62}{subsubsection.3.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3.3}TEM Lamella preparation}{64}{subsubsection.3.3.3.3}
+\contentsline {subsubsection}{\numberline {3.3.3.4}Transmission Electron Microscopy}{66}{subsubsection.3.3.3.4}
+\contentsline {subsection}{\numberline {3.3.4}LED Simulations}{69}{subsection.3.3.4}
+\contentsline {subsubsection}{\numberline {3.3.4.1}Deep Inclusion}{69}{subsubsection.3.3.4.1}
+\contentsline {subsubsection}{\numberline {3.3.4.2}Shallow Inclusion}{71}{subsubsection.3.3.4.2}
+\contentsline {subsection}{\numberline {3.3.5}Origin of the Defect}{73}{subsection.3.3.5}
+\contentsline {subsubsection}{\numberline {3.3.5.1}Threading Dislocation Analysis}{73}{subsubsection.3.3.5.1}
+\contentsline {section}{\numberline {3.4}Conclusion}{76}{section.3.4}
+\contentsline {section}{\numberline {3.5}Future Work}{77}{section.3.5}
+\contentsline {chapter}{\numberline {4}Characterisation of III-Nitride Microdisk Cavities}{79}{chapter.4}
+\contentsline {section}{\numberline {4.1}Background}{79}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}PEC etching}{80}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Whisker Generation in PEC Etching}{81}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Q-factor Reduction in Microdisks}{82}{subsection.4.1.3}
+\contentsline {section}{\numberline {4.2}Experimental}{86}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Samples}{86}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Whisker Analysis}{87}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}FIB/SEM Sample Preparation}{87}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}STEM}{88}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}WBDF-TEM}{90}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}Active Region Analysis}{90}{subsection.4.2.6}
+\contentsline {subsection}{\numberline {4.2.7}FIB Tomography}{92}{subsection.4.2.7}
+\contentsline {subsection}{\numberline {4.2.8}Mesh Roughness Analysis}{94}{subsection.4.2.8}
+\contentsline {subsection}{\numberline {4.2.9}Image Roughness Analysis}{98}{subsection.4.2.9}
+\contentsline {section}{\numberline {4.3}Summary}{100}{section.4.3}
+\contentsline {section}{\numberline {4.4}Future Work}{100}{section.4.4}
+\contentsline {chapter}{\numberline {5}Characterisation of III-Nitride Nanobeam Cavities}{103}{chapter.5}
+\contentsline {section}{\numberline {5.1}Background}{103}{section.5.1}
+\contentsline {section}{\numberline {5.2}Nanobeam Fabrication}{103}{section.5.2}
+\contentsline {section}{\numberline {5.3}Experimental}{105}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Nanobeam Lift-out}{105}{subsection.5.3.1}
+\contentsline {chapter}{\numberline {6}Characterisation of III-Nitride Microrods}{109}{chapter.6}
+\contentsline {section}{\numberline {6.1}Background}{109}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Nanorod Growth}{109}{subsection.6.1.1}
+\contentsline {section}{\numberline {6.2}Experimental}{111}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Microrod Growth}{111}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Microrod Emissive Properties}{112}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Microrod Structure and Composition}{116}{subsection.6.2.3}
+\contentsline {subsubsection}{\numberline {6.2.3.1}STEM}{116}{subsubsection.6.2.3.1}
+\contentsline {subsection}{\numberline {6.2.4}The Effect of Si on Microrod Growth}{122}{subsection.6.2.4}
+\contentsline {subsubsection}{\numberline {6.2.4.1}Dual Plan-View TEM Lamella Preparation}{122}{subsubsection.6.2.4.1}
+\contentsline {subsubsection}{\numberline {6.2.4.2}Si Content Quantification}{125}{subsubsection.6.2.4.2}
+\contentsline {subsubsection}{\numberline {6.2.4.3}Discussion}{129}{subsubsection.6.2.4.3}
+\contentsline {section}{\numberline {6.3}Summary}{133}{section.6.3}
+\contentsline {section}{\numberline {6.4}Future Work}{133}{section.6.4}
+\contentsline {chapter}{\numberline {7}Concluding Remarks}{135}{chapter.7}
+\contentsline {chapter}{References}{139}{chapter*.140}
+\contentsline {chapter}{Appendix \numberline {A}How to install \LaTeX }{153}{Appendix.a.A}
+\contentsline {chapter}{Appendix \numberline {B}Installing the CUED class file}{157}{Appendix.a.B}
