@@ -1,39 +1,4 @@
-\nomenclatureentry{z-GaNGaN@[{GaN}]\begingroup Gallium Nitride\nomeqref {1.0}|nompageref}{1}
-\nomenclatureentry{z-LEDLED@[{LED}]\begingroup Light-Emitting Diode\nomeqref {1.0}|nompageref}{1}
-\nomenclatureentry{z-SPSSPS@[{SPS}]\begingroup Single Photon Source\nomeqref {1.0}|nompageref}{1}
-\nomenclatureentry{z-GaAsGaAs@[{GaAs}]\begingroup Gallium Arsenide\nomeqref {1.0}|nompageref}{1}
-\nomenclatureentry{z-ELEL@[{EL}]\begingroup Electroluminescence\nomeqref {1.0}|nompageref}{1}
-\nomenclatureentry{z-1-D1-D@[{1-D}]\begingroup One-Dimensional\nomeqref {1.0}|nompageref}{2}
-\nomenclatureentry{z-ETET@[{ET}]\begingroup Electron Tomography\nomeqref {1.0}|nompageref}{2}
-\nomenclatureentry{z-FIBTFIBT@[{FIBT}]\begingroup Focussed Ion Beam Tomography\nomeqref {1.0}|nompageref}{2}
-\nomenclatureentry{z-InNInN@[{InN}]\begingroup Indium Nitride\nomeqref {1.1}|nompageref}{4}
-\nomenclatureentry{z-AlNAlN@[{AlN}]\begingroup Aluminium Nitride\nomeqref {1.1}|nompageref}{4}
-\nomenclatureentry{z-BSFBSF@[{BSF}]\begingroup Basal-plane Stacking Fault\nomeqref {1.7}|nompageref}{14}
-\nomenclatureentry{z-PSFPSF@[{PSF}]\begingroup Prismatic Stacking Fault\nomeqref {1.7}|nompageref}{14}
-\nomenclatureentry{z-PDPD@[{PD}]\begingroup Partial Dislocation\nomeqref {1.7}|nompageref}{14}
-\nomenclatureentry{z-EBLEBL@[{EBL}]\begingroup Electron Blocking Layer\nomeqref {1.7}|nompageref}{17}
-\nomenclatureentry{z-FSRFSR@[{FSR}]\begingroup Free Spectral Range\nomeqref {1.10}|nompageref}{19}
-\nomenclatureentry{z-WGMWGM@[{WGM}]\begingroup Whispering Gallery Mode\nomeqref {1.10}|nompageref}{21}
-\nomenclatureentry{z-PECPEC@[{PEC}]\begingroup Photoelectrochemical\nomeqref {1.11}|nompageref}{22}
-\nomenclatureentry{z-TEMTEM@[{TEM}]\begingroup Transmission Electron Microscope\nomeqref {2.0}|nompageref}{27}
-\nomenclatureentry{z-BFBF@[{BF}]\begingroup Bright Field\nomeqref {2.5}|nompageref}{31}
-\nomenclatureentry{z-DFDF@[{DF}]\begingroup Dark Field\nomeqref {2.5}|nompageref}{31}
-\nomenclatureentry{z-WBDFWBDF@[{WBDF}]\begingroup Weak-Beam Dark-Field\nomeqref {2.5}|nompageref}{32}
-\nomenclatureentry{z-AFMAFM@[{AFM}]\begingroup Atomic Force Microscopy\nomeqref {2.5}|nompageref}{38}
-\nomenclatureentry{z-SEMSEM@[{SEM}]\begingroup Scanning Electron Microscope\nomeqref {2.5}|nompageref}{40}
-\nomenclatureentry{z-SESE@[{SE}]\begingroup Secondary Electron\nomeqref {2.5}|nompageref}{41}
-\nomenclatureentry{z-BSEBSE@[{BSE}]\begingroup  Back Scattered Electron\nomeqref {2.5}|nompageref}{41}
-\nomenclatureentry{z-CLCL@[{CL}]\begingroup Cathodoluminescence\nomeqref {2.5}|nompageref}{42}
-\nomenclatureentry{z-EBICEBIC@[{EBIC}]\begingroup Electron-Beam Induced Current\nomeqref {2.5}|nompageref}{44}
-\nomenclatureentry{z-ELEL@[{EL}]\begingroup Electroluminescence\nomeqref {2.5}|nompageref}{44}
-\nomenclatureentry{z-EPMAEPMA@[{EPMA}]\begingroup Electron Probe Micro-Analyser\nomeqref {2.5}|nompageref}{44}
-\nomenclatureentry{z-FIB/SEMFIB/SEM@[{FIB/SEM}]\begingroup Focussed Ion Beam/Scanning Electron Microscope\nomeqref {2.5}|nompageref}{45}
-\nomenclatureentry{z-GISGIS@[{GIS}]\begingroup Gas Injection System\nomeqref {2.5}|nompageref}{46}
-\nomenclatureentry{z-TEMTEM@[{TEM}]\begingroup Transmission Electron Microscopy\nomeqref {2.5}|nompageref}{46}
 \nomenclatureentry{z-LDDLDD@[{LDD}]\begingroup Low Dislocation Density\nomeqref {3.0}|nompageref}{52}
 \nomenclatureentry{z-EBLEBL@[{EBL}]\begingroup Electron Blocking Layer\nomeqref {3.0}|nompageref}{52}
 \nomenclatureentry{z-XRDXRD@[{XRD}]\begingroup X-ray Diffraction\nomeqref {3.0}|nompageref}{53}
 \nomenclatureentry{z-X-FEGX-FEG@[{X-FEG}]\begingroup Extreme Field-Emission Gun\nomeqref {3.0}|nompageref}{66}
-\nomenclatureentry{z-SSLSSL@[{SSL}]\begingroup Sacrificial Superlattice\nomeqref {4.0}|nompageref}{79}
-\nomenclatureentry{z-VLSVLS@[{VLS}]\begingroup Vapour-Liquid-Solid\nomeqref {6.0}|nompageref}{110}
-\nomenclatureentry{z-TPBTPB@[{TPB}]\begingroup Three Phase Boundary\nomeqref {6.0}|nompageref}{110}

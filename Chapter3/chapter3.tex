@@ -400,40 +400,40 @@ In this set of simulations, we have set the {\it p}-GaN doping concentration to 
 \end{figure}
 \FloatBarrier 
 
-The simulation results are shown in Fig.\ref{simresults}.. Fig.\ref{simresults}.a. shows overall radiative recombination events in units of $10^{28} cm^{-3}s^{-1}$. The region closest to the defect at the lowest QW shows an increased radiative recombination rate, indicating the presence of the defect can indeed cause enhanced radiative recombination under electrical injection in regions surrounding the defect, in agreement with the experimental observation of inhomogeneous EL. Fig.\ref{simresults}.b. shows two profiles taken from Fig.\ref{simresults}.a. intersecting the five QWs and indicates that the rate of radiative recombination is almost doubled in the lowest QW close to the defect when compared with a profile taken further away.\\
+The simulation results are shown in Fig.\ref{deep_big1}.. Fig.\ref{deep_big1}. shows a two-dimensional map of the overall radiative recombination rate in units of $10^{28} cm^{-3}s^{-1}$. It is important to note the x-axis of Fig.\ref{deep_big1} is enlarged relative to the y-axis for visualisation purposes. The region closest to the defect at the lowest QW (QW5) shows an increased radiative recombination rate, indicating the presence of the defect can indeed cause enhanced radiative recombination under electrical injection in regions surrounding the defect, in agreement with the experimental observation of inhomogeneous EL. Fig.\ref{deep_big1-rad}.shows two profiles taken from Fig.\ref{simresults}.a. intersecting the five QWs and indicates that the rate of radiative recombination is almost doubled in the lowest QW close to the defect when compared with a profile taken further away.\\
 Under closer examination, Fig.\ref{simresults}.b. demonstrates that the 'bottom' QW dominates the overall emission, particularly close too the AlGaN inclusion. The carrier concentrations shown in Figures.\ref{simresults}a. and b show that this is primarily due to the enhanced hole concentration in the region adjacent to the AlGaN, as the electron concentration is relatively unchanged. Thus we can ascribe the enhanced local carrier concentration to the presence of the \textit{p}-AlGaN, which injects holes directly into the active region. The effects of hexagonal defect-assisted carrier injection into MQW stacks have been reported by Li \textit{et al.}, who reported that the disruption of the MQW stack by the hexagonal defect combined with thinner QBs allowed for the injection of holes up to 8 pairs of QWs away from the \textit{p}-GaN \cite{Li2014}. Quan \textit{et al.} have also suggested that hole injection via the semi-polar facets of the hexagonal defect occurs at a higher rate resulting in high radiative recombination near the defect, but larger defects may result in localised emission \cite{Quan2014}.
 
 \begin{figure}[h]
-	\begin{subfigure}[b]{0.45\textwidth}
-		\centering
-		\includegraphics[width=1\linewidth]{Figs/Ch3/deep}
-		\caption{}
-	\end{subfigure}%
-	\hspace*\fill
-	\begin{subfigure}[b]{0.49\textwidth}
-		\centering
-		\includegraphics[width=1\linewidth]{Figs/Ch3/150rad}
-		\caption{}		
-	\end{subfigure}%
-	
-	\medskip
-	\begin{subfigure}[b]{0.49\textwidth}
-		\centering
-		\includegraphics[width=1\linewidth]{Figs/Ch3/150elec}
-		\caption{}
-	\end{subfigure}%
-	\hspace*\fill
-	\begin{subfigure}[b]{0.49\textwidth}
-		\centering
-		\includegraphics[width=1\linewidth]{Figs/Ch3/150hole}
-		\caption{}		
-	\end{subfigure}%
-	
-	
-	\caption{APSYS simulation results: a) Radiative recombination events b) radiative recombination profiles, c) electron concentration profiles and d) hole concentration profiles. Red and black traces in b), c) and d) correspond to the red and black profiles in a).}
-	\label{simresults}
+	\centering
+	\includegraphics[width=1\textwidth]{Figs/Ch3/deep_big1.png}
+	\caption[h] {APSYS simulation results: a) Radiative recombination events}
+	\label{deep_big1}
 \end{figure}
 \FloatBarrier 
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=1\textwidth]{Figs/Ch3/5A_rad.png}
+	\caption[h] {APSYS simulation results: radiative recombination profiles}
+	\label{deep_big1-rad}
+\end{figure}
+\FloatBarrier
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=1\textwidth]{Figs/Ch3/5A_elec.png}
+	\caption[h] {APSYS simulation results: radiative recombination profiles}
+	\label{deep-elec}
+\end{figure}
+\FloatBarrier  
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=1\textwidth]{Figs/Ch3/5A_hole.png}
+	\caption[h] {APSYS simulation results: radiative recombination profiles}
+	\label{deep-hole}
+\end{figure}
+\FloatBarrier  
 
 \subsubsection{Shallow Inclusion}
 
@@ -448,38 +448,38 @@ In this simulation we have simulated a structure similar to the composition maps
 \FloatBarrier 
 
 Fig.\ref{shallowres} shows the simulation results. Fig.\ref{shallowres}.a. shows that radiative recombination is enhanced in the vicinity of the shallow inclusion, particularly in the second QW (QW2) from the EBL due to carrier injection from the semi-polar facets of the defect. Fig.\ref{shallowres}.c. and Fig.\ref{shallowres}.d. show that the hole concentration is responsible for the local enhancement in radiative recombination near the shallow inclusion as the electron concentration is mostly unchanged. Fig.\ref{shallowres} show that the enhanced injection of holes results in an order of magnitude increase in radiative recombination in QW2. As such, even in the case of a 'shallow' \textit{p}-AlGaN inclusion induced by a hexagonal defect, the injection of holes into the active region still results in enhanced emission adjacent to the defect.
-
 \begin{figure}[h]
-	\begin{subfigure}[b]{0.45\textwidth}
-		\centering
-		\includegraphics[width=1\linewidth]{Figs/Ch3/shallowrad1}
-		\caption{}
-	\end{subfigure}%
-	\hspace*\fill
-	\begin{subfigure}[b]{0.49\textwidth}
-		\centering
-		\includegraphics[width=1\linewidth]{Figs/Ch3/shallowrad}
-		\caption{}		
-	\end{subfigure}%
-	
-	\medskip
-	\begin{subfigure}[b]{0.49\textwidth}
-		\centering
-		\includegraphics[width=1\linewidth]{Figs/Ch3/shallowelec}
-		\caption{}
-	\end{subfigure}%
-	\hspace*\fill
-	\begin{subfigure}[b]{0.49\textwidth}
-		\centering
-		\includegraphics[width=1\linewidth]{Figs/Ch3/shallowhole}
-		\caption{}		
-	\end{subfigure}%
-	
-	
-	\caption{APSYS simulation results: a) Radiative recombination events b) radiative recombination profiles, c) electron concentration profiles and d) hole concentration profiles. Red and black traces in b), c) and d) correspond to the red and black profiles in a).}
-	\label{shallowres}
+	\centering
+	\includegraphics[width=1\textwidth]{Figs/Ch3/shallowrad1-1.png}
+	\caption[h] {APSYS simulation results: a) Radiative recombination events}
+	\label{shallow_big}
 \end{figure}
 \FloatBarrier 
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=1\textwidth]{Figs/Ch3/shallowrad.png}
+	\caption[h] {APSYS simulation results: a) Radiative recombination events}
+	\label{shallow_rad}
+\end{figure}
+\FloatBarrier 
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=1\textwidth]{Figs/Ch3/shallowelec.png}
+	\caption[h] {APSYS simulation results: electron concentration}
+	\label{shallow_elec}
+\end{figure}
+\FloatBarrier 
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=1\textwidth]{Figs/Ch3/shallowhole.png}
+	\caption[h] {APSYS simulation results: hole concentration}
+	\label{shallow_hole}
+\end{figure}
+\FloatBarrier 
+
 
 \subsection{Origin of the Defect}
 In the previous sections we have established the cause of the inhomogeneous EL to be the presence of large hexagonal defects. However, it is also important to establish the origin of these hexagonal defects, as their elimination is the key to the production of LEDs with uniform emission, unlike those studied here.

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.7.15)  17 MAR 2017 11:26
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.7.15)  17 MAR 2017 15:48
 entering extended mode
 **thesis.tex
 (C:\Users\cr458\Documents\GitHub\Thesis\thesis.tex
@@ -21,6 +21,12 @@ LaTeX Warning: You have requested document class `Classes/PhDThesisPSnPDF',
 Document Class: PhDThesisPSnPDF 2015/06/20 A PhD thesis class file by Krishna K
 umar (v2.0)
 https://github.com/kks32/phd-thesis-template/
+
+Class PhDThesisPSnPDF Warning: You have chosen an option that generates only se
+lected chapters with references, if this was intentional, ignore this warning. 
+If not, please remove the option `chapter' from the document class and recompil
+e. Good luck with your writing! on input line 177.
+
 PhDThesisPSnPDF: Font size is set as 12pt
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\book.cls"
 Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
@@ -1493,635 +1499,46 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-\PHD@Title=\box53
+
+(C:\Users\cr458\Documents\GitHub\Thesis\thesis.nls [10
+
+
+
+
+
+
+
+
+]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 117.
-\PHD@crest=\box54
-
-<Figs/University_Crest.pdf, id=295, 59.22125pt x 69.25874pt>
-File: Figs/University_Crest.pdf Graphic file (type pdf)
-
-<use Figs/University_Crest.pdf>
-Package pdftex.def Info: Figs/University_Crest.pdf used on input line 117.
-(pdftex.def)             Requested size: 87.49088pt x 102.32376pt.
-\PHD@collegecrest=\box55
-\PHD@author=\box56
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 117.
-\PHD@dept=\box57
-\PHD@submission=\box58
-\PHD@collegedate=\box59
-\PHD@titlepagespacing=\skip82
- [1
-
-
-
-{C:/Users/cr458/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/cr
-458/Documents/GitHub/Thesis/Figs/University_Crest.pdf>] (C:\Users\cr458\Documen
-ts\GitHub\Thesis\Dedication/dedication.tex
-[2
-
-
-]) [3] (C:\Users\cr458\Documents\GitHub\Thesis\Declaration/declaration.tex
-[4
-
-
-
-]) [5
-
-]
-(C:\Users\cr458\Documents\GitHub\Thesis\Acknowledgement/acknowledgement.tex
-[6
-
-
-
-]) [7
-
-] (C:\Users\cr458\Documents\GitHub\Thesis\Abstract/abstract.tex [8
-
-
-
-])
-[9
-
-] [10
-
-
-] (C:\Users\cr458\Documents\GitHub\Thesis\thesis.toc
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
- [11
-
-] [12]
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 99.
-)
-\tf@toc=\write6
- [13]
-[14
-
-] (C:\Users\cr458\Documents\GitHub\Thesis\thesis.lof [15] [16]
-
-LaTeX Warning: Reference `5610loc' on page xvii undefined on input line 57.
-
-[17] [18] [19]
-
-Package natbib Warning: Citation `Bao2016' on page xx undefined on input line 1
-08.
-
-[20] [21])
-\tf@lof=\write7
- [22] (C:\Users\cr458\Documents\GitHub\Thesis\thesis.lot)
-\tf@lot=\write8
-
-(C:\Users\cr458\Documents\GitHub\Thesis\thesis.nls [23
-
-] [24
-
-] [25]) [26]
-(C:\Users\cr458\Documents\GitHub\Thesis\Chapter1/chapter1.tex
-Chapter 1.
-[1
-
-
-
-]
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 25.
-
-<Figs/Ch1/crystal_planes-eps-converted-to.pdf, id=847, 2469.225pt x 2502.34875p
-t>
-File: Figs/Ch1/crystal_planes-eps-converted-to.pdf Graphic file (type pdf)
- <use Figs/Ch1/crystal_planes-eps-converted-to.pdf>
-Package pdftex.def Info: Figs/Ch1/crystal_planes-eps-converted-to.pdf used on i
-nput line 32.
-(pdftex.def)             Requested size: 174.98177pt x 177.32054pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 42--44
-
- []
-
-<Figs/Ch1/unit_cell.png, id=854, 298.716pt x 262.581pt>
-File: Figs/Ch1/unit_cell.png Graphic file (type png)
-
-<use Figs/Ch1/unit_cell.png>
-Package pdftex.def Info: Figs/Ch1/unit_cell.png used on input line 49.
-(pdftex.def)             Requested size: 196.85616pt x 173.04755pt.
- [3 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch1/crystal_planes-eps-convert
-ed-to.pdf> <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch1/unit_cell.png>]
-<Figs/Ch1/III-N-Ternaries-update.jpg, id=880, 496.85625pt x 474.77374pt>
-File: Figs/Ch1/III-N-Ternaries-update.jpg Graphic file (type jpg)
-
-<use Figs/Ch1/III-N-Ternaries-update.jpg>
-Package pdftex.def Info: Figs/Ch1/III-N-Ternaries-update.jpg used on input line
- 109.
-(pdftex.def)             Requested size: 306.22144pt x 292.61801pt.
- [4] [5 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch1/III-N-Ternaries-update
-.jpg>]
-<Figs/Ch1/BandstructureQW.png, id=903, 455.7828pt x 416.757pt>
-File: Figs/Ch1/BandstructureQW.png Graphic file (type png)
-
-<use Figs/Ch1/BandstructureQW.png>
-Package pdftex.def Info: Figs/Ch1/BandstructureQW.png used on input line 131.
-(pdftex.def)             Requested size: 218.73056pt x 199.66678pt.
- [6 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch1/BandstructureQW.png>]
-<Figs/Ch1/p2.png, id=919, 520.94624pt x 355.3275pt>
-File: Figs/Ch1/p2.png Graphic file (type png)
- <use Figs/Ch1/p2.png>
-Package pdftex.def Info: Figs/Ch1/p2.png used on input line 157.
-(pdftex.def)             Requested size: 218.73056pt x 149.19315pt.
-
-<Figs/Ch1/2unit.png, id=924, 481.8pt x 375.804pt>
-File: Figs/Ch1/2unit.png Graphic file (type png)
- <use Figs/Ch1/2unit.png>
-Package pdftex.def Info: Figs/Ch1/2unit.png used on input line 167.
-(pdftex.def)             Requested size: 218.73056pt x 170.60689pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[7 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch1/p2.png>] [8 <C:/Users/cr458
-/Documents/GitHub/Thesis/Figs/Ch1/2unit.png>]
-<Figs/Ch1/QCSE.png, id=949, 318.4698pt x 375.804pt>
-File: Figs/Ch1/QCSE.png Graphic file (type png)
- <use Figs/Ch1/QCSE.png>
-Package pdftex.def Info: Figs/Ch1/QCSE.png used on input line 206.
-(pdftex.def)             Requested size: 306.22144pt x 361.34691pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[9] [10 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch1/QCSE.png>]
-<Figs/Ch1/vacancy.png, id=974, 213.79875pt x 207.77625pt>
-File: Figs/Ch1/vacancy.png Graphic file (type png)
-
-<use Figs/Ch1/vacancy.png>
-Package pdftex.def Info: Figs/Ch1/vacancy.png used on input line 228.
-(pdftex.def)             Requested size: 89.237pt x 86.72377pt.
-
-<Figs/Ch1/self-inter.png, id=975, 213.79875pt x 207.77625pt>
-File: Figs/Ch1/self-inter.png Graphic file (type png)
-
-<use Figs/Ch1/self-inter.png>
-Package pdftex.def Info: Figs/Ch1/self-inter.png used on input line 235.
-(pdftex.def)             Requested size: 89.237pt x 86.72377pt.
-
-<Figs/Ch1/sub-impure.png, id=976, 213.79875pt x 207.77625pt>
-File: Figs/Ch1/sub-impure.png Graphic file (type png)
-
-<use Figs/Ch1/sub-impure.png>
-Package pdftex.def Info: Figs/Ch1/sub-impure.png used on input line 241.
-(pdftex.def)             Requested size: 89.237pt x 86.72377pt.
-
-<Figs/Ch1/foreign.png, id=977, 213.79875pt x 207.77625pt>
-File: Figs/Ch1/foreign.png Graphic file (type png)
-
-<use Figs/Ch1/foreign.png>
-Package pdftex.def Info: Figs/Ch1/foreign.png used on input line 247.
-(pdftex.def)             Requested size: 89.237pt x 86.72377pt.
- [11]
-
-Package natbib Warning: Citation `Peeople1985' on page 12 undefined on input li
-ne 258.
-
-<Figs/Ch1/MDa.png, id=988, 302.0886pt x 379.1766pt>
-File: Figs/Ch1/MDa.png Graphic file (type png)
- <use Figs/Ch1/MDa.png>
-Package pdftex.def Info: Figs/Ch1/MDa.png used on input line 263.
-(pdftex.def)             Requested size: 111.55452pt x 140.02121pt.
-
-<Figs/Ch1/MDb.png, id=989, 314.1336pt x 367.6134pt>
-File: Figs/Ch1/MDb.png Graphic file (type png)
- <use Figs/Ch1/MDb.png>
-Package pdftex.def Info: Figs/Ch1/MDb.png used on input line 270.
-(pdftex.def)             Requested size: 111.55452pt x 130.54573pt.
-
-<Figs/Ch1/MDc.png, id=990, 302.0886pt x 351.2322pt>
-File: Figs/Ch1/MDc.png Graphic file (type png)
- <use Figs/Ch1/MDc.png>
-Package pdftex.def Info: Figs/Ch1/MDc.png used on input line 277.
-(pdftex.def)             Requested size: 111.55452pt x 129.70198pt.
-
-[12 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch1/vacancy.png> <C:/Users/cr4
-58/Documents/GitHub/Thesis/Figs/Ch1/self-inter.png> <C:/Users/cr458/Documents/G
-itHub/Thesis/Figs/Ch1/sub-impure.png> <C:/Users/cr458/Documents/GitHub/Thesis/F
-igs/Ch1/foreign.png>] [13 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch1/MDa.
-png> <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch1/MDb.png> <C:/Users/cr458/
-Documents/GitHub/Thesis/Figs/Ch1/MDc.png>]
-<Figs/Ch1/bsf.png, id=1017, 397.485pt x 337.26pt>
-File: Figs/Ch1/bsf.png Graphic file (type png)
- <use Figs/Ch1/bsf.png>
-Package pdftex.def Info: Figs/Ch1/bsf.png used on input line 316.
-(pdftex.def)             Requested size: 174.98177pt x 148.47205pt.
-
-<Figs/Ch1/bsfTEM.png, id=1018, 220.32312pt x 184.18813pt>
-File: Figs/Ch1/bsfTEM.png Graphic file (type png)
-
-<use Figs/Ch1/bsfTEM.png>
-Package pdftex.def Info: Figs/Ch1/bsfTEM.png used on input line 323.
-(pdftex.def)             Requested size: 174.98177pt x 146.28831pt.
-
-<Figs/Ch1/bsf_type.png, id=1023, 491.33563pt x 195.73125pt>
-File: Figs/Ch1/bsf_type.png Graphic file (type png)
-
-<use Figs/Ch1/bsf_type.png>
-Package pdftex.def Info: Figs/Ch1/bsf_type.png used on input line 352.
-(pdftex.def)             Requested size: 306.22144pt x 121.99124pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[14 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch1/bsf.png> <C:/Users/cr458/D
-ocuments/GitHub/Thesis/Figs/Ch1/bsfTEM.png>]
-<Figs/Ch1/vpit.png, id=1042, 271.51437pt x 131.99312pt>
-File: Figs/Ch1/vpit.png Graphic file (type png)
-
-<use Figs/Ch1/vpit.png>
-Package pdftex.def Info: Figs/Ch1/vpit.png used on input line 367.
-(pdftex.def)             Requested size: 306.22144pt x 148.87253pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[15 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch1/bsf_type.png>]
-<Figs/Ch1/landscape.png, id=1060, 181.17688pt x 164.615pt>
-File: Figs/Ch1/landscape.png Graphic file (type png)
-
-<use Figs/Ch1/landscape.png>
-Package pdftex.def Info: Figs/Ch1/landscape.png used on input line 377.
-(pdftex.def)             Requested size: 218.73056pt x 198.74016pt.
-
-<Figs/Ch1/pn1.png, id=1064, 283.7802pt x 139.2402pt>
-File: Figs/Ch1/pn1.png Graphic file (type png)
- <use Figs/Ch1/pn1.png>
-Package pdftex.def Info: Figs/Ch1/pn1.png used on input line 392.
-(pdftex.def)             Requested size: 174.98177pt x 85.8606pt.
-
-<Figs/Ch1/pn2.png, id=1065, 306.9066pt x 139.2402pt>
-File: Figs/Ch1/pn2.png Graphic file (type png)
- <use Figs/Ch1/pn2.png>
-Package pdftex.def Info: Figs/Ch1/pn2.png used on input line 399.
-(pdftex.def)             Requested size: 174.98177pt x 79.3911pt.
-
-[16 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch1/vpit.png> <C:/Users/cr458/
-Documents/GitHub/Thesis/Figs/Ch1/landscape.png>]
-<Figs/Ch1/led.png, id=1073, 215.8464pt x 244.2726pt>
-File: Figs/Ch1/led.png Graphic file (type png)
- <use Figs/Ch1/led.png>
-Package pdftex.def Info: Figs/Ch1/led.png used on input line 411.
-(pdftex.def)             Requested size: 131.23967pt x 148.52151pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[17 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch1/pn1.png> <C:/Users/cr458/D
-ocuments/GitHub/Thesis/Figs/Ch1/pn2.png>] [18 <C:/Users/cr458/Documents/GitHub/
-Thesis/Figs/Ch1/led.png>]
-<Figs/Ch1/modes.png, id=1105, 659.1024pt x 397.9668pt>
-File: Figs/Ch1/modes.png Graphic file (type png)
-
-<use Figs/Ch1/modes.png>
-Package pdftex.def Info: Figs/Ch1/modes.png used on input line 445.
-(pdftex.def)             Requested size: 393.71233pt x 237.7253pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[19] <Figs/Ch1/mdisk.png, id=1118, 208.1376pt x 205.2468pt>
-File: Figs/Ch1/mdisk.png Graphic file (type png)
-
-<use Figs/Ch1/mdisk.png>
-Package pdftex.def Info: Figs/Ch1/mdisk.png used on input line 456.
-(pdftex.def)             Requested size: 98.42975pt x 97.06416pt.
- <Figs/Ch1/dbr.png, id=1119, 269.808pt x 220.6644pt>
-File: Figs/Ch1/dbr.png Graphic file (type png)
-
-<use Figs/Ch1/dbr.png>
-Package pdftex.def Info: Figs/Ch1/dbr.png used on input line 463.
-(pdftex.def)             Requested size: 111.55452pt x 91.23393pt.
- <Figs/Ch1/pcc.png, id=1120, 247.6452pt x 178.7478pt>
-File: Figs/Ch1/pcc.png Graphic file (type png)
-
-<use Figs/Ch1/pcc.png>
-Package pdftex.def Info: Figs/Ch1/pcc.png used on input line 470.
-(pdftex.def)             Requested size: 111.55452pt x 80.51758pt.
- [20 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch1/modes.png> <C:/Users/cr45
-8/Documents/GitHub/Thesis/Figs/Ch1/mdisk.png> <C:/Users/cr458/Documents/GitHub/
-Thesis/Figs/Ch1/dbr.png> <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch1/pcc.p
-ng>]
-<Figs/Ch1/mdiskray.png, id=1132, 223.0734pt x 232.2276pt>
-File: Figs/Ch1/mdiskray.png Graphic file (type png)
-
-<use Figs/Ch1/mdiskray.png>
-Package pdftex.def Info: Figs/Ch1/mdiskray.png used on input line 492.
-(pdftex.def)             Requested size: 218.73056pt x 227.71614pt.
-
-<Figs/Ch1/mdisksem.png, id=1139, 312.1111pt x 113.31223pt>
-File: Figs/Ch1/mdisksem.png Graphic file (type png)
-
-<use Figs/Ch1/mdisksem.png>
-Package pdftex.def Info: Figs/Ch1/mdisksem.png used on input line 500.
-(pdftex.def)             Requested size: 218.73056pt x 79.40964pt.
- [21 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch1/mdiskray.png>] [22 <C:/Us
-ers/cr458/Documents/GitHub/Thesis/Figs/Ch1/mdisksem.png>] <Figs/Ch1/nb1.png, id
-=1173, 453.0015pt x 191.844pt>
-File: Figs/Ch1/nb1.png Graphic file (type png)
-
-<use Figs/Ch1/nb1.png>
-Package pdftex.def Info: Figs/Ch1/nb1.png used on input line 516.
-(pdftex.def)             Requested size: 415.58672pt x 175.99805pt.
- [23 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch1/nb1.png>] [24] <Figs/Ch1/
-nw_lasers.png, id=1211, 1143.52219pt x 693.34032pt>
-File: Figs/Ch1/nw_lasers.png Graphic file (type png)
-
-<use Figs/Ch1/nw_lasers.png>
-Package pdftex.def Info: Figs/Ch1/nw_lasers.png used on input line 532.
-(pdftex.def)             Requested size: 349.97023pt x 212.19318pt.
-
-<Figs/Ch1/elect_SPS.png, id=1217, 1436.36626pt x 425.33907pt>
-File: Figs/Ch1/elect_SPS.png Graphic file (type png)
-
-<use Figs/Ch1/elect_SPS.png>
-Package pdftex.def Info: Figs/Ch1/elect_SPS.png used on input line 542.
-(pdftex.def)             Requested size: 393.71233pt x 116.58243pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[25 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch1/nw_lasers.png>]
-<Figs/Ch1/homey.png, id=1227, 1256.695pt x 603.25375pt>
-File: Figs/Ch1/homey.png Graphic file (type png)
-
-<use Figs/Ch1/homey.png>
-Package pdftex.def Info: Figs/Ch1/homey.png used on input line 552.
-(pdftex.def)             Requested size: 393.71233pt x 188.99498pt.
-) [26 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch1/elect_SPS.png> <C:/Users
-/cr458/Documents/GitHub/Thesis/Figs/Ch1/homey.png>]
-(C:\Users\cr458\Documents\GitHub\Thesis\Chapter2/chapter2.tex
-Chapter 2.
-<Figs/Ch2/illum.png, id=1236, 574.3056pt x 333.4056pt>
-File: Figs/Ch2/illum.png Graphic file (type png)
-
-<use Figs/Ch2/illum.png>
-Package pdftex.def Info: Figs/Ch2/illum.png used on input line 13.
-(pdftex.def)             Requested size: 393.71233pt x 228.56967pt.
- [27
-
-
-
- <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch2/illum.png>] <Figs/Ch2/elastic
-.png, id=1243, 515.526pt x 428.802pt>
-File: Figs/Ch2/elastic.png Graphic file (type png)
-
-<use Figs/Ch2/elastic.png>
-Package pdftex.def Info: Figs/Ch2/elastic.png used on input line 25.
-(pdftex.def)             Requested size: 218.73056pt x 181.93419pt.
-
-<Figs/Ch2/inelastic.png, id=1244, 571.4148pt x 395.076pt>
-File: Figs/Ch2/inelastic.png Graphic file (type png)
-
-<use Figs/Ch2/inelastic.png>
-Package pdftex.def Info: Figs/Ch2/inelastic.png used on input line 32.
-(pdftex.def)             Requested size: 218.73056pt x 151.2276pt.
-
-Overfull \hbox (35.29283pt too wide) in paragraph at lines 23--35
-[][]|    [] 
- []
-
-[28 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch2/elastic.png> <C:/Users/cr4
-58/Documents/GitHub/Thesis/Figs/Ch2/inelastic.png>]
-<Figs/Ch2/unitcell.png, id=1256, 197.23688pt x 266.9975pt>
-File: Figs/Ch2/unitcell.png Graphic file (type png)
-
-<use Figs/Ch2/unitcell.png>
-Package pdftex.def Info: Figs/Ch2/unitcell.png used on input line 73.
-(pdftex.def)             Requested size: 131.23967pt x 177.65701pt.
- [29 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch2/unitcell.png>] <Figs/Ch2/
-ewald.png, id=1269, 105.39375pt x 186.6975pt>
-File: Figs/Ch2/ewald.png Graphic file (type png)
-
-<use Figs/Ch2/ewald.png>
-Package pdftex.def Info: Figs/Ch2/ewald.png used on input line 88.
-(pdftex.def)             Requested size: 131.23967pt x 232.48532pt.
- <Figs/Ch2/bf.png, id=1273, 384.6872pt x 374.14781pt>
-File: Figs/Ch2/bf.png Graphic file (type png)
-
-<use Figs/Ch2/bf.png>
-Package pdftex.def Info: Figs/Ch2/bf.png used on input line 102.
-(pdftex.def)             Requested size: 218.73056pt x 212.74123pt.
- <Figs/Ch2/df.png, id=1274, 343.2825pt x 373.395pt>
-File: Figs/Ch2/df.png Graphic file (type png)
-
-<use Figs/Ch2/df.png>
-Package pdftex.def Info: Figs/Ch2/df.png used on input line 109.
-(pdftex.def)             Requested size: 192.48395pt x 209.36755pt.
-
-Overfull \hbox (9.04622pt too wide) in paragraph at lines 100--112
-[][]|    [] 
- []
-
-[30 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch2/ewald.png>] [31 <C:/Users/
-cr458/Documents/GitHub/Thesis/Figs/Ch2/bf.png> <C:/Users/cr458/Documents/GitHub
-/Thesis/Figs/Ch2/df.png>] <Figs/Ch2/w1.png, id=1292, 487.8225pt x 252.945pt>
-File: Figs/Ch2/w1.png Graphic file (type png)
-
-<use Figs/Ch2/w1.png>
-Package pdftex.def Info: Figs/Ch2/w1.png used on input line 128.
-(pdftex.def)             Requested size: 218.73056pt x 113.41507pt.
- <Figs/Ch2/w2.png, id=1293, 503.63156pt x 331.2375pt>
-File: Figs/Ch2/w2.png Graphic file (type png)
-
-<use Figs/Ch2/w2.png>
-Package pdftex.def Info: Figs/Ch2/w2.png used on input line 135.
-(pdftex.def)             Requested size: 192.48395pt x 126.59431pt.
-
-Overfull \hbox (9.04622pt too wide) in paragraph at lines 126--138
-[][]|    [] 
- []
-
-<Figs/Ch2/moramwbdf.png, id=1298, 393.97188pt x 239.89626pt>
-File: Figs/Ch2/moramwbdf.png Graphic file (type png)
-
-<use Figs/Ch2/moramwbdf.png>
-Package pdftex.def Info: Figs/Ch2/moramwbdf.png used on input line 148.
-(pdftex.def)             Requested size: 306.22144pt x 186.46309pt.
- [32 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch2/w1.png> <C:/Users/cr458/D
-ocuments/GitHub/Thesis/Figs/Ch2/w2.png>]
-<Figs/Ch2/STEM.png, id=1307, 499.8675pt x 316.18124pt>
-File: Figs/Ch2/STEM.png Graphic file (type png)
- <use Figs/Ch2/STEM.png>
-Package pdftex.def Info: Figs/Ch2/STEM.png used on input line 164.
-(pdftex.def)             Requested size: 437.46112pt x 276.71579pt.
-
-[33 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch2/moramwbdf.png>] [34 <C:/Us
-ers/cr458/Documents/GitHub/Thesis/Figs/Ch2/STEM.png>]
-<Figs/Ch2/xray.png, id=1327, 595.5048pt x 463.9734pt>
-File: Figs/Ch2/xray.png Graphic file (type png)
- <use Figs/Ch2/xray.png>
-Package pdftex.def Info: Figs/Ch2/xray.png used on input line 180.
-(pdftex.def)             Requested size: 437.46112pt x 340.83582pt.
-
-[35 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch2/xray.png>]
-<Figs/Ch2/tomo.png, id=1341, 856.70062pt x 199.24437pt>
-File: Figs/Ch2/tomo.png Graphic file (type png)
-
-<use Figs/Ch2/tomo.png>
-Package pdftex.def Info: Figs/Ch2/tomo.png used on input line 195.
-(pdftex.def)             Requested size: 437.46112pt x 101.74097pt.
- [36 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch2/tomo.png>] <Figs/Ch2/WBPS
-IRT.png, id=1362, 1044.15094pt x 431.36156pt>
-File: Figs/Ch2/WBPSIRT.png Graphic file (type png)
-
-<use Figs/Ch2/WBPSIRT.png>
-Package pdftex.def Info: Figs/Ch2/WBPSIRT.png used on input line 206.
-(pdftex.def)             Requested size: 393.71233pt x 162.64876pt.
- [37 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch2/WBPSIRT.png>] <Figs/Ch2/A
-FM.png, id=1377, 644.1666pt x 409.53pt>
-File: Figs/Ch2/AFM.png Graphic file (type png)
-
-<use Figs/Ch2/AFM.png>
-Package pdftex.def Info: Figs/Ch2/AFM.png used on input line 221.
-(pdftex.def)             Requested size: 306.22144pt x 194.67874pt.
- [38 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch2/AFM.png>] <Figs/Ch2/AFMin
-t.png, id=1388, 1200.73593pt x 637.63219pt>
-File: Figs/Ch2/AFMint.png Graphic file (type png)
-
-<use Figs/Ch2/AFMint.png>
-Package pdftex.def Info: Figs/Ch2/AFMint.png used on input line 233.
-(pdftex.def)             Requested size: 306.22144pt x 162.60864pt.
-
-<Figs/Ch2/afm1.png, id=1394, 292.09125pt x 234.8775pt>
-File: Figs/Ch2/afm1.png Graphic file (type png)
- <use Figs/Ch2/afm1.png>
-Package pdftex.def Info: Figs/Ch2/afm1.png used on input line 244.
-(pdftex.def)             Requested size: 174.98177pt x 140.71254pt.
-
-<Figs/Ch2/afm2.png, id=1395, 286.82156pt x 234.8775pt>
-File: Figs/Ch2/afm2.png Graphic file (type png)
- <use Figs/Ch2/afm2.png>
-Package pdftex.def Info: Figs/Ch2/afm2.png used on input line 251.
-(pdftex.def)             Requested size: 174.98177pt x 143.29298pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[39 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch2/AFMint.png>]
-<Figs/Ch2/afm3.png, id=1404, 819.8128pt x 526.21594pt>
-File: Figs/Ch2/afm3.png Graphic file (type png)
- <use Figs/Ch2/afm3.png>
-Package pdftex.def Info: Figs/Ch2/afm3.png used on input line 263.
-(pdftex.def)             Requested size: 174.98177pt x 112.31522pt.
-
-<Figs/Ch2/SEM.png, id=1406, 340.27126pt x 283.81032pt>
-File: Figs/Ch2/SEM.png Graphic file (type png)
- <use Figs/Ch2/SEM.png>
-Package pdftex.def Info: Figs/Ch2/SEM.png used on input line 275.
-(pdftex.def)             Requested size: 262.47934pt x 218.93735pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[40 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch2/afm1.png> <C:/Users/cr458/
-Documents/GitHub/Thesis/Figs/Ch2/afm2.png> <C:/Users/cr458/Documents/GitHub/The
-sis/Figs/Ch2/afm3.png>]
-
-Package natbib Warning: Citation `Joy2006' on page 41 undefined on input line 2
-81.
-
-
-Package natbib Warning: Citation `Joy2006' on page 41 undefined on input line 2
-82.
-
-<Figs/Ch2/int.png, id=1419, 359.3425pt x 353.82187pt>
-File: Figs/Ch2/int.png Graphic file (type png)
- <use Figs/Ch2/int.png>
-Package pdftex.def Info: Figs/Ch2/int.png used on input line 286.
-(pdftex.def)             Requested size: 262.47934pt x 258.46597pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[41 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch2/SEM.png>]
-<Figs/Ch2/CL.png, id=1434, 616.55344pt x 394.47375pt>
-File: Figs/Ch2/CL.png Graphic file (type png)
- <use Figs/Ch2/CL.png>
-Package pdftex.def Info: Figs/Ch2/CL.png used on input line 303.
-(pdftex.def)             Requested size: 218.73056pt x 139.94586pt.
-
-[42 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch2/int.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 309--317
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 309--317
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 309--317
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 309--317
-
- []
-
-[43 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch2/CL.png>]
-<Figs/Ch2/hyper.png, id=1454, 363.60844pt x 167.87718pt>
-File: Figs/Ch2/hyper.png Graphic file (type png)
-
-<use Figs/Ch2/hyper.png>
-Package pdftex.def Info: Figs/Ch2/hyper.png used on input line 320.
-(pdftex.def)             Requested size: 218.73056pt x 100.99092pt.
- [44 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch2/hyper.png>] <Figs/Ch2/FIB
-.png, id=1475, 470.50781pt x 415.5525pt>
-File: Figs/Ch2/FIB.png Graphic file (type png)
-
-<use Figs/Ch2/FIB.png>
-Package pdftex.def Info: Figs/Ch2/FIB.png used on input line 345.
-(pdftex.def)             Requested size: 262.47934pt x 231.8201pt.
- [45] [46 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch2/FIB.png>] <Figs/Ch2/
-Lift-out.png, id=1490, 895.84688pt x 597.73312pt>
-File: Figs/Ch2/Lift-out.png Graphic file (type png)
-
-<use Figs/Ch2/Lift-out.png>
-Package pdftex.def Info: Figs/Ch2/Lift-out.png used on input line 365.
-(pdftex.def)             Requested size: 393.71233pt x 262.69328pt.
-
-<Figs/Ch2/SnV.png, id=1492, 341.77687pt x 298.11375pt>
-File: Figs/Ch2/SnV.png Graphic file (type png)
- <use Figs/Ch2/SnV.png>
-Package pdftex.def Info: Figs/Ch2/SnV.png used on input line 380.
-(pdftex.def)             Requested size: 393.71233pt x 343.4377pt.
-
-[47 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch2/Lift-out.png>] [48 <C:/Use
-rs/cr458/Documents/GitHub/Thesis/Figs/Ch2/SnV.png>]) [49]
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 3.
+ [11{C:/Users/cr458/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]) [12]
 (C:\Users\cr458\Documents\GitHub\Thesis\Chapter3/chapter3.tex [50
+
+
 
 
 
 ]
 Chapter 3.
-[51] <Figs/Ch3/LEDstruct.png, id=1534, 268.8444pt x 445.1832pt>
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 14.
+[51] <Figs/Ch3/LEDstruct.png, id=89, 268.8444pt x 445.1832pt>
 File: Figs/Ch3/LEDstruct.png Graphic file (type png)
 
 <use Figs/Ch3/LEDstruct.png>
 Package pdftex.def Info: Figs/Ch3/LEDstruct.png used on input line 29.
 (pdftex.def)             Requested size: 174.98177pt x 289.75285pt.
  [52 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch3/LEDstruct.png>] <Figs/Ch3
-/2T.png, id=1544, 897.5934pt x 394.5942pt>
+/2T.png, id=103, 897.5934pt x 394.5942pt>
 File: Figs/Ch3/2T.png Graphic file (type png)
 
 <use Figs/Ch3/2T.png>
 Package pdftex.def Info: Figs/Ch3/2T.png used on input line 40.
 (pdftex.def)             Requested size: 393.71233pt x 173.0861pt.
- <Figs/Ch3/5608.png, id=1546, 276.03125pt x 265.99374pt>
+ <Figs/Ch3/5608.png, id=105, 276.03125pt x 265.99374pt>
 File: Figs/Ch3/5608.png Graphic file (type png)
 
 <use Figs/Ch3/5608.png>
@@ -2132,49 +1549,51 @@ Package pdftex.def Info: Figs/Ch3/5608.png used on input line 53.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [53 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch3/2T.png>]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 63.
 LaTeX Font Info:    Try loading font information for TS1+ptm on input line 64.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd"
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-<Figs/Ch3/ELfull.png, id=1556, 378.41376pt x 277.53688pt>
+<Figs/Ch3/ELfull.png, id=118, 378.41376pt x 277.53688pt>
 File: Figs/Ch3/ELfull.png Graphic file (type png)
 
 <use Figs/Ch3/ELfull.png>
 Package pdftex.def Info: Figs/Ch3/ELfull.png used on input line 69.
 (pdftex.def)             Requested size: 349.97023pt x 256.67947pt.
  [54 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch3/5608.png (PNG copy)>] <Fi
-gs/Ch3/1c.png, id=1564, 560.3334pt x 498.1812pt>
+gs/Ch3/1c.png, id=127, 560.3334pt x 498.1812pt>
 File: Figs/Ch3/1c.png Graphic file (type png)
 
 <use Figs/Ch3/1c.png>
 Package pdftex.def Info: Figs/Ch3/1c.png used on input line 86.
 (pdftex.def)             Requested size: 209.97946pt x 186.68826pt.
- <Figs/Ch3/2dot5c.png, id=1565, 560.3334pt x 498.1812pt>
+ <Figs/Ch3/2dot5c.png, id=128, 560.3334pt x 498.1812pt>
 File: Figs/Ch3/2dot5c.png Graphic file (type png)
 
 <use Figs/Ch3/2dot5c.png>
 Package pdftex.def Info: Figs/Ch3/2dot5c.png used on input line 92.
 (pdftex.def)             Requested size: 209.97946pt x 186.68826pt.
- <Figs/Ch3/10c.png, id=1566, 560.3334pt x 498.1812pt>
+ <Figs/Ch3/10c.png, id=129, 560.3334pt x 498.1812pt>
 File: Figs/Ch3/10c.png Graphic file (type png)
 
 <use Figs/Ch3/10c.png>
 Package pdftex.def Info: Figs/Ch3/10c.png used on input line 99.
 (pdftex.def)             Requested size: 209.97946pt x 186.68826pt.
- <Figs/Ch3/50c.png, id=1567, 560.3334pt x 498.1812pt>
+ <Figs/Ch3/50c.png, id=130, 560.3334pt x 498.1812pt>
 File: Figs/Ch3/50c.png Graphic file (type png)
 
 <use Figs/Ch3/50c.png>
 Package pdftex.def Info: Figs/Ch3/50c.png used on input line 105.
 (pdftex.def)             Requested size: 209.97946pt x 186.68826pt.
- <Figs/Ch3/100c.png, id=1568, 560.3334pt x 498.1812pt>
+ <Figs/Ch3/100c.png, id=131, 560.3334pt x 498.1812pt>
 File: Figs/Ch3/100c.png Graphic file (type png)
 
 <use Figs/Ch3/100c.png>
 Package pdftex.def Info: Figs/Ch3/100c.png used on input line 112.
 (pdftex.def)             Requested size: 209.97946pt x 186.68826pt.
- <Figs/Ch3/250c.png, id=1569, 560.3334pt x 498.1812pt>
+ <Figs/Ch3/250c.png, id=132, 560.3334pt x 498.1812pt>
 File: Figs/Ch3/250c.png Graphic file (type png)
 
 <use Figs/Ch3/250c.png>
@@ -2184,37 +1603,37 @@ Package pdftex.def Info: Figs/Ch3/250c.png used on input line 118.
 
 LaTeX Warning: Float too large for page by 23.57962pt on input line 124.
 
-<Figs/Ch3/1.png, id=1570, 578.6418pt x 434.1018pt>
+<Figs/Ch3/1.png, id=133, 578.6418pt x 434.1018pt>
 File: Figs/Ch3/1.png Graphic file (type png)
  <use Figs/Ch3/1.png>
 Package pdftex.def Info: Figs/Ch3/1.png used on input line 129.
 (pdftex.def)             Requested size: 209.97946pt x 157.52844pt.
 
-<Figs/Ch3/5.png, id=1571, 578.6418pt x 434.1018pt>
+<Figs/Ch3/5.png, id=134, 578.6418pt x 434.1018pt>
 File: Figs/Ch3/5.png Graphic file (type png)
  <use Figs/Ch3/5.png>
 Package pdftex.def Info: Figs/Ch3/5.png used on input line 135.
 (pdftex.def)             Requested size: 209.97946pt x 157.52844pt.
 
-<Figs/Ch3/10.png, id=1572, 578.6418pt x 434.1018pt>
+<Figs/Ch3/10.png, id=135, 578.6418pt x 434.1018pt>
 File: Figs/Ch3/10.png Graphic file (type png)
  <use Figs/Ch3/10.png>
 Package pdftex.def Info: Figs/Ch3/10.png used on input line 142.
 (pdftex.def)             Requested size: 209.97946pt x 157.52844pt.
 
-<Figs/Ch3/50.png, id=1573, 578.6418pt x 434.1018pt>
+<Figs/Ch3/50.png, id=136, 578.6418pt x 434.1018pt>
 File: Figs/Ch3/50.png Graphic file (type png)
  <use Figs/Ch3/50.png>
 Package pdftex.def Info: Figs/Ch3/50.png used on input line 148.
 (pdftex.def)             Requested size: 209.97946pt x 157.52844pt.
 
-<Figs/Ch3/100.png, id=1574, 578.6418pt x 434.1018pt>
+<Figs/Ch3/100.png, id=137, 578.6418pt x 434.1018pt>
 File: Figs/Ch3/100.png Graphic file (type png)
  <use Figs/Ch3/100.png>
 Package pdftex.def Info: Figs/Ch3/100.png used on input line 155.
 (pdftex.def)             Requested size: 209.97946pt x 157.52844pt.
 
-<Figs/Ch3/250.png, id=1575, 578.6418pt x 434.1018pt>
+<Figs/Ch3/250.png, id=138, 578.6418pt x 434.1018pt>
 File: Figs/Ch3/250.png Graphic file (type png)
  <use Figs/Ch3/250.png>
 Package pdftex.def Info: Figs/Ch3/250.png used on input line 161.
@@ -2232,14 +1651,14 @@ sers/cr458/Documents/GitHub/Thesis/Figs/Ch3/10.png (PNG copy)> <C:/Users/cr458/
 Documents/GitHub/Thesis/Figs/Ch3/50.png (PNG copy)> <C:/Users/cr458/Documents/G
 itHub/Thesis/Figs/Ch3/100.png (PNG copy)> <C:/Users/cr458/Documents/GitHub/Thes
 is/Figs/Ch3/250.png (PNG copy)>]
-<Figs/Ch3/Peakcomp5608.png, id=1593, 578.16pt x 397.485pt>
+<Figs/Ch3/Peakcomp5608.png, id=159, 578.16pt x 397.485pt>
 File: Figs/Ch3/Peakcomp5608.png Graphic file (type png)
 
 <use Figs/Ch3/Peakcomp5608.png>
 Package pdftex.def Info: Figs/Ch3/Peakcomp5608.png used on input line 174.
 (pdftex.def)             Requested size: 349.97023pt x 240.6035pt.
 
-<Figs/Ch3/centrePeakcomp5608.png, id=1597, 578.16pt x 397.485pt>
+<Figs/Ch3/centrePeakcomp5608.png, id=163, 578.16pt x 397.485pt>
 File: Figs/Ch3/centrePeakcomp5608.png Graphic file (type png)
 
 <use Figs/Ch3/centrePeakcomp5608.png>
@@ -2247,14 +1666,14 @@ Package pdftex.def Info: Figs/Ch3/centrePeakcomp5608.png used on input line 185
 .
 (pdftex.def)             Requested size: 349.97023pt x 240.6035pt.
  [58 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch3/Peakcomp5608.png>]
-<Figs/Ch3/5608AsmallCL.png, id=1604, 559.3698pt x 472.164pt>
+<Figs/Ch3/5608AsmallCL.png, id=173, 559.3698pt x 472.164pt>
 File: Figs/Ch3/5608AsmallCL.png Graphic file (type png)
 
 <use Figs/Ch3/5608AsmallCL.png>
 Package pdftex.def Info: Figs/Ch3/5608AsmallCL.png used on input line 201.
 (pdftex.def)             Requested size: 209.97946pt x 177.24118pt.
 
-<Figs/Ch3/5608smallEBIC.png, id=1605, 539.616pt x 472.164pt>
+<Figs/Ch3/5608smallEBIC.png, id=174, 539.616pt x 472.164pt>
 File: Figs/Ch3/5608smallEBIC.png Graphic file (type png)
 
 <use Figs/Ch3/5608smallEBIC.png>
@@ -2277,28 +1696,28 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [59 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch3/centrePeakcomp5608.png>]
 [60 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch3/5608AsmallCL.png> <C:/User
 s/cr458/Documents/GitHub/Thesis/Figs/Ch3/5608smallEBIC.png>]
-<Figs/Ch3/5608sem.jpg, id=1633, 542.025pt x 542.025pt>
+<Figs/Ch3/5608sem.jpg, id=205, 542.025pt x 542.025pt>
 File: Figs/Ch3/5608sem.jpg Graphic file (type jpg)
 
 <use Figs/Ch3/5608sem.jpg>
 Package pdftex.def Info: Figs/Ch3/5608sem.jpg used on input line 229.
 (pdftex.def)             Requested size: 146.98497pt x 146.98553pt.
 
-<Figs/Ch3/5608panCL.jpg, id=1634, 2055.68pt x 2055.68pt>
+<Figs/Ch3/5608panCL.jpg, id=206, 2055.68pt x 2055.68pt>
 File: Figs/Ch3/5608panCL.jpg Graphic file (type jpg)
 
 <use Figs/Ch3/5608panCL.jpg>
 Package pdftex.def Info: Figs/Ch3/5608panCL.jpg used on input line 236.
 (pdftex.def)             Requested size: 146.98497pt x 146.95491pt.
 
-<Figs/Ch3/11-peak.png, id=1637, 555.7563pt x 472.164pt>
+<Figs/Ch3/11-peak.png, id=209, 555.7563pt x 472.164pt>
 File: Figs/Ch3/11-peak.png Graphic file (type png)
 
 <use Figs/Ch3/11-peak.png>
 Package pdftex.def Info: Figs/Ch3/11-peak.png used on input line 251.
 (pdftex.def)             Requested size: 209.97946pt x 178.39392pt.
 
-<Figs/Ch3/11-centre.png, id=1638, 550.6974pt x 472.164pt>
+<Figs/Ch3/11-centre.png, id=210, 550.6974pt x 472.164pt>
 File: Figs/Ch3/11-centre.png Graphic file (type png)
 
 <use Figs/Ch3/11-centre.png>
@@ -2308,42 +1727,41 @@ Package pdftex.def Info: Figs/Ch3/11-centre.png used on input line 258.
 458/Documents/GitHub/Thesis/Figs/Ch3/5608panCL.jpg> <C:/Users/cr458/Documents/G
 itHub/Thesis/Figs/Ch3/11-peak.png> <C:/Users/cr458/Documents/GitHub/Thesis/Figs
 /Ch3/11-centre.png>]
-<Figs/Ch3/sem-pit.png, id=1649, 568.524pt x 408.5664pt>
+<Figs/Ch3/sem-pit.png, id=222, 568.524pt x 408.5664pt>
 File: Figs/Ch3/sem-pit.png Graphic file (type png)
 
 <use Figs/Ch3/sem-pit.png>
 Package pdftex.def Info: Figs/Ch3/sem-pit.png used on input line 276.
 (pdftex.def)             Requested size: 349.97023pt x 251.51309pt.
-
-<Figs/Ch3/AFM.png, id=1653, 256.3176pt x 255.8358pt>
+ <Figs/Ch3/AFM.png, id=226, 256.3176pt x 255.8358pt>
 File: Figs/Ch3/AFM.png Graphic file (type png)
- <use Figs/Ch3/AFM.png>
+
+<use Figs/Ch3/AFM.png>
 Package pdftex.def Info: Figs/Ch3/AFM.png used on input line 289.
 (pdftex.def)             Requested size: 306.22144pt x 305.65073pt.
-
-[62 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch3/sem-pit.png>]
-<Figs/Ch3/profile.jpg, id=1662, 255.95625pt x 255.95625pt>
+ [62 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch3/sem-pit.png>] <Figs/Ch3/p
+rofile.jpg, id=237, 255.95625pt x 255.95625pt>
 File: Figs/Ch3/profile.jpg Graphic file (type jpg)
 
 <use Figs/Ch3/profile.jpg>
 Package pdftex.def Info: Figs/Ch3/profile.jpg used on input line 299.
 (pdftex.def)             Requested size: 218.73056pt x 218.7316pt.
  [63 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch3/AFM.png>] <Figs/Ch3/FIB-s
-pot.png, id=1673, 857.1222pt x 284.262pt>
+pot.png, id=249, 857.1222pt x 284.262pt>
 File: Figs/Ch3/FIB-spot.png Graphic file (type png)
 
 <use Figs/Ch3/FIB-spot.png>
 Package pdftex.def Info: Figs/Ch3/FIB-spot.png used on input line 312.
 (pdftex.def)             Requested size: 437.46112pt x 145.08446pt.
  [64 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch3/profile.jpg>]
-<Figs/Ch3/FIB-loc-diagram.png, id=1682, 1021.416pt x 301.6068pt>
+<Figs/Ch3/FIB-loc-diagram.png, id=260, 1021.416pt x 301.6068pt>
 File: Figs/Ch3/FIB-loc-diagram.png Graphic file (type png)
 
 <use Figs/Ch3/FIB-loc-diagram.png>
 Package pdftex.def Info: Figs/Ch3/FIB-loc-diagram.png used on input line 322.
 (pdftex.def)             Requested size: 437.46112pt x 129.17294pt.
 
-<Figs/Ch3/thinned.png, id=1684, 580.0872pt x 466.8642pt>
+<Figs/Ch3/thinned.png, id=262, 580.0872pt x 466.8642pt>
 File: Figs/Ch3/thinned.png Graphic file (type png)
 
 <use Figs/Ch3/thinned.png>
@@ -2355,7 +1773,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [65 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch3/FIB-spot.png> <C:/Users/cr
 458/Documents/GitHub/Thesis/Figs/Ch3/FIB-loc-diagram.png>]
-<Figs/Ch3/STEM-spot.png, id=1696, 605.1408pt x 480.3546pt>
+<Figs/Ch3/STEM-spot.png, id=276, 605.1408pt x 480.3546pt>
 File: Figs/Ch3/STEM-spot.png Graphic file (type png)
 
 <use Figs/Ch3/STEM-spot.png>
@@ -2366,28 +1784,28 @@ Package pdftex.def Info: Figs/Ch3/STEM-spot.png used on input line 345.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [66 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch3/thinned.png>]
-<Figs/Ch3/EDStarget.png, id=1704, 433.1382pt x 344.0052pt>
+<Figs/Ch3/EDStarget.png, id=284, 433.1382pt x 344.0052pt>
 File: Figs/Ch3/EDStarget.png Graphic file (type png)
 
 <use Figs/Ch3/EDStarget.png>
 Package pdftex.def Info: Figs/Ch3/EDStarget.png used on input line 356.
 (pdftex.def)             Requested size: 209.97946pt x 166.76883pt.
 
-<Figs/Ch3/AtomicAl.png, id=1705, 542.025pt x 542.025pt>
+<Figs/Ch3/AtomicAl.png, id=285, 542.025pt x 542.025pt>
 File: Figs/Ch3/AtomicAl.png Graphic file (type png)
 
 <use Figs/Ch3/AtomicAl.png>
 Package pdftex.def Info: Figs/Ch3/AtomicAl.png used on input line 362.
 (pdftex.def)             Requested size: 209.97946pt x 209.97461pt.
 
-<Figs/Ch3/AtomicGa.png, id=1706, 578.16pt x 578.16pt>
+<Figs/Ch3/AtomicGa.png, id=286, 578.16pt x 578.16pt>
 File: Figs/Ch3/AtomicGa.png Graphic file (type png)
 
 <use Figs/Ch3/AtomicGa.png>
 Package pdftex.def Info: Figs/Ch3/AtomicGa.png used on input line 369.
 (pdftex.def)             Requested size: 209.97946pt x 209.97241pt.
 
-<Figs/Ch3/AtomicIn.png, id=1707, 578.16pt x 578.16pt>
+<Figs/Ch3/AtomicIn.png, id=287, 578.16pt x 578.16pt>
 File: Figs/Ch3/AtomicIn.png Graphic file (type png)
 
 <use Figs/Ch3/AtomicIn.png>
@@ -2406,7 +1824,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 388--389
 
  []
 
-<Figs/Ch3/Sim.png, id=1726, 721.94719pt x 571.38469pt>
+<Figs/Ch3/Sim.png, id=308, 721.94719pt x 571.38469pt>
 File: Figs/Ch3/Sim.png Graphic file (type png)
  <use Figs/Ch3/Sim.png>
 Package pdftex.def Info: Figs/Ch3/Sim.png used on input line 397.
@@ -2417,37 +1835,47 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [69
 
-] <Figs/Ch3/deep.png, id=1741, 486.1362pt x 330.5148pt>
-File: Figs/Ch3/deep.png Graphic file (type png)
+] <Figs/Ch3/deep_big1.png, id=324, 934.99312pt x 560.0925pt>
+File: Figs/Ch3/deep_big1.png Graphic file (type png)
 
-<use Figs/Ch3/deep.png>
-Package pdftex.def Info: Figs/Ch3/deep.png used on input line 409.
-(pdftex.def)             Requested size: 196.85616pt x 133.83757pt.
- <Figs/Ch3/150rad.png, id=1742, 578.16pt x 361.35pt>
-File: Figs/Ch3/150rad.png Graphic file (type png)
-
-<use Figs/Ch3/150rad.png>
-Package pdftex.def Info: Figs/Ch3/150rad.png used on input line 415.
-(pdftex.def)             Requested size: 214.35834pt x 133.97308pt.
- <Figs/Ch3/150elec.png, id=1743, 578.16pt x 361.35pt>
-File: Figs/Ch3/150elec.png Graphic file (type png)
-
-<use Figs/Ch3/150elec.png>
-Package pdftex.def Info: Figs/Ch3/150elec.png used on input line 422.
-(pdftex.def)             Requested size: 214.35834pt x 133.97308pt.
-
-<Figs/Ch3/150hole.png, id=1744, 578.16pt x 361.35pt>
-File: Figs/Ch3/150hole.png Graphic file (type png)
-
-<use Figs/Ch3/150hole.png>
-Package pdftex.def Info: Figs/Ch3/150hole.png used on input line 428.
-(pdftex.def)             Requested size: 214.35834pt x 133.97308pt.
+<use Figs/Ch3/deep_big1.png>
+Package pdftex.def Info: Figs/Ch3/deep_big1.png used on input line 408.
+(pdftex.def)             Requested size: 437.46112pt x 262.05557pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [70 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch3/Sim.png>]
-<Figs/Ch3/shallow.png, id=1754, 644.1666pt x 509.7444pt>
+<Figs/Ch3/5A_rad.png, id=333, 722.7pt x 506.3718pt>
+File: Figs/Ch3/5A_rad.png Graphic file (type png)
+ <use Figs/Ch3/5A_rad.png>
+Package pdftex.def Info: Figs/Ch3/5A_rad.png used on input line 416.
+(pdftex.def)             Requested size: 437.46112pt x 306.51427pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[71 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch3/deep_big1.png> <C:/Users/c
+r458/Documents/GitHub/Thesis/Figs/Ch3/5A_rad.png>]
+<Figs/Ch3/5A_elec.png, id=343, 722.7pt x 505.89pt>
+File: Figs/Ch3/5A_elec.png Graphic file (type png)
+ <use Figs/Ch3/5A_elec.png>
+Package pdftex.def Info: Figs/Ch3/5A_elec.png used on input line 424.
+(pdftex.def)             Requested size: 437.46112pt x 306.22263pt.
+
+<Figs/Ch3/5A_hole.png, id=344, 722.7pt x 505.89pt>
+File: Figs/Ch3/5A_hole.png Graphic file (type png)
+ <use Figs/Ch3/5A_hole.png>
+Package pdftex.def Info: Figs/Ch3/5A_hole.png used on input line 432.
+(pdftex.def)             Requested size: 437.46112pt x 306.22263pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[72
+
+ <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch3/5A_elec.png>]
+<Figs/Ch3/shallow.png, id=352, 644.1666pt x 509.7444pt>
 File: Figs/Ch3/shallow.png Graphic file (type png)
 
 <use Figs/Ch3/shallow.png>
@@ -2457,42 +1885,51 @@ Package pdftex.def Info: Figs/Ch3/shallow.png used on input line 444.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[71 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch3/deep.png> <C:/Users/cr458/
-Documents/GitHub/Thesis/Figs/Ch3/150rad.png> <C:/Users/cr458/Documents/GitHub/T
-hesis/Figs/Ch3/150elec.png> <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch3/15
-0hole.png>] <Figs/Ch3/shallowrad1.png, id=1770, 480.8364pt x 344.0052pt>
-File: Figs/Ch3/shallowrad1.png Graphic file (type png)
+[73 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch3/5A_hole.png>]
+<Figs/Ch3/shallowrad1-1.png, id=365, 935.99687pt x 558.085pt>
+File: Figs/Ch3/shallowrad1-1.png Graphic file (type png)
 
-<use Figs/Ch3/shallowrad1.png>
-Package pdftex.def Info: Figs/Ch3/shallowrad1.png used on input line 455.
-(pdftex.def)             Requested size: 196.85616pt x 140.83832pt.
-
-<Figs/Ch3/shallowrad.png, id=1771, 578.16pt x 361.35pt>
-File: Figs/Ch3/shallowrad.png Graphic file (type png)
-
-<use Figs/Ch3/shallowrad.png>
-Package pdftex.def Info: Figs/Ch3/shallowrad.png used on input line 461.
-(pdftex.def)             Requested size: 214.35834pt x 133.97308pt.
-
-<Figs/Ch3/shallowelec.png, id=1772, 578.16pt x 361.35pt>
-File: Figs/Ch3/shallowelec.png Graphic file (type png)
-
-<use Figs/Ch3/shallowelec.png>
-Package pdftex.def Info: Figs/Ch3/shallowelec.png used on input line 468.
-(pdftex.def)             Requested size: 214.35834pt x 133.97308pt.
-
-<Figs/Ch3/shallowhole.png, id=1773, 578.16pt x 361.35pt>
-File: Figs/Ch3/shallowhole.png Graphic file (type png)
-
-<use Figs/Ch3/shallowhole.png>
-Package pdftex.def Info: Figs/Ch3/shallowhole.png used on input line 474.
-(pdftex.def)             Requested size: 214.35834pt x 133.97308pt.
+<use Figs/Ch3/shallowrad1-1.png>
+Package pdftex.def Info: Figs/Ch3/shallowrad1-1.png used on input line 453.
+(pdftex.def)             Requested size: 437.46112pt x 260.8353pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[72 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch3/shallow.png>]
-<Figs/Ch3/TEMspot.png, id=1781, 148.3944pt x 469.2732pt>
+[74 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch3/shallow.png>]
+<Figs/Ch3/shallowrad.png, id=373, 722.7pt x 505.89pt>
+File: Figs/Ch3/shallowrad.png Graphic file (type png)
+
+<use Figs/Ch3/shallowrad.png>
+Package pdftex.def Info: Figs/Ch3/shallowrad.png used on input line 461.
+(pdftex.def)             Requested size: 437.46112pt x 306.22263pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[75 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch3/shallowrad1-1.png> <C:/Use
+rs/cr458/Documents/GitHub/Thesis/Figs/Ch3/shallowrad.png>]
+<Figs/Ch3/shallowelec.png, id=381, 722.7pt x 505.89pt>
+File: Figs/Ch3/shallowelec.png Graphic file (type png)
+
+<use Figs/Ch3/shallowelec.png>
+Package pdftex.def Info: Figs/Ch3/shallowelec.png used on input line 469.
+(pdftex.def)             Requested size: 437.46112pt x 306.22263pt.
+
+<Figs/Ch3/shallowhole.png, id=382, 722.7pt x 505.89pt>
+File: Figs/Ch3/shallowhole.png Graphic file (type png)
+
+<use Figs/Ch3/shallowhole.png>
+Package pdftex.def Info: Figs/Ch3/shallowhole.png used on input line 477.
+(pdftex.def)             Requested size: 437.46112pt x 306.22263pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[76
+
+ <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch3/shallowelec.png>]
+<Figs/Ch3/TEMspot.png, id=391, 148.3944pt x 469.2732pt>
 File: Figs/Ch3/TEMspot.png Graphic file (type png)
 
 <use Figs/Ch3/TEMspot.png>
@@ -2502,18 +1939,16 @@ Package pdftex.def Info: Figs/Ch3/TEMspot.png used on input line 493.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[73 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch3/shallowrad1.png> <C:/Users
-/cr458/Documents/GitHub/Thesis/Figs/Ch3/shallowrad.png> <C:/Users/cr458/Documen
-ts/GitHub/Thesis/Figs/Ch3/shallowelec.png> <C:/Users/cr458/Documents/GitHub/The
-sis/Figs/Ch3/shallowhole.png>] [74 <C:/Users/cr458/Documents/GitHub/Thesis/Figs
-/Ch3/TEMspot.png>] <Figs/Ch3/WBDF-yall.png, id=1801, 693.792pt x 304.4976pt>
+[77 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch3/shallowhole.png>] [78 <C:/
+Users/cr458/Documents/GitHub/Thesis/Figs/Ch3/TEMspot.png>]
+<Figs/Ch3/WBDF-yall.png, id=412, 693.792pt x 304.4976pt>
 File: Figs/Ch3/WBDF-yall.png Graphic file (type png)
 
 <use Figs/Ch3/WBDF-yall.png>
 Package pdftex.def Info: Figs/Ch3/WBDF-yall.png used on input line 502.
 (pdftex.def)             Requested size: 437.46112pt x 191.99712pt.
 
-<Figs/Ch3/Datta.png, id=1807, 508.90125pt x 347.79938pt>
+<Figs/Ch3/Datta.png, id=418, 508.90125pt x 347.79938pt>
 File: Figs/Ch3/Datta.png Graphic file (type png)
 
 <use Figs/Ch3/Datta.png>
@@ -2523,741 +1958,18 @@ Package pdftex.def Info: Figs/Ch3/Datta.png used on input line 513.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[75
+[79
 
- <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch3/WBDF-yall.png>] [76 <C:/Users
-/cr458/Documents/GitHub/Thesis/Figs/Ch3/Datta.png>]) [77]
-(C:\Users\cr458\Documents\GitHub\Thesis\Chapter4/chapter4.tex [78
+ <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch3/WBDF-yall.png>] [80 <C:/Users
+/cr458/Documents/GitHub/Thesis/Figs/Ch3/Datta.png>]) [81]
+(C:\Users\cr458\Documents\GitHub\Thesis\thesis.bbl [138
 
 
 
-]
-Chapter 4.
-[79] <Figs/Ch4/PEC.png, id=1859, 460.119pt x 406.1574pt>
-File: Figs/Ch4/PEC.png Graphic file (type png)
 
-<use Figs/Ch4/PEC.png>
-Package pdftex.def Info: Figs/Ch4/PEC.png used on input line 26.
-(pdftex.def)             Requested size: 349.97023pt x 308.93692pt.
- [80 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch4/PEC.png>] <Figs/Ch4/youts
-eywhisker.png, id=1867, 393.72093pt x 265.74281pt>
-File: Figs/Ch4/youtseywhisker.png Graphic file (type png)
 
-<use Figs/Ch4/youtseywhisker.png>
-Package pdftex.def Info: Figs/Ch4/youtseywhisker.png used on input line 40.
-(pdftex.def)             Requested size: 349.97023pt x 236.21028pt.
- [81 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch4/youtseywhisker.png>]
-<Figs/Ch4/elellacomp.png, id=1880, 308.79pt x 225.0225pt>
-File: Figs/Ch4/elellacomp.png Graphic file (type png)
 
-<use Figs/Ch4/elellacomp.png>
-Package pdftex.def Info: Figs/Ch4/elellacomp.png used on input line 55.
-(pdftex.def)             Requested size: 349.97023pt x 255.0347pt.
- [82 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch4/elellacomp.png>]
-<Figs/Ch4/puchtlerdislocation.png, id=1892, 618.81187pt x 368.87813pt>
-File: Figs/Ch4/puchtlerdislocation.png Graphic file (type png)
-
-<use Figs/Ch4/puchtlerdislocation.png>
-Package pdftex.def Info: Figs/Ch4/puchtlerdislocation.png used on input line 67
-.
-(pdftex.def)             Requested size: 437.46112pt x 260.7852pt.
-
-<Figs/Ch4/puchtlerdistance.png, id=1897, 1505.625pt x 1197.47375pt>
-File: Figs/Ch4/puchtlerdistance.png Graphic file (type png)
-
-<use Figs/Ch4/puchtlerdistance.png>
-Package pdftex.def Info: Figs/Ch4/puchtlerdistance.png used on input line 77.
-(pdftex.def)             Requested size: 437.46112pt x 347.91628pt.
- [83 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch4/puchtlerdislocation.png>]
-
-<Figs/Ch4/puchtlersim.jpg, id=1909, 663.47874pt x 589.20125pt>
-File: Figs/Ch4/puchtlersim.jpg Graphic file (type jpg)
-
-<use Figs/Ch4/puchtlersim.jpg>
-Package pdftex.def Info: Figs/Ch4/puchtlersim.jpg used on input line 86.
-(pdftex.def)             Requested size: 306.22144pt x 271.9349pt.
- [84 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch4/puchtlerdistance.png>] [8
-5 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch4/puchtlersim.jpg>]
-<Figs/Ch4/puchtlerimage.png, id=1932, 460.6008pt x 210.5466pt>
-File: Figs/Ch4/puchtlerimage.png Graphic file (type png)
-
-<use Figs/Ch4/puchtlerimage.png>
-Package pdftex.def Info: Figs/Ch4/puchtlerimage.png used on input line 104.
-(pdftex.def)             Requested size: 306.22144pt x 139.97638pt.
- [86 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch4/puchtlerimage.png>]
-<Figs/Ch4/FIBwhisk.png, id=1941, 162.3666pt x 164.7756pt>
-File: Figs/Ch4/FIBwhisk.png Graphic file (type png)
-
-<use Figs/Ch4/FIBwhisk.png>
-Package pdftex.def Info: Figs/Ch4/FIBwhisk.png used on input line 122.
-(pdftex.def)             Requested size: 218.73056pt x 221.98486pt.
- [87 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch4/FIBwhisk.png>] <Figs/Ch4/
-udiskliftout.png, id=1950, 603.6954pt x 408.0846pt>
-File: Figs/Ch4/udiskliftout.png Graphic file (type png)
-
-<use Figs/Ch4/udiskliftout.png>
-Package pdftex.def Info: Figs/Ch4/udiskliftout.png used on input line 132.
-(pdftex.def)             Requested size: 437.46112pt x 295.71364pt.
-
-<Figs/Ch4/whiskBF.png, id=1954, 364.2408pt x 312.6882pt>
-File: Figs/Ch4/whiskBF.png Graphic file (type png)
-
-<use Figs/Ch4/whiskBF.png>
-Package pdftex.def Info: Figs/Ch4/whiskBF.png used on input line 146.
-(pdftex.def)             Requested size: 209.97946pt x 180.26189pt.
-
-<Figs/Ch4/whiskDF.png, id=1955, 312.6882pt x 312.6882pt>
-File: Figs/Ch4/whiskDF.png Graphic file (type png)
-
-<use Figs/Ch4/whiskDF.png>
-Package pdftex.def Info: Figs/Ch4/whiskDF.png used on input line 153.
-(pdftex.def)             Requested size: 180.58246pt x 180.5911pt.
-
-Overfull \hbox (15.51059pt too wide) in paragraph at lines 143--156
-[]|  []|  [] 
- []
-
-[88 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch4/udiskliftout.png>]
-<Figs/Ch4/whiskclosebf.png, id=1962, 313.17pt x 313.17pt>
-File: Figs/Ch4/whiskclosebf.png Graphic file (type png)
-
-<use Figs/Ch4/whiskclosebf.png>
-Package pdftex.def Info: Figs/Ch4/whiskclosebf.png used on input line 166.
-(pdftex.def)             Requested size: 174.98177pt x 174.98692pt.
- [89 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch4/whiskBF.png> <C:/Users/cr
-458/Documents/GitHub/Thesis/Figs/Ch4/whiskDF.png> <C:/Users/cr458/Documents/Git
-Hub/Thesis/Figs/Ch4/whiskclosebf.png>]
-<Figs/Ch4/1120.png, id=1975, 190.21063pt x 193.72375pt>
-File: Figs/Ch4/1120.png Graphic file (type png)
-
-<use Figs/Ch4/1120.png>
-Package pdftex.def Info: Figs/Ch4/1120.png used on input line 180.
-(pdftex.def)             Requested size: 193.18071pt x 196.75314pt.
- <Figs/Ch4/0002.png, id=1976, 202.7575pt x 190.21063pt>
-File: Figs/Ch4/0002.png Graphic file (type png)
-
-<use Figs/Ch4/0002.png>
-Package pdftex.def Info: Figs/Ch4/0002.png used on input line 187.
-(pdftex.def)             Requested size: 209.97946pt x 196.9901pt.
-
-<Figs/Ch4/microped.png, id=1979, 256.3176pt x 255.8358pt>
-File: Figs/Ch4/microped.png Graphic file (type png)
-
-<use Figs/Ch4/microped.png>
-Package pdftex.def Info: Figs/Ch4/microped.png used on input line 206.
-(pdftex.def)             Requested size: 209.97946pt x 209.58762pt.
-
-<Figs/Ch4/micropedzoom.png, id=1980, 255.8358pt x 255.8358pt>
-File: Figs/Ch4/micropedzoom.png Graphic file (type png)
-
-<use Figs/Ch4/micropedzoom.png>
-Package pdftex.def Info: Figs/Ch4/micropedzoom.png used on input line 213.
-(pdftex.def)             Requested size: 209.97946pt x 209.9819pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[90 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch4/1120.png> <C:/Users/cr458/
-Documents/GitHub/Thesis/Figs/Ch4/0002.png>]
-<Figs/Ch4/edxtarget.png, id=1989, 256.3176pt x 256.3176pt>
-File: Figs/Ch4/edxtarget.png Graphic file (type png)
-
-<use Figs/Ch4/edxtarget.png>
-Package pdftex.def Info: Figs/Ch4/edxtarget.png used on input line 228.
-(pdftex.def)             Requested size: 111.55452pt x 111.55591pt.
-
-<Figs/Ch4/AtomicIn.png, id=1990, 578.16pt x 578.16pt>
-File: Figs/Ch4/AtomicIn.png Graphic file (type png)
-
-<use Figs/Ch4/AtomicIn.png>
-Package pdftex.def Info: Figs/Ch4/AtomicIn.png used on input line 235.
-(pdftex.def)             Requested size: 131.23967pt x 131.23607pt.
-
-<Figs/Ch4/AtomicGa.png, id=1991, 578.16pt x 578.16pt>
-File: Figs/Ch4/AtomicGa.png Graphic file (type png)
-
-<use Figs/Ch4/AtomicGa.png>
-Package pdftex.def Info: Figs/Ch4/AtomicGa.png used on input line 242.
-(pdftex.def)             Requested size: 131.23967pt x 131.23607pt.
- [91 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch4/microped.png> <C:/Users/c
-r458/Documents/GitHub/Thesis/Figs/Ch4/micropedzoom.png>] <Figs/Ch4/udisktomo.pn
-g, id=2002, 372.9132pt x 344.0052pt>
-File: Figs/Ch4/udisktomo.png Graphic file (type png)
-
-<use Figs/Ch4/udisktomo.png>
-Package pdftex.def Info: Figs/Ch4/udisktomo.png used on input line 258.
-(pdftex.def)             Requested size: 174.98177pt x 161.41475pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[92 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch4/edxtarget.png> <C:/Users/c
-r458/Documents/GitHub/Thesis/Figs/Ch4/AtomicIn.png> <C:/Users/cr458/Documents/G
-itHub/Thesis/Figs/Ch4/AtomicGa.png>]
-<Figs/Ch4/slice.png, id=2013, 573.342pt x 529.0164pt>
-File: Figs/Ch4/slice.png Graphic file (type png)
- <use Figs/Ch4/slice.png>
-Package pdftex.def Info: Figs/Ch4/slice.png used on input line 268.
-(pdftex.def)             Requested size: 218.73056pt x 201.81938pt.
-
-<Figs/Ch4/tom1.png, id=2018, 579.6349pt x 334.1593pt>
-File: Figs/Ch4/tom1.png Graphic file (type png)
- <use Figs/Ch4/tom1.png>
-Package pdftex.def Info: Figs/Ch4/tom1.png used on input line 279.
-(pdftex.def)             Requested size: 196.85616pt x 113.48517pt.
-
-<Figs/Ch4/tom2.png, id=2019, 580.20538pt x 343.2825pt>
-File: Figs/Ch4/tom2.png Graphic file (type png)
- <use Figs/Ch4/tom2.png>
-Package pdftex.def Info: Figs/Ch4/tom2.png used on input line 285.
-(pdftex.def)             Requested size: 192.91818pt x 114.13737pt.
-
-<Figs/Ch4/tom3.png, id=2020, 579.53658pt x 335.75438pt>
-File: Figs/Ch4/tom3.png Graphic file (type png)
-
-<use Figs/Ch4/tom3.png>
-Package pdftex.def Info: Figs/Ch4/tom3.png used on input line 292.
-(pdftex.def)             Requested size: 196.85616pt x 114.04738pt.
- <Figs/Ch4/tom5.png, id=2021, 577.53157pt x 334.1593pt>
-File: Figs/Ch4/tom5.png Graphic file (type png)
-
-<use Figs/Ch4/tom5.png>
-Package pdftex.def Info: Figs/Ch4/tom5.png used on input line 298.
-(pdftex.def)             Requested size: 196.85616pt x 113.90327pt.
-
-<Figs/Ch4/tom6.png, id=2022, 578.86165pt x 334.06439pt>
-File: Figs/Ch4/tom6.png Graphic file (type png)
-
-<use Figs/Ch4/tom6.png>
-Package pdftex.def Info: Figs/Ch4/tom6.png used on input line 305.
-(pdftex.def)             Requested size: 196.85616pt x 113.60587pt.
- <Figs/Ch4/tom7.png, id=2023, 578.16pt x 334.1593pt>
-File: Figs/Ch4/tom7.png Graphic file (type png)
-
-<use Figs/Ch4/tom7.png>
-Package pdftex.def Info: Figs/Ch4/tom7.png used on input line 311.
-(pdftex.def)             Requested size: 196.85616pt x 113.7758pt.
- [93 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch4/udisktomo.png> <C:/Users/
-cr458/Documents/GitHub/Thesis/Figs/Ch4/slice.png>]
-[94 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch4/tom1.png> <C:/Users/cr458/
-Documents/GitHub/Thesis/Figs/Ch4/tom2.png> <C:/Users/cr458/Documents/GitHub/The
-sis/Figs/Ch4/tom3.png> <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch4/tom5.pn
-g> <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch4/tom6.png> <C:/Users/cr458/D
-ocuments/GitHub/Thesis/Figs/Ch4/tom7.png>]
-<Figs/Ch4/membrane.png, id=2042, 770.88pt x 578.16pt>
-File: Figs/Ch4/membrane.png Graphic file (type png)
-
-<use Figs/Ch4/membrane.png>
-Package pdftex.def Info: Figs/Ch4/membrane.png used on input line 328.
-(pdftex.def)             Requested size: 218.73056pt x 164.04507pt.
-
-<Figs/Ch4/udisktomoarrowstop.png, id=2044, 400.8576pt x 344.0052pt>
-File: Figs/Ch4/udisktomoarrowstop.png Graphic file (type png)
-
-<use Figs/Ch4/udisktomoarrowstop.png>
-Package pdftex.def Info: Figs/Ch4/udisktomoarrowstop.png used on input line 338
-.
-(pdftex.def)             Requested size: 218.73056pt x 187.71269pt.
- [95 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch4/membrane.png (PNG copy)> 
-<C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch4/udisktomoarrowstop.png>]
-<Figs/Ch4/crossprod.png, id=2053, 358.16162pt x 294.3798pt>
-File: Figs/Ch4/crossprod.png Graphic file (type png)
-
-<use Figs/Ch4/crossprod.png>
-Package pdftex.def Info: Figs/Ch4/crossprod.png used on input line 355.
-(pdftex.def)             Requested size: 174.98177pt x 143.82063pt.
-
-<Figs/Ch4/roughnessangle.png, id=2055, 455.7828pt x 222.1098pt>
-File: Figs/Ch4/roughnessangle.png Graphic file (type png)
-
-<use Figs/Ch4/roughnessangle.png>
-Package pdftex.def Info: Figs/Ch4/roughnessangle.png used on input line 371.
-(pdftex.def)             Requested size: 262.47934pt x 127.9087pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[96 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch4/crossprod.png>]
-<Figs/Ch4/may2.png, id=2066, 255.354pt x 217.2918pt>
-File: Figs/Ch4/may2.png Graphic file (type png)
- <use Figs/Ch4/may2.png>
-Package pdftex.def Info: Figs/Ch4/may2.png used on input line 385.
-(pdftex.def)             Requested size: 209.97946pt x 178.68437pt.
-
-<Figs/Ch4/may1.png, id=2067, 256.7994pt x 217.2918pt>
-File: Figs/Ch4/may1.png Graphic file (type png)
- <use Figs/Ch4/may1.png>
-Package pdftex.def Info: Figs/Ch4/may1.png used on input line 392.
-(pdftex.def)             Requested size: 209.97946pt x 177.67311pt.
-
-Overfull \hbox (15.51059pt too wide) in paragraph at lines 382--395
-[]|  []|  [] 
- []
-
-[97 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch4/roughnessangle.png> <C:/Us
-ers/cr458/Documents/GitHub/Thesis/Figs/Ch4/may2.png> <C:/Users/cr458/Documents/
-GitHub/Thesis/Figs/Ch4/may1.png>]
-<Figs/Ch4/slice591.png, id=2076, 585.0658pt x 246.7619pt>
-File: Figs/Ch4/slice591.png Graphic file (type png)
-
-<use Figs/Ch4/slice591.png>
-Package pdftex.def Info: Figs/Ch4/slice591.png used on input line 409.
-(pdftex.def)             Requested size: 437.46112pt x 184.50616pt.
-
-<Figs/Ch4/RMS_back_removal.png, id=2080, 632.2822pt x 510.4671pt>
-File: Figs/Ch4/RMS_back_removal.png Graphic file (type png)
-
-<use Figs/Ch4/RMS_back_removal.png>
-Package pdftex.def Info: Figs/Ch4/RMS_back_removal.png used on input line 419.
-(pdftex.def)             Requested size: 262.47934pt x 211.91779pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[98 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch4/slice591.png>]
-<Figs/Ch4/RMScounts_nosmoothing_poly30.png, id=2088, 649.3861pt x 413.0632pt>
-File: Figs/Ch4/RMScounts_nosmoothing_poly30.png Graphic file (type png)
-
-<use Figs/Ch4/RMScounts_nosmoothing_poly30.png>
-Package pdftex.def Info: Figs/Ch4/RMScounts_nosmoothing_poly30.png used on inpu
-t line 429.
-(pdftex.def)             Requested size: 306.22144pt x 194.78261pt.
- [99 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch4/RMS_back_removal.png> <C:
-/Users/cr458/Documents/GitHub/Thesis/Figs/Ch4/RMScounts_nosmoothing_poly30.png>
-]) [100] [101]
-(C:\Users\cr458\Documents\GitHub\Thesis\Chapter5/chapter5.tex [102
-
-
-
-]
-Chapter 5.
-[103] <Figs/Ch5/nanobeamfab.png, id=2117, 809.424pt x 140.6856pt>
-File: Figs/Ch5/nanobeamfab.png Graphic file (type png)
-
-<use Figs/Ch5/nanobeamfab.png>
-Package pdftex.def Info: Figs/Ch5/nanobeamfab.png used on input line 24.
-(pdftex.def)             Requested size: 437.46112pt x 76.03563pt.
-
-<Figs/Ch5/nb.png, id=2119, 307.1475pt x 346.29375pt>
-File: Figs/Ch5/nb.png Graphic file (type png)
- <use Figs/Ch5/nb.png>
-Package pdftex.def Info: Figs/Ch5/nb.png used on input line 34.
-(pdftex.def)             Requested size: 262.47934pt x 295.95212pt.
-
-[104 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch5/nanobeamfab.png> <C:/User
-s/cr458/Documents/GitHub/Thesis/Figs/Ch5/nb.png>]
-<Figs/Ch5/brokennb.png, id=2132, 388.3308pt x 357.9774pt>
-File: Figs/Ch5/brokennb.png Graphic file (type png)
-
-<use Figs/Ch5/brokennb.png>
-Package pdftex.def Info: Figs/Ch5/brokennb.png used on input line 50.
-(pdftex.def)             Requested size: 218.73056pt x 201.62944pt.
- [105 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch5/brokennb.png>] <Figs/Ch5
-/nbcovered.png, id=2140, 309.3156pt x 284.7438pt>
-File: Figs/Ch5/nbcovered.png Graphic file (type png)
-
-<use Figs/Ch5/nbcovered.png>
-Package pdftex.def Info: Figs/Ch5/nbcovered.png used on input line 60.
-(pdftex.def)             Requested size: 174.98177pt x 161.0804pt.
- <Figs/Ch5/nb2.png, id=2143, 513.92pt x 513.92pt>
-File: Figs/Ch5/nb2.png Graphic file (type png)
-
-<use Figs/Ch5/nb2.png>
-Package pdftex.def Info: Figs/Ch5/nb2.png used on input line 72.
-(pdftex.def)             Requested size: 153.11406pt x 153.1107pt.
- <Figs/Ch5/nb1.png, id=2144, 346.4142pt x 344.0052pt>
-File: Figs/Ch5/nb1.png Graphic file (type png)
-
-<use Figs/Ch5/nb1.png>
-Package pdftex.def Info: Figs/Ch5/nb1.png used on input line 79.
-(pdftex.def)             Requested size: 153.11406pt x 152.05037pt.
-) [106 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch5/nbcovered.png> <C:/User
-s/cr458/Documents/GitHub/Thesis/Figs/Ch5/nb2.png (PNG copy)> <C:/Users/cr458/Do
-cuments/GitHub/Thesis/Figs/Ch5/nb1.png>] [107]
-(C:\Users\cr458\Documents\GitHub\Thesis\Chapter6/chapter6.tex [108
-
-
-
-]
-Chapter 6.
-
-LaTeX Warning: Reference `nwsectionintro' on page 109 undefined on input line 8
-.
-
-
-LaTeX Warning: Reference `nwsectionintro' on page 109 undefined on input line 8
-.
-
-
-Package natbib Warning: Citation `Bao2016' on page 109 undefined on input line 
-14.
-
-<Figs/Ch6/topdown.png, id=2170, 793.0428pt x 241.8636pt>
-File: Figs/Ch6/topdown.png Graphic file (type png)
-
-<use Figs/Ch6/topdown.png>
-Package pdftex.def Info: Figs/Ch6/topdown.png used on input line 17.
-(pdftex.def)             Requested size: 437.46112pt x 133.41658pt.
-
-
-Package natbib Warning: Citation `Bao2016' on page 109 undefined on input line 
-18.
-
-
-Package natbib Warning: Citation `Bao2016' on page 109 undefined on input line 
-18.
-
-[109] <Figs/Ch6/VLS.png, id=2190, 831.105pt x 266.02837pt>
-File: Figs/Ch6/VLS.png Graphic file (type png)
-
-<use Figs/Ch6/VLS.png>
-Package pdftex.def Info: Figs/Ch6/VLS.png used on input line 25.
-(pdftex.def)             Requested size: 437.46112pt x 140.02824pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[110 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch6/topdown.png
-
-pdfTeX warning: pdflatex.exe (file C:/Users/cr458/Documents/GitHub/Thesis/Figs/
-Ch6/topdown.png): large interlaced PNG might cause out of memory (use non-inter
-laced PNG to fix this)
->]
-Overfull \hbox (17.9129pt too wide) in paragraph at lines 38--39
-\T1/ptm/m/n/12 (-20) show-er-head re-ac-tor on 2 inch \T1/ptm/m/it/12 (-20) c\T
-1/ptm/m/n/12 (-20) -plane sap-phire sub-strates us-ing trimethyl-gal-lium, trim
-ethylindium,
- []
-
-[111 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch6/VLS.png>]
-<Figs/Ch6/SEM_7262_2.jpg, id=2221, 1027.84pt x 1027.84pt>
-File: Figs/Ch6/SEM_7262_2.jpg Graphic file (type jpg)
-
-<use Figs/Ch6/SEM_7262_2.jpg>
-Package pdftex.def Info: Figs/Ch6/SEM_7262_2.jpg used on input line 48.
-(pdftex.def)             Requested size: 174.98177pt x 174.98141pt.
-
-<Figs/Ch6/CL_7262_2.jpg, id=2222, 1027.84pt x 1027.84pt>
-File: Figs/Ch6/CL_7262_2.jpg Graphic file (type jpg)
-
-<use Figs/Ch6/CL_7262_2.jpg>
-Package pdftex.def Info: Figs/Ch6/CL_7262_2.jpg used on input line 55.
-(pdftex.def)             Requested size: 174.98177pt x 174.98141pt.
-
-<Figs/Ch6/SEM_7481x.jpg, id=2225, 1027.84pt x 1027.84pt>
-File: Figs/Ch6/SEM_7481x.jpg Graphic file (type jpg)
-
-<use Figs/Ch6/SEM_7481x.jpg>
-Package pdftex.def Info: Figs/Ch6/SEM_7481x.jpg used on input line 70.
-(pdftex.def)             Requested size: 174.98177pt x 174.98141pt.
-
-<Figs/Ch6/CL_7481x.jpg, id=2226, 1027.84pt x 1027.84pt>
-File: Figs/Ch6/CL_7481x.jpg Graphic file (type jpg)
-
-<use Figs/Ch6/CL_7481x.jpg>
-Package pdftex.def Info: Figs/Ch6/CL_7481x.jpg used on input line 77.
-(pdftex.def)             Requested size: 174.98177pt x 174.98141pt.
- [112 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch6/SEM_7262_2.jpg> <C:/User
-s/cr458/Documents/GitHub/Thesis/Figs/Ch6/CL_7262_2.jpg>] <Figs/Ch6/A-CL-scan.pn
-g, id=2233, 349.7868pt x 371.9496pt>
-File: Figs/Ch6/A-CL-scan.png Graphic file (type png)
-
-<use Figs/Ch6/A-CL-scan.png>
-Package pdftex.def Info: Figs/Ch6/A-CL-scan.png used on input line 90.
-(pdftex.def)             Requested size: 209.97946pt x 223.28499pt.
-
-<Figs/Ch6/CLscan.png, id=2234, 561.5379pt x 223.3143pt>
-File: Figs/Ch6/CLscan.png Graphic file (type png)
-
-<use Figs/Ch6/CLscan.png>
-Package pdftex.def Info: Figs/Ch6/CLscan.png used on input line 98.
-(pdftex.def)             Requested size: 437.46112pt x 173.96976pt.
- [113 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch6/SEM_7481x.jpg> <C:/Users
-/cr458/Documents/GitHub/Thesis/Figs/Ch6/CL_7481x.jpg> <C:/Users/cr458/Documents
-/GitHub/Thesis/Figs/Ch6/A-CL-scan.png>]
-<Figs/Ch6/CL-linescanloc.png, id=2245, 116.5956pt x 329.0694pt>
-File: Figs/Ch6/CL-linescanloc.png Graphic file (type png)
-
-<use Figs/Ch6/CL-linescanloc.png>
-Package pdftex.def Info: Figs/Ch6/CL-linescanloc.png used on input line 111.
-(pdftex.def)             Requested size: 76.55702pt x 216.06673pt.
-
-<Figs/Ch6/C6364.png, id=2246, 540.419pt x 377.3297pt>
-File: Figs/Ch6/C6364.png Graphic file (type png)
- <use Figs/Ch6/C6364.png>
-Package pdftex.def Info: Figs/Ch6/C6364.png used on input line 118.
-(pdftex.def)             Requested size: 262.47934pt x 183.26952pt.
-
-<Figs/Ch6/B-2CL-scan.png, id=2248, 368.577pt x 525.162pt>
-File: Figs/Ch6/B-2CL-scan.png Graphic file (type png)
-
-<use Figs/Ch6/B-2CL-scan.png>
-Package pdftex.def Info: Figs/Ch6/B-2CL-scan.png used on input line 130.
-(pdftex.def)             Requested size: 122.48857pt x 174.52202pt.
- [114 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch6/CLscan.png> <C:/Users/cr
-458/Documents/GitHub/Thesis/Figs/Ch6/CL-linescanloc.png> <C:/Users/cr458/Docume
-nts/GitHub/Thesis/Figs/Ch6/C6364.png>]
-<Figs/Ch6/CLscan1.png, id=2258, 567.0786pt x 148.1535pt>
-File: Figs/Ch6/CLscan1.png Graphic file (type png)
-
-<use Figs/Ch6/CLscan1.png>
-Package pdftex.def Info: Figs/Ch6/CLscan1.png used on input line 140.
-(pdftex.def)             Requested size: 437.46112pt x 114.29105pt.
-
-<Figs/Ch6/CL-linescanloc2.png, id=2263, 170.0754pt x 484.209pt>
-File: Figs/Ch6/CL-linescanloc2.png Graphic file (type png)
-
-<use Figs/Ch6/CL-linescanloc2.png>
-Package pdftex.def Info: Figs/Ch6/CL-linescanloc2.png used on input line 152.
-(pdftex.def)             Requested size: 65.61983pt x 186.8237pt.
-
-<Figs/Ch6/C6525.png, id=2264, 540.419pt x 377.3297pt>
-File: Figs/Ch6/C6525.png Graphic file (type png)
- <use Figs/Ch6/C6525.png>
-Package pdftex.def Info: Figs/Ch6/C6525.png used on input line 159.
-(pdftex.def)             Requested size: 262.47934pt x 183.26952pt.
-
-[115 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch6/B-2CL-scan.png> <C:/Users
-/cr458/Documents/GitHub/Thesis/Figs/Ch6/CLscan1.png>]
-<Figs/Ch6/Aoverview.png, id=2271, 254.8722pt x 251.9814pt>
-File: Figs/Ch6/Aoverview.png Graphic file (type png)
-
-<use Figs/Ch6/Aoverview.png>
-Package pdftex.def Info: Figs/Ch6/Aoverview.png used on input line 177.
-(pdftex.def)             Requested size: 218.73056pt x 216.2576pt.
- [116 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch6/CL-linescanloc2.png> <C:
-/Users/cr458/Documents/GitHub/Thesis/Figs/Ch6/C6525.png> <C:/Users/cr458/Docume
-nts/GitHub/Thesis/Figs/Ch6/Aoverview.png>]
-<Figs/Ch6/A1stem.png, id=2288, 170.82pt x 170.82pt>
-File: Figs/Ch6/A1stem.png Graphic file (type png)
- <use Figs/Ch6/A1stem.png>
-Package pdftex.def Info: Figs/Ch6/A1stem.png used on input line 191.
-(pdftex.def)             Requested size: 196.85616pt x 196.86372pt.
-
-<Figs/Ch6/A2stem.png, id=2289, 170.82pt x 170.82pt>
-File: Figs/Ch6/A2stem.png Graphic file (type png)
- <use Figs/Ch6/A2stem.png>
-Package pdftex.def Info: Figs/Ch6/A2stem.png used on input line 198.
-(pdftex.def)             Requested size: 196.85616pt x 196.86372pt.
-
-<Figs/Ch6/Astem4.png, id=2290, 343.5234pt x 344.487pt>
-File: Figs/Ch6/Astem4.png Graphic file (type png)
-
-<use Figs/Ch6/Astem4.png>
-Package pdftex.def Info: Figs/Ch6/Astem4.png used on input line 211.
-(pdftex.def)             Requested size: 196.85616pt x 197.4109pt.
-
-<Figs/Ch6/AvoidDF1.png, id=2291, 542.025pt x 542.5068pt>
-File: Figs/Ch6/AvoidDF1.png Graphic file (type png)
-
-<use Figs/Ch6/AvoidDF1.png>
-Package pdftex.def Info: Figs/Ch6/AvoidDF1.png used on input line 218.
-(pdftex.def)             Requested size: 196.85616pt x 197.0324pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[117 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch6/A1stem.png> <C:/Users/cr4
-58/Documents/GitHub/Thesis/Figs/Ch6/A2stem.png>]
-<Figs/Ch6/A3stem.png, id=2301, 315.579pt x 364.7226pt>
-File: Figs/Ch6/A3stem.png Graphic file (type png)
-
-<use Figs/Ch6/A3stem.png>
-Package pdftex.def Info: Figs/Ch6/A3stem.png used on input line 231.
-(pdftex.def)             Requested size: 349.97023pt x 404.48512pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<Figs/Ch6/region3.png, id=2305, 542.025pt x 551.661pt>
-File: Figs/Ch6/region3.png Graphic file (type png)
-
-<use Figs/Ch6/region3.png>
-Package pdftex.def Info: Figs/Ch6/region3.png used on input line 240.
-(pdftex.def)             Requested size: 349.97023pt x 356.20161pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[118 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch6/Astem4.png> <C:/Users/cr4
-58/Documents/GitHub/Thesis/Figs/Ch6/AvoidDF1.png>] [119 <C:/Users/cr458/Documen
-ts/GitHub/Thesis/Figs/Ch6/A3stem.png>] [120 <C:/Users/cr458/Documents/GitHub/Th
-esis/Figs/Ch6/region3.png>]
-<Figs/Ch6/Bstem1.png, id=2331, 1027.84pt x 1027.84pt>
-File: Figs/Ch6/Bstem1.png Graphic file (type png)
-
-<use Figs/Ch6/Bstem1.png>
-Package pdftex.def Info: Figs/Ch6/Bstem1.png used on input line 253.
-(pdftex.def)             Requested size: 196.85616pt x 196.8443pt.
-
-<Figs/Ch6/Bstembot.png, id=2332, 344.0052pt x 344.0052pt>
-File: Figs/Ch6/Bstembot.png Graphic file (type png)
-
-<use Figs/Ch6/Bstembot.png>
-Package pdftex.def Info: Figs/Ch6/Bstembot.png used on input line 260.
-(pdftex.def)             Requested size: 196.85616pt x 196.85661pt.
-
-<Figs/Ch6/Bstem3.png, id=2333, 542.5068pt x 542.5068pt>
-File: Figs/Ch6/Bstem3.png Graphic file (type png)
-
-<use Figs/Ch6/Bstem3.png>
-Package pdftex.def Info: Figs/Ch6/Bstem3.png used on input line 273.
-(pdftex.def)             Requested size: 196.85616pt x 196.85028pt.
-
-<Figs/Ch6/Bstem5.png, id=2334, 542.025pt x 542.5068pt>
-File: Figs/Ch6/Bstem5.png Graphic file (type png)
-
-<use Figs/Ch6/Bstem5.png>
-Package pdftex.def Info: Figs/Ch6/Bstem5.png used on input line 280.
-(pdftex.def)             Requested size: 196.85616pt x 197.0324pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[121
-
- <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch6/Bstem1.png (PNG copy)> <C:/Us
-ers/cr458/Documents/GitHub/Thesis/Figs/Ch6/Bstembot.png>] [122 <C:/Users/cr458/
-Documents/GitHub/Thesis/Figs/Ch6/Bstem3.png> <C:/Users/cr458/Documents/GitHub/T
-hesis/Figs/Ch6/Bstem5.png>]
-<Figs/Ch6/region1_016.jpg, id=2356, 589.7232pt x 542.025pt>
-File: Figs/Ch6/region1_016.jpg Graphic file (type jpg)
-
-<use Figs/Ch6/region1_016.jpg>
-Package pdftex.def Info: Figs/Ch6/region1_016.jpg used on input line 305.
-(pdftex.def)             Requested size: 209.97946pt x 192.99503pt.
-
-<Figs/Ch6/region1_017.jpg, id=2357, 594.5412pt x 542.025pt>
-File: Figs/Ch6/region1_017.jpg Graphic file (type jpg)
-
-<use Figs/Ch6/region1_017.jpg>
-Package pdftex.def Info: Figs/Ch6/region1_017.jpg used on input line 311.
-(pdftex.def)             Requested size: 209.97946pt x 191.43187pt.
-
-<Figs/Ch6/region1_018.jpg, id=2358, 610.4406pt x 542.025pt>
-File: Figs/Ch6/region1_018.jpg Graphic file (type jpg)
-
-<use Figs/Ch6/region1_018.jpg>
-Package pdftex.def Info: Figs/Ch6/region1_018.jpg used on input line 318.
-(pdftex.def)             Requested size: 209.97946pt x 186.44469pt.
-
-<Figs/Ch6/region1_023.jpg, id=2359, 589.7232pt x 542.025pt>
-File: Figs/Ch6/region1_023.jpg Graphic file (type jpg)
-
-<use Figs/Ch6/region1_023.jpg>
-Package pdftex.def Info: Figs/Ch6/region1_023.jpg used on input line 324.
-(pdftex.def)             Requested size: 209.97946pt x 192.99503pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[123] [124 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch6/region1_016.jpg> <C
-:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch6/region1_017.jpg> <C:/Users/cr458
-/Documents/GitHub/Thesis/Figs/Ch6/region1_018.jpg> <C:/Users/cr458/Documents/Gi
-tHub/Thesis/Figs/Ch6/region1_023.jpg>]
-<Figs/Ch6/abotdf.png, id=2373, 542.5068pt x 546.843pt>
-File: Figs/Ch6/abotdf.png Graphic file (type png)
-
-<use Figs/Ch6/abotdf.png>
-Package pdftex.def Info: Figs/Ch6/abotdf.png used on input line 338.
-(pdftex.def)             Requested size: 262.47934pt x 264.57603pt.
- [125
-
- <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch6/abotdf.png>] <Figs/Ch6/A-bot-
-EDX.png, id=2384, 629.35126pt x 276.53313pt>
-File: Figs/Ch6/A-bot-EDX.png Graphic file (type png)
-
-<use Figs/Ch6/A-bot-EDX.png>
-Package pdftex.def Info: Figs/Ch6/A-bot-EDX.png used on input line 349.
-(pdftex.def)             Requested size: 437.46112pt x 192.21738pt.
- [126 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch6/A-bot-EDX.png>] <Figs/Ch
-6/A-top-EDX.png, id=2404, 399.894pt x 230.7822pt>
-File: Figs/Ch6/A-top-EDX.png Graphic file (type png)
-
-<use Figs/Ch6/A-top-EDX.png>
-Package pdftex.def Info: Figs/Ch6/A-top-EDX.png used on input line 360.
-(pdftex.def)             Requested size: 437.46112pt x 252.47374pt.
- [127 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch6/A-top-EDX.png>] <Figs/Ch
-6/B-bot-EDX.png, id=2414, 410.4936pt x 235.6002pt>
-File: Figs/Ch6/B-bot-EDX.png Graphic file (type png)
-
-<use Figs/Ch6/B-bot-EDX.png>
-Package pdftex.def Info: Figs/Ch6/B-bot-EDX.png used on input line 370.
-(pdftex.def)             Requested size: 380.58904pt x 218.44803pt.
-
-<Figs/Ch6/B-top-EDX.png, id=2415, 397.0032pt x 242.3454pt>
-File: Figs/Ch6/B-top-EDX.png Graphic file (type png)
-
-<use Figs/Ch6/B-top-EDX.png>
-Package pdftex.def Info: Figs/Ch6/B-top-EDX.png used on input line 377.
-(pdftex.def)             Requested size: 380.58904pt x 232.32352pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[128 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch6/B-bot-EDX.png>]
-
-Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 387.
-See the caption package documentation for explanation.
-
-
-Overfull \hbox (17.62482pt too wide) in paragraph at lines 385--399
-[]$[]$ 
- []
-
-<Figs/Ch6/3D.png, id=2428, 319.9152pt x 278.4804pt>
-File: Figs/Ch6/3D.png Graphic file (type png)
- <use Figs/Ch6/3D.png>
-Package pdftex.def Info: Figs/Ch6/3D.png used on input line 408.
-(pdftex.def)             Requested size: 209.97946pt x 182.7863pt.
-
-<Figs/Ch6/3D2.png, id=2429, 558.85123pt x 398.02432pt>
-File: Figs/Ch6/3D2.png Graphic file (type png)
- <use Figs/Ch6/3D2.png>
-Package pdftex.def Info: Figs/Ch6/3D2.png used on input line 415.
-(pdftex.def)             Requested size: 209.97946pt x 149.55026pt.
-
-Overfull \hbox (1.84966pt too wide) in paragraph at lines 406--418
-[][]|  [] 
- []
-
-[129 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch6/B-top-EDX.png>]
-<Figs/Ch6/TessarekSi.jpg, id=2448, 491.8375pt x 422.57875pt>
-File: Figs/Ch6/TessarekSi.jpg Graphic file (type jpg)
-
-<use Figs/Ch6/TessarekSi.jpg>
-Package pdftex.def Info: Figs/Ch6/TessarekSi.jpg used on input line 428.
-(pdftex.def)             Requested size: 306.22144pt x 263.11162pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[130 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch6/3D.png> <C:/Users/cr458/D
-ocuments/GitHub/Thesis/Figs/Ch6/3D2.png>]
-<Figs/Ch6/voidsELOG.png, id=2466, 492.3996pt x 478.9092pt>
-File: Figs/Ch6/voidsELOG.png Graphic file (type png)
-
-<use Figs/Ch6/voidsELOG.png>
-Package pdftex.def Info: Figs/Ch6/voidsELOG.png used on input line 437.
-(pdftex.def)             Requested size: 306.22144pt x 297.84138pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[131 <C:/Users/cr458/Documents/GitHub/Thesis/Figs/Ch6/TessarekSi.jpg>] [132 <C:
-/Users/cr458/Documents/GitHub/Thesis/Figs/Ch6/voidsELOG.png>]) [133]
-(C:\Users\cr458\Documents\GitHub\Thesis\Chapter7/chapter7.tex [134
-
-
-
-]
-Chapter 7.
-[135] [136]) [137] (C:\Users\cr458\Documents\GitHub\Thesis\thesis.bbl [138
-
-
-]
-[139] [140]
+] [139] [140]
 Overfull \hbox (0.61902pt too wide) in paragraph at lines 154--157
 \T1/ptm/m/n/12 (-20) ``Defect-related optical transitions in GaN,'' \T1/ptm/m/i
 t/12 (-20) Physical Review B\T1/ptm/m/n/12 (-20) , vol. 54, no. 24, p. 17596,
@@ -3270,42 +1982,9 @@ pe/analysis/eds/xraygeneration/characteristic/.
  []
 
 [144] [145] [146] [147] [148] [149] [150]) [151]
-(C:\Users\cr458\Documents\GitHub\Thesis\Appendix1/appendix1.tex [152
-
-
-]
-Appendix A.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
-[153] [154]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 71.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
-File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-Package microtype Info: Loading generic settings for font family
-(microtype)             `cmtt' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-
-[155]) [156] (C:\Users\cr458\Documents\GitHub\Thesis\Appendix2/appendix2.tex
-Appendix B.
-) [157
-
-
-
-] [158
-
-
-] (C:\Users\cr458\Documents\GitHub\Thesis\thesis.ind)
-
-Package natbib Warning: There were undefined citations.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 191.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 191.
+
 (C:\Users\cr458\Documents\GitHub\Thesis\thesis.aux
 (C:\Users\cr458\Documents\GitHub\Thesis\Dedication/dedication.aux)
 (C:\Users\cr458\Documents\GitHub\Thesis\Declaration/declaration.aux)
@@ -3322,9 +2001,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 191.
 (C:\Users\cr458\Documents\GitHub\Thesis\Appendix2/appendix2.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 191.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 191.
-Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: ED423BCFFA60395BE792297D72FB8DCB;14139.
 
+
+Package rerunfilecheck Warning: File `thesis.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `thesis.out':
+(rerunfilecheck)             Before: 878F30422819B14BF9311717B23E6865;2425
+(rerunfilecheck)             After:  D6A48BEA7C4717890065A30EB392CD29;2425.
 
 LaTeX Warning: There were undefined references.
 
@@ -3333,28 +2018,33 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 27901 strings out of 493921
- 496211 string characters out of 3144876
- 532044 words of memory out of 3000000
- 29576 multiletter control sequences out of 15000+200000
- 87825 words of font info for 307 fonts, out of 3000000 for 9000
+ 26586 strings out of 493921
+ 470406 string characters out of 3144876
+ 529627 words of memory out of 3000000
+ 28863 multiletter control sequences out of 15000+200000
+ 59483 words of font info for 237 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 55i,23n,92p,10383b,1521s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\cr458\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ectt1200.pk>{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C
-:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/
-Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pro
-gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progr
-am Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Us
-ers/cr458/AppData/Roaming/MiKTeX/2.9/fonts/type1/urw/symbol/usyr.pfb><C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x8
-6)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2
-.9/fonts/type1/urw/times/utmri8a.pfb><C:/Users/cr458/AppData/Roaming/MiKTeX/2.9
-/fonts/type1/public/esvect/vect10.pfb>
-Output written on thesis.pdf (184 pages, 52065373 bytes).
+ 55i,11n,92p,10383b,1521s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{subsubsection.1.1.4.4} has been referenced but do
+es not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.1.1.4} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{chapter*.32} has been referenced but does not exist
+, replaced by a fixed one
+
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/cr458/App
+Data/Roaming/MiKTeX/2.9/fonts/type1/urw/symbol/usyr.pfb><C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9
+/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
+1/urw/times/utmri8a.pfb>
+Output written on thesis.pdf (49 pages, 12395370 bytes).
 PDF statistics:
- 2885 PDF objects out of 2984 (max. 8388607)
- 646 named destinations out of 1000 (max. 500000)
- 50678 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 743 PDF objects out of 1000 (max. 8388607)
+ 274 named destinations out of 1000 (max. 500000)
+ 29017 words of extra memory for PDF output out of 29859 (max. 10000000)
 
