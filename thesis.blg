@@ -1,4 +1,6 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: thesis.aux
+This is BibTeX, Version 0.99d (TeX Live 2015/W32TeX)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
 A level-1 auxiliary file: Dedication/dedication.aux
 A level-1 auxiliary file: Declaration/declaration.aux
 A level-1 auxiliary file: Acknowledgement/acknowledgement.aux
@@ -14,129 +16,129 @@ The style file: ieeetr.bst
 A level-1 auxiliary file: Appendix1/appendix1.aux
 A level-1 auxiliary file: Appendix2/appendix2.aux
 Database file #1: thesis.bib
-Repeated entry---line 178 of file thesis.bib
+Repeated entry---line 355 of file thesis.bib
  : @article{Arafin2013
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 438 of file thesis.bib
+Repeated entry---line 875 of file thesis.bib
  : @article{Bergbauer2010
  :                       ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 642 of file thesis.bib
+Repeated entry---line 1279 of file thesis.bib
  : @article{Cheze2010
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 725 of file thesis.bib
+Repeated entry---line 1449 of file thesis.bib
  : @incollection{Chen2015
  :                       ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 741 of file thesis.bib
+Repeated entry---line 1481 of file thesis.bib
  : @article{Chen2010
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 769 of file thesis.bib
+Repeated entry---line 1537 of file thesis.bib
  : @article{Cherns2000
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 798 of file thesis.bib
+Repeated entry---line 1595 of file thesis.bib
  : @article{Cheze2010
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 827 of file thesis.bib
+Repeated entry---line 1653 of file thesis.bib
  : @article{Cheze2010
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1074 of file thesis.bib
+Repeated entry---line 2185 of file thesis.bib
  : @article{Das2011
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1244 of file thesis.bib
+Repeated entry---line 2525 of file thesis.bib
  : @article{Deshpande2013b
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1294 of file thesis.bib
+Repeated entry---line 2621 of file thesis.bib
  : @article{Dhara2010
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1313 of file thesis.bib
+Repeated entry---line 2655 of file thesis.bib
  : @article{Dhara2010
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1330 of file thesis.bib
+Repeated entry---line 2693 of file thesis.bib
  : @article{Dhara2010
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1433 of file thesis.bib
+Repeated entry---line 2903 of file thesis.bib
  : @article{Duan2000
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1452 of file thesis.bib
+Repeated entry---line 2941 of file thesis.bib
  : @article{Duan2000
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2046 of file thesis.bib
+Repeated entry---line 4133 of file thesis.bib
  : @article{Hersee2006
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2128 of file thesis.bib
+Repeated entry---line 4293 of file thesis.bib
  : @article{Holmes2014
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2203 of file thesis.bib
+Repeated entry---line 4439 of file thesis.bib
  : @article{Hou2011
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2220 of file thesis.bib
+Repeated entry---line 4473 of file thesis.bib
  : @article{Hou2011
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2496 of file thesis.bib
+Repeated entry---line 5029 of file thesis.bib
  : @article{Johnson2002
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3114 of file thesis.bib
+Repeated entry---line 6269 of file thesis.bib
  : @article{Lorensen1987
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3746 of file thesis.bib
+Repeated entry---line 7559 of file thesis.bib
  : @article{Nogues2014
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3918 of file thesis.bib
+Repeated entry---line 7903 of file thesis.bib
  : @article{Oliver2008
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 4164 of file thesis.bib
+Repeated entry---line 8451 of file thesis.bib
  : @article{Qian2008
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 4198 of file thesis.bib
+Repeated entry---line 8519 of file thesis.bib
  : @article{Quan2014
  :                  ,
 I'm skipping whatever remains of this entry
 Warning--entry type for "Rasband1997-2016" isn't style-file defined
---line 4295 of file thesis.bib
-Repeated entry---line 4407 of file thesis.bib
+--line 8713 of file thesis.bib
+Repeated entry---line 8937 of file thesis.bib
  : @article{Ren2015
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5509 of file thesis.bib
+Repeated entry---line 11141 of file thesis.bib
  : @article{Tessarek2013
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5574 of file thesis.bib
+Repeated entry---line 11271 of file thesis.bib
  : @article{Tessarek2014a
  :                       ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5793 of file thesis.bib
+Repeated entry---line 11709 of file thesis.bib
  : @article{Vickers2003
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5926 of file thesis.bib
+Repeated entry---line 11975 of file thesis.bib
  : @article{Wallace2015
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6538 of file thesis.bib
+Repeated entry---line 13199 of file thesis.bib
  : @article{Zhao2015
  :                  ,
 I'm skipping whatever remains of this entry
@@ -145,4 +147,47 @@ Warning--I didn't find a database entry for "Joy2006"
 Warning--I didn't find a database entry for "Bao2016"
 Warning--empty booktitle in Penczek2010
 Warning--empty publisher in Penczek2010
+Warning--empty journal in Pena
+Warning--empty year in Pena
+You've used 172 entries,
+            1876 wiz_defined-function locations,
+            1555 strings with 39842 characters,
+and the built_in function-call counts, 56155 in all, are:
+= -- 5477
+> -- 2884
+< -- 0
++ -- 1029
+- -- 857
+* -- 4384
+:= -- 8101
+add.period$ -- 183
+call.type$ -- 172
+change.case$ -- 161
+chr.to.int$ -- 0
+cite$ -- 176
+duplicate$ -- 2733
+empty$ -- 4494
+format.name$ -- 857
+if$ -- 13450
+int.to.chr$ -- 0
+int.to.str$ -- 172
+missing$ -- 170
+newline$ -- 531
+num.names$ -- 171
+pop$ -- 306
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 2168
+stack$ -- 0
+substring$ -- 3791
+swap$ -- 1392
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 4
+while$ -- 518
+width$ -- 175
+write$ -- 1798
 (There were 31 error messages)
