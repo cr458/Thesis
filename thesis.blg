@@ -24,7 +24,7 @@ Repeated entry---line 875 of file thesis.bib
  : @article{Bergbauer2010
  :                       ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1279 of file thesis.bib
+Repeated entry---line 1283 of file thesis.bib
  : @article{Cheze2010
  :                   ,
 I'm skipping whatever remains of this entry
@@ -56,15 +56,15 @@ Repeated entry---line 2525 of file thesis.bib
  : @article{Deshpande2013b
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2621 of file thesis.bib
+Repeated entry---line 2625 of file thesis.bib
  : @article{Dhara2010
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2655 of file thesis.bib
+Repeated entry---line 2663 of file thesis.bib
  : @article{Dhara2010
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 2693 of file thesis.bib
+Repeated entry---line 2697 of file thesis.bib
  : @article{Dhara2010
  :                   ,
 I'm skipping whatever remains of this entry
@@ -76,7 +76,7 @@ Repeated entry---line 2941 of file thesis.bib
  : @article{Duan2000
  :                  ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 4133 of file thesis.bib
+Repeated entry---line 4129 of file thesis.bib
  : @article{Hersee2006
  :                    ,
 I'm skipping whatever remains of this entry
@@ -84,11 +84,11 @@ Repeated entry---line 4293 of file thesis.bib
  : @article{Holmes2014
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 4439 of file thesis.bib
+Repeated entry---line 4443 of file thesis.bib
  : @article{Hou2011
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 4473 of file thesis.bib
+Repeated entry---line 4477 of file thesis.bib
  : @article{Hou2011
  :                 ,
 I'm skipping whatever remains of this entry
@@ -96,7 +96,7 @@ Repeated entry---line 5029 of file thesis.bib
  : @article{Johnson2002
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6269 of file thesis.bib
+Repeated entry---line 6265 of file thesis.bib
  : @article{Lorensen1987
  :                      ,
 I'm skipping whatever remains of this entry
@@ -122,23 +122,23 @@ Repeated entry---line 8937 of file thesis.bib
  : @article{Ren2015
  :                 ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 11141 of file thesis.bib
+Repeated entry---line 11181 of file thesis.bib
  : @article{Tessarek2013
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 11271 of file thesis.bib
+Repeated entry---line 11311 of file thesis.bib
  : @article{Tessarek2014a
  :                       ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 11709 of file thesis.bib
+Repeated entry---line 11749 of file thesis.bib
  : @article{Vickers2003
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 11975 of file thesis.bib
+Repeated entry---line 12015 of file thesis.bib
  : @article{Wallace2015
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 13199 of file thesis.bib
+Repeated entry---line 13239 of file thesis.bib
  : @article{Zhao2015
  :                  ,
 I'm skipping whatever remains of this entry
@@ -149,45 +149,45 @@ Warning--empty booktitle in Penczek2010
 Warning--empty publisher in Penczek2010
 Warning--empty journal in Pena
 Warning--empty year in Pena
-You've used 172 entries,
+You've used 173 entries,
             1876 wiz_defined-function locations,
-            1555 strings with 39842 characters,
-and the built_in function-call counts, 56155 in all, are:
-= -- 5477
-> -- 2884
+            1561 strings with 40097 characters,
+and the built_in function-call counts, 56577 in all, are:
+= -- 5520
+> -- 2904
 < -- 0
-+ -- 1029
-- -- 857
-* -- 4384
-:= -- 8101
-add.period$ -- 183
-call.type$ -- 172
-change.case$ -- 161
++ -- 1036
+- -- 863
+* -- 4418
+:= -- 8159
+add.period$ -- 184
+call.type$ -- 173
+change.case$ -- 162
 chr.to.int$ -- 0
-cite$ -- 176
-duplicate$ -- 2733
-empty$ -- 4494
-format.name$ -- 857
-if$ -- 13450
+cite$ -- 177
+duplicate$ -- 2752
+empty$ -- 4527
+format.name$ -- 863
+if$ -- 13551
 int.to.chr$ -- 0
-int.to.str$ -- 172
-missing$ -- 170
-newline$ -- 531
-num.names$ -- 171
-pop$ -- 306
+int.to.str$ -- 173
+missing$ -- 171
+newline$ -- 534
+num.names$ -- 172
+pop$ -- 307
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 2168
+skip$ -- 2185
 stack$ -- 0
-substring$ -- 3791
-swap$ -- 1392
+substring$ -- 3831
+swap$ -- 1403
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 4
-while$ -- 518
-width$ -- 175
-write$ -- 1798
+while$ -- 522
+width$ -- 176
+write$ -- 1809
 (There were 31 error messages)

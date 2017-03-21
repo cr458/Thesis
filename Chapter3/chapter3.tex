@@ -514,6 +514,25 @@ Fig.\ref{shallowres} shows the simulation results. Fig.\ref{shallow_big}. shows 
 \end{figure}
 \FloatBarrier 
 
+In order to reconcile the results of the simulations with the EL data, we must consider that the EL data is extracted light from the LED, rather than the emitted light.. The simulated emission pattern suggests enhanced radiative recombination within approximately 5 $\mu$m of the hexagonal defect, however the hyperspectral EL data suggests a circular area of enhanced emission, as shown in Fig.\ref{peak5610}. Considering the critical angle for the light extraction from the surface of the LED due to Snell's law as shown in Fig.\ref{extraction}:
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.6\textwidth]{Figs/Ch3/lightextraction}
+	\caption[h] {Critical angle for an air/GaN interface \cite{Son2012}.}
+	\label{extraction}
+\end{figure}
+\FloatBarrier
+
+We can see the extracted light is in fact a convolution of multiple light escape cones, as such despite the lack of emission from the hexagonal defect itself, we expect the EL data to appear as a singular bright area rather than a hollow area as depicted by the APSYS simulations. This is shown schematically in Fig.\ref{top-view}.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.9\textwidth]{Figs/Ch3/top-view}
+	\caption[h] {Left: actual emission pattern surrounding the defect due to enhanced carrier injection. Right: Top-view of the emission: the hollow morphology is lost due to the convolution of multiple light escape cones surrounding the defect.}
+	\label{top-view}
+\end{figure}
+\FloatBarrier  
 
 \subsection{Origin of the Defect}
 In the previous sections we have established the cause of the inhomogeneous EL to be the presence of large hexagonal defects. However, it is also important to establish the origin of these hexagonal defects, as their elimination is the key to the production of LEDs with uniform emission, unlike those studied here.

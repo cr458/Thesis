@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.8.26)  20 MAR 2017 18:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/W32TeX) (preloaded format=pdflatex 2015.8.26)  21 MAR 2017 10:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1954,37 +1954,55 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [80
 
  <./Figs/Ch3/shallowelec.png>]
-<Figs/Ch3/TEMspot.png, id=442, 148.3944pt x 469.2732pt>
+<Figs/Ch3/lightextraction.png, id=442, 605.26125pt x 350.81062pt>
+File: Figs/Ch3/lightextraction.png Graphic file (type png)
+
+<use Figs/Ch3/lightextraction.png>
+Package pdftex.def Info: Figs/Ch3/lightextraction.png used on input line 521.
+(pdftex.def)             Requested size: 262.47934pt x 152.13568pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[81 <./Figs/Ch3/shallowhole.png>]
+<Figs/Ch3/top-view.png, id=452, 942.52126pt x 408.77719pt>
+File: Figs/Ch3/top-view.png Graphic file (type png)
+
+<use Figs/Ch3/top-view.png>
+Package pdftex.def Info: Figs/Ch3/top-view.png used on input line 531.
+(pdftex.def)             Requested size: 393.71233pt x 170.75586pt.
+ [82 <./Figs/Ch3/lightextraction.png> <./Figs/Ch3/top-view.png>] <Figs/Ch3/TEMs
+pot.png, id=463, 148.3944pt x 469.2732pt>
 File: Figs/Ch3/TEMspot.png Graphic file (type png)
 
 <use Figs/Ch3/TEMspot.png>
-Package pdftex.def Info: Figs/Ch3/TEMspot.png used on input line 527.
+Package pdftex.def Info: Figs/Ch3/TEMspot.png used on input line 546.
 (pdftex.def)             Requested size: 174.98177pt x 553.35806pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[81 <./Figs/Ch3/shallowhole.png>] [82 <./Figs/Ch3/TEMspot.png>]
-<Figs/Ch3/WBDF-yall.png, id=461, 693.792pt x 304.4976pt>
+[83] [84 <./Figs/Ch3/TEMspot.png>]
+<Figs/Ch3/WBDF-yall.png, id=482, 693.792pt x 304.4976pt>
 File: Figs/Ch3/WBDF-yall.png Graphic file (type png)
 
 <use Figs/Ch3/WBDF-yall.png>
-Package pdftex.def Info: Figs/Ch3/WBDF-yall.png used on input line 536.
+Package pdftex.def Info: Figs/Ch3/WBDF-yall.png used on input line 555.
 (pdftex.def)             Requested size: 437.46112pt x 191.99712pt.
 
-<Figs/Ch3/Datta.png, id=467, 508.90125pt x 347.79938pt>
+<Figs/Ch3/Datta.png, id=488, 508.90125pt x 347.79938pt>
 File: Figs/Ch3/Datta.png Graphic file (type png)
 
 <use Figs/Ch3/Datta.png>
-Package pdftex.def Info: Figs/Ch3/Datta.png used on input line 547.
+Package pdftex.def Info: Figs/Ch3/Datta.png used on input line 566.
 (pdftex.def)             Requested size: 437.46112pt x 298.98488pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[83
+[85
 
- <./Figs/Ch3/WBDF-yall.png>] [84 <./Figs/Ch3/Datta.png>]) [85] (./thesis.bbl [1
+ <./Figs/Ch3/WBDF-yall.png>] [86 <./Figs/Ch3/Datta.png>]) [87] (./thesis.bbl [1
 38
 
 
@@ -2017,7 +2035,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 191.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 191.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 191.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 2C3DC9C760D60F5157B4BA05D7A9B4E6;2412.
+(rerunfilecheck)             Checksum: 92589C2295C47235EE3B2ADD42E5D22A;2412.
 
 
 LaTeX Warning: There were undefined references.
@@ -2027,13 +2045,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 25988 strings out of 493091
- 455627 string characters out of 6138531
- 525241 words of memory out of 5000000
- 28460 multiletter control sequences out of 15000+600000
+ 26008 strings out of 493091
+ 456019 string characters out of 6138531
+ 525330 words of memory out of 5000000
+ 28473 multiletter control sequences out of 15000+600000
  59483 words of font info for 237 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,11n,92p,10385b,1564s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,11n,92p,10385b,1568s stack positions out of 5000i,500n,10000p,200000b,80000s
 pdfTeX warning (dest): name{subsubsection.1.1.4.4} has been referenced but do
 es not exist, replaced by a fixed one
 
@@ -2047,10 +2065,10 @@ blic/amsfonts/cm/cmsy10.pfb><c:/texlive/2015/texmf-dist/fonts/type1/urw/symbol/
 usyr.pfb><c:/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texli
 ve/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2015/texmf-dist
 /fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (54 pages, 12491418 bytes).
+Output written on thesis.pdf (56 pages, 12735965 bytes).
 PDF statistics:
- 802 PDF objects out of 1000 (max. 8388607)
- 633 compressed objects within 7 object streams
- 284 named destinations out of 1000 (max. 500000)
- 29037 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 825 PDF objects out of 1000 (max. 8388607)
+ 649 compressed objects within 7 object streams
+ 289 named destinations out of 1000 (max. 500000)
+ 29047 words of extra memory for PDF output out of 29859 (max. 10000000)
 

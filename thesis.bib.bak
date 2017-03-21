@@ -4054,6 +4054,24 @@ and Karakostas, Theodoros},
   Timestamp                = {2017.03.16}
 }
 
+@Article{Pal2011,
+  Title                    = {{Second-order piezoelectricity in wurtzite III-N semiconductors}},
+  Author                   = {Pal, Joydeep and Tse, Geoffrey and Haxha, Vesel and Migliorato, Max A. and Tomi{\'{c}}, Stanko},
+  Journal                  = {Physical Review B - Condensed Matter and Materials Physics},
+  Year                     = {2011},
+  Number                   = {8},
+  Pages                    = {1--7},
+  Volume                   = {84},
+
+  Abstract                 = {First- and second-order piezoelectric coefficients for all binary group-III nitride (III-N)wurtzite semiconductors are calculated using ab initio density functional theory. The method used allows the simultaneous determination of spontaneous and strain-induced polarization within the same framework. Although the linear coefficients are similar to all existing values reported in the literature, all spontaneous polarization terms are substantially smaller than the currently proposed values. Second-order coefficients also change the total strain-induced polarization significantly. We compare the predictions obtained using these coefficients with data in superlattice structures comprising binary nitride semiconductors and by including composition dependence with all available experimental data on III-N ternary alloys. We show that, unlike existing models, our calculated piezoelectric coefficients and nonlinear model provide a close match to the internal piezoelectric fields of quantum well and superlattice structures.},
+  Doi                      = {10.1103/PhysRevB.84.085211},
+  File                     = {:C$\backslash$:/Users/Christopher Ren/Desktop/PhysRevB.84.085211.pdf:pdf},
+  ISBN                     = {1098-0121},
+  ISSN                     = {10980121},
+  Owner                    = {Christopher Ren},
+  Timestamp                = {2017.03.20}
+}
+
 @Article{Edwards2012,
   Title                    = {{High-resolution cathodoluminescence hyperspectral imaging of nitride nanostructures}},
   Author                   = {{Paul R. Edwards, Lethy Krishnan Jagadamma, Jochen Bruckbauer}, Chaowang Liu and {Philip Shields, Duncan Allsopp, Tao Wang}, Robert W. Martin},
